@@ -3,6 +3,8 @@
 
 This is a toolchain to compile images for Infomir IPTV STBs - MAG and Aura HD. It is improved version of SDK done by Infomir corporation, manufacturer of set-top-boxes.
 
+The toolchain is a part of **MAG Software Portal** project, which also includes ready-made custom firmware and wiki for Operators.
+
 ## Functions of toolchain
 * Compile / prepare following parts of firmware:
   * root file system,
