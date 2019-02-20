@@ -1,0 +1,2 @@
+bg_color=0x00000000
+fg_color=0x00787878

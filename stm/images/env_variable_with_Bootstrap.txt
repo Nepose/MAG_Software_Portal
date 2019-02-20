@@ -1,0 +1,6 @@
+mtdparts=mtdparts=nand:4M(Kernel),108M(RootFs),-(Bootstrap)
+mtdids=nand0=nand
+partition=nand0,0
+addmisc=setenv bootargs \${bootargs} \${mtdparts} console=\${console},\${baudrate}
+flash_bt=run flashargs addmisc; setenv partition nand0,2; fsload 0x84000000 Bootstrap; bootm; run net
+

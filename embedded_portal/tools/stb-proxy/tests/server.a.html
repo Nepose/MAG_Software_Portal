@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+<head>
+	<title>server.a</title>
+	<script type="text/javascript" src="http://192.168.1.71:8800/file/server.js"></script>
+	<script type="text/javascript">
+		var name  = document.title,
+			proxy = new proxyServer();
+
+		window.onload = function(){
+			document.body.innerHTML = name;
+
+			proxy.init({name:'a', host:'192.168.1.71'});
+		};
+	</script>
+</head>
+<body>
+
+</body>
+</html>

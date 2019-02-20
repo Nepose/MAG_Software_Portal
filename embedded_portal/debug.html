@@ -1,0 +1,160 @@
+<!doctype html>
+<html>
+<head>
+	<title>Debug entry point</title>
+	<meta charset='utf-8'>
+	<link rel="shortcut icon" href="system/settings/img/576/ico_settings_blue.png"/>
+	<!--<link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.2.1/pure-min.css">-->
+
+	<style type="text/css">
+		* { padding:0; margin:0; font-family:Verdana,sans-serif; }
+
+		html, body { height: 100%; background:#000; color:#fff; font-size:20px }
+
+		/* table cell spacing/padding reset */
+		table { border:0; border-collapse:collapse }
+		table td { padding:0 }
+
+		/* meta-classes */
+		.maxh { height:100% }
+		.maxw { width:100% }
+		a { text-decoration:none }
+
+		.header { height:20px; background-color:#222; border-bottom:1px solid #333; padding:10px }
+		.footer { height:5px; background-color:#111; border-top:1px solid #333; }
+
+		.list { margin: 0 auto; cursor:default; border:2px solid #333; }
+		.list .text, .list .link { padding:5px 15px; border:1px solid #222; }
+		.list .link { width:80px; text-align:center }
+		.list .text { text-align:left }
+		.list .text { padding-left:100px }
+
+		.list .text.home  { background:url('system/img/1280/loader/home.png') 15px center no-repeat }
+		.list .text.sett  { background:url('system/img/1280/loader/settings.png') 15px center no-repeat }
+		.list .text.vkb   { background:url('public/img/1280/menu/icons/def.png') 0 center no-repeat }
+		.list .text.load  { background:url('system/img/1280/loader/net.png') 15px center no-repeat }
+		.list .text.dlman { background:url('public/img/1280/menu/icons/dm.png') 0 4px no-repeat }
+		.list .text.pvr   { background:url('public/img/1280/menu/icons/pvr.png') 0 5px no-repeat }
+		.list .text.web   { background:url('public/img/1280/menu/icons/web.png') 0 5px no-repeat }
+		.list .text.favs  { background:url('public/img/1280/menu/icons/favs.png') 0 5px no-repeat }
+		.list .text.help   { background:url('public/img/1280/menu/icons/manual.png') 0px 10px no-repeat }
+		.list tr { height:80px }
+		.list tr:hover { background-color:#111; }
+		.list .link:hover { background-color:#8b7f0c; color:#000; font-weight:bold; cursor:pointer }
+
+		table.options td.name { font-size:14px; color:grey }
+		table.options td.data { padding:0 20px 0 5px; }
+		table.options td.data input[type="text"] { border:none; margin:0; padding:0 5px; height:25px }
+	</style>
+
+	<script type="text/javascript">
+		function openUrl ( url, width, height ) {
+			window.open(
+				url + (url.indexOf('?') === -1 ? '?' : '&') + 'width=' + width + '&height=' + height,
+				'_blank',
+				'menubar=0,location=0,resizable=0,scrollbars=0,status=0,titlebar=0,left=0,top=0,width=' + width + ',height=' + height
+			);
+		}
+
+		var fldServerAddress, fldSessionName;
+		window.onload = function () {
+			fldServerAddress = document.getElementById('fldServerAddress');
+			fldSessionName   = document.getElementById('fldSessionName');
+
+			fldServerAddress.value = localStorage.getItem('DEBUG_SERVER');
+			fldSessionName.value = localStorage.getItem('DEBUG_NAME');
+
+			fldServerAddress.onchange = function(){
+				localStorage.setItem('DEBUG_SERVER', this.value);
+			};
+			fldSessionName.onchange = function(){
+				localStorage.setItem('DEBUG_NAME', this.value);
+			};
+		};
+	</script>
+</head>
+<body>
+	<table class="maxh maxw">
+		<tr>
+			<td class="header">
+				<table class="options">
+					<tr>
+						<td class="name">Proxy server address:</td>
+						<td class="data"><input type="text" style="width:150px;vertical-align:top" id="fldServerAddress"></td>
+
+						<td class="name">Session name:</td>
+						<td class="data"><input type="text" style="width:100px;vertical-align:top" id="fldSessionName"></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<table class="list">
+					<tr>
+						<td class="text home">Service page</td>
+						<td class="link" onclick="openUrl('services.html', 1920, 1080)">1080p</td>
+						<td class="link" onclick="openUrl('services.html', 1280,  720)">720p</td>
+						<td class="link" onclick="openUrl('services.html', 720,   576)">PAL</td>
+						<td class="link" onclick="openUrl('services.html', 720,   480)">NTSC</td>
+					</tr>
+					<tr>
+						<td class="text sett">System settings</td>
+						<td class="link" onclick="openUrl('system/settings/index.html', 1920, 1080)">1080p</td>
+						<td class="link" onclick="openUrl('system/settings/index.html', 1280,  720)">720p</td>
+						<td class="link" onclick="openUrl('system/settings/index.html', 720,   576)">PAL</td>
+						<td class="link" onclick="openUrl('system/settings/index.html', 720,   480)">NTSC</td>
+					</tr>
+					<tr>
+						<td class="text load">Portal loader</td>
+						<td class="link" onclick="openUrl('system/pages/loader/index.html', 1920, 1080)">1080p</td>
+						<td class="link" onclick="openUrl('system/pages/loader/index.html', 1280,  720)">720p</td>
+						<td class="link" onclick="openUrl('system/pages/loader/index.html', 720,   576)">PAL</td>
+						<td class="link" onclick="openUrl('system/pages/loader/index.html', 720,   480)">NTSC</td>
+					</tr>
+					<tr>
+						<td class="text dlman">Download manager</td>
+						<td class="link" onclick="openUrl('public/app/dlman/index.html', 1920, 1080)">1080p</td>
+						<td class="link" onclick="openUrl('public/app/dlman/index.html', 1280,  720)">720p</td>
+						<td class="link" onclick="openUrl('public/app/dlman/index.html', 720,   576)">PAL</td>
+						<td class="link" onclick="openUrl('public/app/dlman/index.html', 720,   480)">NTSC</td>
+					</tr>
+					<tr>
+						<td class="text pvr">Record manager</td>
+						<td class="link" onclick="openUrl('public/app/pvr/index.html', 1920, 1080)">1080p</td>
+						<td class="link" onclick="openUrl('public/app/pvr/index.html', 1280,  720)">720p</td>
+						<td class="link" onclick="openUrl('public/app/pvr/index.html', 720,   576)">PAL</td>
+						<td class="link" onclick="openUrl('public/app/pvr/index.html', 720,   480)">NTSC</td>
+					</tr>
+					<tr>
+						<td class="text web">Internet browser</td>
+						<td class="link" onclick="openUrl('public/app/ibman/index.html?mode=2', 1920, 1080)">1080p</td>
+						<td class="link" onclick="openUrl('public/app/ibman/index.html?mode=2', 1280,  720)">720p</td>
+						<td class="link" onclick="openUrl('public/app/ibman/index.html?mode=2', 720,   576)">PAL</td>
+						<td class="link" onclick="openUrl('public/app/ibman/index.html?mode=2', 720,   480)">NTSC</td>
+					</tr>
+					<tr>
+						<td class="text favs">Internet bookmarks</td>
+						<td class="link" onclick="openUrl('public/app/ibman/index.html?mode=1', 1920, 1080)">1080p</td>
+						<td class="link" onclick="openUrl('public/app/ibman/index.html?mode=1', 1280,  720)">720p</td>
+						<td class="link" onclick="openUrl('public/app/ibman/index.html?mode=1', 720,   576)">PAL</td>
+						<td class="link" onclick="openUrl('public/app/ibman/index.html?mode=1', 720,   480)">NTSC</td>
+					</tr>
+					<tr>
+						<td class="text help">Help</td>
+						<td class="link" onclick="openUrl('public/app/help/index.html', 1920, 1080)">1080p</td>
+						<td class="link" onclick="openUrl('public/app/help/index.html', 1280,  720)">720p</td>
+						<td class="link" onclick="openUrl('public/app/help/index.html', 720,   576)">PAL</td>
+						<td class="link" onclick="openUrl('public/app/help/index.html', 720,   480)">NTSC</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<!--<tr>
+			<td class="footer">
+				footer
+			</td>
+		</tr>-->
+	</table>
+</body>
+</html>

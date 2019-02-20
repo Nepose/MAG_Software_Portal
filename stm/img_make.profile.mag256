@@ -1,0 +1,29 @@
+#    Root file system path
+export ROOTFS_PATH=../rootfs/256
+
+#    Kernel's file system
+export KERNEL_PATH=./uImzlib_mag256.img
+
+#    File name for enviroment variable
+#export ENV_VARIABLE_PATH=./images/env_mag256.txt
+
+#    Userfs
+#export USERFS_VERSION=1
+#export USERFS_PATH=./images/userfs_ubi.img
+
+#    File name for SecondBoot
+#export SECONDBOOT_PATH=./images/second-u-boot.bin-mag256v2-v003
+
+#    File name for Logotype
+#export LOGOTYPE_PATH=./images/logo-720.bmp.gz
+
+#    Key signing
+export MAG200_OP_KEY=STB_PUBLIC
+
+#By default XXX_FS_TYPE is jffs2
+#Can be jffs2,ubi,raw(for kernel only),ext4
+export KERNEL_FS_TYPE=ubi
+export ROOTFS_FS_TYPE=ubi
+
+#    SHA256 is required value for MAG 256
+export HASH_TYPE=SHA256

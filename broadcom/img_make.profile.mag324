@@ -1,0 +1,31 @@
+#    Root file system path
+export ROOTFS_PATH=../rootfs/324
+
+#    Kernel's file system
+export KERNEL_PATH=./uImzlib_mag324.img
+
+#    File name for enviroment variable
+export ENV_VARIABLE_PATH=./images/env_mag324.txt
+
+#    Userfs
+export USERFS_VERSION=1
+#export USERFS_PATH=./images/userfs_mag324.img
+
+#    File name for Logotype
+export LOGOTYPE_PATH=./images/logo.bmp.gz
+
+#    File of image output
+export IMAGE_OUTPUT=./imageupdate_mag324
+
+#    User ID of key signing
+export MAG200_OP_KEY=STB_PUBLIC
+
+#By default XXX_FS_TYPE is jffs2
+#Can be jffs2,ubi,raw(for kernel only),ext4
+export KERNEL_FS_TYPE=raw
+export ROOTFS_FS_TYPE=ubi
+export ROOTFS_FS_UBI_LEBS=896
+export ROOTFS_FS_UBI_LEB_SIZE=253952
+export ROOTFS_FS_UBI_PAGE=4096
+
+export HASH_TYPE=SHA256

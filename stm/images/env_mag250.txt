@@ -1,0 +1,4 @@
+bg_color=0x00006498
+fg_color=0x00FFFFFF
+language=en
+ntpurl=pool.ntp.org

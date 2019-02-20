@@ -1,0 +1,12 @@
+mtdparts=mtdparts=nand:3M(Kernel),60M(RootFs),3M(Kernel2),60M(RootFs2),-(Userfs)
+mtdids=nand0=nand
+partition=nand0,0
+addmisc=setenv bootargs \${bootargs} \${mtdparts} console=\${console},\${baudrate}
+flash_bt=run flashargs addmisc; setenv partition nand0,3; fsload 0x84000000 Bootstrap; bootm; run net
+flashargs2=setenv bootargs \${ethinit},hwaddr:\${ethaddr} root=/dev/mtdblock7 rootfstype=jffs2 \${mem}  ip=none
+flash_self2=run flashargs2 addmisc; setenv partition nand0,2; fsload \${kernel}; bootm; run net
+
+bg_color=0x00006498
+fg_color=0x00FFFFFF
+language=en
+ntpurl=pool.ntp.org
