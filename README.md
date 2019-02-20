@@ -19,17 +19,17 @@ The toolchain is a part of **MAG Software Portal** project, which also includes 
 
 The toolchain doesn't support MAG 424/425 STBs. The toolchain is available **only for Linux** (bash is necessary, recommended Debian-based system).
 
-According to official Infomir wiki page about STB SDK:
-*Operator utilities allow to make three different variants of STB software image:
+According to [official Infomir wiki page about their SDK][InfomirLinkPage]:
+_Operator utilities allow to make three different variants of STB software image:
 
- - PublicImage - image which is signed with standard “public key” - STB_PUBLIC.
-Updating variants: Starting from 0.2.14-r8 updates via HTTP or USB from portal to manufacturer STB software version only, (STB software versions that were assembled directly by the manufacturer and provided for automatic and manual updates located by manufacturer's URL).
+_- **PublicImage** - image which is signed with standard “public key” - STB_PUBLIC.
+_Updating variants: Starting from 0.2.14-r8 updates via HTTP or USB from portal to manufacturer STB software version only, _(STB software versions that were assembled directly by the manufacturer and provided for automatic and manual updates located by manufacturer's URL).
+_From Booloader menu can be updated on PublicImage or CustomImage (transitional version) via Multicast/USB with bootstrap/TFTP
+_ - **CustomImage** - image which is signed with “custom-key”. This key is created by operator without manufacturer.
+_Updating variants: Updates via HTTP or USB from portal on STB software versions that are signed by the same key (custom-key). It is used if there is a need in STB update from portal (HTTP or USB update method).
 From Booloader menu can be updated on PublicImage or CustomImage (transitional version) via Multicast/USB with bootstrap/TFTP
- - CustomImage - image which is signed with “custom-key”. This key is created by operator without manufacturer.
-Updating variants: Updates via HTTP or USB from portal on STB software versions that are signed by the same key (custom-key). It is used if there is a need in STB update from portal (HTTP or USB update method).
-From Booloader menu can be updated on PublicImage or CustomImage (transitional version) via Multicast/USB with bootstrap/TFTP
- - OperatorImage - image which is signed with “operator key”. “Operator key” should be signed by manufacturer.
-Updating variants: Updates on STB software versions which are signed by “operators key" only.*
+ - **OperatorImage** - image which is signed with “operator key”. “Operator key” should be **signed by manufacturer**.
+_Updating variants: Updates on STB software versions which are signed by “operators key" only._
 
 Utilities with my modification work exactly like the official ones, but also contain some add-ons like:
  - verification if the requirements of operator utilities are done properly. The requirements are:
@@ -57,4 +57,20 @@ Again referring to the official Infomir guide for easier comparing my utilities 
    - `IMAGE_OUTPUT` -> specify name of imageupdate other than default if you want.
 
 4. **Imageupdate preparing**
+   Syntax of command:
+   `./img_make.sh [-v <image version>] [-d <image description>] [-s <STB model>] [-p <link to image profile>]`.
+   Options for command:
+   - **-v** is responsible for image version. You can specify version either with this option or by `IMAGE_VERSION` property in configuration file.
+   - **-d** is responsible for image description. As upper, either it or `IMAGE_DESCRIPTION` property in image profile.
+   - **-s** is responsible for STB model. As upper, either it or `STB_MODEL` property in image profile.
+   - **-p** is responsible for path to image profile. If this option is not declared:
+   	- if `./img_make.profile` file exists, it is used as default profile,
+	- if `./img_make.profile` file doesn't exists, you will be prompted to declare path to image profile. You can leave it empty when you want.
+	
+	To compare with official operator utilities, this is the example taken [from Infomir wiki page][InfomirWikiPage]:
+	`./img_make.sh 218 "Test_my_version" ../../254/rootfs-0.2.18r14 MAG254 ./img_make.profile.mag254`
+	This is the same in my STB SDK:
+	`./img_make.sh -v 218 -d "Test_my_version" -s MAG254 -p ./img_make.profile.mag254` + property declared in image profile: `ROOTFS_PATH = '../../254/rootfs-0.2.18r14'`.
    
+
+[InfomirWikiPage](https://wiki.infomir.eu/eng/set-top-box/for-developers/stb-linux-webkit/stb-software-image-making/operators-utilities-and-instructions-for-building-stb-software-image)
