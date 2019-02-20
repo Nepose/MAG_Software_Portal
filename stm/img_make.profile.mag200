@@ -19,3 +19,6 @@ export LOGOTYPE_PATH=./images/logo.bmp.gz
 
 #    Key signing
 export MAG200_OP_KEY=STB_PUBLIC
+
+#    File name for compiled imageupdate (image output)
+export IMAGE_OUTPUT=./imageupdate_infomir

@@ -17,18 +17,20 @@ The toolchain is a part of **MAG Software Portal** project, which also includes 
 * Minify embedded portal.
 * Do DHCP / TFTP connection to STB.
 
-The toolchain doesn't support MAG 424/425 STBs. The toolchain is available **only for Linux** (bash is necessary, recommended Debian-based system).
+The toolchain doesn't support MAG 424/425 STBs. The toolchain is available **only for Linux**.
 
 According to official Infomir wiki page about STB SDK:
-*Operator utilities allow to make three different variants of STB software image:
+*Operator utilities allow to make three different variants of STB software image:*
 
- - PublicImage - image which is signed with standard “public key” - STB_PUBLIC.
-Updating variants: Starting from 0.2.14-r8 updates via HTTP or USB from portal to manufacturer STB software version only, (STB software versions that were assembled directly by the manufacturer and provided for automatic and manual updates located by manufacturer's URL).
-From Booloader menu can be updated on PublicImage or CustomImage (transitional version) via Multicast/USB with bootstrap/TFTP
- - CustomImage - image which is signed with “custom-key”. This key is created by operator without manufacturer.
-Updating variants: Updates via HTTP or USB from portal on STB software versions that are signed by the same key (custom-key). It is used if there is a need in STB update from portal (HTTP or USB update method).
-From Booloader menu can be updated on PublicImage or CustomImage (transitional version) via Multicast/USB with bootstrap/TFTP
- - OperatorImage - image which is signed with “operator key”. “Operator key” should be signed by manufacturer.
+ - *__PublicImage__ - image which is signed with standard “public key” (STB_PUBLIC).*
+*Updating variants: Starting from 0.2.14-r8 updates via HTTP or USB from portal to manufacturer STB software version only, (STB software versions that were assembled directly by the manufacturer and provided for automatic and manual updates located by manufacturer's URL).*
+*From Bootloader menu can be updated on PublicImage or CustomImage (transitional version) via Multicast/USB with bootstrap/TFTP.*
+
+ - *__CustomImage__ - image which is signed with “custom-key”. This key is created by operator without manufacturer.*
+*Updating variants: Updates via HTTP or USB from portal on STB software versions that are signed by the same key (custom-key). It is used if there is a need in STB update from portal (HTTP or USB update method).*
+*From Booloader menu can be updated on PublicImage or CustomImage (transitional version) via Multicast/USB with bootstrap/TFTP.*
+
+ - *__OperatorImage__ - image which is signed with “operator key”. “Operator key” should be signed by manufacturer.
 Updating variants: Updates on STB software versions which are signed by “operators key" only.*
 
 Utilities with my modification work exactly like the official ones, but also contain some add-ons like:
@@ -57,4 +59,28 @@ Again referring to the official Infomir guide for easier comparing my utilities 
    - `IMAGE_OUTPUT` -> specify name of imageupdate other than default if you want.
 
 4. **Imageupdate preparing**
-   
+   Syntax for preparing:
+   `img_make.sh [-v <value>] [-d <value>] [-s <value>] [-p <value>]`
+   Where following options mean (order of options doesn't matter):
+   - **-v** is image version (digit). Instead it you can use variable `IMAGE_VERSION` in image profile.
+   - **-d** is image description (string without spaces and max. 40 chars). As upper, instead it you can use variable `IMAGE_DESCRIPTION` in profile.
+   - **-s** is STB model. As upper, equivalent is `STB_MODEL` variable in profile.
+   - **-p** is path to image profile file.
+
+   Example for creating imageupdate:
+   `./img_make.sh -v 220 -s MAG254 -p ./img_make.profile.mag`
+   This will create image for MAG254 with declared image version 220 and path to profile in `img_make.profile.mag` file.
+
+   Imageupdate consists of sections. Required sections are:
+   * version, description and STB model (declared by you either with options of command or by properties in image profile. If you declare both, the value from option is taken),
+   * date of image (detected by computer),
+   * kernel,
+   * root file system.
+
+   Other optional sections are:
+   * user file system,
+   * bootstrap image (for STM-based images),
+   * logotype for bootloader,
+   * list of environment variables to set or overwrite.
+
+### Minifying embedded portal

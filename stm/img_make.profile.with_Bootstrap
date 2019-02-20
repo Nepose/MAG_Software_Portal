@@ -1,13 +1,16 @@
 # Profile for create imageupdate
 
 #    Kernel's file system
-#export KERNEL_PATH=./uImzlib.img
+export KERNEL_PATH=./uImzlib.img
+
 #    Image Version (digit)
-#export IMAGE_VERSION=66
+export IMAGE_VERSION=66
+
 #    Image Description
-#export IMAGE_DESCRIPTION="Test create New Imageupdate"
+export IMAGE_DESCRIPTION="Test create New Imageupdate"
+
 #    Directory where locate rootfs
-#export ROOTFS_PATH=/srv/stb/sg/stm/0.1.60
+export ROOTFS_PATH=/srv/stb/sg/stm/0.1.60
 
 #    File name for enviroment variable
 export ENV_VARIABLE_PATH=./images/env_variable_with_Bootstrap.txt
@@ -23,7 +26,11 @@ export BOOTSTRAP_PATH=./images/Bootstrap.img
 #    File name for SecondBoot
 export SECONDBOOT_PATH=./images/SbootIm
 
+#    File name for compiled imageupdate (image output)
+export IMAGE_OUTPUT=./imageupdate_infomir
+
 #    File name for Logotype
 #export LOGOTYPE_PATH=./images/logo.bmp.gz
 
+#    Key signing
 export MAG200_OP_KEY=STB_PUBLIC

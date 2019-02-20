@@ -20,6 +20,9 @@ export SECONDBOOT_PATH=./images/SbootIm_mag270
 #    Key signing
 export MAG200_OP_KEY=STB_PUBLIC
 
+#    File name for compiled imageupdate (image output)
+export IMAGE_OUTPUT=./imageupdate_infomir
+
 # You can use values here instead arguments in ./img_make.sh
 # Note please that when using this, you CANNOT use ANY arguments in img_make.sh (just plain ./img_make.sh)
 #export IMAGE_VERSION=

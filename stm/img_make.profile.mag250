@@ -1,5 +1,5 @@
 #    Root file system path
-export ROOTFS_PATH=../rootfs/250
+export ROOTFS_PATH='/home/images/2.19.02/rootfs/250'
 
 #    Kernel's file system
 export KERNEL_PATH=./uImzlib_mag250.img
@@ -17,5 +17,11 @@ export SECONDBOOT_PATH=./images/SbootIm_mag250
 #    File name for Logotype
 export LOGOTYPE_PATH=./images/logo.bmp.gz
 
+#    File name for compiled imageupdate (image output)
+export IMAGE_OUTPUT=./imageupdate_infomir
+
 #    Key signing
 export MAG200_OP_KEY=STB_PUBLIC
+
+#    File name for compiled imageupdate (image output)
+export IMAGE_OUTPUT=./imageupdate_infomir
