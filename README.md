@@ -116,6 +116,8 @@ My operator utilities contain ready to use SDK for embedded portal. This SDK all
 - build localization for embedded portal from PO files,
 - build help from Infomir resources.
 
+For preparing this part of operator utilities you have to go to `embedded_portal/tools` and run `npm install` to set dependencies in a way according to your OS. GitHub repo doesn't commit already set dependencies.
+
 The most common scripts you will use are:
 
 1. **build.gettext.sh**
