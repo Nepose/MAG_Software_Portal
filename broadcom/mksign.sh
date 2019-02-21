@@ -1,17 +1,11 @@
 #!/bin/bash
-
-# Parameters:
-# 	$1 - name file of kernel prepared mkimage
-# 	$2 - name file of result
-#       $3 - SHA256 if required
-
-. ../includes/initialize.sh
-
-#check_user_id() {
+# Utility to check signing.
+trap "exit 1" TERM
+export TOP_PID=$$
 
     if [ -z $MAG200_OP_KEY ]; then
         echo "[ ${OutputRed}ERR${OutputWhite} ] You must set environment variable MAG200_OP_KEY as User ID of your key signing. Example: export MAG200_OP_KEY=STB_PUBLIC."
-        exit 1
+        kill -s TERM $TOP_PID
     fi
     
     if [[ ! $(gpg --list-keys | grep -w "$MAG200_OP_KEY") ]]; then
@@ -20,10 +14,8 @@
         echo "            Append in gpg default public key with USER_ID - STB_PUBLIC:"
         echo "            gpg --import ./stb_secbin.key "
         echo ""
-        exit 1
+        kill -s TERM $TOP_PID
     fi
-#}
-#check_user_id
 if [ "$?" -ne "0" ]; then
     exit 1
 fi
@@ -38,14 +30,14 @@ fi
 if [ "$?" -ne "0" ]; then
  echo "[ ${OutputRed}ERR${OutputWhite} ] Error make digital signature."
  rm -f $1.sig
- exit 1
+ kill -s TERM $TOP_PID
 fi
 cat $1 > $2
 ./dsign -a -i $1.sig $2
 if [ "$?" -ne "0" ]; then
  echo "[ ${OutputRed}ERR${OutputWhite} ] Error append digital signature."
  rm -f $1.sig $2
- exit 1
+ kill -s TERM $TOP_PID
 fi
 rm  -f $1.sig 
 echo "[ ${OutputGreen}OK!${OutputWhite} ] File $2 create - successfully!!!"

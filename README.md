@@ -3,7 +3,9 @@
 
 This is a toolchain to compile images for Infomir IPTV STBs - MAG and Aura HD. It is improved version of SDK done by Infomir corporation, manufacturer of set-top-boxes.
 
-The toolchain is a part of **MAG Software Portal** project, which also includes ready-made custom firmware and wiki for Operators.
+The toolchain is a part of **MAG Software Portal** project, which also includes ready-made custom firmware and wiki for Operators. This SDK comes with already set dependencies and some documentation from Infomir to better work with.
+
+To install toolchain, just clone this Git repo or download source code from releases card.
 
 ## Functions of toolchain
 * Compile / prepare following parts of firmware:
@@ -14,12 +16,25 @@ The toolchain is a part of **MAG Software Portal** project, which also includes 
   * preconfiguration for STBs (*environment variables*),
   * bootstrap image for STM-based STBs,
   * logotype for bootloader.
-* Minify embedded portal.
-* Do DHCP / TFTP connection to STB.
+* Prepare embedded portal:
+  * generate localization in STB-readable format from PO files,
+  * minify embedded portal,
+  * generate offline documentation (*Menu Guide* app) from Infomir resources.
+* Do DHCP/TFTP and multicast control connection to STB.
 
-The toolchain doesn't support MAG 424/425 STBs. The toolchain is available **only for Linux**.
+The toolchain doesn't support MAG 424/425 STBs. The toolchain is available **only for Linux**. Embedded portal part is available also for Windows, but Windows script don't contain my modifications (factory state).
 
-According to official Infomir wiki page about STB SDK:
+## Directory structure
+* `broadcom` -> utilities to build imageupdate for Broadcom STBs.
+* `docs` -> documentation, refer to *Documentation* section.
+* `embedded_portal` -> SDK for embedded portal, refer to *Build embedded portal* section.
+* `includes` -> directory with some libraries used by SDK, you don't have to do anything there ;)
+* `multicast_dhcp` -> directory with utilities to connect to STB with multicast or DHCP protocol.
+* `stm` -> utilities to build imageupdate for STM STBs.
+
+<cite>According to official Infomir wiki page about STB SDK:</cite>
+
+<blockquote>
 *Operator utilities allow to make three different variants of STB software image:*
 
  - *__PublicImage__ - image which is signed with standard “public key” (STB_PUBLIC).*
@@ -33,6 +48,8 @@ According to official Infomir wiki page about STB SDK:
  - *__OperatorImage__ - image which is signed with “operator key”. “Operator key” should be signed by manufacturer.
 Updating variants: Updates on STB software versions which are signed by “operators key" only.*
 
+</blockquote>
+
 Utilities with my modification work exactly like the official ones, but also contain some add-ons like:
  - verification if the requirements of operator utilities are done properly. The requirements are:
 	- OS Ubuntu 12.04 - 16.04 or fork distro like Mint basing on it,
@@ -44,23 +61,33 @@ Utilities with my modification work exactly like the official ones, but also con
 
 ## Using toolchain
 
-Again referring to the official Infomir guide for easier comparing my utilities with the official ones, these are key points of SDK usage:
+### Firmware developing
+
+The code for firmware developing is placed in `broadcom/` and `stm/` directories. Again referring to the official Infomir guide for easier comparing my utilities with the official ones, these are key points of SDK usage:
+
+0. **The zero step**: If you don't have standard public key in your keyring, import it by going to broadcom or stm folder and `gpg --import stb_secbin.key`.
 
 1. **Preparing of uImage, uImzlib.img**
+
    Exactly the same. You download from [soft.infomir.com](http://soft.infomir.com) the proper kernel and sources and then place kernel in *images/* directory.
 
 2. **Kernel sign**
+
    For signing kernel the file `kernel_sign_<modelNumber>.sh` is used like in official SDK. The only difference is that for signing with custom or operator key you don't use `kernel_sign_<modelNumber>_custom.sh`. Instead, you start the first script with `--custom` option, like here for MAG 349:
    `./kernel_sign_349.sh --custom`
 
 3. **Profile preparing**
+
    The new sections are added to image configuration file (profile):
    - `ROOTFS_PATH` -> path to root file system, moved there from command `./img_make.sh`,
    - `IMAGE_OUTPUT` -> specify name of imageupdate other than default if you want.
 
 4. **Imageupdate preparing**
+
    Syntax for preparing:
+
    `img_make.sh [-v <value>] [-d <value>] [-s <value>] [-p <value>]`
+
    Where following options mean (order of options doesn't matter):
    - **-v** is image version (digit). Instead it you can use variable `IMAGE_VERSION` in image profile.
    - **-d** is image description (string without spaces and max. 40 chars). As upper, instead it you can use variable `IMAGE_DESCRIPTION` in profile.
@@ -68,7 +95,7 @@ Again referring to the official Infomir guide for easier comparing my utilities 
    - **-p** is path to image profile file.
 
    Example for creating imageupdate:
-   `./img_make.sh -v 220 -s MAG254 -p ./img_make.profile.mag`
+   `./img_make.sh -v 220 -s MAG254 -p ./img_make.profile.mag`.
    This will create image for MAG254 with declared image version 220 and path to profile in `img_make.profile.mag` file.
 
    Imageupdate consists of sections. Required sections are:
@@ -83,4 +110,37 @@ Again referring to the official Infomir guide for easier comparing my utilities 
    * logotype for bootloader,
    * list of environment variables to set or overwrite.
 
-### Minifying embedded portal
+### Building embedded portal
+My operator utilities contain ready to use SDK for embedded portal. This SDK allows you to:
+- prepare minified version of embedded portal,
+- build localization for embedded portal from PO files,
+- build help from Infomir resources.
+
+The most common scripts you will use are:
+
+1. **build.gettext.sh**
+   Syntax: `build.gettext.sh <path to embedded portal>`. The script will build gettext localization on the path you entered.
+
+2. **build.release.sh**
+   Syntax. `build.release.sh <path-to-embedded-portal> <path-where-portal-should-be-minified>` As you see, this script takes two arguments - path where source is located and path where embedded portal minified output should be put.
+
+3. **build.help.sh**
+   This doesn't take any arguments - just builds help from Infomir server docs, although this function is still in beta. In case the script returns errors, try visiting [stbhelp.iptv.infomir.com.ua](//stbhelp.iptv.infomir.com.ua), where the default docs are hosted.
+
+### Documentation
+On the `docs/` folder you can find some guides taken from Infomir website [soft.infomir.com](//soft.infomir.com) to help you dealing with utilities and HTML documentation of JavaScript API. There is nothing to explain - just read the docs when you need. Note please those two things:
+* A few of guides were translated from Russian so it may look strangely, but context and overtone is still understandable ;)
+* On most of guides (expect STB API) only MAG 200 is mentioned as STB, but in fact the guides apply to all models of STBs and there is no need to rewrite docs with changing name.
+* And remember that there still is [Infomir Wiki](//wiki.infomir.eu) and [my wiki](//firmware.magboxes.xyz/docs) with some useful information.
+
+## Checking for updates
+
+The toolchain is going to be constantly improved so I've added a script to check for updates. To run it, when being at root directory of toolchain:
+
+`./includes/checkForUpdates.sh`
+
+Nothing more to explain, it will just check and download latest version :)
+
+## Contribution
+
+Every contribution is appreciated, like in entire project. For more information go to website of MAG Software Portal https://firmware.magboxes.xyz. In case of any problems you can write in any of forums listed on page (or enter new thread in your forum, which is also very appreciated) or open Issue or Pull Request in repository of SDK.

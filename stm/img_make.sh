@@ -57,7 +57,7 @@ while getopts ":v:d:s:p:" o; do
             ;;
     esac
 done
-shift $((OPTIND-1))
+#shift $((OPTIND-1))
 
 fi
 
@@ -66,9 +66,10 @@ if [ "$img_ver" == "" ]; then
 #else 
 #    img_ver=$1 
 fi
+echo "ImgVer: $img_ver"
 
 if [ "$img_desc" == "" ]; then
-    img_desc=$IMAGE_DESCRIPTION
+    img_desc="$IMAGE_DESCRIPTION"
 #else
 #    img_desc=$2
 fi
@@ -84,11 +85,18 @@ fi
 [ "$img_ver" == "" ] && not_existing "Image version" "img_ver"
 [ "$img_desc" == "" ] && not_existing "Image description" "img_desc"
 [ "$stb_model" == "" ] && not_existing "STB model" "stb_model"
-[ "$ROOTFS_PATH" == "" ] && not_existing "Path to root file system" "ROOTFS_PATH"; export ROOTFS_PATH="$ROOTFS_PATH"
-[ "$KERNEL_PATH" == "" ] && not_existing "Path to kernel" "KERNEL_PATH"; export KERNEL_PATH="$KERNEL_PATH"
+[ "$ROOTFS_PATH" == "" ] && not_existing "Path to root file system" "ROOTFS_PATH"
+[ "$KERNEL_PATH" == "" ] && not_existing "Path to kernel" "KERNEL_PATH"
+
+export ROOTFS_PATH
+export KERNEL_PATH
 
 # If MAG 256, then HASH_TYPE = SHA256
-[[ "$stb_model" == "MAG256" && "$HASH_TYPE" != "SHA256" ]] && export HASH_TYPE="SHA256"; echo "[${OutputYellow}WARN!${OutputWhite}] MAG256 requires HASH_TYPE=SHA256. Added this setting automatically."
+if [[ "$stb_model" == "MAG256" && "$HASH_TYPE" != "SHA256" ]]
+then
+	export HASH_TYPE="SHA256"
+	echo "[${OutputYellow}WARN!${OutputWhite}] MAG256 requires HASH_TYPE=SHA256. Added this setting automatically."
+fi
 
 # Get update API
 if [ ! -f $ROOTFS_PATH/etc/VerUpdateAPI.conf ] ; then
@@ -105,6 +113,7 @@ echo "[ ${OutputBlue}TRY${OutputWhite} ] Append digital signature MAG200_OP_KEY=
 
 # Make One Image
 echo "[ ${OutputGreen}OK!${OutputWhite} ] Appending okay. Proceeding to compile output firmware..."
+echo $img_ver
 ./make_imageupdate.sh $IMAGE_OUTPUT $KERNEL_PATH ./sumsubfsnone.img.sign $img_ver $img_desc $stb_model $verUpdateAPI $HASH_TYPE
 rm -f ./sumsubfsnone.img.sign
 rm -f ./sumsubfsnone.img

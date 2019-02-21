@@ -30,3 +30,8 @@ export ROOTFS_FS_TYPE=ubi
 
 #    SHA256 is required value for MAG 256
 export HASH_TYPE=SHA256
+
+# You can use values here instead options in ./img_make.sh (-v, -d or -s)
+#export IMAGE_VERSION=
+#export IMAGE_DESCRIPTION=
+#export STB_MODEL=MAG270

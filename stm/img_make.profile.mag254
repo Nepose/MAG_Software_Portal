@@ -22,3 +22,8 @@ export IMAGE_OUTPUT=./imageupdate_infomir
 
 #    Key signing
 export MAG200_OP_KEY=STB_PUBLIC
+
+# You can use values here instead options in ./img_make.sh (-v, -d or -s)
+#export IMAGE_VERSION=
+#export IMAGE_DESCRIPTION=
+#export STB_MODEL=MAG254
