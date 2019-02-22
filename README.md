@@ -1,4 +1,7 @@
 # MAG Software Portal
+[![GitHub release](https://img.shields.io/github/release/Nepose/MAG_Software_Portal.svg)](https://github.com/Nepose/MAG_Software_Portal/releases)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![GitHub repo size in bytes](https://img.shields.io/github/repo-size/Nepose/MAG_Software_Portal.svg)
 ## Improved STB SDK for making firmware
 
 This is a toolchain to compile images for Infomir IPTV STBs - MAG and Aura HD. It is improved version of SDK done by Infomir corporation, manufacturer of set-top-boxes.
