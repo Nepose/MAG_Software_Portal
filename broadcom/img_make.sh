@@ -12,7 +12,10 @@
 function howTo() {
         echo " "
 	echo "Usage: ./img_make.sh [-v <image version>] [-d <image description>] [-s <STB model>] [-p <path to image profile>]"
-	echo "Options -v, -d and -s can be omitted when their values are declared as properties in image profile (IMAGE_VERSION, IMAGE_DESCRIPTION and STB_MODEL properties)."
+	echo "Options -v, -d and -s can be replaced with their equivalents in image profile:"
+	echo " - [-v <image version>] -> IMAGE_VERSION property"
+	echo " - [-d <image description>] -> IMAGE_DESCRIPTION property"
+	echo " - [-s <STB model>] -> STB_MODEL property"
 	echo " "
 }
 
@@ -61,23 +64,10 @@ shift $((OPTIND-1))
 
 fi
 
-if [ "$img_ver" == "" ]; then 
-    img_ver=$IMAGE_VERSION 
-#else 
-#    img_ver=$1 
-fi
-
-if [ "$img_desc" == "" ]; then
-    img_desc=$IMAGE_DESCRIPTION
-#else
-#    img_desc=$2
-fi
-
-if [ "$stb_model" == "" ]; then
-    stb_model=$STB_MODEL
-#else
-#    stb_model=$3
-fi
+# Look in image profile for metadata
+[[ "$img_ver" == "" ]] && img_ver=$IMAGE_VERSION
+[[ "$img_desc" == "" ]] && img_desc=$IMAGE_DESCRIPTION
+[[ "$stb_model" == "" ]] && stb_model=$STB_MODEL
 
 # Try again if one of necessary values doesn't exist
 
@@ -92,7 +82,15 @@ if [ ! -f $ROOTFS_PATH/etc/VerUpdateAPI.conf ] ; then
     echo -e "[ ${OutputRed}ERR${OutputWhite} ] Update API version is not defined!!!\n"
     exit 1;
 fi
+
+# Look if image output exists
+if [[ "$IMAGE_OUTPUT" == "" ]]; then
+	export IMAGE_OUTPUT="./imageupdate"
+	echo "[${OutputYellow}WARN!${OutputWhite}] The image output property was empty. Defaulting to \"./imageupdate\"..."
+fi
+
 verUpdateAPI=`cat $ROOTFS_PATH/etc/VerUpdateAPI.conf | awk '{printf  $1; exit;}'`
+
 echo "[ ${OutputBlue}TRY${OutputWhite} ] Make rootfs image $ROOTFS_PATH"
 ./mk_rfs.sh $ROOTFS_PATH
 
@@ -103,5 +101,4 @@ echo "[ ${OutputBlue}TRY${OutputWhite} ] Append digital signature MAG200_OP_KEY=
 # Make One Image
 echo "[ ${OutputGreen}OK!${OutputWhite} ] Appending okay. Proceeding to compile output firmware..."
 ./make_imageupdate.sh $IMAGE_OUTPUT $KERNEL_PATH ./sumsubfsnone.img.sign $img_ver $img_desc $stb_model $verUpdateAPI $HASH_TYPE
-rm -f ./sumsubfsnone.img.sign
-rm -f ./sumsubfsnone.img
+rm -f ./sumsubfsnone.img.sign ./sumsubfsnone.img

@@ -35,7 +35,7 @@ The toolchain doesn't support MAG 424/425 STBs. The toolchain is available **onl
 <cite>According to official Infomir wiki page about STB SDK:</cite>
 
 <blockquote>
-*Operator utilities allow to make three different variants of STB software image:*
+<i>Operator utilities allow to make three different variants of STB software image:</i>
 
  - *__PublicImage__ - image which is signed with standard “public key” (STB_PUBLIC).*
 *Updating variants: Starting from 0.2.14-r8 updates via HTTP or USB from portal to manufacturer STB software version only, (STB software versions that were assembled directly by the manufacturer and provided for automatic and manual updates located by manufacturer's URL).*
@@ -144,7 +144,7 @@ cd includes/
 ./checkForUpdates.sh
 ```
 
-Nothing more to explain, it will just check and download latest version :)
+Nothing more to explain, it will just check and download latest version if you want :)
 
 ## Contribution
 

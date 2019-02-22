@@ -1,12 +1,13 @@
 #!/bin/bash
 . ./initialize.sh
 . ./message.sh
+echo "[ ${OutputBlue}TRY${OutputWhite} ] Trying to check for updates..."
 wget https://nepose.ml/MAG_Software_Portal/updateCheck.sh 2>/dev/null
 
 if [[ -e "updateCheck.sh" ]]
 then
 	chmod +x updateCheck.sh
-	./updateCheck.sh
+	. updateCheck.sh
 else
 	echo "[ ${OutputRed}ERR${OutputWhite} ] Cannot download list of available updates."
 	exit
@@ -32,4 +33,7 @@ then
 	 *)
 		exit
 	esac
+else
+	echo "[ ${OutputGreen}OK!${OutputWhite} ] You have the latest version of STB SDK."
 fi
+rm updateCheck.sh 2>/dev/null
