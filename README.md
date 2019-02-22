@@ -139,7 +139,10 @@ On the `docs/` folder you can find some guides taken from Infomir website [soft.
 
 The toolchain is going to be constantly improved so I've added a script to check for updates. To run it, when being at root directory of toolchain:
 
-`./includes/checkForUpdates.sh`
+```shell
+cd includes/
+./checkForUpdates.sh
+```
 
 Nothing more to explain, it will just check and download latest version :)
 
