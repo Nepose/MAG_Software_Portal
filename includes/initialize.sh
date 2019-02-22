@@ -16,8 +16,8 @@ fi
 
 }
 
-export STBSDK_Version="2.00-beta"
-export STBSDK_Date="2019-02-18"
+export STBSDK_Version="2.00.1"
+export STBSDK_Date="2019-02-22"
 
 export OutputRed=`tput setaf 1`
 export OutputGreen=`tput setaf 2`
