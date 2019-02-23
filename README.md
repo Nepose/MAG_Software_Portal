@@ -147,7 +147,7 @@ cd includes/
 ./checkForUpdates.sh
 ```
 
-Nothing more to explain, it will just check and download latest version if you want :)
+Nothing more to explain, it will just check and download latest version if you want. Of course you can also update by `git pull` :)
 
 ## Contribution
 
