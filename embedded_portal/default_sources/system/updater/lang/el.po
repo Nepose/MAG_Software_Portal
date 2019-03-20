@@ -1,0 +1,215 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Service menu\n"
+"POT-Creation-Date: 2016-10-20 16:34+0300\n"
+"PO-Revision-Date: 2016-10-20 16:34+0300\n"
+"Last-Translator: georgesat20 <georgesat20@gmail.com>\n"
+"Language-Team: \n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-KeywordsList: _;gettext.data\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../js/main.js:23
+msgid "Retry"
+msgstr "Επανάληψη"
+
+#: ../js/main.js:24
+msgid "Cancel"
+msgstr "Ακύρωση"
+
+#: ../js/main.js:25
+msgid "Show log"
+msgstr "Εμφάνιση αρχείοy καταγραφής"
+
+#: ../js/main.js:26
+msgid "Hide log"
+msgstr "Απόκρυψη αρχείο καταγραφής"
+
+#: ../js/main.js:27
+msgid "Update"
+msgstr "Ενημέρωση"
+
+#: ../js/main.js:28 ../js/main.js:35
+msgid "Update status"
+msgstr "Kατάσταση ενημέρωσης"
+
+#: ../js/main.js:29
+msgid "Check image"
+msgstr "Έλεγχος image"
+
+#: ../js/main.js:30
+msgid "Exit"
+msgstr "Έξοδος"
+
+#: ../js/main.js:31
+msgid "Current version"
+msgstr "Τρέχουσα έκδοση"
+
+#: ../js/main.js:32
+msgid "New version"
+msgstr "Νέα έκδοση"
+
+#: ../js/main.js:33
+msgid "Description"
+msgstr "Περιγραφή"
+
+#: ../js/main.js:34
+msgid "Updating to version"
+msgstr "Ενημέρωση σε έκδοση"
+
+#: ../js/main.js:36
+msgid ""
+"<span class=\"alert\">Warning!</span> Device will be rebooted after update"
+msgstr ""
+"<span class='alert'>Προσοχή!</span> Αυτόματη επανεκκίνηση της συσκευής μετά "
+"από την ενημέρωση!"
+
+#: ../js/main.js:37
+msgid "Change log"
+msgstr "Αλλαγές-Προσθήκες"
+
+#: ../js/main.js:38
+msgid "Information not found"
+msgstr "Οι πληροφορίες δεν βρίσκονται"
+
+#: ../js/main.js:39
+msgid "Signature init error"
+msgstr "Υπογραφή σφάλματος init"
+
+#: ../js/main.js:40
+msgid "Wrong device model"
+msgstr "Λάθος μοντέλο συσκευής"
+
+#: ../js/main.js:41
+msgid "Section size exceeds partition size on FLASH"
+msgstr "Το μέγεθος τμήματος υπερβαίνει το μέγεθος του διαμερίσματος της FLASH"
+
+#: ../js/main.js:42
+msgid "Required FLASH section not found. Aborting update"
+msgstr "Το απαιτούμενο τμήμα FLASH δεν βρέθηκε. ματαίωση ενημέρωσης."
+
+#: ../js/main.js:43
+msgid "Updating kernel"
+msgstr "Ενημέρωση πυρήνα (kernel)"
+
+#: ../js/main.js:44
+msgid "Updating image"
+msgstr "Ενημέρωση image"
+
+#: ../js/main.js:45
+msgid "Internal error"
+msgstr "Εσωτερικό σφάλμα"
+
+#: ../js/main.js:46
+msgid "Inspecting firmware"
+msgstr "Επιθεώρηση firmware"
+
+#: ../js/main.js:47
+msgid "Updating environment variables"
+msgstr "Ενημέρωση των μεταβλητών περιβάλλοντος"
+
+#: ../js/main.js:48
+msgid "Updating Bootstrap section"
+msgstr "Ενημέρωση τμήματος Bootstrap"
+
+#: ../js/main.js:49
+msgid "Skipping Bootstrap section"
+msgstr "Παράκαμψη τμήματος Bootstrap"
+
+#: ../js/main.js:50
+msgid "Updating User FS section"
+msgstr "Ενημέρωση τμήματος FS χρήστη"
+
+#: ../js/main.js:51
+msgid "Skipping User FS section"
+msgstr "Παράκαμψη ενημέρωσης τμήματος FS χρήστη"
+
+#: ../js/main.js:52
+msgid "Updating second boot"
+msgstr "Ενημέρωση δεύτερου boot"
+
+#: ../js/main.js:53
+msgid "Updating logotype"
+msgstr "Ενημέρωση λογότυπου"
+
+#: ../js/main.js:54
+msgid "Update finished OK"
+msgstr "Η ενημέρωση τελειώσε OK"
+
+#: ../js/main.js:55
+msgid "Wrong signature"
+msgstr "Λάθος υπογραφή"
+
+#: ../js/main.js:56
+msgid "Erasing flash section"
+msgstr "Διαγραφή τμήματος flash"
+
+#: ../js/main.js:57
+msgid "Flash write error"
+msgstr "Σφάλμα εγγραφής Flash"
+
+#: ../js/main.js:58
+msgid "File write error"
+msgstr "Σφάλμα εγγραφής αρχείου"
+
+# Используется в обновлении как статус говорящий о готовности.
+#: ../js/main.js:59
+msgid "Idle"
+msgstr "Έτοιμο για αναβάθμιση"
+
+#: ../js/main.js:60
+msgid "Invalid file header"
+msgstr "Μη έγκυρη επικεφαλίδα αρχείου"
+
+#: ../js/main.js:61
+msgid "Inspecting update file"
+msgstr "Επιθεώρηση αρχείου ενημέρωσης"
+
+#: ../js/main.js:62
+msgid "File check finished"
+msgstr "Ο έλεγχος αρχείου τελείωσε"
+
+#: ../js/main.js:63
+msgid "File not found"
+msgstr "Το αρχείο δεν βρέθηκε"
+
+#: ../js/main.js:64
+msgid "Initialising"
+msgstr "Εκκίνηση"
+
+#: ../js/main.js:65
+msgid "Read error"
+msgstr "Σφάλμα ανάγνωσης"
+
+#: ../js/main.js:66
+msgid "Status"
+msgstr "Κατάσταση"
+
+#: ../js/main.js:67
+msgid "Date"
+msgstr "Ημερομηνία"
+
+#: ../js/main.js:71
+msgid "Autoupdate"
+msgstr "Αυτόματη ενημέρωση"
+
+#~ msgid "Internal error (final state error)"
+#~ msgstr "Внутренняя ошибка"
+
+#~ msgid "Idle (final state OK)"
+#~ msgstr "Свободен"
+
+#~ msgid "File not found (final state error)"
+#~ msgstr "Файл не найден"
+
+#~ msgid "Read error (final state error)"
+#~ msgstr "Ошибка чтения"
+
+#~ msgid "List of changes"
+#~ msgstr "Список изменений"

@@ -1,0 +1,390 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Internet bookmarks Manager\n"
+"POT-Creation-Date: 2016-10-20 16:34+0300\n"
+"PO-Revision-Date: 2016-10-20 16:34+0300\n"
+"Last-Translator: B_A_S <1990bas@gmail.com>\n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-KeywordsList: _;gettext.data\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../cblist.js:460
+msgid "File not found"
+msgstr "Datei nicht gefunden"
+
+#: ../cblist.js:480
+msgid "Error"
+msgstr "Fehler"
+
+#: ../cblist.js:480
+msgid "Unknown type of selected item"
+msgstr "Typ des ausgewählten Elements ist unbekannt "
+
+#: ../cblist.js:480 ../view.main.js:222 ../view.main.js:441
+msgid "Close"
+msgstr "Schließen"
+
+#: ../modals.js:130 ../modals.js:635
+msgid "End recording:"
+msgstr "Aufnahme abschließen: "
+
+#: ../modals.js:147 ../modals.js:652
+msgid "Record length:"
+msgstr "Aufnahmelänge "
+
+#: ../modals.js:234 ../modals.js:344 ../modals.js:854
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: ../modals.js:237 ../view.main.js:506
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: ../modals.js:332
+msgid "Delete related file"
+msgstr "Zugehörige Datei löschen"
+
+#: ../modals.js:344
+msgid "Delete record"
+msgstr "Aufnahme löschen"
+
+# menu item
+#: ../modals.js:366 ../view.main.js:512
+msgid "Delete"
+msgstr "Löschen"
+
+#: ../modals.js:563
+msgid "IPTV"
+msgstr "IPTV"
+
+#: ../modals.js:590 ../modals.js:785 ../view.main.js:176
+msgid "No storage device"
+msgstr "Speichermedium nicht vorhanden "
+
+#: ../modals.js:602
+msgid "No channels"
+msgstr "Senderliste leer "
+
+#: ../modals.js:618
+msgid "Start recording:"
+msgstr "Aufnahme beginnen:"
+
+#: ../modals.js:662
+msgid "Path:"
+msgstr "Pfad:"
+
+#: ../modals.js:667 ../view.main.js:287
+msgid "Channel:"
+msgstr "Sender: "
+
+#: ../modals.js:671
+msgid "Record name:"
+msgstr "Name der Aufzeichnung: "
+
+#: ../modals.js:677
+msgid "Record in:"
+msgstr "Aufzeichnen in:"
+
+#: ../modals.js:683
+msgid "Free space:"
+msgstr "Freier Platz: "
+
+#: ../modals.js:683 ../modals.js:684
+msgid "GB"
+msgstr "GB"
+
+#: ../modals.js:683
+msgid "of"
+msgstr "aus "
+
+#: ../modals.js:766
+msgid "Channel list is empty"
+msgstr "Senderliste leer "
+
+#: ../modals.js:780
+msgid "Error. Too many active records."
+msgstr "Fehler. Zu viele aktive Aufzeichnungen "
+
+#: ../modals.js:790 ../modals.js:821 ../modals.js:839 ../model.main.js:60
+#: ../model.main.js:78
+msgid "Not enough disk space"
+msgstr "Nicht genügend Speicherplatz "
+
+#: ../modals.js:824 ../model.main.js:63
+msgid "Incorrect time"
+msgstr "Falsche Zeit"
+
+#: ../modals.js:827 ../model.main.js:66
+msgid "Wrong name or path"
+msgstr "Falscher Name oder Pfad "
+
+#: ../modals.js:830 ../model.main.js:69
+msgid "Duplicated file"
+msgstr "Datei exisitiert bereits "
+
+#: ../modals.js:833 ../model.main.js:72
+msgid "Wrong URL"
+msgstr "Falsche URL "
+
+#: ../modals.js:836 ../model.main.js:75
+msgid "Too many active records processed"
+msgstr "Zu viele aktive Aufzeichnungen "
+
+#: ../modals.js:842
+msgid "Error..."
+msgstr "Fehler... "
+
+#: ../modals.js:857
+msgid "Start recording"
+msgstr "Aufzeichnung beginnen "
+
+#: ../model.main.js:39 ../view.main.js:534
+msgid "Scheduled"
+msgstr "Vorgesehen "
+
+#: ../model.main.js:43
+msgid "Recording"
+msgstr "Aufnahme läuft"
+
+#: ../model.main.js:47 ../model.main.js:81
+msgid "Recording error"
+msgstr "Fehler bei Aufnahme"
+
+#: ../model.main.js:51 ../view.main.js:537
+msgid "Completed"
+msgstr "Abgeschlossen"
+
+#: ../view.main.js:92
+msgid "Record manager"
+msgstr "Aufnahmemanager"
+
+#: ../view.main.js:102
+msgid "Enter record name..."
+msgstr "Namen der Aufzeichnung eingeben ..."
+
+#: ../view.main.js:190
+msgid "USB storage is connected"
+msgstr "USB-Speichermedium ist angeschlossen"
+
+#: ../view.main.js:204
+msgid "Exit"
+msgstr "Beenden"
+
+#: ../view.main.js:214
+msgid "Menu"
+msgstr "Menü"
+
+#: ../view.main.js:217 ../view.main.js:699
+msgid "Show<br>info panel"
+msgstr "Informationsfeld<br />einblenden"
+
+#: ../view.main.js:220
+msgid "Add<br>record"
+msgstr "Aufzeichnung<br>hinzufügen "
+
+#: ../view.main.js:222 ../view.main.js:441
+msgid "Warning!"
+msgstr "Warnung!"
+
+#: ../view.main.js:222 ../view.main.js:441
+msgid "\"Storage read only access mode\" is enabled in System Settings"
+msgstr ""
+"\"Speicherung des Zugriffsmodus  nur lesen \" in den Systemeinstellungen "
+"aktiviert "
+
+# menu item
+#: ../view.main.js:227 ../view.main.js:508
+msgid "Select"
+msgstr "Auswählen"
+
+#: ../view.main.js:247
+msgid "Items:"
+msgstr "Auzeichnungen:"
+
+#: ../view.main.js:248
+msgid "Selected:"
+msgstr "Ausgewählt:"
+
+#: ../view.main.js:259
+msgid "Contains a list of items corresponding to the given filter request"
+msgstr "Enthält eine Liste an Elementen entsprechend der gefilterten Anfrage "
+
+#: ../view.main.js:279
+msgid "Detailed information about the selected record"
+msgstr "Ausführliche Information über die ausgewählte Aufzeichnung "
+
+#: ../view.main.js:282
+msgid "Name:"
+msgstr "Name:"
+
+#: ../view.main.js:283
+msgid "Status:"
+msgstr "Status:"
+
+#: ../view.main.js:284
+msgid "Start:"
+msgstr "Start: "
+
+#: ../view.main.js:285
+msgid "End:"
+msgstr "Abschluss: "
+
+# menu item
+#: ../view.main.js:286
+msgid "Duration:"
+msgstr "Dauer"
+
+# hours
+#: ../view.main.js:286
+msgid "h."
+msgstr "Std."
+
+# minute
+#: ../view.main.js:286
+msgid "m."
+msgstr "Min."
+
+#: ../view.main.js:323
+msgid "Jan"
+msgstr "Jan"
+
+#: ../view.main.js:323
+msgid "Feb"
+msgstr "Feb"
+
+#: ../view.main.js:323
+msgid "Mar"
+msgstr "März"
+
+#: ../view.main.js:323
+msgid "Apr"
+msgstr "Apr"
+
+#: ../view.main.js:323
+msgid "May"
+msgstr "Mai"
+
+#: ../view.main.js:323
+msgid "Jun"
+msgstr "Jun"
+
+#: ../view.main.js:323
+msgid "Jul"
+msgstr "Jul"
+
+#: ../view.main.js:323
+msgid "Aug"
+msgstr "Aug"
+
+#: ../view.main.js:323
+msgid "Sep"
+msgstr "Sep"
+
+#: ../view.main.js:323
+msgid "Oct"
+msgstr "Okt"
+
+#: ../view.main.js:323
+msgid "Nov"
+msgstr "Nov"
+
+#: ../view.main.js:323
+msgid "Dec"
+msgstr "Dez"
+
+#: ../view.main.js:429
+msgid "Operations"
+msgstr "Aktionen"
+
+#: ../view.main.js:443 ../view.main.js:505 ../view.main.js:710
+msgid "Add record"
+msgstr "Aufzeichnung hinzufügen "
+
+#: ../view.main.js:448
+msgid "Edit record"
+msgstr "Aufzeichnung bearbeiten "
+
+# menu item
+#: ../view.main.js:504
+msgid "Open"
+msgstr "Öffnen"
+
+#: ../view.main.js:507
+msgid "Stop"
+msgstr "Anhalten"
+
+# menu item
+#: ../view.main.js:509
+msgid "Select all"
+msgstr "Alles auswählen"
+
+# menu item
+#: ../view.main.js:510
+msgid "Deselect all"
+msgstr "Auswahl aufheben"
+
+# menu item
+#: ../view.main.js:511
+msgid "Invert selection"
+msgstr "Auswahl invertieren "
+
+#: ../view.main.js:515
+msgid "View"
+msgstr "Anzeigen "
+
+# menu item
+#: ../view.main.js:533
+msgid "All"
+msgstr "Alle"
+
+# menu item
+#: ../view.main.js:535
+msgid "In progress"
+msgstr "Im Prozess"
+
+#: ../view.main.js:536
+msgid "Errors"
+msgstr "Fehler"
+
+#: ../view.main.js:540
+msgid "Sort"
+msgstr "Sortieren"
+
+# menu item
+#: ../view.main.js:555
+msgid "By name"
+msgstr "Nach Name"
+
+# menu item
+#: ../view.main.js:556
+msgid "By time"
+msgstr "Nach Zeit"
+
+# menu item
+#: ../view.main.js:557
+msgid "By state"
+msgstr "Nach Status"
+
+# menu item
+#: ../view.main.js:558
+msgid "By duration"
+msgstr "Nach Dauer"
+
+#: ../view.main.js:699
+msgid "Hide<br>info panel"
+msgstr "Informationsfeld<br />ausblenden"
+
+#, fuzzy
+#~ msgid ""
+#~ "To perform this operation, you must to turn off \"Storage read only access"
+#~ "\" in system settings"
+#~ msgstr ""
+#~ "To perform this operation, you must to turn off \"Storage read only access"
+#~ "\" in system settings"

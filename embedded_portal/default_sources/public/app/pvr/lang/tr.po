@@ -1,0 +1,387 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Internet bookmarks Manager\n"
+"POT-Creation-Date: 2016-10-20 16:34+0300\n"
+"PO-Revision-Date: 2016-10-20 16:34+0300\n"
+"Last-Translator: B_A_S <1990bas@gmail.com>\n"
+"Language-Team: \n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-KeywordsList: _;gettext.data\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../cblist.js:460
+msgid "File not found"
+msgstr "Dosya bulunamadı"
+
+#: ../cblist.js:480
+msgid "Error"
+msgstr "Hata"
+
+#: ../cblist.js:480
+msgid "Unknown type of selected item"
+msgstr "Seçilmiş öğenin bilinmeyen türü"
+
+#: ../cblist.js:480 ../view.main.js:222 ../view.main.js:441
+msgid "Close"
+msgstr "Kapat"
+
+#: ../modals.js:130 ../modals.js:635
+msgid "End recording:"
+msgstr "Kaydetmeyi bitir:"
+
+#: ../modals.js:147 ../modals.js:652
+msgid "Record length:"
+msgstr "Kaydın uzunluğu:"
+
+#: ../modals.js:234 ../modals.js:344 ../modals.js:854
+msgid "Cancel"
+msgstr "İptal"
+
+#: ../modals.js:237 ../view.main.js:506
+msgid "Edit"
+msgstr "Değiştir"
+
+#: ../modals.js:332
+msgid "Delete related file"
+msgstr "İlgili dosyayı sil"
+
+#: ../modals.js:344
+msgid "Delete record"
+msgstr "Kaydı sil"
+
+# menu item
+#: ../modals.js:366 ../view.main.js:512
+msgid "Delete"
+msgstr "Sil"
+
+#: ../modals.js:563
+msgid "IPTV"
+msgstr "IPTV"
+
+#: ../modals.js:590 ../modals.js:785 ../view.main.js:176
+msgid "No storage device"
+msgstr "Depolama cihazı bulunamadı"
+
+#: ../modals.js:602
+msgid "No channels"
+msgstr "Kanal bulunamadı"
+
+#: ../modals.js:618
+msgid "Start recording:"
+msgstr "Kaydetmeye başlat:"
+
+#: ../modals.js:662
+msgid "Path:"
+msgstr "Yol:"
+
+#: ../modals.js:667 ../view.main.js:287
+msgid "Channel:"
+msgstr "Kanal:"
+
+#: ../modals.js:671
+msgid "Record name:"
+msgstr "Kayıt adı:"
+
+#: ../modals.js:677
+msgid "Record in:"
+msgstr "Kaydet:"
+
+#: ../modals.js:683
+msgid "Free space:"
+msgstr "Boş alan:"
+
+#: ../modals.js:683 ../modals.js:684
+msgid "GB"
+msgstr "GB"
+
+#: ../modals.js:683
+msgid "of"
+msgstr "nereden"
+
+#: ../modals.js:766
+msgid "Channel list is empty"
+msgstr "Kanal listesi boş"
+
+#: ../modals.js:780
+msgid "Error. Too many active records."
+msgstr "Hata: İşleyen kayıtların sayısı çoktur"
+
+#: ../modals.js:790 ../modals.js:821 ../modals.js:839 ../model.main.js:60
+#: ../model.main.js:78
+msgid "Not enough disk space"
+msgstr "Kaydetmeye boş alanı yeterli değil"
+
+#: ../modals.js:824 ../model.main.js:63
+msgid "Incorrect time"
+msgstr "Yanlış zaman"
+
+#: ../modals.js:827 ../model.main.js:66
+msgid "Wrong name or path"
+msgstr "Yanlış ad veya yol"
+
+#: ../modals.js:830 ../model.main.js:69
+msgid "Duplicated file"
+msgstr "Dosya zaten mevcuttur"
+
+#: ../modals.js:833 ../model.main.js:72
+msgid "Wrong URL"
+msgstr "Yanlış URL "
+
+#: ../modals.js:836 ../model.main.js:75
+msgid "Too many active records processed"
+msgstr "Hata: İşleyen kayıtların sayısı çoktur"
+
+#: ../modals.js:842
+msgid "Error..."
+msgstr "Hata..."
+
+#: ../modals.js:857
+msgid "Start recording"
+msgstr "Kaydetmeye başlat"
+
+#: ../model.main.js:39 ../view.main.js:534
+msgid "Scheduled"
+msgstr "Tarifeli"
+
+#: ../model.main.js:43
+msgid "Recording"
+msgstr "Kaydediliyor"
+
+#: ../model.main.js:47 ../model.main.js:81
+msgid "Recording error"
+msgstr "Kaydetme hatası"
+
+#: ../model.main.js:51 ../view.main.js:537
+msgid "Completed"
+msgstr "Tamamlandı"
+
+#: ../view.main.js:92
+msgid "Record manager"
+msgstr "Kayıt yöneticisi"
+
+#: ../view.main.js:102
+msgid "Enter record name..."
+msgstr "Kayıt adını giriniz..."
+
+#: ../view.main.js:190
+msgid "USB storage is connected"
+msgstr "USB bellek aygıtı bağlı"
+
+#: ../view.main.js:204
+msgid "Exit"
+msgstr "Çıkış"
+
+#: ../view.main.js:214
+msgid "Menu"
+msgstr "Menü"
+
+#: ../view.main.js:217 ../view.main.js:699
+msgid "Show<br>info panel"
+msgstr "Bilgi panelini<br /> göster"
+
+#: ../view.main.js:220
+msgid "Add<br>record"
+msgstr "Kayıt<br>ekle"
+
+#: ../view.main.js:222 ../view.main.js:441
+msgid "Warning!"
+msgstr "Dikkat!"
+
+#: ../view.main.js:222 ../view.main.js:441
+msgid "\"Storage read only access mode\" is enabled in System Settings"
+msgstr "Depolama cihazı için Sistem Ayarlarında ''sadece-okuma'' modu açıldı"
+
+# menu item
+#: ../view.main.js:227 ../view.main.js:508
+msgid "Select"
+msgstr "Seç"
+
+#: ../view.main.js:247
+msgid "Items:"
+msgstr "Öğeler:"
+
+#: ../view.main.js:248
+msgid "Selected:"
+msgstr "Seçildi:"
+
+#: ../view.main.js:259
+msgid "Contains a list of items corresponding to the given filter request"
+msgstr "Gösterilen isteğe uygun olan kayıt listesi içerir."
+
+#: ../view.main.js:279
+msgid "Detailed information about the selected record"
+msgstr "Seçilen kayıt hakkında ayrıntılı bilgi"
+
+#: ../view.main.js:282
+msgid "Name:"
+msgstr "Ad:"
+
+#: ../view.main.js:283
+msgid "Status:"
+msgstr "Durum:"
+
+#: ../view.main.js:284
+msgid "Start:"
+msgstr "Başlat:"
+
+#: ../view.main.js:285
+msgid "End:"
+msgstr "Bitiş:"
+
+# menu item
+#: ../view.main.js:286
+msgid "Duration:"
+msgstr "Süre:"
+
+# часов
+#: ../view.main.js:286
+msgid "h."
+msgstr "s."
+
+# минут
+#: ../view.main.js:286
+msgid "m."
+msgstr "dk."
+
+#: ../view.main.js:323
+msgid "Jan"
+msgstr "Ocak"
+
+#: ../view.main.js:323
+msgid "Feb"
+msgstr "Şub"
+
+#: ../view.main.js:323
+msgid "Mar"
+msgstr "Mar"
+
+#: ../view.main.js:323
+msgid "Apr"
+msgstr "Nis"
+
+#: ../view.main.js:323
+msgid "May"
+msgstr "May"
+
+#: ../view.main.js:323
+msgid "Jun"
+msgstr "Haz"
+
+#: ../view.main.js:323
+msgid "Jul"
+msgstr "Tem"
+
+#: ../view.main.js:323
+msgid "Aug"
+msgstr "Ağu"
+
+#: ../view.main.js:323
+msgid "Sep"
+msgstr "Eyl"
+
+#: ../view.main.js:323
+msgid "Oct"
+msgstr "Ekim"
+
+#: ../view.main.js:323
+msgid "Nov"
+msgstr "Kas"
+
+#: ../view.main.js:323
+msgid "Dec"
+msgstr "Ara"
+
+#: ../view.main.js:429
+msgid "Operations"
+msgstr "İşlemler"
+
+#: ../view.main.js:443 ../view.main.js:505 ../view.main.js:710
+msgid "Add record"
+msgstr "Kayıt ekle"
+
+#: ../view.main.js:448
+msgid "Edit record"
+msgstr "Kaydı değiştir"
+
+# menu item
+#: ../view.main.js:504
+msgid "Open"
+msgstr "Aç"
+
+#: ../view.main.js:507
+msgid "Stop"
+msgstr "Dur"
+
+# menu item
+#: ../view.main.js:509
+msgid "Select all"
+msgstr "Tümünü seç"
+
+# menu item
+#: ../view.main.js:510
+msgid "Deselect all"
+msgstr "Tüm seçimleri kaldır"
+
+# menu item
+#: ../view.main.js:511
+msgid "Invert selection"
+msgstr "Seçimi ters çevir"
+
+#: ../view.main.js:515
+msgid "View"
+msgstr "Göster"
+
+# menu item
+#: ../view.main.js:533
+msgid "All"
+msgstr "Tümü"
+
+# menu item
+#: ../view.main.js:535
+msgid "In progress"
+msgstr "Devam etmekte"
+
+#: ../view.main.js:536
+msgid "Errors"
+msgstr "Hatalar"
+
+#: ../view.main.js:540
+msgid "Sort"
+msgstr "Sıralama"
+
+# menu item
+#: ../view.main.js:555
+msgid "By name"
+msgstr "Ada göre"
+
+# menu item
+#: ../view.main.js:556
+msgid "By time"
+msgstr "Zamana göre"
+
+# menu item
+#: ../view.main.js:557
+msgid "By state"
+msgstr "Duruma göre"
+
+# menu item
+#: ../view.main.js:558
+msgid "By duration"
+msgstr "Süreye göre"
+
+#: ../view.main.js:699
+msgid "Hide<br>info panel"
+msgstr "Bilgi panelini <br />gizlet"
+
+#, fuzzy
+#~ msgid "To perform this operation, you must to turn off \"Storage read only access\" in system settings"
+#~ msgstr "Чтобы выполнить эту операцию, необходимо отключить \"Storage read only access\" в системных настройках"
+
+#~ msgid "Selected record detailed info"
+#~ msgstr "Подробная информация о выбранной записи"

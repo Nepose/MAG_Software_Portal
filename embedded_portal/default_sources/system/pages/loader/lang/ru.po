@@ -1,0 +1,119 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Service menu\n"
+"POT-Creation-Date: 2017-05-19 14:04+0300\n"
+"PO-Revision-Date: 2017-05-19 14:07+0300\n"
+"Last-Translator: B_A_S <1990bas@gmail.com>\n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-KeywordsList: _;gettext.data\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../view.js:108
+msgid "Portal"
+msgstr "Портал"
+
+#: ../view.js:189
+msgid "Loading portal..."
+msgstr "Загрузка портала..."
+
+#: ../view.js:190
+msgid "Press MENU to load portal selection screen"
+msgstr "Нажмите MENU для перехода в меню выбора портала"
+
+#: ../view.js:271 ../view.js:296
+#, fuzzy
+msgid "Continue"
+msgstr "Далее"
+
+#: ../view.js:276
+msgid "Warning!"
+msgstr "Внимание!"
+
+#: ../view.js:278
+#, fuzzy
+msgid "The device is loaded in fault-protection mode."
+msgstr "Устройство загружено в режиме защиты от сбоев."
+
+#: ../view.js:279
+#, fuzzy
+msgid "We recommend to update the software."
+msgstr "Рекомендуем обновить ПО."
+
+#: ../view.js:313
+msgid "Select a portal for loading"
+msgstr "Выберите портал для загрузки"
+
+#: ../view.js:329
+msgid "Page loading error"
+msgstr "Ошибка загрузки страницы"
+
+#: ../view.js:337
+msgid "Internet: "
+msgstr "Интернет: "
+
+#: ../view.js:338 ../view.js:349 ../view.js:371 ../view.js:507 ../view.js:557
+#: ../view.js:568
+msgid "Enabled"
+msgstr "Включено"
+
+#: ../view.js:349 ../view.js:371 ../view.js:557
+#, fuzzy
+msgid "Not connected"
+msgstr "Отключено"
+
+#: ../view.js:354
+msgid "Ethernet: "
+msgstr "Ethernet: "
+
+#: ../view.js:357 ../view.js:379
+msgid "IP: "
+msgstr "IP: "
+
+#: ../view.js:360 ../view.js:361 ../view.js:382 ../view.js:386 ../view.js:507
+#: ../view.js:561 ../view.js:572 ../view.js:584 ../view.js:586
+#, fuzzy
+msgid "Not available"
+msgstr "Недоступен"
+
+#: ../view.js:361 ../view.js:383
+msgid "MAC: "
+msgstr "MAC: "
+
+#: ../view.js:376
+msgid "Wi-Fi: "
+msgstr "Wi-Fi: "
+
+#: ../view.js:395
+msgid "Model: "
+msgstr "Модель: "
+
+#: ../view.js:396
+msgid "Version: "
+msgstr "Версия: "
+
+#: ../view.js:407
+msgid "Please check the connection and the page URL"
+msgstr "Пожалуйста, проверьте соединение и URL страницы"
+
+#: ../view.js:427 ../view.js:465
+msgid "Try again"
+msgstr "Попробовать снова"
+
+#: ../view.js:432
+msgid "Embedded portal"
+msgstr "Встроенный портал"
+
+#: ../view.js:440
+msgid "System settings"
+msgstr "Системные настройки"
+
+#: ../view.js:568 ../view.js:582
+msgid "Disabled"
+msgstr "Отключено"

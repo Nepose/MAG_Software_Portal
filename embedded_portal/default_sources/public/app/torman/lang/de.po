@@ -1,0 +1,355 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Internet Bookmarks Manager\n"
+"POT-Creation-Date: 2014-07-22 16:26+0300\n"
+"PO-Revision-Date: 2014-07-22 16:26+0300\n"
+"Last-Translator: B_A_S <1990bas@gmail.com>\n"
+"Language-Team: \n"
+"Language: German\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext.data\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../cdlist.js:322
+msgid "Unsupported format"
+msgstr "Datei wird nicht unterstützt "
+
+#: ../cdlist.js:325
+msgid "File not found"
+msgstr "Datei nicht gefunden"
+
+#: ../view.main.js:82
+msgid "Download manager"
+msgstr "Download Manager"
+
+#: ../view.main.js:96
+msgid "Enter part of download name..."
+msgstr "Geben Sie einen Teil des Downloadnamens ein"
+
+#: ../view.main.js:165
+msgid "USB storage is connected"
+msgstr "USB-Speichermedium angeschlossen:"
+
+#: ../view.main.js:185
+msgid "Exit"
+msgstr "Beenden"
+
+#: ../view.main.js:198
+msgid "Menu"
+msgstr "Menü"
+
+#: ../view.main.js:201 ../view.main.js:678
+msgid "Show<br>info panel"
+msgstr "Informationsfeld<br />einblenden"
+
+#: ../view.main.js:204
+msgid "Add<br>download"
+msgstr "Download<br>hinzufügen"
+
+#: ../view.main.js:206 ../view.main.js:468
+msgid "Warning!"
+msgstr "Warnung!"
+
+#: ../view.main.js:206 ../view.main.js:468
+msgid "\"Storage read only access mode\" is enabled in System Settings"
+msgstr ""
+"\"Speicherung des Zugriffsmodus  nur lesen \" in den Systemeinstellungen "
+"aktiviert "
+
+#: ../view.main.js:206 ../view.main.js:468 ../modals.js:123 ../modals.js:126
+#: ../modals.js:142 ../modals.js:184
+msgid "Close"
+msgstr "Schließen"
+
+# menu item
+#: ../view.main.js:211 ../view.main.js:499
+msgid "Select"
+msgstr "Auswählen"
+
+#: ../view.main.js:239
+msgid "Paused "
+msgstr "Angehalten "
+
+#: ../view.main.js:240 ../view.main.js:523
+msgid "Waiting"
+msgstr "Erwartet"
+
+#: ../view.main.js:241
+msgid "Downloading"
+msgstr "Herunterladen"
+
+#: ../view.main.js:242
+msgid "Completed"
+msgstr "Vollendet"
+
+#: ../view.main.js:243 ../view.main.js:244 ../modals.js:158
+msgid "Error"
+msgstr "Fehler"
+
+#: ../view.main.js:253
+msgid "Downloads:"
+msgstr "Downloads:"
+
+#: ../view.main.js:254
+msgid "Selected:"
+msgstr "Ausgewählt:"
+
+#: ../view.main.js:265 ../modals.js:55
+msgid "File name:"
+msgstr "Dateiname:"
+
+#: ../view.main.js:266 ../modals.js:51
+msgid "URL:"
+msgstr "URL:"
+
+#: ../view.main.js:267
+msgid "Storage device:"
+msgstr "Speichergerät: "
+
+#: ../view.main.js:268
+msgid "State:"
+msgstr "Status:"
+
+# menu item
+#: ../view.main.js:269
+msgid "Priority:"
+msgstr "Priorität:"
+
+#: ../view.main.js:270
+msgid "Size:"
+msgstr "Größe:"
+
+#: ../view.main.js:304
+msgid "Contains a list of items corresponding to the given filter request"
+msgstr ""
+"Enthält eine Liste der Elemente entsprechend der ausgewählten Filter Anfrage"
+
+#: ../view.main.js:310
+msgid "Detailed info on selected download"
+msgstr "Detailierte Information zum ausgewählten Download"
+
+#: ../view.main.js:334 ../app.js:82 ../modals.js:30 ../modals.js:31
+#: ../modals.js:41 ../modals.js:42 ../modals.js:64 ../modals.js:66
+msgid "GB"
+msgstr "GB"
+
+#: ../view.main.js:336 ../app.js:83
+msgid "MB"
+msgstr "MB"
+
+#: ../view.main.js:338 ../app.js:84
+msgid "KB"
+msgstr "Kb"
+
+#: ../view.main.js:339 ../app.js:86
+msgid "B"
+msgstr "Byte"
+
+#: ../view.main.js:429
+msgid "Operations"
+msgstr "Operationen"
+
+#: ../view.main.js:484
+msgid "Temporary files cleaning..."
+msgstr "Temporäre Dateien aufräumen"
+
+# menu item
+#: ../view.main.js:493
+msgid "Open"
+msgstr "Öffnen"
+
+#: ../view.main.js:494
+msgid "Resume"
+msgstr "Zusammenfassung "
+
+#: ../view.main.js:495
+msgid "Stop"
+msgstr "Anhalten"
+
+#: ../view.main.js:496 ../modals.js:80
+msgid "Add download"
+msgstr "Download hinzufügen"
+
+# menu item
+#: ../view.main.js:497
+msgid "Increase priority"
+msgstr "Priorität erhöhen"
+
+# menu item
+#: ../view.main.js:498
+msgid "Decrease priority"
+msgstr "Priorität reduzieren"
+
+# menu item
+#: ../view.main.js:500
+msgid "Select all"
+msgstr "Alles auswählen"
+
+# menu item
+#: ../view.main.js:501
+msgid "Deselect all"
+msgstr "Auswahl aufheben "
+
+# menu item
+#: ../view.main.js:502
+msgid "Invert selection"
+msgstr "Auswahl umkehren"
+
+# menu item
+#: ../view.main.js:503
+msgid "Delete"
+msgstr "Entfernen"
+
+#: ../view.main.js:504
+msgid "Clean temporary files"
+msgstr "Temporäre Dateien reinigen"
+
+#: ../view.main.js:506
+msgid "View"
+msgstr "Ansicht"
+
+# menu item
+#: ../view.main.js:521
+msgid "All"
+msgstr "Alles"
+
+#: ../view.main.js:522
+msgid "Done"
+msgstr "Abgeschlossen"
+
+#: ../view.main.js:524
+msgid "Paused"
+msgstr "Angehalten"
+
+#: ../view.main.js:525
+msgid "Errors"
+msgstr "Fehler"
+
+#: ../view.main.js:528
+msgid "Sorting"
+msgstr "Sortierung"
+
+# menu item
+#: ../view.main.js:544
+msgid "By state"
+msgstr "Nach Status"
+
+# menu item
+#: ../view.main.js:545
+msgid "By name"
+msgstr "Nach Name"
+
+# menu item
+#: ../view.main.js:546
+msgid "By size"
+msgstr "Nach Größe"
+
+# menu item
+#: ../view.main.js:547
+msgid "By priority"
+msgstr "Nach Priorität"
+
+#: ../view.main.js:678
+msgid "Hide<br>info panel"
+msgstr "Informationsfeld<br />ausblenden"
+
+#: ../modals.js:24 ../modals.js:39
+msgid "No storage device"
+msgstr "Kein Gerät gefunden "
+
+#: ../modals.js:59
+msgid "Download in:"
+msgstr "Download nach:"
+
+#: ../modals.js:64
+msgid "Free space:"
+msgstr "Freier Platz: "
+
+#: ../modals.js:65
+msgid "of"
+msgstr "aus"
+
+#: ../modals.js:80 ../modals.js:158 ../modals.js:225
+msgid "Cancel"
+msgstr "Abbruch"
+
+#: ../modals.js:113
+msgid "Create"
+msgstr "Erstellen"
+
+#: ../modals.js:123
+msgid "Not enough disk space"
+msgstr "Nicht genügend Speicherplatz"
+
+#: ../modals.js:123
+msgid "File size: "
+msgstr "Dateigröße:"
+
+#: ../modals.js:126
+msgid "Create download"
+msgstr "Download erstellen"
+
+#: ../modals.js:126
+msgid "File name or URL already used"
+msgstr "Der Name oder die URL wird bereits verwendet"
+
+#: ../modals.js:142 ../modals.js:184
+msgid "Wrong data"
+msgstr "Unkorrekte Datei "
+
+#: ../modals.js:142
+msgid "Provided name is invalid"
+msgstr "Eingegebener Name unkorrekt "
+
+#: ../modals.js:144
+msgid "No storage device found"
+msgstr "Kein Speichermedium gefunden"
+
+#: ../modals.js:154
+msgid "Unsupported file extension"
+msgstr "Nicht unterstützte Dateierweiterung"
+
+#: ../modals.js:158
+msgid "File with this name already exist. Do you want rewrite it?"
+msgstr ""
+"Datei mit diesem Namen existiert bereits. Möchten Sie die überschreiben?"
+
+#: ../modals.js:160
+msgid "Ok"
+msgstr "Okay"
+
+#: ../modals.js:175
+msgid "Some error. Please rename the file."
+msgstr "Fehler. Bitte bennenen Sie die Datei um."
+
+#: ../modals.js:184
+msgid "Provided url is invalid"
+msgstr "Eingegebene URL unkorrekt "
+
+#: ../modals.js:213
+msgid "Delete the related file"
+msgstr "Die zugehörige Datei löschen"
+
+#: ../modals.js:225
+msgid "Delete download"
+msgstr "Download entfernen"
+
+#: ../modals.js:247
+msgid "Apply"
+msgstr "Anwenden"
+
+#, fuzzy
+#~ msgid ""
+#~ "To perform this operation, you must to turn off \"Storage read only access"
+#~ "\" in system settings"
+#~ msgstr ""
+#~ "To perform this operation, you must to turn off \"Storage read only access"
+#~ "\" in system settings"
+
+#~ msgid "Downloaded:"
+#~ msgstr "Heruntergeladen:"

@@ -1,0 +1,1067 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: settings\n"
+"POT-Creation-Date: 2017-03-10 11:51+0200\n"
+"PO-Revision-Date: 2018-08-17 14:43+0300\n"
+"Last-Translator: Boris Aleynikov <aleynikov.boris@gmail.com>\n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-KeywordsList: _;gettext.data\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../js/base_function.js:6 ../js/keypress.js:474 ../js/main.js:858
+#: ../js/main.js:1025 ../js/main.js:2097 ../js/main.js:2141 ../js/main.js:2178
+#: ../js/main.js:2841 ../js/main.js:2864 ../js/main.js:4088 ../js/main.js:4100
+msgid "Confirm"
+msgstr "Bestätigen"
+
+#: ../js/base_function.js:6 ../js/keypress.js:474 ../js/keypress.js:485
+#: ../js/main.js:860 ../js/main.js:923 ../js/main.js:1011 ../js/main.js:1027
+#: ../js/main.js:1240 ../js/main.js:1623 ../js/main.js:1681 ../js/main.js:1771
+#: ../js/main.js:1939 ../js/main.js:1978 ../js/main.js:2099 ../js/main.js:2143
+#: ../js/main.js:2180 ../js/main.js:2841 ../js/main.js:2866 ../js/main.js:3092
+#: ../js/main.js:3106 ../js/main.js:3253 ../js/main.js:3389 ../js/main.js:3561
+#: ../js/main.js:3563 ../js/main.js:3666 ../js/main.js:4088 ../js/main.js:4102
+#: ../js/main.js:4188 ../js/main.js:4233 ../js/main.js:4247 ../js/main.js:4381
+#: ../js/modals.js:59 ../js/modals.js:147 ../js/modals.js:229
+#: ../js/modals.js:289
+msgid "Cancel"
+msgstr "Abbruch"
+
+#: ../js/base_function.js:6 ../js/main.js:140 ../js/main.js:4754
+#: ../js/main.js:4779
+msgid "Save"
+msgstr "Speichern"
+
+#: ../js/cbtlist.js:138 ../js/main.js:1976
+msgid "Unpaire"
+msgstr ""
+
+#: ../js/keypress.js:474
+msgid ""
+"You have changed some settings.<br>To apply new settings it is necessary to "
+"reboot device.<br>Reboot now?"
+msgstr ""
+"Einige Änderungen wurden bei den Einstellungen vorgenommen.<br>Das Gerät "
+"muss neugestartet werden.<br>Jetzt neustarten? "
+
+#: ../js/keypress.js:480 ../js/keypress.js:491 ../js/main.js:862
+#: ../js/main.js:1029 ../js/main.js:2108 ../js/main.js:2169 ../js/main.js:2206
+#: ../js/main.js:2841 ../js/main.js:2868 ../js/main.js:4088 ../js/main.js:4103
+#: ../js/main.js:4926 ../js/main.js:4927 ../js/main.js:4928
+msgid "Yes"
+msgstr "Ja"
+
+#: ../js/keypress.js:485
+msgid "Confirmation"
+msgstr "Bestätigung"
+
+#: ../js/keypress.js:485
+msgid ""
+"You have changed some settings.<br>To apply new settings it is necessary to "
+"restart portal.<br>Restart now?"
+msgstr ""
+"Einige Änderungen wurden bei den Einstellungen vorgenommen.<br>Das Portal "
+"muss neugestartet werden.<br>Jetzt neustarten? "
+
+#: ../js/keypress.js:518 ../js/keypress.js:587
+msgid "Some settings have been changed"
+msgstr "Einige Einstellungen wurden geändert "
+
+#: ../js/main.js:13
+#, fuzzy
+msgid "No data"
+msgstr "No data"
+
+#: ../js/main.js:46
+msgid "USB storage is connected"
+msgstr "USB-Datenträger angeschlossen"
+
+#: ../js/main.js:123
+msgid "Exit"
+msgstr "Beenden"
+
+#: ../js/main.js:131 ../js/main.js:2232 ../js/main.js:2549 ../js/main.js:3197
+#: ../js/main.js:3426 ../js/main.js:3594 ../js/main.js:3806 ../js/main.js:4752
+msgid "More"
+msgstr "Zusätzliche"
+
+#: ../js/main.js:134 ../js/main.js:4757
+msgid "Up"
+msgstr "Auf"
+
+#: ../js/main.js:137 ../js/main.js:4759
+msgid "Down"
+msgstr "Ab"
+
+#: ../js/main.js:160
+msgid "Info"
+msgstr "Information"
+
+#: ../js/main.js:183 ../js/main.js:4783
+msgid "Add network"
+msgstr "Add network"
+
+#: ../js/main.js:193
+msgid "Remove network"
+msgstr ""
+
+#: ../js/main.js:194
+msgid "Remove"
+msgstr ""
+
+#: ../js/main.js:194
+msgid "Do you want to remove this network?"
+msgstr ""
+
+#: ../js/main.js:194 ../js/main.js:616 ../js/main.js:620 ../js/main.js:1259
+#: ../js/main.js:2253 ../js/main.js:2262 ../js/main.js:2619 ../js/main.js:3719
+msgid "Close"
+msgstr "Schließen"
+
+#: ../js/main.js:194 ../js/main.js:1880 ../js/modals.js:316
+#, fuzzy
+msgid "Ok"
+msgstr "Ok"
+
+#: ../js/main.js:196 ../js/main.js:4774 ../js/modals.js:61 ../js/modals.js:149
+#: ../js/modals.js:231
+msgid "Refresh"
+msgstr "Neu laden"
+
+#: ../js/main.js:616 ../js/main.js:620 ../js/main.js:923 ../js/main.js:1011
+#: ../js/main.js:1240 ../js/main.js:1259 ../js/main.js:1623 ../js/main.js:1681
+#: ../js/main.js:1771 ../js/main.js:2253 ../js/main.js:2262 ../js/main.js:2619
+#: ../js/main.js:3253 ../js/main.js:3389 ../js/main.js:3561 ../js/main.js:3563
+#: ../js/main.js:3666 ../js/main.js:4188 ../js/main.js:4233 ../js/main.js:4247
+#: ../js/main.js:4381
+msgid "Notice"
+msgstr "Mitteilung"
+
+#: ../js/main.js:616 ../js/main.js:2253
+msgid ""
+"During file playback, video output frame rate will be automatically "
+"adjusted<br/>according to played content.<br />Notes:<br />- works only with "
+"HDMI 720p/1080i/1080p video modes<br />- make sure your TV supports required "
+"video mode"
+msgstr ""
+"Während der Wiedergabe wird die Video-Bildfrequenz  automatisch angepasst<br/"
+">mit der Wiedergabe der Mediendatei.<br />Bemerkung:<br />- funktioniert nur "
+"bei HDMI 720p/1080i/1080p Videoauflösungen.<br />- Vergewissern Sie sich, "
+"dass Ihr Fernseher diese Auflösungen unterstützt."
+
+#: ../js/main.js:620
+msgid ""
+"<span style=\"color: red\">With option enabled in DVI mode<br/>HDMI audio "
+"will be missing</span>"
+msgstr ""
+
+#: ../js/main.js:688 ../js/main.js:748 ../js/main.js:4547
+msgid "Network"
+msgstr "Netzwerk"
+
+#: ../js/main.js:689 ../js/main.js:3182 ../js/main.js:4548
+msgid "Servers"
+msgstr "Server"
+
+#: ../js/main.js:690 ../js/main.js:2000 ../js/main.js:4549
+msgid "Video"
+msgstr "Video"
+
+#: ../js/main.js:691 ../js/main.js:3735 ../js/main.js:4550
+msgid "Audio"
+msgstr "Audio"
+
+#: ../js/main.js:692 ../js/main.js:2337 ../js/main.js:2340 ../js/main.js:4551
+msgid "Advanced settings"
+msgstr "Erweiterte Einstellungen"
+
+#: ../js/main.js:693 ../js/main.js:3955 ../js/main.js:4552
+msgid "Keyboard layout"
+msgstr "Tastaturbelegung"
+
+#: ../js/main.js:694 ../js/main.js:850 ../js/main.js:1075 ../js/main.js:1290
+#: ../js/main.js:2651 ../js/main.js:4553 ../js/main.js:4766 ../js/modals.js:59
+#: ../js/modals.js:147 ../js/modals.js:229
+msgid "Network info"
+msgstr "Netzwerkinformation"
+
+#: ../js/main.js:695 ../js/main.js:4059 ../js/main.js:4554
+msgid "Device info"
+msgstr "Geräteinformation"
+
+#: ../js/main.js:696 ../js/main.js:4555
+msgid "Restart portal"
+msgstr "Das Portal neustarten"
+
+#: ../js/main.js:697 ../js/main.js:4556
+msgid "Reboot device"
+msgstr "Gerät neu starten"
+
+#: ../js/main.js:698 ../js/main.js:4557
+msgid "Reset settings"
+msgstr "Einstellungen zurücksetzen"
+
+#: ../js/main.js:699 ../js/main.js:4558
+msgid "Clear user data"
+msgstr "Benutzerdaten löschen "
+
+#: ../js/main.js:700 ../js/main.js:2896 ../js/main.js:3060 ../js/main.js:3132
+#: ../js/main.js:4559
+msgid "Software update"
+msgstr "Software Update"
+
+#: ../js/main.js:703 ../js/main.js:4130 ../js/main.js:4562
+msgid "Remote control"
+msgstr "Fernbedienung"
+
+#: ../js/main.js:726
+msgid "System settings"
+msgstr "Systemeinstellungen "
+
+#: ../js/main.js:763 ../js/main.js:769 ../js/main.js:809 ../js/main.js:2669
+#: ../js/main.js:2675 ../js/main.js:2708
+msgid "Wired (Ethernet)"
+msgstr "LAN (Ethernet)"
+
+#: ../js/main.js:764 ../js/main.js:771 ../js/main.js:1267 ../js/main.js:2670
+#: ../js/main.js:2677 ../js/main.js:2807
+msgid "Wireless (Wi-Fi)"
+msgstr "W-LAN  (Wi-Fi)"
+
+#: ../js/main.js:770 ../js/main.js:1057 ../js/main.js:2676 ../js/main.js:2764
+msgid "PPPoE"
+msgstr "PPPoE"
+
+#: ../js/main.js:778
+msgid "Bluetooth"
+msgstr ""
+
+#: ../js/main.js:828 ../js/main.js:835 ../js/main.js:1064 ../js/main.js:1118
+#: ../js/main.js:1278 ../js/main.js:1329
+msgid "Auto (DHCP)"
+msgstr "Auto (DHCP)"
+
+#: ../js/main.js:829 ../js/main.js:836 ../js/main.js:889 ../js/main.js:1065
+#: ../js/main.js:1200 ../js/main.js:1279 ../js/main.js:1647
+msgid "Auto (DHCP), manual DNS"
+msgstr "Auto (DHCP), DNS manuell "
+
+#: ../js/main.js:830 ../js/main.js:837 ../js/main.js:943 ../js/main.js:1280
+#: ../js/main.js:1703
+msgid "Manual"
+msgstr "Manuell "
+
+#: ../js/main.js:838
+msgid "No IP"
+msgstr "Keine IP"
+
+#: ../js/main.js:859 ../js/main.js:1026
+msgid "Confirm changes?"
+msgstr "Änderungen bestätigen? "
+
+#: ../js/main.js:923 ../js/main.js:1011 ../js/main.js:1240 ../js/main.js:1623
+#: ../js/main.js:1681 ../js/main.js:1771 ../js/main.js:2619 ../js/main.js:3253
+#: ../js/main.js:3389 ../js/main.js:3563 ../js/main.js:3666 ../js/main.js:4188
+#: ../js/main.js:4233 ../js/main.js:4247 ../js/main.js:4381
+msgid "Following fields filled in incorrectly:"
+msgstr "Folgende Felder wurden falsch ausgefüllt: "
+
+#: ../js/main.js:954 ../js/main.js:982 ../js/main.js:1714 ../js/main.js:1739
+#: ../js/main.js:2740 ../js/main.js:2783 ../js/main.js:2831 ../js/modals.js:42
+#: ../js/modals.js:134 ../js/modals.js:216
+msgid "IP address:"
+msgstr "IP Adresse: "
+
+#: ../js/main.js:955 ../js/main.js:990 ../js/main.js:1715 ../js/main.js:1747
+#: ../js/main.js:2741 ../js/modals.js:46
+msgid "Network mask:"
+msgstr "Netzmaske:"
+
+#: ../js/main.js:956 ../js/main.js:998 ../js/main.js:1716 ../js/main.js:1755
+#: ../js/main.js:2742 ../js/main.js:2784 ../js/main.js:2832 ../js/modals.js:50
+#: ../js/modals.js:138 ../js/modals.js:220
+msgid "Gateway:"
+msgstr "Netzübergang:"
+
+#: ../js/main.js:957 ../js/main.js:1006 ../js/main.js:2743 ../js/main.js:2785
+#: ../js/main.js:2833 ../js/modals.js:54 ../js/modals.js:142
+#: ../js/modals.js:224
+msgid "DNS server:"
+msgstr "DNS Server: "
+
+#: ../js/main.js:1093 ../js/main.js:1165
+msgid "PPPoE:"
+msgstr "PPPoE:"
+
+#: ../js/main.js:1106 ../js/main.js:1187
+msgid "Login:"
+msgstr "Anmeldung:"
+
+#: ../js/main.js:1107 ../js/main.js:1188 ../js/modals.js:273
+msgid "Password:"
+msgstr "Kennwort: "
+
+#: ../js/main.js:1189
+msgid "DNS:"
+msgstr "DNS:"
+
+#: ../js/main.js:1259
+msgid "Wi-Fi adapter not connected"
+msgstr "W-LAN Adapter ist nicht angeschlossen"
+
+#: ../js/main.js:1357 ../js/main.js:1436
+msgid "Open"
+msgstr "Offen"
+
+#: ../js/main.js:1358 ../js/main.js:1437
+msgid "Shared key"
+msgstr "Vereinbarter Schlüssel"
+
+#: ../js/main.js:1359 ../js/main.js:1438
+msgid "Auto Open/Shared key"
+msgstr "Auto Open/Vereinbarter Schlüssel "
+
+#: ../js/main.js:1364 ../js/main.js:1443
+msgid "NONE"
+msgstr "Ausgeschaltet "
+
+#: ../js/main.js:1385 ../js/main.js:1495 ../js/main.js:4814
+msgid "Authentication mode:"
+msgstr "Authentifizierungs-Modus: "
+
+#: ../js/main.js:1386 ../js/main.js:1496 ../js/main.js:4815
+msgid "Encryption:"
+msgstr "Verschlüsselung: "
+
+#: ../js/main.js:1387 ../js/main.js:1497 ../js/main.js:1551 ../js/main.js:1582
+#: ../js/main.js:1594 ../js/main.js:1598 ../js/main.js:1605 ../js/main.js:1616
+msgid "Key or passphrase:"
+msgstr "Kennwort: "
+
+#: ../js/main.js:1388 ../js/main.js:1498
+msgid "Keys and encoding setup"
+msgstr "Schlüssel- und Verschlüsselungseinstellungen "
+
+#: ../js/main.js:1795
+msgid "Scan devices"
+msgstr ""
+
+#: ../js/main.js:1799 ../js/main.js:1866
+msgid "Enable Bluetooth"
+msgstr ""
+
+#: ../js/main.js:1822 ../js/main.js:1866
+msgid "Disable Bluetooth"
+msgstr ""
+
+#: ../js/main.js:1826 ../js/main.js:1838 ../js/main.js:1864
+msgid "Search for devices"
+msgstr ""
+
+#: ../js/main.js:1832
+#, fuzzy
+msgid "Searching ..."
+msgstr "Beginne Update ... "
+
+#: ../js/main.js:1846
+msgid "Scanning devices failed"
+msgstr ""
+
+#: ../js/main.js:1877
+msgid "Bluetooth pairing request"
+msgstr ""
+
+#: ../js/main.js:1879
+msgid ""
+"Note: After you type this code, you might need to press Enter, OK, or a "
+"similar button on your device"
+msgstr ""
+
+#: ../js/main.js:1878
+msgid "Enter the code on your device: "
+msgstr ""
+
+#: ../js/main.js:1890
+msgid "Bluetooth authentication failed"
+msgstr ""
+
+#: ../js/main.js:1903
+msgid "Bluetooth device connected"
+msgstr ""
+
+#: ../js/main.js:1906
+msgid "Bluetooth device disconnected"
+msgstr ""
+
+#: ../js/main.js:1928
+msgid "Enable"
+msgstr ""
+
+#: ../js/main.js:1937
+#, fuzzy
+msgid "Connection"
+msgstr "Verbunden"
+
+#: ../js/main.js:1938
+#, fuzzy
+msgid "Device "
+msgstr "Geräteinformation"
+
+#: ../js/main.js:1941
+msgid "Connect"
+msgstr ""
+
+#: ../js/main.js:1948 ../js/main.js:1959
+msgid "Connection failed"
+msgstr ""
+
+#: ../js/main.js:1949
+msgid "This device type is not supported"
+msgstr ""
+
+#: ../js/main.js:1950 ../js/main.js:1961
+msgid "close"
+msgstr ""
+
+#: ../js/main.js:1960
+#, fuzzy
+msgid "Connection to "
+msgstr "Verbunden"
+
+#: ../js/main.js:1977
+#, fuzzy
+msgid "Device"
+msgstr "Geräteinformation"
+
+#: ../js/main.js:1977
+msgid "will be unpaired"
+msgstr ""
+
+#: ../js/main.js:1980
+msgid "Forget"
+msgstr ""
+
+#: ../js/main.js:2023 ../js/main.js:2034
+msgid "Video output mode:"
+msgstr "Videoausgang:"
+
+#: ../js/main.js:2031
+msgid "Graphic resolution:"
+msgstr "Grafische Auflösung"
+
+#: ../js/main.js:2098
+msgid ""
+"OK to confirm the new mode. <br> EXIT to return to the previous mode. <br> "
+"<br> Return to the previous mode after 15 seconds."
+msgstr ""
+
+#: ../js/main.js:2142 ../js/main.js:2179
+msgid ""
+"OK to confirm the new mode. <br> Confirmation will reboot the device. <br> "
+"EXIT to cancel."
+msgstr ""
+
+#: ../js/main.js:2245
+msgid "Auto frame rate:"
+msgstr "Automatische Bildfrequenz:"
+
+#: ../js/main.js:2246 ../js/main.js:2417 ../js/main.js:2428 ../js/main.js:2771
+#: ../js/main.js:3827 ../js/modals.js:121 ../js/modals.js:162
+msgid "Disabled"
+msgstr "Deaktiviert"
+
+#: ../js/main.js:2257
+msgid "HDMI/DVI:"
+msgstr "HDMI/DVI:"
+
+#: ../js/main.js:2258
+msgid "HDMI"
+msgstr "HDMI"
+
+#: ../js/main.js:2259
+msgid "DVI"
+msgstr "DVI"
+
+#: ../js/main.js:2262
+msgid ""
+"<span style='color: red'>With option enabled in DVI mode<br/>HDMI audio will "
+"be missing</span>"
+msgstr ""
+
+#: ../js/main.js:2405
+msgid "Language:"
+msgstr "Sprache:"
+
+#: ../js/main.js:2415
+msgid "Time zone:"
+msgstr "Zeitzone: "
+
+#: ../js/main.js:2416
+msgid "UPnP client enabled:"
+msgstr "UPnP-Client aktiviert:  "
+
+#: ../js/main.js:2419
+msgid "Wireless"
+msgstr "Wireless"
+
+#: ../js/main.js:2421
+msgid "Buffer size (ms):"
+msgstr "Puffergröße (ms):"
+
+#: ../js/main.js:2427
+#, fuzzy
+msgid "HDMI-CEC:"
+msgstr "HDMI"
+
+#: ../js/main.js:2429
+msgid "Enabled"
+msgstr "Aktiviert"
+
+#: ../js/main.js:2430
+msgid "Enable once"
+msgstr "Einmalig aktivieren"
+
+#: ../js/main.js:2555
+msgid "Storages access mode:"
+msgstr "Speicherzugriffsmodus:"
+
+#: ../js/main.js:2556
+msgid "full access"
+msgstr "Vollzugriff"
+
+#: ../js/main.js:2557
+msgid "read only"
+msgstr "nur lesen"
+
+#: ../js/main.js:2560
+msgid "This change will take effect after reboot"
+msgstr "Diese Änderungen werden nach dem Neustart übernommen "
+
+#: ../js/main.js:2564
+msgid "IGMP version:"
+msgstr "IGMP Version:"
+
+#: ../js/main.js:2568
+msgid "Multicast proxy enabled:"
+msgstr "Multicast-Proxy aktiviert: "
+
+#: ../js/main.js:2577 ../js/main.js:2614
+msgid "Multicast proxy URL:"
+msgstr "Multicast Proxy URL: "
+
+#: ../js/main.js:2725 ../js/modals.js:23 ../js/modals.js:81
+msgid "Manual DNS"
+msgstr "Manuelle DNS"
+
+#: ../js/main.js:2728 ../js/main.js:2818 ../js/modals.js:19 ../js/modals.js:77
+#: ../js/modals.js:197 ../js/modals.js:243
+msgid "Static IP"
+msgstr "Statische IP-Adresse"
+
+#: ../js/main.js:2731 ../js/modals.js:16 ../js/modals.js:74
+msgid "No config"
+msgstr "Keine Konfiguration"
+
+#: ../js/main.js:2735 ../js/main.js:2779 ../js/main.js:2826
+msgid "Current configuration"
+msgstr "Aktuelle Konfiguration"
+
+#: ../js/main.js:2737 ../js/main.js:2781 ../js/main.js:2828
+msgid "Current status"
+msgstr "Aktueller Status"
+
+#: ../js/main.js:2738 ../js/main.js:2782 ../js/main.js:2829 ../js/modals.js:34
+#: ../js/modals.js:130 ../js/modals.js:208
+msgid "Link status:"
+msgstr "Linkstatus:"
+
+#: ../js/main.js:2739 ../js/main.js:2830 ../js/main.js:4073 ../js/modals.js:38
+#: ../js/modals.js:212
+msgid "MAC address:"
+msgstr "MAC Adresse:"
+
+#: ../js/main.js:2841
+msgid "Restart portal?"
+msgstr "Das Portal neustarten?"
+
+#: ../js/main.js:2865
+msgid "Reset settings?"
+msgstr "Einstellungen zurücksetzen?"
+
+#: ../js/main.js:2881 ../js/main.js:3139
+msgid "HTTP"
+msgstr "HTTP"
+
+#: ../js/main.js:2882 ../js/main.js:3140
+msgid "USB"
+msgstr "USB"
+
+#: ../js/main.js:2885 ../js/main.js:3143
+msgid "Multicast"
+msgstr "Multicast"
+
+#: ../js/main.js:2888 ../js/main.js:3146
+msgid "TFTP"
+msgstr "TFTP"
+
+#: ../js/main.js:2903 ../js/main.js:3134
+msgid "Update method:"
+msgstr "Aktualisierungsmethode:"
+
+#: ../js/main.js:2952 ../js/main.js:3135
+msgid "Disk:"
+msgstr "Festplatte: "
+
+#: ../js/main.js:2959 ../js/main.js:2980 ../js/main.js:3152
+msgid "No disk found"
+msgstr "Festplatte wurde nicht gefunden"
+
+#: ../js/main.js:2963 ../js/main.js:3136
+msgid "Path:"
+msgstr "Pfad: "
+
+#: ../js/main.js:3071
+msgid "Incorrect URL"
+msgstr "Falsche URL "
+
+#: ../js/main.js:3082
+msgid "USB device not found!"
+msgstr "USB-Datenträger wurde nicht gefunden! "
+
+#: ../js/main.js:3092 ../js/main.js:3106 ../js/main.js:3719
+msgid "Warning"
+msgstr "Achtung "
+
+#: ../js/main.js:3092 ../js/main.js:3106
+msgid ""
+"<span class=\"alert\">Warning!</span> The device will be rebooted and "
+"updated automatically."
+msgstr ""
+"<span class='alert'>Achtung!</span>Das Gerät wird neu gestartet und "
+"automatisch aktualisiert. "
+
+#: ../js/main.js:3094 ../js/main.js:3108
+msgid "Update"
+msgstr "Update"
+
+#: ../js/main.js:3096 ../js/main.js:3110
+msgid "Starting update..."
+msgstr "Beginne Update ... "
+
+#: ../js/main.js:3098 ../js/main.js:3112
+msgid "Some error occurred. Please, contact your operator."
+msgstr ""
+"Es ist ein Fehler aufgetreten. Bitte kontaktieren Sie Ihren Netzbetreiber. "
+
+#: ../js/main.js:3123
+msgid "Verify"
+msgstr "Prüfen "
+
+#: ../js/main.js:3195 ../js/main.js:3225
+msgid "General"
+msgstr "Allgemeine "
+
+#: ../js/main.js:3196 ../js/main.js:3304
+msgid "Portals"
+msgstr "Portale"
+
+#: ../js/main.js:3232 ../js/main.js:3248
+msgid "NTP server:"
+msgstr "NTP Server:"
+
+#: ../js/main.js:3331
+msgid "Portal 1 name"
+msgstr "Portal 1 name"
+
+#: ../js/main.js:3332 ../js/main.js:3368
+msgid "Portal 1 URL"
+msgstr "Portal 1 URL"
+
+#: ../js/main.js:3333
+msgid "Portal 2 name"
+msgstr "Portal 2 name"
+
+#: ../js/main.js:3334 ../js/main.js:3385
+msgid "Portal 2 URL"
+msgstr "Portal 2 URL"
+
+#: ../js/main.js:3453 ../js/main.js:3454 ../js/main.js:3455 ../js/main.js:3456
+msgid "sec."
+msgstr "Sek."
+
+#: ../js/main.js:3457 ../js/main.js:3458
+msgid "min."
+msgstr "Min."
+
+#: ../js/main.js:3459
+msgid "Without auto start"
+msgstr "Ohne Autostart"
+
+#: ../js/main.js:3462
+msgid "Multiportal mode:"
+msgstr "Multiportal Modus:"
+
+#: ../js/main.js:3463
+msgid "Default portal:"
+msgstr "Standard Portal: "
+
+#: ../js/main.js:3464
+msgid "Portal load delay:"
+msgstr "Portal lädt verzögert "
+
+#: ../js/main.js:3465 ../js/main.js:4638 ../js/main.js:4642 ../js/main.js:4671
+#: ../js/main.js:4675
+msgid "Portal:"
+msgstr "Portal:"
+
+#: ../js/main.js:3466 ../js/main.js:3692
+msgid "Use portal"
+msgstr "Portal verwenden"
+
+#: ../js/main.js:3467 ../js/main.js:3693
+msgid "Name"
+msgstr "Name"
+
+#: ../js/main.js:3468 ../js/main.js:3694
+msgid "URL"
+msgstr "URL"
+
+#: ../js/main.js:3556
+msgid "Not all required fields are filled."
+msgstr "Nicht alle Pflichtfelder wurden ausgefüllt."
+
+#: ../js/main.js:3600
+msgid "Use DHCP portal:"
+msgstr "DHCP Portal verwenden:"
+
+#: ../js/main.js:3609 ../js/main.js:3637
+msgid "DHCP portal:"
+msgstr "DHCP Portal:"
+
+#: ../js/main.js:3610 ../js/main.js:3645
+msgid "Bootstrap URL:"
+msgstr "Bootstrap URL:"
+
+#: ../js/main.js:3611 ../js/main.js:3653
+msgid "Update URL:"
+msgstr "Update URL:"
+
+#: ../js/main.js:3612 ../js/main.js:3661
+msgid "Control channel URL:"
+msgstr "Sender Verwaltung (URL): "
+
+#: ../js/main.js:3719
+msgid ""
+"For correct work of \"Multiportal mode\" it is necessary to turn off \"Use "
+"DHCP portal\" (System settings/Servers/More)"
+msgstr ""
+"Für korrekte Ausführung \"Multiportal mode\" Ausschaltung notwendig \"DHCP "
+"Portal verwenden\" (Systemeinstellungen/Server/Zusätzliche)"
+
+#: ../js/main.js:3750
+msgid "Initial volume:"
+msgstr "Platzierungsvolumen "
+
+#: ../js/main.js:3751
+msgid "Audio output mode:"
+msgstr "Videoausgang:"
+
+#: ../js/main.js:3752
+msgid "Stereo"
+msgstr "Stereo "
+
+#: ../js/main.js:3753
+msgid "Mono"
+msgstr "Mono"
+
+#: ../js/main.js:3754
+msgid "Mono Left"
+msgstr "Mono Links"
+
+#: ../js/main.js:3755
+msgid "Mono Right"
+msgstr "Mono Rechts"
+
+#: ../js/main.js:3826
+msgid "Dynamic range compression:"
+msgstr "Komprimierung des Dynamikbereichs  "
+
+#: ../js/main.js:3835
+msgid "Max"
+msgstr "Max"
+
+#: ../js/main.js:3837
+msgid "Operating mode:"
+msgstr "Betriebsmodus:"
+
+#: ../js/main.js:3843
+msgid "SPDIF Mode:"
+msgstr "SPDIF Modus:"
+
+#: ../js/main.js:3847
+msgid "HDMI Audio:"
+msgstr "HDMI Audio:"
+
+#: ../js/main.js:3937
+msgid "Russian"
+msgstr "Russisch"
+
+#: ../js/main.js:3938
+msgid "Ukrainian"
+msgstr "Ukrainisch"
+
+#: ../js/main.js:3939
+msgid "English"
+msgstr "Englisch "
+
+#: ../js/main.js:3940
+msgid "German"
+msgstr "Deutsch"
+
+#: ../js/main.js:3941
+#, fuzzy
+msgid "Turkish"
+msgstr "Türkisch"
+
+#: ../js/main.js:3942
+msgid "Arabic"
+msgstr ""
+
+#: ../js/main.js:3943
+#, fuzzy
+msgid "Bulgarian"
+msgstr "Bulgarisch"
+
+#: ../js/main.js:3944
+#, fuzzy
+msgid "Greek"
+msgstr "Griechisch"
+
+#: ../js/main.js:3945
+#, fuzzy
+msgid "Spanish"
+msgstr "Spanisch"
+
+#: ../js/main.js:4035
+msgid ""
+"None of the proposed layouts selected.<br>Layouts will be selected according "
+"to the location."
+msgstr ""
+"Keiner der vorgeschlagenen Layouts wurde ausgewählt. <br> Layouts werden "
+"entsprechend dem Standort ausgewählt."
+
+#: ../js/main.js:4071
+msgid "Model:"
+msgstr "Modell:"
+
+#: ../js/main.js:4072
+msgid "Serial number:"
+msgstr "Seriennummer:"
+
+#: ../js/main.js:4074
+msgid "Vendor:"
+msgstr "Hersteller:"
+
+#: ../js/main.js:4075
+msgid "Hardware version:"
+msgstr "Hardware-Version:"
+
+#: ../js/main.js:4076
+msgid "Active bank:"
+msgstr "Aktivbank:"
+
+#: ../js/main.js:4077
+msgid "Image version:"
+msgstr "Bildversion:"
+
+#: ../js/main.js:4078
+msgid "Image description:"
+msgstr "Bildbeschreibung:"
+
+#: ../js/main.js:4079
+#, fuzzy
+msgid "Image date:"
+msgstr "Image date:"
+
+#: ../js/main.js:4080
+msgid "RootFS version:"
+msgstr "RootFS Version:"
+
+#: ../js/main.js:4088
+msgid "Device is going to reboot. Are you sure?"
+msgstr "Gerät neustarten?"
+
+#: ../js/main.js:4101
+msgid ""
+"<span style=\"color: red\">User data will be lost!</span><br>We strongly "
+"recommend read Menu Guide.<br>Do you want to do it?"
+msgstr ""
+"<span style=\"color: red\">Benutzerdaten gehen verloren!</span><br>Wir "
+"empfehlen, sich mit der Menüführung auseinanderzusetzen.<br>Durchführen?"
+
+#: ../js/main.js:4140
+msgid "Use remote control:"
+msgstr "Die Fernbedienung verwenden:"
+
+#: ../js/main.js:4153
+msgid "Device name:"
+msgstr "Gerätename:"
+
+#: ../js/main.js:4154
+msgid "Password (numbers only):"
+msgstr "Kennwort  (nur Ziffer):"
+
+#: ../js/main.js:4174
+msgid "Device name"
+msgstr "Geräteinformation"
+
+#: ../js/main.js:4180
+msgid "Password"
+msgstr "Kennwort:"
+
+#: ../js/main.js:4211 ../js/main.js:4233 ../js/main.js:4247
+msgid "Passphrase:"
+msgstr "Verschlüsselungskennwort:"
+
+#: ../js/main.js:4212
+msgid "Generate WEP 64 keys"
+msgstr "WEP 64 Schlüssel generieren "
+
+#: ../js/main.js:4213
+msgid "Generate WEP 128 keys"
+msgstr "WEP 128 Schlüssel generieren "
+
+#: ../js/main.js:4214 ../js/main.js:4261
+msgid "Default key"
+msgstr "Standardschlüssel"
+
+#: ../js/main.js:4215 ../js/main.js:4216 ../js/main.js:4217 ../js/main.js:4218
+#: ../js/main.js:4275 ../js/main.js:4283 ../js/main.js:4287 ../js/main.js:4301
+#: ../js/main.js:4309 ../js/main.js:4314 ../js/main.js:4318 ../js/main.js:4331
+#: ../js/main.js:4339 ../js/main.js:4343 ../js/main.js:4348 ../js/main.js:4361
+#: ../js/main.js:4369 ../js/main.js:4373 ../js/main.js:4377
+msgid "Key"
+msgstr "Schlüssel"
+
+#: ../js/main.js:4215 ../js/main.js:4216 ../js/main.js:4217 ../js/main.js:4218
+msgid "symbols"
+msgstr "Symbole"
+
+#: ../js/main.js:4609
+msgid "Successfully saved"
+msgstr "Erfolgreich gespeichert"
+
+#: ../js/main.js:4615
+msgid "Same as video"
+msgstr "Dem Video entsprechend"
+
+#: ../js/main.js:4630 ../js/main.js:4655
+msgid "Embedded portal"
+msgstr "Eingebettetes Portal"
+
+#: ../js/main.js:4803
+msgid "Networks:"
+msgstr "Netzwerk:"
+
+#: ../js/main.js:4813
+msgid "SSID:"
+msgstr "SSID:"
+
+#: ../js/main.js:4816
+msgid "Frequency:"
+msgstr "Frequenz:"
+
+#: ../js/main.js:4817
+msgid "Channel:"
+msgstr "Kanal:"
+
+#: ../js/main.js:4818
+msgid "Signal info:"
+msgstr "Signalinfo:"
+
+#: ../js/main.js:4850
+msgid "Detailed info on selected network"
+msgstr "Detaillierte Informationen über  das ausgewählte Netzwerk"
+
+#: ../js/main.js:4871
+msgid "Devices:"
+msgstr ""
+
+#: ../js/main.js:4881
+msgid "Name:"
+msgstr ""
+
+#: ../js/main.js:4882
+msgid "Address:"
+msgstr ""
+
+#: ../js/main.js:4883
+msgid "Vendor Id:"
+msgstr ""
+
+#: ../js/main.js:4884
+msgid "Product Id:"
+msgstr ""
+
+#: ../js/main.js:4885
+msgid "Type:"
+msgstr ""
+
+#: ../js/main.js:4886
+msgid "Paired:"
+msgstr ""
+
+#: ../js/main.js:4887
+msgid "Powered:"
+msgstr ""
+
+#: ../js/main.js:4888
+#, fuzzy
+msgid "Active:"
+msgstr "Aktivbank:"
+
+#: ../js/main.js:4918
+msgid "Detailed info on selected device"
+msgstr ""
+
+#: ../js/main.js:4926 ../js/main.js:4927 ../js/main.js:4928
+msgid "No"
+msgstr ""
+
+#: ../js/modals.js:30 ../js/modals.js:126 ../js/modals.js:204
+msgid "Current configuration:"
+msgstr "Aktuelle Konfiguration:"
+
+#: ../js/modals.js:289
+#, fuzzy
+msgid "Enter password"
+msgstr "Enter password"
+
+#: ../js/modals.js:321
+#, fuzzy
+msgid "Wrong password!"
+msgstr "Wrong password!"
+
+#~ msgid ""
+#~ "<span style=\"color: red\">With option enabled in DIV mode<br/>HDMI audio "
+#~ "will be missing</span>"
+#~ msgstr ""
+#~ "<span style=\"color: red\">Mit der DIV-Auswahl wird das Audiosignal nicht "
+#~ "über HDMI übertragen </span> "
+
+#~ msgid ""
+#~ "<span style='color: red'>With option enabled in DIV mode<br/>HDMI audio "
+#~ "will be missing</span>"
+#~ msgstr ""
+#~ "<span style=\"color: red\">Mit der DIV-Auswahl wird das Audiosignal nicht "
+#~ "über HDMI übertragen </span> "
+
+#~ msgid "Not connected "
+#~ msgstr "Nicht verbunden"

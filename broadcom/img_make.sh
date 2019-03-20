@@ -77,19 +77,18 @@ fi
 [ "$ROOTFS_PATH" == "" ] && not_existing "Path to root file system" "ROOTFS_PATH"; export ROOTFS_PATH="$ROOTFS_PATH"
 [ "$KERNEL_PATH" == "" ] && not_existing "Path to kernel" "KERNEL_PATH"; export KERNEL_PATH="$KERNEL_PATH"
 
-# Get update API
-if [ ! -f $ROOTFS_PATH/etc/VerUpdateAPI.conf ] ; then
-    echo -e "[ ${OutputRed}ERR${OutputWhite} ] Update API version is not defined!!!\n"
-    exit 1;
-fi
-
 # Look if image output exists
 if [[ "$IMAGE_OUTPUT" == "" ]]; then
 	export IMAGE_OUTPUT="./imageupdate"
 	echo "[${OutputYellow}WARN!${OutputWhite}] The image output property was empty. Defaulting to \"./imageupdate\"..."
 fi
 
-verUpdateAPI=`cat $ROOTFS_PATH/etc/VerUpdateAPI.conf | awk '{printf  $1; exit;}'`
+# Look for update API version
+[ "$VER_UPDATE_API" != "" ] && verUpdateAPI=$VER_UPDATE_API || verUpdateAPI=`cat $ROOTFS_PATH/etc/VerUpdateAPI.conf | awk '{printf  $1; exit;}'`
+if [ ! -f $ROOTFS_PATH/etc/VerUpdateAPI.conf ] ; then
+    echo -e "[ ${OutputRed}ERR${OutputWhite} ] Update API version is not defined!!!\n"
+    exit 1;
+fi
 
 echo "[ ${OutputBlue}TRY${OutputWhite} ] Make rootfs image $ROOTFS_PATH"
 ./mk_rfs.sh $ROOTFS_PATH

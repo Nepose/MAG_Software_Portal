@@ -1,0 +1,361 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Internet Bookmarks Manager\n"
+"POT-Creation-Date: 2016-10-20 16:34+0300\n"
+"PO-Revision-Date: 2016-10-20 16:34+0300\n"
+"Last-Translator: B_A_S <1990bas@gmail.com>\n"
+"Language-Team: \n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-KeywordsList: _;gettext.data\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../app.js:92 ../modals.js:30 ../modals.js:31 ../modals.js:41
+#: ../modals.js:42 ../modals.js:64 ../modals.js:66 ../view.main.js:334
+msgid "GB"
+msgstr "GB"
+
+#: ../app.js:93 ../view.main.js:337
+msgid "MB"
+msgstr "MB"
+
+#: ../app.js:94 ../view.main.js:340
+msgid "KB"
+msgstr "KB"
+
+#: ../app.js:96 ../view.main.js:342
+msgid "B"
+msgstr "B"
+
+#: ../cdlist.js:319
+msgid "Unsupported format"
+msgstr "Biçim desteklenmiyor"
+
+#: ../cdlist.js:322
+msgid "File not found"
+msgstr "Dosya bulunamadı"
+
+#: ../modals.js:24 ../modals.js:39
+msgid "No storage device"
+msgstr "Depolama cihazı yok"
+
+#: ../modals.js:51 ../view.main.js:266
+msgid "URL:"
+msgstr "URL:"
+
+#: ../modals.js:55 ../view.main.js:265
+msgid "File name:"
+msgstr "Dosya adı:"
+
+#: ../modals.js:59
+msgid "Download in:"
+msgstr "İndir:"
+
+#: ../modals.js:64
+msgid "Free space:"
+msgstr "Boş alan:"
+
+#: ../modals.js:65
+msgid "of"
+msgstr "nereden"
+
+#: ../modals.js:80 ../view.main.js:496
+msgid "Add download"
+msgstr "İndirme ekle"
+
+#: ../modals.js:80 ../modals.js:158 ../modals.js:225
+msgid "Cancel"
+msgstr "İptal"
+
+#: ../modals.js:113
+msgid "Create"
+msgstr "Oluştur"
+
+#: ../modals.js:123
+msgid "Not enough disk space"
+msgstr "Disk üzerinde yetecek boş alan yok"
+
+#: ../modals.js:123
+msgid "File size: "
+msgstr "Dosya boyutu:"
+
+#: ../modals.js:123 ../modals.js:126 ../modals.js:142 ../modals.js:184
+#: ../view.main.js:206 ../view.main.js:468
+msgid "Close"
+msgstr "Kapat"
+
+#: ../modals.js:126
+msgid "Create download"
+msgstr "İndirme oluştur"
+
+#: ../modals.js:126
+msgid "File name or URL already used"
+msgstr "Dosya adı veya URL zaten kullanılıyor "
+
+#: ../modals.js:142 ../modals.js:184
+msgid "Wrong data"
+msgstr "Yanlış veri"
+
+#: ../modals.js:142
+msgid "Provided name is invalid"
+msgstr "Yazılan adı geçerli değil"
+
+#: ../modals.js:144
+msgid "No storage device found"
+msgstr "Depolama cihazı bulunamadı"
+
+#: ../modals.js:154
+msgid "Unsupported file extension"
+msgstr "Dosya uzantısı destenmiyor"
+
+#: ../modals.js:158 ../view.main.js:243 ../view.main.js:244
+msgid "Error"
+msgstr "Hata"
+
+#: ../modals.js:158
+msgid "File with this name already exist. Do you want rewrite it?"
+msgstr "Bu adlı dosya zaten mevcut. Üzerine yazmak istiyor musunuz?"
+
+#: ../modals.js:160
+msgid "Ok"
+msgstr "Tamam"
+
+#: ../modals.js:175
+msgid "Some error. Please rename the file."
+msgstr "Hata. Dosyaya yeni ad verin, lütfen"
+
+#: ../modals.js:184
+msgid "Provided url is invalid"
+msgstr "Yazılan url geçerli değil"
+
+#: ../modals.js:213
+msgid "Delete the related file"
+msgstr "İlgili dosya sil"
+
+#: ../modals.js:225
+msgid "Delete download"
+msgstr "İndirme sil"
+
+#: ../modals.js:247
+msgid "Apply"
+msgstr "Uygula"
+
+#: ../view.main.js:82
+msgid "Download manager"
+msgstr "İndirme yöneticisi"
+
+#: ../view.main.js:96
+msgid "Enter part of download name..."
+msgstr "İndirme adının parçasını yazınız..."
+
+#: ../view.main.js:165
+msgid "USB storage is connected"
+msgstr "USB bellek aygıtı bağlandı"
+
+#: ../view.main.js:185
+msgid "Exit"
+msgstr "Çıkış"
+
+#: ../view.main.js:198
+msgid "Menu"
+msgstr "Menü"
+
+#: ../view.main.js:201 ../view.main.js:688
+msgid "Show<br>info panel"
+msgstr "<br />bilgi paneli göster"
+
+#: ../view.main.js:204
+msgid "Add<br>download"
+msgstr "<br>indirme ekle"
+
+#: ../view.main.js:206 ../view.main.js:468
+msgid "Warning!"
+msgstr "Dikkat!"
+
+#: ../view.main.js:206 ../view.main.js:468
+msgid "\"Storage read only access mode\" is enabled in System Settings"
+msgstr "Depolama cihazı için Sistem Ayarlarında ''sadece-okuma'' modu açıldı"
+
+# menu item
+#: ../view.main.js:211 ../view.main.js:499
+msgid "Select"
+msgstr "Seç"
+
+#: ../view.main.js:239
+msgid "Paused "
+msgstr "Duraklandı"
+
+#: ../view.main.js:240 ../view.main.js:523
+msgid "Waiting"
+msgstr "Beklemekte"
+
+#: ../view.main.js:241
+msgid "Downloading"
+msgstr "İndiriyor"
+
+#: ../view.main.js:242
+msgid "Completed"
+msgstr "Tamamladı"
+
+#: ../view.main.js:253
+msgid "Downloads:"
+msgstr "İndirmeler:"
+
+#: ../view.main.js:254
+msgid "Selected:"
+msgstr "Seçildi:"
+
+#: ../view.main.js:267
+msgid "Storage device:"
+msgstr "Depolama cihazı:"
+
+#: ../view.main.js:268
+msgid "State:"
+msgstr "Durum:"
+
+# menu item
+#: ../view.main.js:269
+msgid "Priority:"
+msgstr "Öncelik:"
+
+#: ../view.main.js:270
+msgid "Size:"
+msgstr "Boyut:"
+
+#: ../view.main.js:304
+msgid "Contains a list of items corresponding to the given filter request"
+msgstr "Belirli isteğe uygun olan öğeler listesini içerir"
+
+#: ../view.main.js:310
+msgid "Detailed info on selected download"
+msgstr "Seçilmiş indirme hakkında ayrıntılı bilgiler"
+
+#: ../view.main.js:430
+msgid "Operations"
+msgstr "İşlemler"
+
+#: ../view.main.js:484
+msgid "Temporary files cleaning..."
+msgstr "Geçici dosyalar siliniyor..."
+
+# menu item
+#: ../view.main.js:493
+msgid "Open"
+msgstr "Aç"
+
+#: ../view.main.js:494
+msgid "Resume"
+msgstr "Yeniden başlat"
+
+#: ../view.main.js:495
+msgid "Stop"
+msgstr "Dur"
+
+# menu item
+#: ../view.main.js:497
+msgid "Increase priority"
+msgstr "Önceliği artır"
+
+# menu item
+#: ../view.main.js:498
+msgid "Decrease priority"
+msgstr "Önceliği eksilt"
+
+# menu item
+#: ../view.main.js:500
+msgid "Select all"
+msgstr "Tümünü seç"
+
+# menu item
+#: ../view.main.js:501
+msgid "Deselect all"
+msgstr "Tüm seçimleri kaldır"
+
+# menu item
+#: ../view.main.js:502
+msgid "Invert selection"
+msgstr "Seçimi ters çevir"
+
+# menu item
+#: ../view.main.js:503
+msgid "Delete"
+msgstr "Sil"
+
+#: ../view.main.js:504
+msgid "Clean temporary files"
+msgstr "Geçici dosyaları sil"
+
+#: ../view.main.js:506
+msgid "View"
+msgstr "Görüntü"
+
+# menu item
+#: ../view.main.js:521
+msgid "All"
+msgstr "Tüm"
+
+#: ../view.main.js:522
+msgid "Done"
+msgstr "Tamamlanmış"
+
+#: ../view.main.js:524
+msgid "Paused"
+msgstr "Duraklanmış"
+
+#: ../view.main.js:525
+msgid "Errors"
+msgstr "Hatalar"
+
+#: ../view.main.js:528
+msgid "Sorting"
+msgstr "Sınıflandırma"
+
+# menu item
+#: ../view.main.js:544
+msgid "By state"
+msgstr "Duruma göre"
+
+# menu item
+#: ../view.main.js:545
+msgid "By name"
+msgstr "Ada göre"
+
+# menu item
+#: ../view.main.js:546
+msgid "By size"
+msgstr "Boyuta göre"
+
+# menu item
+#: ../view.main.js:547
+msgid "By priority"
+msgstr "Önceliğe göre"
+
+#: ../view.main.js:688
+msgid "Hide<br>info panel"
+msgstr "<br />bilgi panelini gizle"
+
+#, fuzzy
+#~ msgid "To perform this operation, you must to turn off \"Storage read only access\" in system settings"
+#~ msgstr "Чтобы выполнить эту операцию, необходимо отключить \"Storage read only access\" в системных настройках"
+
+#~ msgid "Downloaded:"
+#~ msgstr "Скачано:"
+
+# menu item
+#~ msgid "By date"
+#~ msgstr "По дате"
+
+#~ msgid "Start"
+#~ msgstr "Возобновить"
+
+#, fuzzy
+#~ msgid "Download creation"
+#~ msgstr "Скачать в:"
+
+#~ msgid "Change<br>view"
+#~ msgstr "Сменить<br>вид"

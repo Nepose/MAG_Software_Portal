@@ -1,0 +1,2176 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Service menu\n"
+"POT-Creation-Date: 2015-08-28 16:27+0200\n"
+"PO-Revision-Date: 2015-10-20 11:37+0200\n"
+"Last-Translator: Harry <harry@aaa.aa>\n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-KeywordsList: _;gettext.data\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../main.js:15
+#, fuzzy
+msgid "Password"
+msgstr "Пароль"
+
+#: ../main.js:45
+#, fuzzy
+msgid "Unlock"
+msgstr "Розблокувати"
+
+#: ../main.js:45 ../main.js:94
+#, fuzzy
+msgid "Cancel"
+msgstr "Відміна"
+
+#: ../main.js:65
+#, fuzzy
+msgid "Ok"
+msgstr "OK"
+
+#: ../main.js:89
+#, fuzzy
+msgid "Lock device or exit portal?"
+msgstr "Блокувати пристрій чи вийти з порталу?"
+
+#: ../main.js:91
+#, fuzzy
+msgid "Lock device?"
+msgstr "Блокувати пристрій?"
+
+#: ../main.js:94
+#, fuzzy
+msgid "Confirm"
+msgstr "Підтвердження"
+
+#: ../main.js:105
+#, fuzzy
+msgid "Lock"
+msgstr "Блокувати"
+
+#: ../main.js:112
+#, fuzzy
+msgid "Exit portal"
+msgstr "Вихід з порталу"
+
+#, fuzzy
+#~ msgid "Login"
+#~ msgstr "Вхід"
+
+#, fuzzy
+#~ msgid "Do you want to logout or exit portal?"
+#~ msgstr "Ви впевнені, що хочете вийти з порталу?"
+
+#, fuzzy
+#~ msgid "Are you sure you want to logout?"
+#~ msgstr "Ви впевнені, що хочете вийти?"
+
+#, fuzzy
+#~ msgid "Logout"
+#~ msgstr "Вийти"
+
+#~ msgid "January"
+#~ msgstr "Січня"
+
+#~ msgid "February"
+#~ msgstr "Лютого"
+
+#~ msgid "March"
+#~ msgstr "Березня"
+
+#~ msgid "April"
+#~ msgstr "Квітня"
+
+#~ msgid "May"
+#~ msgstr "Травня"
+
+#~ msgid "June"
+#~ msgstr "Червня"
+
+#~ msgid "July"
+#~ msgstr "Липня"
+
+#~ msgid "August"
+#~ msgstr "Серпня"
+
+#~ msgid "September"
+#~ msgstr "Вересня"
+
+#~ msgid "October"
+#~ msgstr "Жовтня"
+
+#~ msgid "November"
+#~ msgstr "Листопада"
+
+#~ msgid "December"
+#~ msgstr "Грудня"
+
+#~ msgid "Sunday "
+#~ msgstr "Неділя"
+
+#~ msgid "Monday "
+#~ msgstr "Понеділок"
+
+#~ msgid "Tuesday "
+#~ msgstr "Вівторок"
+
+#~ msgid "Wednesday "
+#~ msgstr "Середа"
+
+#~ msgid "Thursday "
+#~ msgstr "Четвер"
+
+#~ msgid "Friday "
+#~ msgstr "П'ятниця"
+
+#~ msgid "Saturday "
+#~ msgstr "Субота"
+
+#~ msgid "Clear/Sunny"
+#~ msgstr "ясно/сонячно"
+
+#~ msgid "Partly Cloudy"
+#~ msgstr "невелика хмарність"
+
+#~ msgid "Cloudy"
+#~ msgstr "хмарно"
+
+#~ msgid "Overcast"
+#~ msgstr "похмуро"
+
+#~ msgid "Mist"
+#~ msgstr "легкий туман"
+
+#~ msgid "Patchy rain nearby"
+#~ msgstr "місцями можливий дощ"
+
+#~ msgid "Patchy snow nearby"
+#~ msgstr "місцями можливий сніг"
+
+#~ msgid "Patchy sleet nearby"
+#~ msgstr "місцями можливий мокрий сніг"
+
+#~ msgid "Patchy freezing drizzle nearby"
+#~ msgstr "місцями можлива мряка, обмерзання"
+
+#~ msgid "Thundery outbreaks in nearby"
+#~ msgstr "місцями можливі грози"
+
+#~ msgid "Blowing snow"
+#~ msgstr "хуртовина"
+
+#~ msgid "Blizzard"
+#~ msgstr "завірюха"
+
+#~ msgid "Fog"
+#~ msgstr "туман"
+
+#~ msgid "Freezing fog"
+#~ msgstr "мерзлий туман"
+
+#~ msgid "Patchy light drizzle"
+#~ msgstr "місцями мряка"
+
+#~ msgid "Light drizzle"
+#~ msgstr "мряка"
+
+#~ msgid "Freezing drizzle"
+#~ msgstr "мряка з обмерзанням"
+
+#~ msgid "Heavy freezing drizzle"
+#~ msgstr "густа мряка з обмерзанням"
+
+#~ msgid "Patchy light rain"
+#~ msgstr "місцями невеликий дощ"
+
+#~ msgid "Light rain"
+#~ msgstr "невеликий дощ"
+
+#~ msgid "Moderate rain at times"
+#~ msgstr "подекуди помірний дощ"
+
+#~ msgid "Moderate rain"
+#~ msgstr "помірний дощ"
+
+#~ msgid "Heavy rain at times"
+#~ msgstr "подекуди сильний дощ"
+
+#~ msgid "Heavy rain"
+#~ msgstr "сильний дощ"
+
+#~ msgid "Light freezing rain"
+#~ msgstr "невеликий дощ, ожеледиця"
+
+#~ msgid "Moderate or Heavy freezing rain"
+#~ msgstr "середній або сильний дощ, ожеледиця"
+
+#~ msgid "Light sleet"
+#~ msgstr "невеликий мокрий сніг"
+
+#~ msgid "Moderate or heavy sleet"
+#~ msgstr "середній або сильний мокрий сніг"
+
+#~ msgid "Patchy light snow"
+#~ msgstr "місцями невеликий сніг"
+
+#~ msgid "Light snow"
+#~ msgstr "невеликий сніг"
+
+#~ msgid "Patchy moderate snow"
+#~ msgstr "місцями сніг"
+
+#~ msgid "Moderate snow"
+#~ msgstr "сніг"
+
+#~ msgid "Patchy heavy snow"
+#~ msgstr "місцями снігопад"
+
+#~ msgid "Heavy snow"
+#~ msgstr "снігопад"
+
+#~ msgid "Ice pellets"
+#~ msgstr "сніжна крупа"
+
+#~ msgid "Light rain shower"
+#~ msgstr "короткочасна злива"
+
+#~ msgid "Moderate or heavy rain shower"
+#~ msgstr "сильна злива"
+
+#~ msgid "Torrential rain shower"
+#~ msgstr "дуже сильна злива"
+
+#~ msgid "Light sleet showers"
+#~ msgstr "невеликий дощ зі снігом"
+
+#~ msgid "Moderate or heavy sleet showers"
+#~ msgstr "сильний дощ зі снігом"
+
+#~ msgid "Light snow showers"
+#~ msgstr "короткочасний снігопад"
+
+#~ msgid "Moderate or heavy snow showers"
+#~ msgstr "сильний снігопад"
+
+#~ msgid "Light showers of ice pellets"
+#~ msgstr "короткочасні опади у вигляді сніжної крупи"
+
+#~ msgid "Moderate or heavy showers of ice pellets"
+#~ msgstr "сильні опади у вигляді сніжної крупи"
+
+#~ msgid "Patchy light rain in area with thunder"
+#~ msgstr "місцями невеликий дощ із грозою"
+
+#~ msgid "Moderate or heavy rain in area with thunder"
+#~ msgstr "місцями сильний дощ із грозою"
+
+#~ msgid "Patchy light snow in area with thunder"
+#~ msgstr "місцями невеликий сніг із громом"
+
+#~ msgid "Moderate or heavy snow in area with thunder"
+#~ msgstr "місцями сильний сніг із громом"
+
+#~ msgid "Today"
+#~ msgstr "Сьогодні"
+
+#~ msgid "Home Media"
+#~ msgstr "Home Media"
+
+#~ msgid "IPTV channels"
+#~ msgstr "IPTV-канали"
+
+#~ msgid "DVB channels"
+#~ msgstr "DVB-канали"
+
+#, fuzzy
+#~ msgid "Favorites"
+#~ msgstr "Вибране"
+
+#~ msgid "Internet Browser"
+#~ msgstr "Інтернет-браузер"
+
+#~ msgid "Internet bookmarks"
+#~ msgstr "Інтернет-закладки"
+
+#~ msgid "YouTube"
+#~ msgstr "YouTube"
+
+#~ msgid "Picasa"
+#~ msgstr "Picasa"
+
+#~ msgid "Lines"
+#~ msgstr "Lines"
+
+#~ msgid "Sudoku"
+#~ msgstr "Sudoku"
+
+#~ msgid "Memory"
+#~ msgstr "Memory"
+
+#~ msgid "Settings"
+#~ msgstr "Налаштування"
+
+#~ msgid "Download manager"
+#~ msgstr "Завантаження"
+
+#~ msgid "Internet services"
+#~ msgstr "Інтернет-сервіси"
+
+#~ msgid "Online Media"
+#~ msgstr "Онлайн-медіа"
+
+#~ msgid "Apps"
+#~ msgstr "Додатки"
+
+#~ msgid "Infomir Stalker"
+#~ msgstr "Портал Сталкер"
+
+#~ msgid "Menu Guide"
+#~ msgstr "Довідка з меню"
+
+#~ msgid "Record manager"
+#~ msgstr "Записи"
+
+#~ msgid "Weather"
+#~ msgstr "Погода"
+
+#~ msgid "Weather in"
+#~ msgstr "Погода в"
+
+#~ msgid "The service is not available at the moment.<br /> Please try again later."
+#~ msgstr "На даний момент сервіс недоступний.<br /> Повторіть спробу пізніше."
+
+#~ msgid "Setup Wizard"
+#~ msgstr "Майстер налаштувань"
+
+#~ msgid "Select city"
+#~ msgstr "Погода в іншому місті"
+
+#~ msgid "Weather is not found, select another city"
+#~ msgstr "Для цього міста прогноз не знайдений, виберіть інше місто"
+
+#~ msgid "<br>Do you want to save location?"
+#~ msgstr "Зберегти місцерозташування?"
+
+#~ msgid "Loading service..."
+#~ msgstr "Завантаження сервісу..."
+
+#~ msgid "Service unavailable"
+#~ msgstr "Сервіс недоступний"
+
+#~ msgid "Humidity"
+#~ msgstr "Вологість"
+
+#~ msgid "Wind"
+#~ msgstr "Вітер"
+
+#~ msgid "N"
+#~ msgstr "Пн"
+
+#~ msgid "NE"
+#~ msgstr "ПнСх"
+
+#~ msgid "E"
+#~ msgstr "Сх"
+
+#~ msgid "SE"
+#~ msgstr "ПдСх"
+
+#~ msgid "S"
+#~ msgstr "Пд"
+
+#~ msgid "SW"
+#~ msgstr "ПдЗх"
+
+#~ msgid "W"
+#~ msgstr "Зх"
+
+#~ msgid "NW"
+#~ msgstr "СхЗх"
+
+#~ msgid "m/s"
+#~ msgstr "м/с"
+
+#~ msgid "miles/h"
+#~ msgstr "миль/год"
+
+#~ msgid "Loading data. It may take some time."
+#~ msgstr "Триває завантаження даних. Це може зайняти певний час."
+
+#~ msgid "English"
+#~ msgstr "Англійська"
+
+#~ msgid "Russian"
+#~ msgstr "Російська"
+
+#~ msgid "Ukrainian"
+#~ msgstr "Українська"
+
+#~ msgid "Belarusian"
+#~ msgstr "Білоруська"
+
+#~ msgid "French"
+#~ msgstr "Французька"
+
+#~ msgid "German"
+#~ msgstr "Німецька"
+
+#~ msgid "Italian"
+#~ msgstr "Італійська"
+
+#~ msgid "Spanish"
+#~ msgstr "Іспанська"
+
+#~ msgid "Portuguese"
+#~ msgstr "Португальська"
+
+#~ msgid "Swedish"
+#~ msgstr "Шведська"
+
+#~ msgid "Norwegian"
+#~ msgstr "Норвезька"
+
+#~ msgid "Dutch"
+#~ msgstr "Голандська"
+
+#~ msgid "Serbian"
+#~ msgstr "Сербська"
+
+#~ msgid "Slovenian"
+#~ msgstr "Словенська"
+
+#~ msgid "Croatian"
+#~ msgstr "Хорватська"
+
+#~ msgid "Albanian"
+#~ msgstr "Албанська"
+
+#~ msgid "Japanese"
+#~ msgstr "Японська"
+
+#~ msgid "Chinese"
+#~ msgstr "Китайська"
+
+#~ msgid "Korean"
+#~ msgstr "Корейська"
+
+#~ msgid "Vietnamese"
+#~ msgstr "В'єтнамська"
+
+#~ msgid "Latvian"
+#~ msgstr "Латиська"
+
+#~ msgid "Lithuanian"
+#~ msgstr "Литовська"
+
+#~ msgid "Estonian"
+#~ msgstr "Естонська"
+
+#~ msgid "Finnish"
+#~ msgstr "Фінська"
+
+#~ msgid "Hungarian"
+#~ msgstr "Угорська"
+
+#~ msgid "Czech"
+#~ msgstr "Чеська"
+
+#~ msgid "Slovak"
+#~ msgstr "Словацька"
+
+#~ msgid "Bulgarian"
+#~ msgstr "Болгарська"
+
+#~ msgid "Polish"
+#~ msgstr "Польська"
+
+#~ msgid "Romanian"
+#~ msgstr "Румунська"
+
+#~ msgid "Greek"
+#~ msgstr "Грецька"
+
+#~ msgid "Hebrew"
+#~ msgstr "Іврит"
+
+#~ msgid "Turkish"
+#~ msgstr "Турецька"
+
+#~ msgid "Danish"
+#~ msgstr "Данська"
+
+#~ msgid "Icelandic"
+#~ msgstr "Ісландська"
+
+#~ msgid "Hindi"
+#~ msgstr "Хінді"
+
+#~ msgid "Bengali"
+#~ msgstr "Бенгалі"
+
+#~ msgid "Arabic"
+#~ msgstr "Арабська"
+
+#~ msgid "Armenian"
+#~ msgstr "Вірменська"
+
+#~ msgid "Georgian"
+#~ msgstr "Грузинська"
+
+#~ msgid "Azerbaijani"
+#~ msgstr "Азербайджанська"
+
+#~ msgid "Bashkir"
+#~ msgstr "Башкирська"
+
+#~ msgid "Basque"
+#~ msgstr "Баскська"
+
+#~ msgid "Bosnian"
+#~ msgstr "Боснійська"
+
+#~ msgid "Buriat"
+#~ msgstr "Бурятська"
+
+#~ msgid "Burmese"
+#~ msgstr "Бірманська"
+
+#~ msgid "Chechen"
+#~ msgstr "Чеченська"
+
+#~ msgid "Welsh"
+#~ msgstr "Уельська"
+
+#~ msgid "Dzongkha"
+#~ msgstr "Бутанська"
+
+#~ msgid "Esperanto"
+#~ msgstr "Есперанто"
+
+#~ msgid "Persian"
+#~ msgstr "Персидська"
+
+#~ msgid "Irish"
+#~ msgstr "Ірландська"
+
+#~ msgid "Gujarati"
+#~ msgstr "Гуджараті"
+
+#~ msgid "Indonesian"
+#~ msgstr "Індонезійська"
+
+#~ msgid "Iranian"
+#~ msgstr "Іранська"
+
+#~ msgid "Kashmiri"
+#~ msgstr "Кашмирська"
+
+#~ msgid "Kazakh"
+#~ msgstr "Казахська"
+
+#~ msgid "Kabardian"
+#~ msgstr "Кабардинська"
+
+#~ msgid "Komi"
+#~ msgstr "Комі"
+
+#~ msgid "Karelian"
+#~ msgstr "Карельська"
+
+#~ msgid "Kurdish"
+#~ msgstr "Курдська"
+
+#~ msgid "Marathi"
+#~ msgstr "Маратхі"
+
+#~ msgid "Macedonian"
+#~ msgstr "Македонська"
+
+#~ msgid "Nepali"
+#~ msgstr "Непальська"
+
+#~ msgid "Ossetian"
+#~ msgstr "Осетинська"
+
+#~ msgid "Yakut"
+#~ msgstr "Якутська"
+
+#~ msgid "Somali"
+#~ msgstr "Сомалі"
+
+#~ msgid "Tamil"
+#~ msgstr "Тамільська"
+
+#~ msgid "Tatar"
+#~ msgstr "Татарська"
+
+#~ msgid "Telugu"
+#~ msgstr "Телугу"
+
+#~ msgid "Tajik"
+#~ msgstr "Таджицька"
+
+#~ msgid "Thai"
+#~ msgstr "Тайська"
+
+#~ msgid "Turkmen"
+#~ msgstr "Туркменська"
+
+#~ msgid "Udmurt"
+#~ msgstr "Удмуртська"
+
+#~ msgid "Urdu"
+#~ msgstr "Урду"
+
+#~ msgid "Uzbek"
+#~ msgstr "Узбецька"
+
+#~ msgid "Kalmyk"
+#~ msgstr "Калмицька"
+
+#~ msgid "Tibetan"
+#~ msgstr "Тибетська"
+
+#~ msgid "Yiddish"
+#~ msgstr "Ідиш"
+
+#~ msgid "Enter your location..."
+#~ msgstr "Введіть ваше місцерозташування..."
+
+#~ msgid "Exit"
+#~ msgstr "Вихід"
+
+#~ msgid "Receiving<br>weather<br>data"
+#~ msgstr "Отримання<br>погодних<br>даних"
+
+#~ msgid "No<br>weather<br>settings"
+#~ msgstr "Погода<br>не<br>налаштована"
+
+#~ msgid "Error"
+#~ msgstr "Помилка"
+
+#~ msgid "Close"
+#~ msgstr "Закрити"
+
+#~ msgid "USB storage is connected"
+#~ msgstr "Підключений USB-накопичувач"
+
+#~ msgid "Playback"
+#~ msgstr "Відтворення"
+
+#~ msgid "Interface"
+#~ msgstr "Зовнішній вигляд"
+
+#, fuzzy
+#~ msgid "Software autoupdate"
+#~ msgstr "Оновлення ПЗ"
+
+#~ msgid "TimeShift"
+#~ msgstr "TimeShift"
+
+#~ msgid "System settings"
+#~ msgstr "Системні налаштування"
+
+#~ msgid "DVB"
+#~ msgstr "DVB"
+
+#, fuzzy
+#~ msgid "Access control"
+#~ msgstr "Контроль доступу"
+
+#~ msgid "Network Diagnostics"
+#~ msgstr "Діагностика мережі"
+
+#~ msgid "Speed test"
+#~ msgstr "Тест швидкості"
+
+#, fuzzy
+#~ msgid "Advanced"
+#~ msgstr "Додаткове"
+
+#~ msgid "Update manually"
+#~ msgstr "Оновлення вручну"
+
+#~ msgid "Save"
+#~ msgstr "Зберегти"
+
+#~ msgid "None"
+#~ msgstr "Відсутній"
+
+#~ msgid "Some settings have been changed"
+#~ msgstr "Деякі налаштування були змінені"
+
+#, fuzzy
+#~ msgid "Small"
+#~ msgstr "Маленький"
+
+#, fuzzy
+#~ msgid "Normal"
+#~ msgstr "Нормальній"
+
+#, fuzzy
+#~ msgid "Large"
+#~ msgstr "Крупний"
+
+#, fuzzy
+#~ msgid "Huge"
+#~ msgstr "Великий"
+
+#, fuzzy
+#~ msgid "White"
+#~ msgstr "Білий"
+
+#, fuzzy
+#~ msgid "Black"
+#~ msgstr "Чьорний"
+
+#, fuzzy
+#~ msgid "Red"
+#~ msgstr "Червоний"
+
+#, fuzzy
+#~ msgid "Blue"
+#~ msgstr "Blue"
+
+#, fuzzy
+#~ msgid "Green"
+#~ msgstr "Зелений"
+
+#, fuzzy
+#~ msgid "Yellow"
+#~ msgstr "Жовтий"
+
+#, fuzzy
+#~ msgid "Cyan"
+#~ msgstr "Cyan"
+
+#, fuzzy
+#~ msgid "Magenta"
+#~ msgstr "Magenta"
+
+#, fuzzy
+#~ msgid "Silver"
+#~ msgstr "Silver"
+
+#, fuzzy
+#~ msgid "Gray"
+#~ msgstr "Gray"
+
+#, fuzzy
+#~ msgid "Maroon"
+#~ msgstr "Maroon"
+
+#, fuzzy
+#~ msgid "Olive"
+#~ msgstr "Olive"
+
+#, fuzzy
+#~ msgid "Purple"
+#~ msgstr "Purple"
+
+#, fuzzy
+#~ msgid "Teal"
+#~ msgstr "Teal"
+
+#, fuzzy
+#~ msgid "Navy"
+#~ msgstr "Navy"
+
+#~ msgid "Disabled"
+#~ msgstr "Відключено"
+
+#~ msgid "Primary audio track language"
+#~ msgstr "Мова аудіодоріжки"
+
+#~ msgid "Primary subtitle language"
+#~ msgstr "Мова субтитрів"
+
+#, fuzzy
+#~ msgid "Subtitle size"
+#~ msgstr "Розмір субтитрів"
+
+#, fuzzy
+#~ msgid "Subtitle color"
+#~ msgstr "Колір субтитрів"
+
+#~ msgid "Main menu"
+#~ msgstr "Головне меню"
+
+#~ msgid "1 minute"
+#~ msgstr "1 хвилина"
+
+#~ msgid "3 minutes"
+#~ msgstr "3 хвилини"
+
+#~ msgid "5 minutes"
+#~ msgstr "5 хвилин"
+
+#~ msgid "10 minutes"
+#~ msgstr "10 хвилин"
+
+#~ msgid "30 minutes"
+#~ msgstr "30 хвилин"
+
+#~ msgid "Start page"
+#~ msgstr "Стартова сторінка"
+
+# имеется ввиду метрическая или английская система измерения скорости
+#~ msgid "Weather system format"
+#~ msgstr "Формат відображення погоди"
+
+#~ msgid "Metric (Celsius, meters per second)"
+#~ msgstr "Метрична (цельсій, м/с)"
+
+#~ msgid "English (Fahrenheit, miles per hour)"
+#~ msgstr "Англійська (фаренгейт, миль/год)"
+
+#~ msgid "HDMI event reaction:"
+#~ msgstr "Реакція на HDMI-події"
+
+#~ msgid "Enabled"
+#~ msgstr "Включено"
+
+#~ msgid "5 minutes delay"
+#~ msgstr "Затримка 5 хвилин"
+
+#~ msgid "10 minutes delay"
+#~ msgstr "Затримка 10 хвилин"
+
+#~ msgid "Screensaver interval"
+#~ msgstr "Інтервал збереження екрана"
+
+#~ msgid "Screensaver"
+#~ msgstr "Зберігач екрана"
+
+#, fuzzy
+#~ msgid "Clock during playing"
+#~ msgstr "Годинник при вiдтвореннi"
+
+#~ msgid "LED brightness:"
+#~ msgstr "Яскравість LED:"
+
+#~ msgid "LED brightness (standby):"
+#~ msgstr "Яскравість LED (режим очікування):"
+
+#, fuzzy
+#~ msgid "Control model"
+#~ msgstr "Модель пульту"
+
+#, fuzzy
+#~ msgid "Autoupdate"
+#~ msgstr "Автооновлення"
+
+#~ msgid "With confirmation"
+#~ msgstr "З підтвердженням"
+
+#~ msgid "Update to beta versions"
+#~ msgstr "Оновлення на бета-версію"
+
+#~ msgid "Use TimeShift"
+#~ msgstr "Увімкнути TimeShift"
+
+#~ msgid "Icon enable"
+#~ msgstr "Увімкнути іконку"
+
+#~ msgid "File location"
+#~ msgstr "Розміщення файлів"
+
+#~ msgid "Length"
+#~ msgstr "Максимальна тривалість"
+
+#~ msgid "minutes"
+#~ msgstr "хвилин"
+
+#~ msgid "hour"
+#~ msgstr "година"
+
+#~ msgid "2 hours"
+#~ msgstr "2 години"
+
+#~ msgid "3 hours"
+#~ msgstr "3 години"
+
+#~ msgid "5 hours"
+#~ msgstr "5 годин"
+
+#~ msgid "10 hours"
+#~ msgstr "10 годин"
+
+#~ msgid "20 hours"
+#~ msgstr "20 годин"
+
+#~ msgid "24 hours"
+#~ msgstr "24 години"
+
+#~ msgid "Using buffer mode"
+#~ msgstr "Режим використання буфера"
+
+#~ msgid "Cyclic record mode"
+#~ msgstr "Циклічний перезапис"
+
+#~ msgid "Stop when out of space"
+#~ msgstr "Зупинка по заповненню диска"
+
+#~ msgid "On exit"
+#~ msgstr "Дія при виході"
+
+#~ msgid "Do not save buffer"
+#~ msgstr "Не зберігати буфер"
+
+#~ msgid "Save buffer"
+#~ msgstr "Зберігати буфер"
+
+#~ msgid "Request to save"
+#~ msgstr "Запит на збереження"
+
+#~ msgid "Delay"
+#~ msgstr "Затримка"
+
+#~ msgid "By pressing Pause button"
+#~ msgstr "Після натиснення кнопки \"Пауза\""
+
+#~ msgid "sec."
+#~ msgstr "сек."
+
+#~ msgid "Extended diagnostics"
+#~ msgstr "Розширена діагностика"
+
+#~ msgid "Available"
+#~ msgstr "Доступно"
+
+#~ msgid "Not available"
+#~ msgstr "Недоступно"
+
+#~ msgid "Speed:"
+#~ msgstr "Швидкість:"
+
+#~ msgid "Waiting"
+#~ msgstr "Очікування"
+
+#~ msgid "Testing"
+#~ msgstr "Перевірка"
+
+#~ msgid "Test results"
+#~ msgstr "Результати тесту"
+
+#~ msgid "Test result"
+#~ msgstr "Результат тесту"
+
+#~ msgid "Perform diagnostics"
+#~ msgstr "Виконати діагностику"
+
+#~ msgid "Start"
+#~ msgstr "Запустити"
+
+#~ msgid "Estimated time of completion"
+#~ msgstr "Розрахунковий час завершення"
+
+#~ msgid "IP Address"
+#~ msgstr "IP адреса"
+
+#~ msgid "Loss"
+#~ msgstr "Втрати"
+
+#~ msgid "Ping"
+#~ msgstr "Пінг"
+
+#~ msgid "Attention"
+#~ msgstr "Увага"
+
+#~ msgid "Estimated time to complete the test - 10 minutes.<br> You can not interrupt the test before it is completed"
+#~ msgstr "Розрахунковий час завершення тесту - 10 хвилин.<br> Ви не можете перервати перевірку до її завершення"
+
+#~ msgid "Run the test"
+#~ msgstr "Запустити тест"
+
+#~ msgid "Antenna with such signal type can't be powered up."
+#~ msgstr "Антена с таким типом синалу не може бути піключена"
+
+#~ msgid "Signal type"
+#~ msgstr "Тип сигнала"
+
+#, fuzzy
+#~ msgid "Antenna type"
+#~ msgstr "Антена"
+
+#, fuzzy
+#~ msgid "Active"
+#~ msgstr "Активне"
+
+#, fuzzy
+#~ msgid "Passive"
+#~ msgstr "Пасивне"
+
+#~ msgid "Antenna power supply"
+#~ msgstr "Включити живлення антени"
+
+# menu item
+#, fuzzy
+#~ msgid "Select a portal"
+#~ msgstr "Виділити всi"
+
+#~ msgid "Sorry, no firmware image at the moment"
+#~ msgstr "Вибачте, на даний момент лист образів порожній"
+
+#~ msgid "Software update"
+#~ msgstr "Оновлення ПЗ"
+
+#~ msgid "Successfully saved"
+#~ msgstr "Успішно збережено"
+
+#~ msgid "Device reboot is required to apply changes. Reboot now?"
+#~ msgstr "Змiни набудуть чинності після перезавантаження пристрою. Виконати перезавантаження зараз? "
+
+#~ msgid "Yes"
+#~ msgstr "Так"
+
+#~ msgid "Welcome"
+#~ msgstr "Ласкаво просимо"
+
+#~ msgid "Select language"
+#~ msgstr "Виберіть мову"
+
+#~ msgid "Use Up and Down, Left and Right buttons for selecting. Press OK button to confirm."
+#~ msgstr "Для навігації використовуйте кнопки \"Вгору\", \"Вниз\", \"Вліво\", \"Вправо\". Для підтвердження вибору - \"OK\"."
+
+#~ msgid "AuraHD Setup Wizard"
+#~ msgstr "Майстер налаштування AuraHD"
+
+#~ msgid "Use the SetUp Wizard to edit Internet access settings, select display options and set your time zone"
+#~ msgstr "Для налаштування доступу в Інтернет, вибору параметрів відображення і часового поясу запустіть Майстер налаштування."
+
+#~ msgid "Run the Setup Wizard"
+#~ msgstr "Запустити Майстер налаштування"
+
+#~ msgid "Set up manually later"
+#~ msgstr "Налаштувати пізніше вручну"
+
+#~ msgid "Step 1: Connecting to your TV"
+#~ msgstr "Крок 1: Підключення до телевізора"
+
+#~ msgid "For optimal display settings, specify your TV model and AuraHD connection type. Please, read the TV user guide before you do it."
+#~ msgstr "Вкажіть, який у вас телевізор і тип з'єднання з AuraHD, щоб Майстер налаштування підібрав оптимальні параметри відображення. Заздалегідь рекомендуємо ознайомитися з інструкцією до вашого телевізора."
+
+#~ msgid "RCA cable"
+#~ msgstr "Кабель RCA"
+
+#~ msgid "HDMI cable"
+#~ msgstr "Кабель HDMI"
+
+#~ msgid "Attention:"
+#~ msgstr "Увага:"
+
+#~ msgid "For TVs with the HDMI interface, we recommend to use an HDMI cable for connecting AuraHD to maximize image quality (HD or Full HD)."
+#~ msgstr "Якщо ваш телевізор оснащений HDMI-входом, для забезпечення максимально можливої якості картинки (HD або Full HD) ми рекомендуємо підключати AuraHD за допомогою HDMI-кабеля."
+
+#~ msgid "Step 2: Connecting AuraHD to LAN and/or to the Internet"
+#~ msgstr "Крок 2: Підключення медіаплеєра до локальної мережі і мережі Інтернет"
+
+#~ msgid "Active AuraHD Internet connection gives you access to web resources from your TV and also makes it possible to view media files located on your computer or local network. Select the connection type:"
+#~ msgstr "Активне з'єднання AuraHD з Інтернет забезпечує доступ до всіх ресурсів мережі Інтернет з екрана вашого телевізора, а підключення до локальної мережі також дає можливість перегляду медіафайлів, що містяться на вашому комп'ютері і в локальній мережі."
+
+#~ msgid "Wired"
+#~ msgstr "Дротова"
+
+#~ msgid "Wireless"
+#~ msgstr "Бездротова"
+
+#~ msgid "Skip"
+#~ msgstr "Пропустити"
+
+#~ msgid "Step 2.3: Checking wireless network and Internet connection"
+#~ msgstr "Крок 2.3: Перевірка бездротової мережі та підключення до Інтернет"
+
+#~ msgid "Step 2.1: Checking local network and Internet connection"
+#~ msgstr "Крок 2.1: Перевірка локальної мережі та підключення до Інтернет"
+
+#~ msgid "Checking wireless network"
+#~ msgstr "Перевірка підключення до Інтернет по бездротовій мережі"
+
+#~ msgid "Checking local network connection"
+#~ msgstr "Перевірка підключення до Інтернет по локальній мережі"
+
+#~ msgid "Checking Internet connection"
+#~ msgstr "Перевірка підключення до Інтернет"
+
+#~ msgid "Information"
+#~ msgstr "Інформація"
+
+#~ msgid "Refresh"
+#~ msgstr "Оновити"
+
+#~ msgid "To access additional/advanced settings in the Main Menu, press the SET/SETUP button on the remote control."
+#~ msgstr "Додаткові/розширені налаштування доступні з головного меню після натиснення кнопки SET/SETUP на пульті ДК."
+
+#~ msgid "Step 2.1: Connecting to the Wireless LAN"
+#~ msgstr "Крок 2.1: Підключення до безпровідної мережі"
+
+#~ msgid "Select LAN"
+#~ msgstr "Вибір мережі"
+
+#~ msgid "Select preferred wireless LAN or set it up manually"
+#~ msgstr "Виберіть назву безпровідної мережі, до якої ви хочете підключитися, або налаштуйте підключення вручну."
+
+#~ msgid "Manual settings"
+#~ msgstr "Налаштувати вручну"
+
+#~ msgid "Step 2.2: Password"
+#~ msgstr "Крок 2.2: Пароль"
+
+#~ msgid "Password:"
+#~ msgstr "Пароль:"
+
+#~ msgid "Next"
+#~ msgstr "Далі"
+
+#~ msgid "Keyboard"
+#~ msgstr "Клавіатура"
+
+#~ msgid "Step 2.2: Advanced settings"
+#~ msgstr "Крок 2.2: Розширені налаштування"
+
+#~ msgid "Authentication:"
+#~ msgstr "Автентифікація:"
+
+# menu item
+#~ msgid "Open"
+#~ msgstr "Відкрити"
+
+#~ msgid "Shared key"
+#~ msgstr "Загальний ключ"
+
+#~ msgid "Auto Open/Shared key"
+#~ msgstr "Відкрита мережа/Загальний ключ"
+
+#~ msgid "Encryption:"
+#~ msgstr "Шифрування:"
+
+#~ msgid "SSID (network):"
+#~ msgstr "SSID (мережа):"
+
+#~ msgid "Select/Next"
+#~ msgstr "Вибрати/Далі"
+
+#~ msgid "Step 3: Weather forecast"
+#~ msgstr "Крок 3: Прогноз погоди"
+
+#~ msgid "Weather forecast"
+#~ msgstr "Прогноз погоди"
+
+#~ msgid "Select your city and press OK"
+#~ msgstr "Виберіть місто і натисніть \"OK\"."
+
+#~ msgid "Step 4: Time zone"
+#~ msgstr "Крок 4: Вибір часового поясу"
+
+#~ msgid "Select your time zone"
+#~ msgstr "Для відображення точного часу, будь ласка, оберіть часовий пояс"
+
+#~ msgid "Setup completed"
+#~ msgstr "Налаштування завершене"
+
+#~ msgid "Thank you!"
+#~ msgstr "Спасибі!"
+
+#~ msgid "The Setup Wizard is complete. All selected settings will be stored in the device’s memory. To edit the system settings any time, press SET or SETUP on your remote control and open the Main Menu."
+#~ msgstr "Майстер налаштування закінчив свою роботу. Всі вибрані пункти будуть збережені в пам'яті медіаплеєра. Згодом системні налаштування можна коректувати з головного меню після натиснення кнопки SET/SETUP на пульті ДК."
+
+#~ msgid "Terms of use"
+#~ msgstr "Угода з користувачем"
+
+#~ msgid "&nbsp;&nbsp;Dear user, please read the terms and conditions for services integrated into AuraHD  device.<br />&nbsp;&nbsp;The AuraHD network media player is directly intended for digital content playback from the Internet (media files including streaming video), LANs and removable media including flash memory connected via USB port. The manufacturer is not responsible for quality and stability of the web services integrated into the device's software. The manufacturer also reserves the right to make occasional changes to the device's software and interface without prior notice in order to modify or improve its function.<br />&nbsp;&nbsp;Services by third parties offered in the AuraHD’s menu (Online Cinema, web services) are provided \"as is\" without warranty of any kind. The manufacturer cannot guarantee accuracy, timeliness, validity, completeness, compliance with any standards and laws or supplier's declaration of the service characteristics. The services are transferred by third parties via networks and data transfer means beyond the control of the device’s manufacturer.<br />&nbsp;&nbsp;If you do not agree to these terms and conditions for services integrated into the AuraHD device, please stop using it and return the device to the store where it was purchased within 14 days of purchase."
+#~ msgstr "&nbsp;&nbsp;Шановний користувачу, ознайомтеся, будь ласка, з умовами надання послуг, інтегрованих у медіаплеєр  AuraHD.<br />&nbsp;&nbsp;Пряме призначення мережевого медіаплеєра ТМ  AuraHD – відтворення цифрового контенту (медіафайлів) з мережі Інтернет (в т.ч. потокового відео), з локальної мережі, із зовнішніх носіїв (флеш-пам'ять, що підключається через USB-роз'єм). При цьому Виробник не відповідає за якість і стабільність роботи сервісів, які встановлені в програмну оболонку медіаплеєра і використовують з'єднання з мережею Інтернет. Також Виробник залишає за собою право періодично вносити зміни до програмного забезпечення й інтерфейсу медіаплеєра, змінювати або розширювати його можливості без запобігання.<br />&nbsp;&nbsp;Сервіси, надані третіми особами, доступ до яких організований у меню медіаплеєра AuraHD (Онлайн-Медіа, інтернет-сервіси), надаються на умові «як є». Таким чином, Виробник не гарантує їхньої точності, своєчасності, законності, повноти, відповідності яким-небудь стандартам або заявленим постачальником цього сервісу характеристикам. Дані сервіси передаються третіми особами за допомогою мережі і засобів передачі інформації, контролю над якими Виробник медіаплеєра не має. <br />&nbsp;&nbsp;Якщо Ви не згодні з даними умовами надання послуг, інтегрованих у медіаплеєр AuraHD, - Ви повинні відмовитися від його використання і впродовж 14 днів від дня купівлі повернути Ваш медіаплеєр в торговельну точку, де він був придбаний."
+
+#~ msgid "Continue"
+#~ msgstr "Далі"
+
+#~ msgid "Unfortunately, the Setup Wizard was unable to connect your device to LAN and Internet.<br />Please, check general connection terms:<br /> - the Ethernet cable connected to the appropriate slot of the device;<br /> - Wi-Fi status.<br />Try to connect again."
+#~ msgstr "На жаль, Майстер налаштування не зміг з'єднати ваш медіаплеєр з Локальною мережею і мережею Інтернет.<br />Перевірте, будь ласка, основні умови з'єднання:<br /> - чи підключений Ethernet-кабель у відповідний слот на задній панелі медіаплеєра;<br /> - стан Wi-Fi адаптера.<br />Спробуйте підключитися ще раз."
+
+#~ msgid "Network connection successful. No Internet connection.<br />Possibly, no access to external services.<br />Check your Internet connection status."
+#~ msgstr "Підключення до локальної мережі відбулося успішно. Підключення до мережі Інтернет відсутнє.<br />Можливо відсутній доступ до зовнішніх сервісів.<br />Перевірте, чи активне з'єднання з Інтернет."
+
+#~ msgid "Wireless network connection successful. Internet connection available."
+#~ msgstr "Підключення до бездротової мережі відбулося успішно. Інтернет доступний."
+
+#~ msgid "Network connection successful. Internet connection available."
+#~ msgstr "Підключення до локальної мережі відбулося успішно. Інтернет доступний."
+
+#~ msgid "Notice"
+#~ msgstr "Повідомлення"
+
+#~ msgid "Wi-Fi adapter not connected"
+#~ msgstr "Wi-Fi адаптер не підключений"
+
+#~ msgid "Now"
+#~ msgstr "Зараз"
+
+#~ msgid "Frequency"
+#~ msgstr "Частота"
+
+#~ msgid "Contains the list of items which are corresponding to the given filter request"
+#~ msgstr "Містить список записів, що відповідають вказаному запиту"
+
+#~ msgid "Unknown type of selected item"
+#~ msgstr "Невідомий тип обраного об'єкта"
+
+#~ msgid "Total found"
+#~ msgstr "Всього знайдено"
+
+#~ msgid "Last found"
+#~ msgstr "Останній знайдений"
+
+#~ msgid "Operations"
+#~ msgstr "Операції"
+
+#~ msgid "Confirm deletion"
+#~ msgstr "Підтвердження видалення"
+
+#~ msgid "all entries selected?"
+#~ msgstr "виділені записи?"
+
+#~ msgid "current entry?"
+#~ msgstr "поточний запис?"
+
+# menu item
+#~ msgid "Select all"
+#~ msgstr "Виділити всi"
+
+# menu item
+#~ msgid "Deselect all"
+#~ msgstr "Прибрати всi виділення"
+
+# menu item
+#~ msgid "Invert selection"
+#~ msgstr "Інвертувати"
+
+# menu item
+#~ msgid "Delete"
+#~ msgstr "Видалити"
+
+#~ msgid "DVB menu"
+#~ msgstr "DVB-меню"
+
+#~ msgid "all entries?"
+#~ msgstr "усi записи?"
+
+#~ msgid "EPG"
+#~ msgstr "Програма передач"
+
+#~ msgid "EPG grid "
+#~ msgstr "Сітка EPG"
+
+#~ msgid "Auto scan"
+#~ msgstr "Автосканування"
+
+#~ msgid "Manual scan"
+#~ msgstr "Налаштувати вручну"
+
+#~ msgid "Clear list"
+#~ msgstr "Очистити список"
+
+#~ msgid "Enter name..."
+#~ msgstr "Введіть найменування..."
+
+#~ msgid "Menu"
+#~ msgstr "Меню"
+
+# menu item
+#~ msgid "Select"
+#~ msgstr "Виділити"
+
+#, fuzzy
+#~ msgid "Add to<br>favorites"
+#~ msgstr "Додати в<br>обране"
+
+#, fuzzy
+#~ msgid "Remove from<br>favorites"
+#~ msgstr "Видалити з<br>обраного"
+
+#~ msgid "No DVB channels"
+#~ msgstr "Немає DVB-каналів"
+
+#~ msgid "Start auto scan?"
+#~ msgstr "Хочете запустити автосканування?"
+
+#~ msgid "Scanning"
+#~ msgstr "Сканування"
+
+#~ msgid "Stop scanning?"
+#~ msgstr "Зупинити сканування?"
+
+#~ msgid "Stop"
+#~ msgstr "Зупинити"
+
+#~ msgid "DVB channel list was changed"
+#~ msgstr "Список DVB-каналів змінився"
+
+#~ msgid "Save updated DVB channel list?"
+#~ msgstr "Зберегти оновлений список DVB-каналів?"
+
+#~ msgid "Exit without saving"
+#~ msgstr "Вийти без збереження"
+
+#~ msgid "The list of favourite records has changed"
+#~ msgstr "Список обраного змінився"
+
+#~ msgid "Save updated list of favourite records?"
+#~ msgstr "Зберегти оновлений список обраних записів?"
+
+#~ msgid "Recording channel"
+#~ msgstr "Запис каналу"
+
+#~ msgid "Group name"
+#~ msgstr "Ім'я групи"
+
+#~ msgid "EPG is missing"
+#~ msgstr "EPG відсутне"
+
+#~ msgid "Duration:"
+#~ msgstr "Тривалість:"
+
+# menu item
+#~ msgid "Open selected"
+#~ msgstr "Відкрити виділене"
+
+# menu item
+#~ msgid "Mount"
+#~ msgstr "Підключити"
+
+# menu item
+#~ msgid "Mount share"
+#~ msgstr "Підключити ресурс"
+
+# menu item
+#~ msgid "Unmount share"
+#~ msgstr "Відключити ресурс"
+
+# menu item
+#~ msgid "Edit share"
+#~ msgstr "Редагувати"
+
+# menu item
+#, fuzzy
+#~ msgid "Add to favorites"
+#~ msgstr "Додати в обране"
+
+# menu item
+#, fuzzy
+#~ msgid "Remove from favorites"
+#~ msgstr "Видалити з обраного"
+
+# menu item
+#~ msgid "Cut"
+#~ msgstr "Вирізати"
+
+# menu item
+#~ msgid "Copy"
+#~ msgstr "Копіювати"
+
+# menu item
+#~ msgid "Paste"
+#~ msgstr "Вставити"
+
+#~ msgid "View"
+#~ msgstr "Вид"
+
+# menu item
+#~ msgid "All"
+#~ msgstr "Всi"
+
+# menu item
+#~ msgid "Folders"
+#~ msgstr "Папки"
+
+# menu item
+#~ msgid "Audio"
+#~ msgstr "Аудіо"
+
+#~ msgid "Video"
+#~ msgstr "Відео"
+
+#~ msgid "Images"
+#~ msgstr "Зображення"
+
+# menu item
+#~ msgid "Playlists"
+#~ msgstr "Плейлисти"
+
+#~ msgid "ISO"
+#~ msgstr "Образи"
+
+#~ msgid "Subtitles"
+#~ msgstr "Субтитри"
+
+#~ msgid "Streams"
+#~ msgstr "Потоки"
+
+#~ msgid "Sort"
+#~ msgstr "Сортувати"
+
+# menu item
+#~ msgid "By name"
+#~ msgstr "За іменем"
+
+# menu item
+#~ msgid "By size"
+#~ msgstr "За розміром"
+
+# menu item
+#~ msgid "By type"
+#~ msgstr "За типом"
+
+# menu item
+#~ msgid "By extension"
+#~ msgstr "За розширенням"
+
+#~ msgid "Tools"
+#~ msgstr "Інструменти"
+
+#~ msgid "Connect NFS/SMB"
+#~ msgstr "Підключити NFS/SMB"
+
+#~ msgid "Disconnect NFS/SMB"
+#~ msgstr "Відключити NFS/SMB"
+
+# menu item
+#~ msgid "Disk formatting"
+#~ msgstr "Форматування диска"
+
+#~ msgid "Enter path or file name..."
+#~ msgstr "Введіть шлях або ім'я файлу..."
+
+#~ msgid "Show<br>info panel"
+#~ msgstr "Показати<br />інфо-блок"
+
+#~ msgid "Items:"
+#~ msgstr "Записів:"
+
+#~ msgid "Selected:"
+#~ msgstr "Вибрано:"
+
+#~ msgid "Hide<br>info panel"
+#~ msgstr "Сховати<br />інфо-блок"
+
+#~ msgid "Warning!"
+#~ msgstr "Увага!"
+
+#~ msgid "\"Storage read only access mode\" is enabled in System Settings"
+#~ msgstr "Включений режим \"тільки читання\" для накопичувача в Системних налаштуваннях"
+
+#~ msgid "Deletion error"
+#~ msgstr "Помилка видалення"
+
+#~ msgid "Unable to remove all selected items"
+#~ msgstr "Не вдалося видалити всі виділені об'єкти"
+
+#~ msgid "Contains a list of items corresponding to the given filter request"
+#~ msgstr "Містить список записів, що відповідають вказаному запиту."
+
+#~ msgid "LAN supports SMB/CIFS protocol, contains available working groups"
+#~ msgstr "Мережеве оточення працює за протоколом SMB/CIFS та містить список усіх доступних робочих груп"
+
+#~ msgid "List of working group computers"
+#~ msgstr "Містить список комп'ютерів у робочій групі"
+
+#~ msgid "List of available folders for every computer"
+#~ msgstr "Кожен комп'ютер містить список доступних папок"
+
+#~ msgid "Access to folders and files of selected network folder"
+#~ msgstr "Надає доступ до директорій і файлів вибраної мережевої папки"
+
+#~ msgid "Folder:"
+#~ msgstr "Папка:"
+
+#~ msgid "Address:"
+#~ msgstr "Адреса:"
+
+#~ msgid "Type:"
+#~ msgstr "Тип:"
+
+#~ msgid "Plug&Play, a set of protocols for seamless connection of network devices, home and corporate. Easy and user-friendly access to media files in LAN."
+#~ msgstr "Universal Plug and Play - універсальне автоматичне налаштування мережевих пристроїв як вдома, так і в корпоративному середовищі. Надає простий і зручний доступ до медіафайлів у локальній мережі."
+
+#~ msgid "Access to list of Timeshift and PVR records collected from all available at the moment storages. All records are grouped by the channel names."
+#~ msgstr "Надає доступ до списку записів Timeshift і PVR, зібраних з усіх доступних на даний момент накопичувачів. Усі записи впорядковані за іменами каналів."
+
+#~ msgid "Opens a list of Timeshift and PVR records sorted by record date"
+#~ msgstr "Надає доступ до списку записів Timeshift і PVR, впорядкованих за датою запису"
+
+#~ msgid "Access to list of Timeshift and PVR records sorted by record time"
+#~ msgstr "Надає доступ до списку записів Timeshift і PVR, впорядкованих за часом запису"
+
+#~ msgid "Opens a full editable list of favourite records"
+#~ msgstr "Надає доступ до загального списку обраних записів з можливістю редагування"
+
+#~ msgid "Saved items:"
+#~ msgstr "Збережених записів:"
+
+#~ msgid "Unsaved changes:"
+#~ msgstr "Наявність незбережених змін:"
+
+#~ msgid "yes"
+#~ msgstr "так"
+
+#~ msgid "no"
+#~ msgstr "ні"
+
+#~ msgid "Access to folders and files"
+#~ msgstr "Надає доступ до файлів і папок"
+
+#~ msgid "Name:"
+#~ msgstr "Ім'я:"
+
+#~ msgid "Size:"
+#~ msgstr "Розмір:"
+
+#~ msgid "Performer:"
+#~ msgstr "Виконавець:"
+
+#~ msgid "File:"
+#~ msgstr "Файл:"
+
+#~ msgid "List of files or network streams to play"
+#~ msgstr "Містить список файлів або мережевих потоків для відтворення"
+
+#~ msgid "Text file with media subtitles or other data"
+#~ msgstr "Текстовий файл, що містить субтитри до медіаданих або іншу інформацію"
+
+#~ msgid "List of album files with additional info"
+#~ msgstr "Містить список файлів альбому з додатковою інформацією"
+
+#~ msgid "Song by:"
+#~ msgstr "Автор пісень:"
+
+#~ msgid "Genre:"
+#~ msgstr "Жанр:"
+
+#~ msgid "Date:"
+#~ msgstr "Дата:"
+
+#~ msgid "Place:"
+#~ msgstr "Місце:"
+
+#~ msgid "Comment:"
+#~ msgstr "Коментар:"
+
+#~ msgid "Files:"
+#~ msgstr "Файлів:"
+
+#~ msgid "from"
+#~ msgstr "з"
+
+#~ msgid "Read only:"
+#~ msgstr "Тільки читання:"
+
+#, fuzzy
+#~ msgid "Record status"
+#~ msgstr "Статус запису"
+
+# menu item
+#~ msgid "Make group"
+#~ msgstr "Додати в групу"
+
+# menu item
+#~ msgid "Create group"
+#~ msgstr "Створити нову групу"
+
+#~ msgid "Edit"
+#~ msgstr "Редагувати"
+
+# menu item
+#~ msgid "Save changes"
+#~ msgstr "Зберегти зміни"
+
+#~ msgid "Add to group"
+#~ msgstr "Додати в групу"
+
+# menu item
+#~ msgid "Add operator's IPTV list"
+#~ msgstr "Вибрати IPTV-список"
+
+# menu item
+#~ msgid "Add IPTV list"
+#~ msgstr "Додати IPTV-список"
+
+# menu item
+#~ msgid "Add IPTV channel"
+#~ msgstr "Додати IPTV-канал"
+
+#~ msgid "Enter channel or group name..."
+#~ msgstr "Введіть назву каналу або групи..."
+
+#~ msgid "Record"
+#~ msgstr "Запис"
+
+#~ msgid "No IPTV channels"
+#~ msgstr "Немає IPTV-каналів"
+
+#~ msgid "IPTV channel list was changed"
+#~ msgstr "Список IPTV-каналів змінився"
+
+#~ msgid "Save updated IPTV channel list?"
+#~ msgstr "Зберегти оновлений список IPTV-каналів?"
+
+#~ msgid "Confirmation"
+#~ msgstr "Підтвердження видалення"
+
+#~ msgid "Server address:"
+#~ msgstr "Адреса сервера:"
+
+#~ msgid "Server folder:"
+#~ msgstr "Папка на сервері:"
+
+#~ msgid "Local folder:"
+#~ msgstr "Локальна папка:"
+
+#~ msgid "Connection type:"
+#~ msgstr "Тип підключення:"
+
+#~ msgid "Connect"
+#~ msgstr "Підключити"
+
+#~ msgid "Wrong connection parameters"
+#~ msgstr "Параметри підключення вказані неправильно"
+
+#~ msgid "Local folder with this name already exists"
+#~ msgstr "Локальна папка з таким ім'ям вже існує"
+
+#~ msgid "Network folder successfully mounted"
+#~ msgstr "Мережева папка успішно примонтована"
+
+#~ msgid "Resource already connected"
+#~ msgstr "Даний ресурс вже примонтовано"
+
+#~ msgid "Unable to connect to the resource<br>with the given parameters"
+#~ msgstr "Не вдалося здійснити підключення<br>до мережевого ресурсу із заданими параметрами"
+
+#~ msgid "Edit network folder"
+#~ msgstr "Редагування мережевої папки"
+
+#~ msgid "Connect network folder"
+#~ msgstr "Підключення мережевої папки"
+
+#~ msgid "Disconnect"
+#~ msgstr "Відключити"
+
+#~ msgid "Network folder successfully unmounted"
+#~ msgstr "Мережева папка успішно відмонтована"
+
+#~ msgid "Disconnect network folder"
+#~ msgstr "Відключення мережевої папки"
+
+#~ msgid "File system:"
+#~ msgstr "Файлова система:"
+
+#~ msgid "Partition:"
+#~ msgstr "Розділ:"
+
+#~ msgid "Formatting"
+#~ msgstr "Форматування"
+
+#~ msgid "Formatting completed"
+#~ msgstr "Форматування завершено"
+
+#~ msgid "Formatting error"
+#~ msgstr "Помилка форматування"
+
+#~ msgid "Formatting impossible.<br>Make sure the device is not used in:<br>\"Download manager\", \"Record manager\"<br>or content playback."
+#~ msgstr "Форматування неможливе.<br>Переконайтеся, що пристрій не використовується в:<br>\"Менеджері завантажень \", \"Менеджері записів \"<br>або для відтворення контенту."
+
+#~ msgid "Formatting impossible"
+#~ msgstr "Неможливо відформатувати"
+
+#~ msgid "Start formatting"
+#~ msgstr "Почати форматування"
+
+#~ msgid "Selected file system supports disks up to 320GB"
+#~ msgstr "Для вибраної файлової системи допустимий обсяг диска - 320 Гб."
+
+#, fuzzy
+#~ msgid "<b style=\"color:red\">Warning: </b>after formatting all data in the<br> selected section will be deleted."
+#~ msgstr "<b style='color:red'>Увага: </b>форматування знищить<br>всі дані вибраного розділу."
+
+#~ msgid "See playlist content"
+#~ msgstr "Переглянути вміст"
+
+#~ msgid "Start playing all records"
+#~ msgstr "Почати відтворення всіх записів"
+
+#~ msgid "Add all records to IPTV channels"
+#~ msgstr "Додати весь вміст у IPTV-канали"
+
+#~ msgid "File encoding:"
+#~ msgstr "Кодування файлу:"
+
+#~ msgid "Open playlist"
+#~ msgstr "Відкриття плейлиста"
+
+#~ msgid "Encoding:"
+#~ msgstr "Кодування:"
+
+#~ msgid "Accessing subtitle file"
+#~ msgstr "Підключення файлу субтитрів"
+
+#~ msgid "Connection"
+#~ msgstr "Підключення"
+
+#~ msgid "Group:"
+#~ msgstr "Група:"
+
+#~ msgid "or create and use a new group:"
+#~ msgstr "або створіть нову групу:"
+
+#~ msgid "Move"
+#~ msgstr "Перемістити"
+
+#~ msgid "No storage device"
+#~ msgstr "Немає пристрою"
+
+#~ msgid "No channels"
+#~ msgstr "Список каналів порожній"
+
+#~ msgid "Start recording:"
+#~ msgstr "Початок:"
+
+#~ msgid "End recording:"
+#~ msgstr "Завершення:"
+
+#~ msgid "Record length:"
+#~ msgstr "Тривалість:"
+
+#~ msgid "Channel:"
+#~ msgstr "Канал:"
+
+#~ msgid "Record name:"
+#~ msgstr "Ім'я запису:"
+
+#~ msgid "Record in:"
+#~ msgstr "Записувати в:"
+
+#~ msgid "Free space:"
+#~ msgstr "Вільно:"
+
+#~ msgid "GB"
+#~ msgstr "Гб"
+
+#~ msgid "of"
+#~ msgstr "із"
+
+#~ msgid "Channel list is empty"
+#~ msgstr "Список каналів порожній"
+
+#~ msgid "Error. Too many active records."
+#~ msgstr "Помилка: занадто багато активних записів"
+
+#~ msgid "Not enough disk space"
+#~ msgstr "Недостатньо місця для збереження"
+
+#~ msgid "Incorrect time"
+#~ msgstr "Неприпустимий інтервал"
+
+#~ msgid "Wrong name or path"
+#~ msgstr "Неправильне ім'я або шлях"
+
+#~ msgid "Duplicated file"
+#~ msgstr "Файл вже існує"
+
+#~ msgid "Wrong URL"
+#~ msgstr "Неприпустима адреса URL"
+
+#~ msgid "Too many active records processed"
+#~ msgstr "Занадто багато записів у процесі"
+
+#~ msgid "Error..."
+#~ msgstr "Помилка..."
+
+#~ msgid "Start recording"
+#~ msgstr "Почати запис"
+
+#~ msgid "Name :"
+#~ msgstr "Ім'я:"
+
+#~ msgid "URL :"
+#~ msgstr "URL:"
+
+#~ msgid "Wrong field data"
+#~ msgstr "Перевірте правильність заповнення полів"
+
+#~ msgid "Bad playlist file"
+#~ msgstr "Помилка відкриття плейлиста"
+
+#~ msgid "Select country..."
+#~ msgstr "Виберіть країну..."
+
+#~ msgid "Select operator..."
+#~ msgstr "Виберіть оператора..."
+
+#~ msgid "Select city..."
+#~ msgstr "Виберіть місто..."
+
+#~ msgid "Country:"
+#~ msgstr "Країна:"
+
+#~ msgid "City:"
+#~ msgstr "Місто:"
+
+#~ msgid "Operator:"
+#~ msgstr "Оператори:"
+
+#~ msgid "Loading operator playlist"
+#~ msgstr "Завантаження операторських списків IPTV"
+
+#~ msgid "DVB type:"
+#~ msgstr "DVB-тип:"
+
+#~ msgid "Symbol rate:"
+#~ msgstr "Швидкість передачі:"
+
+#~ msgid "Modulation:"
+#~ msgstr "Модуляція:"
+
+#~ msgid "Scan"
+#~ msgstr "Сканувати"
+
+#~ msgid "Start scanning"
+#~ msgstr "Початок сканування"
+
+#~ msgid "Frequency (KHz):"
+#~ msgstr "Частота (KHz):"
+
+#~ msgid "Bandwidth (MHz):"
+#~ msgstr "пропускна здатність (MHz):"
+
+#~ msgid "Auto"
+#~ msgstr "Автоматичне"
+
+#~ msgid "Network"
+#~ msgstr "Мережеве оточення"
+
+#~ msgid "Full"
+#~ msgstr "Повний"
+
+#~ msgid "Fast"
+#~ msgstr "Швидкий"
+
+#~ msgid "Network ID:"
+#~ msgstr "Код мережи:"
+
+#~ msgid "EPG not available"
+#~ msgstr "Програма передач недоступна"
+
+#~ msgid "The program for:"
+#~ msgstr "Програма на:"
+
+#, fuzzy
+#~ msgid "Antenna"
+#~ msgstr "Антена"
+
+#~ msgid "Fit on"
+#~ msgstr "Вмістити"
+
+#~ msgid "Zoom"
+#~ msgstr "Збільшений"
+
+#~ msgid "Optimal"
+#~ msgstr "Оптимальний"
+
+#~ msgid "Stretch"
+#~ msgstr "Розтягнути"
+
+#~ msgid "Show<br />playlist"
+#~ msgstr "Показати<br />плейлист"
+
+#~ msgid "Hide<br />player"
+#~ msgstr "Сховати<br />плеєр"
+
+#~ msgid "Previous<br />media"
+#~ msgstr "Попереднє<br />медіа"
+
+#~ msgid "Next<br />media"
+#~ msgstr "Наступне<br />медіа"
+
+#~ msgid "Audio tracks"
+#~ msgstr "Звукові доріжки"
+
+#~ msgid "No storage device selected as the \"File location\" in TimeShift settings. Disable TimeShift?"
+#~ msgstr "Відсутній носій, вибраний як \"Розташування файлів\" в налаштуваннях TimeShift. Вимкнути функцію TimeShift?"
+
+#~ msgid "No"
+#~ msgstr "Ні"
+
+#~ msgid "TimeShift buffer"
+#~ msgstr "TimeShift буфер"
+
+#~ msgid "Cyclic recording mode"
+#~ msgstr "Циклічний перезапис"
+
+#~ msgid "3D mode"
+#~ msgstr "3D-режим"
+
+#~ msgid "Mode"
+#~ msgstr "Режим"
+
+#~ msgid "Slide-show"
+#~ msgstr "Слайдшоу"
+
+#~ msgid "Play"
+#~ msgstr "Відтворення"
+
+#~ msgid "One file once"
+#~ msgstr "Файл один раз"
+
+#~ msgid "Each file once"
+#~ msgstr "Всi один раз"
+
+#~ msgid "Repeat file"
+#~ msgstr "Повторювати файл"
+
+#~ msgid "Repeat everything"
+#~ msgstr "Повторювати все"
+
+#~ msgid "Playlist shuffle"
+#~ msgstr "Перемішати плейлист"
+
+#~ msgid "Hide<br />playlist"
+#~ msgstr "Сховати<br />плейлист"
+
+#~ msgid "Selected subtitle file is not available"
+#~ msgstr "Вибраний файл субтитрів недоступний"
+
+#~ msgid "Playing error"
+#~ msgstr "Помилка відтворення"
+
+#, fuzzy
+#~ msgid "Detected passive antenna type"
+#~ msgstr "Виявлено пасивний тип антени"
+
+#~ msgid "Buffer is full"
+#~ msgstr "Буфер заповнений"
+
+#~ msgid "Writing error"
+#~ msgstr "Помилка запису"
+
+#~ msgid "Check storage device.<br />Disable TimeShift?"
+#~ msgstr "Перевірте стан носія.<br />Відключити TimeShift?"
+
+#~ msgid "Start TimeShift error"
+#~ msgstr "Помилка запуску TimeShift"
+
+#~ msgid "Save TimeShift buffer?"
+#~ msgstr "Зберегти вміст буфера TimeShift?"
+
+#~ msgid "Saving error"
+#~ msgstr "Помилка збереження"
+
+#~ msgid "Save to:"
+#~ msgstr "Збережено в:"
+
+#~ msgid "unknown"
+#~ msgstr "невідомий"
+
+#~ msgid "External subtitles:"
+#~ msgstr "Зовнішні субтитри:"
+
+#~ msgid "Title"
+#~ msgstr "Розділ"
+
+#~ msgid "Chapter"
+#~ msgstr "Глава"
+
+#~ msgid "Contains the list of items corresponding to the given filter request"
+#~ msgstr "Містить список записів, що відповідають вказаному запиту"
+
+#~ msgid "Copying error"
+#~ msgstr "Помилка копіювання"
+
+#~ msgid "Records"
+#~ msgstr "Записи"
+
+#~ msgid "Unable to get working group list"
+#~ msgstr "Не вдалося отримати список робочих груп"
+
+#~ msgid "Unable to get working group servers"
+#~ msgstr "Не вдалося отримати список серверів робочої групи"
+
+#~ msgid "Unable to get server shares"
+#~ msgstr "Не вдалося отримати список доступних папок"
+
+#~ msgid "Multimedia content"
+#~ msgstr "Інтерактивний вміст"
+
+#~ msgid "The directory contains DVD or Blu-ray structure.<br>Begin playing?"
+#~ msgstr "Каталог містить DVD або Blu-ray структуру.<br>Почати відтворення?"
+
+#~ msgid "Network connection"
+#~ msgstr "Мережеве підключення"
+
+#~ msgid "Unable to mount the folder.<br>Authorization may be necessary.<br>Specify login and password?"
+#~ msgstr "Не вдалося примонтувати каталог.<br>Можливо, необхідна авторизація.<br>Вказати логін і пароль?"
+
+#~ msgid "Authorization"
+#~ msgstr "Авторизація"
+
+#~ msgid "Selected subtitle will appear<br>during next player launch"
+#~ msgstr "Вибраний файл субтитрів буде використаний<br>при наступному запуску плеєра"
+
+#~ msgid "No records in this playlist"
+#~ msgstr "Плейлист не містить записів"
+
+#~ msgid "Add to IPTV channels"
+#~ msgstr "Додавання в IPTV-канали"
+
+#~ msgid "Unable to add the selected records"
+#~ msgstr "Не вдалося додати вибрані записи"
+
+#~ msgid "No new channels for selected records"
+#~ msgstr "У вибраних записах немає нових каналів"
+
+#~ msgid "Channels added successfully:"
+#~ msgstr "Успішно додано каналів:"
+
+#~ msgid "Go to IPTV channels"
+#~ msgstr "Перейти в IPTV-канали"
+
+#, fuzzy
+#~ msgid "Unable to get dlna group servers"
+#~ msgstr "Не вдалося отримати список серверів робочої групи"
+
+#~ msgid "Loading..."
+#~ msgstr "Завантаження..."
+
+#~ msgid "Auto update software"
+#~ msgstr "Автооновлення ПЗ"
+
+#~ msgid "Estimated time to complete the test - 10 minutes. You can not interrupt the test before it is completed"
+#~ msgstr "Розрахунковий час завершення тесту - 10 хвилин. Ви не можете перервати перевірку до її завершення"
+
+#~ msgid "Antenna power supply disabled"
+#~ msgstr "Живлення антени відключене"
+
+#~ msgid "Start at"
+#~ msgstr "Початок був в"
+
+#, fuzzy
+#~ msgid "Unable to get dlna content"
+#~ msgstr "Не вдалося отримати список робочих груп"
+
+#, fuzzy
+#~ msgid "Recording"
+#~ msgstr "Запис"
+
+#, fuzzy
+#~ msgid "Completed"
+#~ msgstr "Завершено"
+
+#~ msgid "Update software now"
+#~ msgstr "Оновити ПЗ зараз"
+
+#~ msgid "Formatting in progress..."
+#~ msgstr "Форматування в процесі..."
+
+# menu item
+#~ msgid "Move selected"
+#~ msgstr "Перемістити виділене"
+
+# menu item
+#~ msgid "Copy selected"
+#~ msgstr "Копіювати виділене"
+
+#, fuzzy
+#~ msgid "To perform this operation, you must to turn off \"Storage read only access\" in system settings"
+#~ msgstr "Щоб виконати цю операцію, необхідно відключити \"Storage read only access\" в системних налаштуваннях"
+
+#~ msgid "Selected"
+#~ msgstr "Виділене"
+
+#~ msgid "Text"
+#~ msgstr "Текст"
+
+#~ msgid "Groups"
+#~ msgstr "Групи"
+
+#~ msgid "No sorting"
+#~ msgstr "Без сортування"
+
+# menu item
+#~ msgid "Mount NFS/SMB"
+#~ msgstr "Підключити NFS/SMB"
+
+# menu item
+#~ msgid "Unmount NFS/SMB"
+#~ msgstr "Відключити NFS/SMB"
+
+#~ msgid "Back"
+#~ msgstr "Назад"
+
+#~ msgid "Operation"
+#~ msgstr "Операція"
+
+#~ msgid "Connect via Ethernet"
+#~ msgstr "Підключитися через Ethernet"
+
+#~ msgid "Connect via WiFi"
+#~ msgstr "Підключитися по WiFi"
+
+#~ msgid "Checking LAN connection"
+#~ msgstr "Перевірка підключення до локальної мережі"
+
+#~ msgid "To play this file press F1,<br>to save it press F2"
+#~ msgstr "Щоб відтворити файл, натисніть F1,<br>щоб зберегти, натисніть F2"
+
+#, fuzzy
+#~ msgid "To save this file press F2"
+#~ msgstr "Для збереження файлу натиcнiть F2"
+
+#~ msgid "Select action"
+#~ msgstr "Виберіть дію"
+
+#~ msgid "Download"
+#~ msgstr "Завантажити"
+
+#~ msgid "Retry"
+#~ msgstr "Повторити"
+
+#~ msgid "Show log"
+#~ msgstr "Показати звіт"
+
+#~ msgid "Hide log"
+#~ msgstr "Сховати звіт"
+
+#~ msgid "Update"
+#~ msgstr "Оновити"
+
+#~ msgid "Status"
+#~ msgstr "Статус"
+
+#~ msgid "Check image"
+#~ msgstr "Перевірка образу"
+
+#~ msgid "Current version"
+#~ msgstr "Поточна версія"
+
+#~ msgid "New version"
+#~ msgstr "Доступна версія"
+
+#~ msgid "Description"
+#~ msgstr "Опис"
+
+#~ msgid "Change log"
+#~ msgstr "Список змін"
+
+#~ msgid "Updating to version"
+#~ msgstr "Оновлення до версії"
+
+#~ msgid "Update status"
+#~ msgstr "Статус оновлення"
+
+#~ msgid "<span class='alert'>Warning!</span> Automatic device reboot after updating"
+#~ msgstr "<span class='alert'>Увага!</span> Після оновлення пристрій буде перезавантажений!"

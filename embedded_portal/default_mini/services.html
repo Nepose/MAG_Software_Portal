@@ -1,0 +1,797 @@
+<!doctype html>
+<html>
+<head>
+	<title>STB Service page</title>
+	<meta charset="utf-8">
+
+	<script>
+		var PATH_BASE = '';
+	</script>
+
+	
+
+	<script type="text/javascript">
+		(function () {
+			var time = (new Date).getTime();
+			// conditional css loading
+			document.write('<link rel="stylesheet" href="system/' + screen.height + '.css?_=' + time + '">');
+			document.write('<link rel="stylesheet" href="public/portal/' + screen.height + '.css?_=' + time + '">');
+		})();
+	</script>
+
+	<script type="text/javascript" src="rules.js"></script>
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	<!--<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&libraries=places,weather&scale=2&language=en"></script>-->
+
+	<style type="text/css">
+		html, body { overflow:hidden; background:transparent; color:#fff; margin:0; padding:0; -webkit-user-select:none; font-family:Ubuntu,sans-serif; }
+
+		/* table cell spacing/padding reset */
+		table { border:0; border-collapse:collapse; border-spacing:0; }
+		table td { padding:0 }
+
+		/* meta-classes */
+		.maxh { height:100% }
+		.maxw { width:100% }
+		a { text-decoration:none }
+
+		/* scroll bars */
+		::-webkit-scrollbar-track { background:#2a2c2f }
+		::-webkit-scrollbar-thumb { background:#ffc20e }
+
+		.page#pageServiceMenu .header { position:absolute; top:0; background:none; z-index:7 }
+
+		#cursorGround { z-index:1 }
+		#cursor { z-index:1 }
+		#ground { z-index:2 }
+		#weatherSettings { z-index:3 }
+
+		.page#pageMediaPlayer #slideContainer {
+			position: absolute;
+			/*background-color: black;*/
+			width: 100%;
+			height: 100%;
+			top: 0;
+			left: 0;
+			text-align: center;
+		}
+
+		.page#pageMediaPlayer #slideContainer .fix {
+			width: 0;
+			height: 100%;
+			overflow: hidden;
+			display: inline-block;
+			vertical-align: middle;
+			text-align: left;
+		}
+
+		.page#pageMediaPlayer .animationContainer {
+			margin: 0 auto;
+			width: 500px;
+			height: 162px;
+			display: inline-block;
+			vertical-align: middle;
+			overflow: hidden;
+			text-align: left;
+		}
+
+		.page#pageMediaPlayer .slide{
+			position: absolute;
+			-webkit-animation-name: play;
+			-webkit-animation-iteration-count: infinite;
+			-webkit-animation-duration: 0.8s;
+			opacity: 0;
+			/*opacity:1;*/
+		}
+
+		@-webkit-keyframes play{
+			/*from{opacity: 1;}*/
+			0%   { opacity: 0; }
+			10%  { opacity: 1; }
+			40%  { opacity: 1; }
+			100% { opacity: 0; }
+			/*to{opacity: 1;}*/
+		}
+
+		.page#pageMediaPlayer .animationPlay4 { -webkit-animation-delay: 0s; }
+		.page#pageMediaPlayer .animationPlay3 { -webkit-animation-delay: 0.2s; }
+		.page#pageMediaPlayer .animationPlay2 { -webkit-animation-delay: 0.4s; }
+		.page#pageMediaPlayer .animationPlay1 { -webkit-animation-delay: 0.6s; }
+
+		/*
+		   fix resizing bug after showing table, Bug #2281, link - http://192.168.1.220:3000/issues/2281
+		   looks like a browser bug
+		 */
+		.page#pageMediaPlayer .cgmenu-main table {table-layout: fixed;}
+	</style>
+
+	<script type="text/javascript" src="services.min.js"></script>
+</head>
+<body id="body">
+
+	<div id="loading" style="width:100%; height:100%; background-color:transparent; position:absolute; top:0; left:0; z-index:2010; display:block; cursor:none">
+		<span style="position:absolute; color:#ccc; font-family:Ubuntu,sans-serif; font-size:36px; width:100%; text-align:center; top:50%; cursor:none">Loading...</span>
+	</div>
+
+	<!-- Master Settings -->
+	<div id="pageMasterSettings" style="display: none;">
+		<div id="pageMasterSettings_header"></div>
+		<div id="pageMasterSettings_main" class=""></div>
+		<div id="pageMasterSettings_footer"></div>
+		<!-- google map -->
+		<div id="masterSettingsMapCanvas" class="mapCanvas"></div>
+		<!-- end google map -->
+	</div>
+    <!-- end Master Settings -->
+
+	<!-- Weather Settings -->
+	<div id="weatherSettings" style="display:none" class="page">
+		<!-- main container -->
+		<table cellpadding="0" cellspacing="0" border="0" style="width:100%; height:100%; background-color:transparent" class="body">
+			<!-- page body top panel -->
+			<tr class="header">
+				<td colspan="3" class="crop">
+					<table class="maxw" cellpadding="0" cellspacing="0" border="0">
+						<tr>
+							<!-- Breadcrumb component -->
+							<td class="cbcrumb"></td>
+							<!-- Search bar component -->
+							<td class="csbar">
+								<input type="text" id="place">
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+
+            <!--<tr class="map" style="display:none">-->
+                <!--<td colspan="3">-->
+                    <!--<div class="canvas"></div>-->
+                <!--</td>-->
+            <!--</tr>-->
+
+            <tr class="content">
+				<td colspan="2" class="today">
+					<!-- today -->
+					<table id="wsbody_today" cellpadding="0" cellspacing="0" border="0">
+						<tr class="row_title">
+							<td colspan="2" align="left">
+								<div class="day" id="forecast_day_0_day"></div>
+								<div class="date" id="forecast_day_0_date"></div>
+							</td>
+						</tr>
+						<tr class="row_image">
+							<td colspan="2" class="image" align="center" style="vertical-align:middle">
+								<div id="forecast_day_0_img"></div>
+							</td>
+						</tr>
+						<tr class="row_descr">
+							<td colspan="2">
+								<div class="descr" id="forecast_day_0_cond"></div>
+							</td>
+						</tr>
+						<tr class="row_data">
+							<td>
+								<div class="weather_details day_temp" id="forecast_day_0_to">0</div>
+							</td>
+							<td>
+								<div class="weather_details humidity" id="forecast_day_0_hum">0%</div>
+							</td>
+						</tr>
+						<tr class="row_data" align="left">
+							<td>
+								<div class="weather_details night_temp" id="forecast_day_0_from">0</div>
+							</td>
+							<td>
+								<div class="weather_details wind" id="forecast_day_0_wind"></div>
+							</td>
+						</tr>
+						<tr class="row_footer">
+							<td colspan="2">&nbsp;</td>
+						</tr>
+					</table>
+					<!-- end today -->
+				</td>
+				<td class="weather_list">
+					<!-- list of the next 3 days -->
+					<table id="wsbody_wlist" cellpadding="0" cellspacing="0" border="0">
+						<tr>
+							<td align="left">
+								<div class="day" id="forecast_day_1_day"></div>
+								<div class="date" id="forecast_day_1_date"></div>
+							</td>
+							<td class="image">
+								<div id="forecast_day_1_img"></div>
+							</td>
+							<td>
+								<div class="descr" id="forecast_day_1_cond">0</div>
+							</td>
+							<td>
+								<div class="day_temp" id="forecast_day_1_to">0</div>
+								<div class="night_temp" id="forecast_day_1_from">0</div>
+							</td>
+						</tr>
+						<tr>
+							<td align="left">
+								<div class="day" id="forecast_day_2_day"></div>
+								<div class="date" id="forecast_day_2_date"></div>
+							</td>
+							<td class="image">
+								<div id="forecast_day_2_img"></div>
+							</td>
+							<td>
+								<div class="descr" id="forecast_day_2_cond">0</div>
+							</td>
+							<td>
+								<div class="day_temp" id="forecast_day_2_to">0</div>
+								<div class="night_temp" id="forecast_day_2_from">0</div>
+							</td>
+						</tr>
+						<tr>
+							<td align="left">
+								<div class="day" id="forecast_day_3_day"></div>
+								<div class="date" id="forecast_day_3_date"></div>
+							</td>
+							<td class="image">
+								<div id="forecast_day_3_img"></div>
+							</td>
+							<td>
+								<div class="descr" id="forecast_day_3_cond">0</div>
+							</td>
+							<td>
+								<div class="day_temp" id="forecast_day_3_to">0</div>
+								<div class="night_temp" id="forecast_day_3_from">0</div>
+							</td>
+						</tr>
+					</table>
+					<!-- end list of the next 3 days -->
+				</td>
+			</tr>
+
+			<tr class="footer">
+				<td class="crop exit">
+					<div class="cbpanel-main"></div>
+					<!--<div onclick="weather.weatherSettingsExit()">Exit</div>-->
+				</td>
+				<td class="crop main" colspan="2">
+					<!-- control buttons block -->
+					<div class="cbpanel-main"></div>
+				</td>
+			</tr>
+		</table>
+		<!-- end main container -->
+
+		<!-- autocompleter list -->
+		<div class="suggests" id="suggests" style="display:none">
+			<ul>
+				<li id="s0"></li>
+				<li id="s1"></li>
+				<li id="s2"></li>
+				<li id="s3"></li>
+				<li id="s4"></li>
+			</ul>
+		</div>
+		<!-- end autocompleter list -->
+
+		<!-- google map -->
+		<div id="mapCanvas" class="mapCanvas"></div>
+		<!-- end google map -->
+	</div>
+	<!-- end Weather Settings -->
+
+	<!-- Service Menu -->
+	<div class="page" id="pageServiceMenu">
+		<div class="bg"></div>
+		<div class="header">
+			<div id="statuses">
+				<div id="network_status"></div>
+				<div id="wifi_status"></div>
+				<div id="lan_status"></div>
+			</div>
+			<div id="screenClockHours_main" class="date_time" style="text-align:center">
+				<div class="time" id="screenClockMinutes_main"></div>
+				<div id="screenClockDate_main" class="date"></div>
+			</div>
+			<div id="face" style="text-align:right"></div>
+			<div id="weather_condition" class="weather_default" style="text-align:right"></div>
+		</div>
+		<div id="switch_desktop" onclick="app.switch_page()">
+			<div id="cur_desktop" class="_0"></div>
+		</div>
+		<div id="cursorGround" class="ground0">
+			<div id="cursor"></div>
+		</div>
+		<div id="ground" class="ground0"></div>
+	</div>
+    <!-- end Service Menu -->
+
+    <!-- Settings -->
+	<div class="page" id="pageSettings">
+		<table class="body">
+			<!-- page body top panel -->
+			<tr class="header">
+				<td colspan="2" class="crop">
+					<table class="maxw">
+						<tr>
+							<!-- Breadcrumb component -->
+							<td class="cbcrumb"></td>
+							<!-- Search bar component -->
+							<td class="csbar"></td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+
+
+			<!-- page body main content block -->
+			<tr class="content">
+				<td colspan="2" class="crop">
+					<!-- FileList component -->
+					<div class="cslist-main maxw"></div>
+				</td>
+			</tr>
+
+			<!-- page body bottom panel -->
+			<tr class="footer">
+				<td class="crop exit">
+					<div class="cbpanel-main"></div>
+					<!--<div onclick="SettingsPage.pressExit()">Exit</div>-->
+				</td>
+				<td class="crop main">
+					<!-- control buttons block -->
+					<div class="cbpanel-main"></div>
+				</td>
+			</tr>
+		</table>
+	</div>
+    <!-- end Settings -->
+
+	<!-- IPTV -->
+	<div class="page" id="pageTVChannels">
+		<!-- side menu hidden body -->
+		<div class="cgmenu-main"></div>
+
+		<!-- main page body -->
+		<table class="body">
+			<!-- page body top panel -->
+			<tr class="header">
+				<td colspan="2" class="crop">
+					<table class="maxw">
+						<tr>
+							<!-- Breadcrumb component -->
+							<td class="cbcrumb"></td>
+							<!-- Search bar component -->
+							<td class="csbar"></td>
+						</tr>
+					</table>
+				</td>
+				<td class="crop tray"></td>
+			</tr>
+
+			<tr class="content" style="background-image: url(system/img/backgrounds/bg_black_70.png);">
+				<td colspan="3" class="crop">
+					<table class="maxw">
+						<tr>
+							<td class="main">
+								<!-- FileList component -->
+								<div class="cslist-main"></div>
+							</td>
+							<td class="content_right">
+								<div class="content">
+									<div class="title"><div class="info_icon"></div><div class="infoTitle"></div></div>
+									<div class="prog_name URL" style="word-break: break-all;word-wrap: break-word;"></div>
+									<div class="prog_name pvrStatus" style="word-break: break-all;word-wrap: break-word; display: none;">
+										<div class="pvrText" style="float:left;"></div>
+										<div class="pvrStatusImg done"></div>
+										<div class="pvrStatusImg wait"></div>
+										<div class="pvrStatusImg write"></div>
+										<div class="pvrStatusImg error"></div>
+									</div>
+									<div class="prog_name epgNow"></div>
+									<div class="prog_name epgNext"></div>
+
+								</div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+
+			<!-- page body bottom panel -->
+			<tr class="footer">
+				<td class="crop exit">
+					<div class="cbpanel-main"></div>
+					<!--<div onclick="IPTVChannels.actionExit()">Exit</div>-->
+				</td>
+				<td class="crop main" colspan="2">
+					<!-- control buttons block -->
+					<div class="cbpanel-main"></div>
+				</td>
+			</tr>
+		</table>
+		<div class="channelNumber" style="display: none;"></div>
+	</div>
+	<!-- end IPTV -->
+
+	<!-- DVBTV -->
+	<div class="page" id="pageDVBChannels">
+		<!-- side menu hidden body -->
+		<div class="cgmenu-main"></div>
+		<div class="scanInProgress maxw maxh" style="display: none;">
+			<div class="connection">
+				<div class="percent percentScan">100%</div>
+				<div class="loader"></div>
+			</div>
+			<div class="desc">
+				<table width="100%" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td class="titleFreqScan" style="text-align: right;width: 50%;"></td>
+						<td class="titleFreqScanText" style="text-align: left;width: 50%;"></td>
+					</tr>
+					<tr>
+						<td class="titleTotalScan" style="text-align: right"></td>
+						<td class="titleTotalScanText" style="text-align: left"></td>
+					</tr>
+					<tr>
+						<td class="titleLastScan" style="text-align: right"></td>
+						<td class="titleLastScanText" style="text-align: left"></td>
+					</tr>
+				</table>
+			</div>
+		</div>
+		<!-- main page body -->
+		<table class="body">
+			<!-- page body top panel -->
+			<tr class="header">
+				<td colspan="2" class="crop">
+					<table class="maxw">
+						<tr>
+							<!-- Breadcrumb component -->
+							<td class="cbcrumb"></td>
+							<!-- Search bar component -->
+							<td class="csbar"></td>
+						</tr>
+					</table>
+				</td>
+				<td class="crop tray"></td>
+			</tr>
+
+			<!-- page body main content block -->
+			<tr class="content" style="background-image: url(system/img/backgrounds/bg_black_70.png);">
+				<td colspan="3" class="crop">
+					<table class="maxw">
+						<tr>
+							<td class="main">
+								<!-- FileList component -->
+								<div class="clist-main"></div>
+							</td>
+							<td class="content_right">
+								<div class="content">
+									<div class="title"><div class="info_icon"></div><div class="infoTitle"></div></div>
+									<div class="prog_name epgNow"></div>
+									<div class="prog_name epgNext"></div>
+								</div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+
+			<!-- page body bottom panel -->
+			<tr class="footer">
+				<td class="crop exit">
+					<div class="cbpanel-main"></div>
+				</td>
+				<td class="crop main" colspan="2">
+					<!-- control buttons block -->
+					<div class="cbpanel-main"></div>
+				</td>
+			</tr>
+		</table>
+		<div class="channelNumber" style="display: none;"></div>
+	</div>
+
+	<!--DVB EPG PAGE-->
+	<div class="page" id="pageDVBEpg">
+		<!-- main page body -->
+		<table class="body">
+			<!-- page body top panel -->
+			<tr class="header">
+				<td colspan="2" class="crop">
+					<table class="maxw">
+						<tr>
+							<!-- Breadcrumb component -->
+							<td class="cbcrumb"></td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+
+			<!-- page body main content block -->
+			<tr class="content" style="background-image: url(system/img/backgrounds/bg_black_70.png);">
+				<td colspan="3" class="crop">
+					<table class="maxw">
+						<tr>
+							<td colspan="2" class="timeblocks">
+								<!--<div class="mainblock"></div>-->
+							</td>
+							<td>
+								<div class="clock"></div>
+							</td>
+						</tr>
+						<tr>
+							<td valign="top" class="clist-main" colspan="3"><div class="timeline"></div></td>
+						</tr>
+						<tr>
+							<td colspan="2">
+								<div class="current_prog"></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+
+			<!-- page body bottom panel -->
+			<tr class="footer">
+				<td class="crop exit">
+					<div class="cbpanel-main"></div>
+					<!--<div onclick="DVBEpg.actionExit()">Exit</div>-->
+				</td>
+				<td class="crop main" colspan="2">
+					<!-- control buttons block -->
+					<div class="cbpanel-main"></div>
+				</td>
+			</tr>
+		</table>
+		<div class="channelNumber" style="display: none;"></div>
+	</div>
+	<!-- end DVBTV -->
+
+	<!-- Media Browser -->
+	<div class="page" id="pageMediaBrowser">
+		<!-- side menu hidden body -->
+		<div class="cgmenu-main"></div>
+
+		<!-- main page body -->
+		<table class="body">
+			<!-- page body top panel -->
+			<tr class="header">
+				<td colspan="2" class="crop">
+					<table class="maxw">
+						<tr>
+							<!-- Breadcrumb component -->
+							<td class="cbcrumb"></td>
+							<!-- Search bar component -->
+							<td class="csbar"></td>
+						</tr>
+					</table>
+				</td>
+				<td class="crop tray"></td>
+			</tr>
+
+			<!-- page body main content block -->
+			<tr class="content">
+				<td colspan="3" class="crop">
+					<table class="maxw">
+						<tr>
+							<td class="main">
+								<!-- FileList component -->
+								<div class="vlist-main"></div>
+								<div class="vscroll"></div>
+							</td>
+							<td class="sbar">
+								<!-- SideBar component -->
+								<table class="maxh maxw">
+									<tr>
+										<td class="view">
+											<!-- main preview block -->
+										</td>
+									</tr>
+									<tr>
+										<td class="info">
+											<div class="block all">
+												<span class="title">Records:</span> <span class="value">0</span>
+											</div>
+											<div class="block sel">
+												<span class="title">Selected:</span> <span class="value">0</span>
+											</div>
+										</td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+
+			<!-- page body bottom panel -->
+			<tr class="footer">
+				<td class="crop exit">
+					<div class="cbpanel-main"></div>
+					<!--<div onclick="MediaBrowser.actionBack()">Exit</div>-->
+				</td>
+				<td class="crop main" colspan="2">
+					<!-- control buttons block -->
+					<div class="cbpanel-main"></div>
+				</td>
+			</tr>
+		</table>
+	</div>
+    <!-- end Media Browser -->
+
+	<!-- Tools Pan -->
+	<div id="toolsPan">
+		<table cellpadding="0" cellspacing="0" width="100%" border="0" class="fixed">
+			<tr>
+				<td id="media_HeaderContainer" valign="top">
+					<!--<div id="mediaHeader_DualMonoIco" class="mediaHeaderIco"></div>-->
+					<!--<div id="mediaHeader_PauseIco" class="mediaHeaderIco"></div>-->
+					<div id="mediaHeader_Aspect" class="mediaHeaderIco">
+						<div class="aspect_icon"></div>
+						<span></span>
+					</div>
+				</td>
+
+				<td class="volumeContainer">
+					<div id="mute" style="visibility:hidden"></div>
+					<div id="volumeForm" style="visibility:hidden">
+						<div id="volume_bar">
+							<img src="" class="alignLeft" id="volumeLeft" alt="" style="float:left">
+
+							<div id="volume_right"></div>
+						</div>
+						<div id="volume_num"></div>
+					</div>
+				</td>
+			</tr>
+		</table>
+	</div>
+	<!-- end Tools Pan -->
+
+	<!-- MediaPlayer -->
+    <div class="page" id="pageMediaPlayer">
+		<div id="slideContainer" style="display:none;">
+			<div class="animationContainer">
+				<img class="slide animationPlay1" src="public/img/1280/media/radio_slide_1.png" alt="">
+				<img class="slide animationPlay2" src="public/img/1280/media/radio_slide_2.png" alt="">
+				<img class="slide animationPlay3" src="public/img/1280/media/radio_slide_3.png" alt="">
+				<img class="slide animationPlay4" src="public/img/1280/media/radio_slide_4.png" alt="">
+
+			</div>
+			<div class="fix"></div>
+		</div>
+
+		<div class="clockOptional" id="playerClockOptional">00:00</div>
+
+		<div class="player_header" style="visibility: hidden;position: absolute;" id="playerHeader">
+			<div class="exit_bg">
+				<a href="#" class="exit" id="playerHeaderExit" onclick="MediaPlayer.exit();return false;"></a>
+			</div>
+			<a href="#" class="hideplayer" id="playerHideplayer" onclick="MediaPlayer.showInfo(); event.stopPropagation(); return false;"></a>
+			<a href="#" class="settings" id="playerHeaderSetting" onclick="MediaPlayer.ModalMenu.Show(); event.stopPropagation(); return false;"></a>
+
+			<div class="clock" id="playerClock"></div>
+			<a href="#" class="blue" id="playerHeaderBlue" onclick="MediaPlayer.actionF3(); event.stopPropagation(); return false;"></a>
+			<a href="#" class="hideplist" id="playerHideplist" onclick="MediaPlayer.actionF2(); event.stopPropagation(); return false;"></a>
+		</div>
+		<div class="player_footer" style="visibility: hidden;position: absolute;" id="playerFooter">
+			<div class="seekbar" id="playerBar">
+				<div class="progress" id="playerProgressBar"></div>
+				<div class="preload" id="playerBufferBar"></div>
+			</div>
+
+			<div>
+				<a href="#" class="play-pause" id="playerPause" onclick="MediaPlayer.playPause(); event.stopPropagation(); return false;"></a>
+				<a href="#" class="rew" id="playerREW" onclick="MediaPlayer.setPos(-1); event.stopPropagation(); return false;"></a>
+				<a href="#" class="ffwd" id="playerFFWD" onclick="MediaPlayer.setPos(1); event.stopPropagation(); return false;"></a>
+
+				<div class="name" id="playerTitle"></div>
+				<div class="time_total" id="playerTotalTime"></div>
+				<div class="slash" id="playerSlash">/</div>
+				<div class="time_cur" id="playerCurrentTime"></div>
+			</div>
+		</div>
+
+		<div class="cright" id="cright" style="display: none;">
+			<div class="box">
+				<img src="" id="audioType" style="float:left;">
+				<div id="audioText" style="float:left;"></div>
+			</div>
+		</div>
+		<div class="cright_bottom">
+			<div class="box" id="cright_bottom_tvtext" style="display: none;">
+				<div class="tvtext_icon"></div>
+			</div>
+			<div class="box" id="cright_bottom_sub" style="display: none;">
+				<div class="sub_ico"></div>
+				<div id="subText" style="float:left;"></div>
+			</div>
+		</div>
+
+		<div class="cright_hls" id="cright_hls" style="display: none;">
+			<div class="box">
+				<div id="hlsInfo" style="float:left;">HLS info</div>
+			</div>
+		</div>
+
+		<div class="cgmenu-main"></div>
+		<div id="ts_indicator" style="display: none;"></div>
+		<div id="dualmono_indicator" style="display: none;"></div>
+		<div class="channelNumber" style="display: none;"></div>
+
+		<div class="frame" id="playerListBox" style="visibility: hidden;background-image: url(system/img/backgrounds/bg_black_70.png);">
+			<div class="cslist-main" id="playerList">
+			</div>
+			<div class="button_bar">
+				<a href="#" class="prev" id="playlistPrev" onclick="MediaPlayer.prevMedia(); return false;"></a>
+				<a href="#" class="next" id="playlistNext" onclick="MediaPlayer.nextMedia(); return false;"></a>
+			</div>
+		</div>
+	</div>
+	<!-- end MediaPlayer -->
+
+</body>
+
+<script type="text/javascript">
+	if ( !EMULATION && DEBUG && DEBUG_NAME ) {
+		document.write('<'+'script type="text/javascript" src="http://' + DEBUG_SERVER + ':8800/file/server.js"><'+'/script>');
+	}
+</script>
+
+</html>

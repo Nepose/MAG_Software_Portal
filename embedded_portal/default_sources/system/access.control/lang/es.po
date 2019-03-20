@@ -1,0 +1,1935 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Service menu\n"
+"POT-Creation-Date: 2015-10-20 11:37+0200\n"
+"PO-Revision-Date: 2015-10-20 11:37+0200\n"
+"Last-Translator: Harry <harry@aaa.aa>\n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-KeywordsList: _;gettext.data\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../main.js:15
+#, fuzzy
+msgid "Password"
+msgstr "Contraseña"
+
+#: ../main.js:45
+msgid "Unlock"
+msgstr ""
+
+#: ../main.js:45 ../main.js:94
+msgid "Cancel"
+msgstr "İptal"
+
+#: ../main.js:65
+msgid "Ok"
+msgstr "Ok"
+
+#: ../main.js:89
+msgid "Lock device or exit portal?"
+msgstr ""
+
+#: ../main.js:91
+msgid "Lock device?"
+msgstr ""
+
+#: ../main.js:94
+msgid "Confirm"
+msgstr "Confirmar"
+
+#: ../main.js:105
+msgid "Lock"
+msgstr ""
+
+#: ../main.js:112
+#, fuzzy
+msgid "Exit portal"
+msgstr "Exit portal"
+
+#, fuzzy
+#~ msgid "Login"
+#~ msgstr "Iniciar sesión:"
+
+#, fuzzy
+#~ msgid "Do you want to logout or exit portal?"
+#~ msgstr "Está seguro de que desea Çıkış?"
+
+#, fuzzy
+#~ msgid "Are you sure you want to logout?"
+#~ msgstr "Está seguro que desea eliminar"
+
+#, fuzzy
+#~ msgid "Logout"
+#~ msgstr "Logout"
+
+#~ msgid "January"
+#~ msgstr "Enero"
+
+#~ msgid "February"
+#~ msgstr "Febrero"
+
+#~ msgid "March"
+#~ msgstr "Marzo"
+
+#~ msgid "April"
+#~ msgstr "Abril "
+
+#~ msgid "May"
+#~ msgstr "Mayo"
+
+#~ msgid "June"
+#~ msgstr "Junio"
+
+#~ msgid "July"
+#~ msgstr "Julio"
+
+#~ msgid "August"
+#~ msgstr "Agosto"
+
+#~ msgid "September"
+#~ msgstr "Setiembre "
+
+#~ msgid "October"
+#~ msgstr "Octubre "
+
+#~ msgid "November"
+#~ msgstr "Noviembre"
+
+#~ msgid "December"
+#~ msgstr "Diciembre"
+
+#~ msgid "Sunday "
+#~ msgstr "Domingo"
+
+#~ msgid "Monday "
+#~ msgstr "Lunes"
+
+#~ msgid "Tuesday "
+#~ msgstr "Martes"
+
+#~ msgid "Wednesday "
+#~ msgstr "Miércoles"
+
+#~ msgid "Thursday "
+#~ msgstr "Jueves"
+
+#~ msgid "Friday "
+#~ msgstr "Viernes"
+
+#~ msgid "Saturday "
+#~ msgstr "Sabado"
+
+#~ msgid "Clear/Sunny"
+#~ msgstr "Claro y soleado"
+
+#~ msgid "Partly Cloudy"
+#~ msgstr "Parcialmente nublado"
+
+#~ msgid "Cloudy"
+#~ msgstr "Nuboso"
+
+#~ msgid "Overcast"
+#~ msgstr "Nublado"
+
+#~ msgid "Mist"
+#~ msgstr "Niebla"
+
+#~ msgid "Patchy rain nearby"
+#~ msgstr "Lluvia moderada"
+
+#~ msgid "Patchy snow nearby"
+#~ msgstr "Nubes y nieve en las inmediaciones"
+
+#~ msgid "Patchy sleet nearby"
+#~ msgstr "Lluvia cerca"
+
+#~ msgid "Patchy freezing drizzle nearby"
+#~ msgstr "Llovizna congelación Nubes cercano"
+
+#~ msgid "Thundery outbreaks in nearby"
+#~ msgstr "Brotes Lluvia moderada"
+
+#~ msgid "Blowing snow"
+#~ msgstr "Chubascos de nieve"
+
+#~ msgid "Blizzard"
+#~ msgstr "Chubascos de nieve"
+
+#~ msgid "Fog"
+#~ msgstr "Niebla"
+
+#~ msgid "Freezing fog"
+#~ msgstr "Neblina"
+
+#~ msgid "Patchy light drizzle"
+#~ msgstr "Ligera lluvia"
+
+#~ msgid "Light drizzle"
+#~ msgstr "Leve llovizna"
+
+#~ msgid "Freezing drizzle"
+#~ msgstr "Llovizna helada"
+
+#~ msgid "Heavy freezing drizzle"
+#~ msgstr "Pesada llovizna helada"
+
+#~ msgid "Patchy light rain"
+#~ msgstr "Lluvia irregular"
+
+#~ msgid "Light rain"
+#~ msgstr "Lluvia ligera"
+
+#~ msgid "Moderate rain at times"
+#~ msgstr "Lluvia moderada a veces"
+
+#~ msgid "Moderate rain"
+#~ msgstr "Lluvia Moderada"
+
+#~ msgid "Heavy rain at times"
+#~ msgstr "Lluvias torrenciales a veces"
+
+#~ msgid "Heavy rain"
+#~ msgstr "Lluvias torrenciales"
+
+#~ msgid "Light freezing rain"
+#~ msgstr "Lluvias heladas ligeras"
+
+#~ msgid "Moderate or Heavy freezing rain"
+#~ msgstr "Lluvias heladas ligeras"
+
+#~ msgid "Light sleet"
+#~ msgstr "Aguanieve ligera"
+
+#~ msgid "Moderate or heavy sleet"
+#~ msgstr "Moderada o pesada aguanieve"
+
+#~ msgid "Patchy light snow"
+#~ msgstr "Nieve ligera desigual"
+
+#~ msgid "Light snow"
+#~ msgstr "Nieve ligera"
+
+#~ msgid "Patchy moderate snow"
+#~ msgstr "Parches nieve moderada"
+
+#~ msgid "Moderate snow"
+#~ msgstr "Nieve moderada"
+
+#~ msgid "Patchy heavy snow"
+#~ msgstr "Parches nevadas"
+
+#~ msgid "Heavy snow"
+#~ msgstr "Nieve"
+
+#~ msgid "Ice pellets"
+#~ msgstr "Pelotillas de hielo"
+
+#~ msgid "Light rain shower"
+#~ msgstr "Ducha de lluvia ligera"
+
+#~ msgid "Moderate or heavy rain shower"
+#~ msgstr "Moderada o fuerte lluvia"
+
+#~ msgid "Torrential rain shower"
+#~ msgstr "Lluvia torrencial"
+
+#~ msgid "Light sleet showers"
+#~ msgstr "Aguanieve ligera"
+
+#~ msgid "Moderate or heavy sleet showers"
+#~ msgstr "Moderados o fuertes precipitaciones de aguanieve"
+
+#~ msgid "Light snow showers"
+#~ msgstr "Nieve ligera"
+
+#~ msgid "Moderate or heavy snow showers"
+#~ msgstr "Fuertes chubascos de nieve"
+
+#~ msgid "Light showers of ice pellets"
+#~ msgstr "Lluvia de bolitas de hielo"
+
+#~ msgid "Moderate or heavy showers of ice pellets"
+#~ msgstr "Moderados o fuertes aguaceros de bolitas de hielo"
+
+#~ msgid "Patchy light rain in area with thunder"
+#~ msgstr "Lluvia irregular en la zona con truenos"
+
+#~ msgid "Moderate or heavy rain in area with thunder"
+#~ msgstr "Moderados o fuertes lluvias con truenos"
+
+#~ msgid "Patchy light snow in area with thunder"
+#~ msgstr "Nieve ligera irregular con truenos"
+
+#~ msgid "Moderate or heavy snow in area with thunder"
+#~ msgstr "Nieve moderada o pesada con trueno"
+
+#~ msgid "Today"
+#~ msgstr "Hoy"
+
+#~ msgid "Home Media"
+#~ msgstr "Home Media"
+
+#~ msgid "IPTV channels"
+#~ msgstr "Canales IPTV"
+
+#~ msgid "DVB channels"
+#~ msgstr "Canales DVB"
+
+#~ msgid "Favourites"
+#~ msgstr "Favoritos"
+
+#~ msgid "Internet Browser"
+#~ msgstr "Navegador de Internet"
+
+#~ msgid "Internet bookmarks"
+#~ msgstr "Favoritos de Internet"
+
+#~ msgid "YouTube"
+#~ msgstr "YouTube"
+
+#~ msgid "Picasa"
+#~ msgstr "Picasa"
+
+#~ msgid "Lines"
+#~ msgstr "Lines"
+
+#~ msgid "Sudoku"
+#~ msgstr "Sudoku"
+
+#~ msgid "Memory"
+#~ msgstr "Memory"
+
+#~ msgid "Settings"
+#~ msgstr "Configuración"
+
+#~ msgid "Download manager"
+#~ msgstr "Administrador de descargas"
+
+#~ msgid "Internet services"
+#~ msgstr "Servicios de Internet"
+
+#~ msgid "Online Media"
+#~ msgstr "Medios en línea"
+
+#, fuzzy
+#~ msgid "Apps"
+#~ msgstr "Apps"
+
+#~ msgid "Infomir Stalker"
+#~ msgstr "Infomir Stalker"
+
+#~ msgid "Menu Guide"
+#~ msgstr "Guía del menú"
+
+#~ msgid "Record manager"
+#~ msgstr "Administrador de grabaciones"
+
+#~ msgid "Weather"
+#~ msgstr "Tiempo"
+
+#~ msgid "Weather in"
+#~ msgstr "Tiempo en"
+
+#~ msgid "The service is not available at the moment.<br /> Please try again later."
+#~ msgstr "El servicio no está disponible por el momento.<br /> Inténtalo de nuevo más tarde."
+
+#~ msgid "Setup Wizard"
+#~ msgstr "Asistente de configuración"
+
+#~ msgid "Select city"
+#~ msgstr "Seleccione la ciudad"
+
+#~ msgid "Weather is not found, select another city"
+#~ msgstr "El tiempo no se encuentra, seleccione otra ciudad"
+
+#~ msgid "<br>Do you want to save location?"
+#~ msgstr "<br>Quieres guardar ubicación?"
+
+#~ msgid "Loading service..."
+#~ msgstr "Servicio de carga..."
+
+#~ msgid "Service unavailable"
+#~ msgstr "Servicio no disponible"
+
+#~ msgid "Humidity"
+#~ msgstr "Humedad"
+
+#~ msgid "Wind"
+#~ msgstr "Viento"
+
+#~ msgid "N"
+#~ msgstr "N"
+
+#~ msgid "NE"
+#~ msgstr "NE"
+
+#~ msgid "E"
+#~ msgstr "E"
+
+#~ msgid "SE"
+#~ msgstr "SE"
+
+#~ msgid "S"
+#~ msgstr "S"
+
+#~ msgid "SW"
+#~ msgstr "SO"
+
+#~ msgid "W"
+#~ msgstr "O"
+
+#~ msgid "NW"
+#~ msgstr "NO"
+
+#~ msgid "m/s"
+#~ msgstr "m/s"
+
+#~ msgid "miles/h"
+#~ msgstr "millas/h"
+
+#~ msgid "Loading data. It may take some time."
+#~ msgstr "Carga de datos. Puede tomar algún tiempo."
+
+#~ msgid "English"
+#~ msgstr "Inglés"
+
+#~ msgid "Russian"
+#~ msgstr "Ruso"
+
+#~ msgid "Ukrainian"
+#~ msgstr "Ucraniano"
+
+#~ msgid "Belarusian"
+#~ msgstr "Bielorruso"
+
+#~ msgid "French"
+#~ msgstr "Francés"
+
+#~ msgid "German"
+#~ msgstr "Alemán"
+
+#~ msgid "Italian"
+#~ msgstr "Italiano"
+
+#~ msgid "Spanish"
+#~ msgstr "Español"
+
+#~ msgid "Portuguese"
+#~ msgstr "Portugués"
+
+#~ msgid "Swedish"
+#~ msgstr "Sueco"
+
+#~ msgid "Norwegian"
+#~ msgstr "Noruego"
+
+#~ msgid "Dutch"
+#~ msgstr "Holandés"
+
+#~ msgid "Serbian"
+#~ msgstr "Serbio"
+
+#~ msgid "Slovenian"
+#~ msgstr "Esloveno"
+
+#~ msgid "Croatian"
+#~ msgstr "Croata"
+
+#~ msgid "Albanian"
+#~ msgstr "Albanés"
+
+#~ msgid "Japanese"
+#~ msgstr "Japonés"
+
+#~ msgid "Chinese"
+#~ msgstr "Chino"
+
+#~ msgid "Korean"
+#~ msgstr "Coreano"
+
+#~ msgid "Vietnamese"
+#~ msgstr "Vietnamita"
+
+#~ msgid "Latvian"
+#~ msgstr "Letón"
+
+#~ msgid "Lithuanian"
+#~ msgstr "Lituano"
+
+#~ msgid "Estonian"
+#~ msgstr "Estonia"
+
+#~ msgid "Finnish"
+#~ msgstr "Finlandés"
+
+#~ msgid "Hungarian"
+#~ msgstr "Húngaro"
+
+#~ msgid "Czech"
+#~ msgstr "Checo"
+
+#~ msgid "Slovak"
+#~ msgstr "Eslovaco"
+
+#~ msgid "Bulgarian"
+#~ msgstr "Búlgaro"
+
+#~ msgid "Polish"
+#~ msgstr "Polaco"
+
+#~ msgid "Romanian"
+#~ msgstr "Rumano"
+
+#~ msgid "Greek"
+#~ msgstr "Griego"
+
+#~ msgid "Hebrew"
+#~ msgstr "Hebreo"
+
+#~ msgid "Turkish"
+#~ msgstr "Turco"
+
+#~ msgid "Danish"
+#~ msgstr "Danés"
+
+#~ msgid "Icelandic"
+#~ msgstr "Islandés"
+
+#~ msgid "Hindi"
+#~ msgstr "Hindi"
+
+#~ msgid "Bengali"
+#~ msgstr "Bengalí"
+
+#~ msgid "Arabic"
+#~ msgstr "Árabe"
+
+#~ msgid "Armenian"
+#~ msgstr "Armenio"
+
+#~ msgid "Georgian"
+#~ msgstr "Georgiano"
+
+#~ msgid "Azerbaijani"
+#~ msgstr "Azerbaiyán"
+
+#~ msgid "Bashkir"
+#~ msgstr "Bashkir"
+
+#~ msgid "Basque"
+#~ msgstr "Vasco"
+
+#~ msgid "Bosnian"
+#~ msgstr "Bosnio"
+
+#~ msgid "Buriat"
+#~ msgstr "Buriat"
+
+#~ msgid "Burmese"
+#~ msgstr "Birmano"
+
+#~ msgid "Chechen"
+#~ msgstr "Chechenia"
+
+#~ msgid "Welsh"
+#~ msgstr "Galés"
+
+#~ msgid "Dzongkha"
+#~ msgstr "Dzongkha"
+
+#~ msgid "Esperanto"
+#~ msgstr "Esperanto"
+
+#~ msgid "Persian"
+#~ msgstr "Persa"
+
+#~ msgid "Irish"
+#~ msgstr "Irlandés"
+
+#~ msgid "Gujarati"
+#~ msgstr "Gujarati"
+
+#~ msgid "Indonesian"
+#~ msgstr "Indones"
+
+#~ msgid "Iranian"
+#~ msgstr "Iraní"
+
+#~ msgid "Kashmiri"
+#~ msgstr "Kashmiri"
+
+#~ msgid "Kazakh"
+#~ msgstr "Kazakh"
+
+#~ msgid "Kabardian"
+#~ msgstr "Kabardiano"
+
+#~ msgid "Komi"
+#~ msgstr "Komi"
+
+#~ msgid "Karelian"
+#~ msgstr "Carelio"
+
+#~ msgid "Kurdish"
+#~ msgstr "Kurdo"
+
+#~ msgid "Marathi"
+#~ msgstr "Marathi"
+
+#~ msgid "Macedonian"
+#~ msgstr "Macedonio"
+
+#~ msgid "Nepali"
+#~ msgstr "Nepali"
+
+#~ msgid "Ossetian"
+#~ msgstr "Oseto"
+
+#~ msgid "Yakut"
+#~ msgstr "Yakut"
+
+#~ msgid "Somali"
+#~ msgstr "Somalí"
+
+#~ msgid "Tamil"
+#~ msgstr "Tamil"
+
+#~ msgid "Tatar"
+#~ msgstr "Tártaro"
+
+#~ msgid "Telugu"
+#~ msgstr "Telugu"
+
+#~ msgid "Tajik"
+#~ msgstr "Tajik"
+
+#~ msgid "Thai"
+#~ msgstr "Tailandés"
+
+#~ msgid "Turkmen"
+#~ msgstr "Turkomano"
+
+#~ msgid "Udmurt"
+#~ msgstr "Udmurto"
+
+#~ msgid "Urdu"
+#~ msgstr "Urdu"
+
+#~ msgid "Uzbek"
+#~ msgstr "Uzbeco"
+
+#~ msgid "Kalmyk"
+#~ msgstr "Calmuco"
+
+#~ msgid "Tibetan"
+#~ msgstr "Tibetano"
+
+#~ msgid "Yiddish"
+#~ msgstr "Yídish"
+
+#~ msgid "Enter your location..."
+#~ msgstr "Introduzca la ubicación..."
+
+#~ msgid "Exit"
+#~ msgstr "Çıkış"
+
+#~ msgid "Receiving<br>weather<br>data"
+#~ msgstr "Recepción<br>de datos<br>meteorológicos"
+
+#~ msgid "No<br>weather<br>settings"
+#~ msgstr "No<br>hay ningún ajuste de<br>tiempo"
+
+#~ msgid "Error"
+#~ msgstr "Error"
+
+#~ msgid "Close"
+#~ msgstr "Cerrar"
+
+#~ msgid "USB storage is connected"
+#~ msgstr "Almacenamiento USB está conectado"
+
+#~ msgid "Update manually"
+#~ msgstr "Comprobar y actualizar"
+
+#~ msgid "Save"
+#~ msgstr "Guardar"
+
+#~ msgid "Playback"
+#~ msgstr "Reproducción"
+
+#~ msgid "Interface"
+#~ msgstr "Interfaz"
+
+#~ msgid "Auto update software"
+#~ msgstr "AGüncelle automática de Software"
+
+#~ msgid "TimeShift"
+#~ msgstr "TimeShift"
+
+#~ msgid "System settings"
+#~ msgstr "Configuración del sistema"
+
+#~ msgid "DVB"
+#~ msgstr "DVB"
+
+#, fuzzy
+#~ msgid "Network Diagnostics"
+#~ msgstr "Red"
+
+#~ msgid "Speed test"
+#~ msgstr "Prueba de velocidad"
+
+#~ msgid "None"
+#~ msgstr "Ninguno"
+
+#~ msgid "Some settings have been changed"
+#~ msgstr "Algunos ajustes se han modificado"
+
+#~ msgid "Disabled"
+#~ msgstr "Desabilitar"
+
+#~ msgid "Primary audio track language"
+#~ msgstr "Idioma de la pista de audio principal"
+
+#~ msgid "Primary subtitle language"
+#~ msgstr "Idioma de subtítulo primario"
+
+#, fuzzy
+#~ msgid "Main menu"
+#~ msgstr "Main menu"
+
+#~ msgid "1 minute"
+#~ msgstr "1 minuto"
+
+#~ msgid "3 minutes"
+#~ msgstr "3 minutos"
+
+#~ msgid "5 minutes"
+#~ msgstr "5 minutos"
+
+#~ msgid "10 minutes"
+#~ msgstr "10 minutos"
+
+#~ msgid "30 minutes"
+#~ msgstr "30 minutos"
+
+#, fuzzy
+#~ msgid "Start page"
+#~ msgstr "Iniciar la exploración"
+
+# имеется ввиду метрическая или английская система измерения скорости
+#~ msgid "Weather system format"
+#~ msgstr "Formato de sistema de clima"
+
+#~ msgid "Metric (Celsius, meters per second)"
+#~ msgstr "Sistema métrico ( °c, metros por segundo)"
+
+#~ msgid "English (Fahrenheit, miles per hour)"
+#~ msgstr "Inglés (Fahrenheit, millas por hora)"
+
+# menu item
+#, fuzzy
+#~ msgid "HDMI event reaction:"
+#~ msgstr "Invertir selección"
+
+#, fuzzy
+#~ msgid "Enabled"
+#~ msgstr "Desabilitar"
+
+#, fuzzy
+#~ msgid "5 minutes delay"
+#~ msgstr "5 minutos"
+
+#, fuzzy
+#~ msgid "10 minutes delay"
+#~ msgstr "10 minutos"
+
+#~ msgid "Screensaver interval"
+#~ msgstr "Intervalo de protector de pantalla"
+
+#~ msgid "Screensaver"
+#~ msgstr "Protector de pantalla"
+
+#, fuzzy
+#~ msgid "LED brightness:"
+#~ msgstr "LED brightness:"
+
+#, fuzzy
+#~ msgid "LED brightness (standby):"
+#~ msgstr "LED brightness (standby):"
+
+#~ msgid "Auto update"
+#~ msgstr "Güncelle automática"
+
+#~ msgid "With confirmation"
+#~ msgstr "Con confirmación"
+
+#~ msgid "Update to beta versions"
+#~ msgstr "Güncelle de versiones beta"
+
+#~ msgid "Use TimeShift"
+#~ msgstr "Utilice TimeShift"
+
+#~ msgid "Icon enable"
+#~ msgstr "Habilitar Icono"
+
+#~ msgid "File location"
+#~ msgstr "Ubicación del archivo"
+
+#~ msgid "Length"
+#~ msgstr "Duración"
+
+#~ msgid "minutes"
+#~ msgstr "minutos"
+
+#~ msgid "hour"
+#~ msgstr "hora"
+
+#~ msgid "2 hours"
+#~ msgstr "2 horas"
+
+#~ msgid "3 hours"
+#~ msgstr "3 horas"
+
+#~ msgid "5 hours"
+#~ msgstr "5 horas"
+
+#~ msgid "10 hours"
+#~ msgstr "10 horas"
+
+#~ msgid "20 hours"
+#~ msgstr "20 horas"
+
+#~ msgid "24 hours"
+#~ msgstr "24 horas"
+
+#~ msgid "Using buffer mode"
+#~ msgstr "Uso del modo de memoria intermedia"
+
+#~ msgid "Cyclic record mode"
+#~ msgstr "Modo de grabación cíclico"
+
+#~ msgid "Stop when out of space"
+#~ msgstr "Detener cuando no hay espacio"
+
+#~ msgid "On exit"
+#~ msgstr "A la salida"
+
+#~ msgid "Do not save buffer"
+#~ msgstr "No guardar búfer"
+
+#~ msgid "Save buffer"
+#~ msgstr "Guardar búfer"
+
+#~ msgid "Request to save"
+#~ msgstr "Solicitud para guardar"
+
+#~ msgid "Delay"
+#~ msgstr "Retrasar"
+
+#~ msgid "By pressing Pause button"
+#~ msgstr "Al pulsar el botón de Pause"
+
+#~ msgid "sec."
+#~ msgstr "seg."
+
+#~ msgid "Available"
+#~ msgstr "Disponible"
+
+#~ msgid "Not available"
+#~ msgstr "No disponible"
+
+#~ msgid "Speed:"
+#~ msgstr "Velocidad:"
+
+#~ msgid "Waiting"
+#~ msgstr "Esperando"
+
+#~ msgid "Testing"
+#~ msgstr "Prueba"
+
+#~ msgid "Start"
+#~ msgstr "Comenzar"
+
+#, fuzzy
+#~ msgid "IP Address"
+#~ msgstr "Dirección:"
+
+#, fuzzy
+#~ msgid "Attention"
+#~ msgstr "Atención:"
+
+#, fuzzy
+#~ msgid "Run the test"
+#~ msgstr "Ejecute el Asistente de configuración"
+
+#~ msgid "Antenna with such signal type can't be powered up."
+#~ msgstr "Antena con ese tipo de señal no puede ser encendido."
+
+#~ msgid "Signal type"
+#~ msgstr "Tipo de señal"
+
+#~ msgid "Antenna power supply"
+#~ msgstr "Fuente de alimentación antena"
+
+#~ msgid "Sorry, no firmware image at the moment"
+#~ msgstr "Lo sentimos, pero no hay imagen del firmware en el momento"
+
+#~ msgid "Software update"
+#~ msgstr "Güncelle de software"
+
+#~ msgid "Successfully saved"
+#~ msgstr "Guardado correctamente"
+
+#~ msgid "Device reboot is required to apply changes. Reboot now?"
+#~ msgstr "Reinicio del dispositivo es necesaria para aplicar los cambios. ¿Reiniciar ahora?"
+
+#~ msgid "Welcome"
+#~ msgstr "Bienvenido"
+
+#~ msgid "Select language"
+#~ msgstr "Seleccionar idioma"
+
+#~ msgid "Use Up and Down, Left and Right buttons for selecting. Press OK button to confirm."
+#~ msgstr "Utilice las teclas Arriba y Abajo, Izquierda y Derecha para seleccionar botones."
+
+#~ msgid "AuraHD Setup Wizard"
+#~ msgstr "Asistente de configuración AuraHD"
+
+#~ msgid "Use the SetUp Wizard to edit Internet access settings, select display options and set your time zone"
+#~ msgstr "Utilice el asistente de configuración para editar la configuración de acceso a Internet, seleccione las opciones de visualización y configurar su zona horaria"
+
+#~ msgid "Run the Setup Wizard"
+#~ msgstr "Ejecute el Asistente de configuración"
+
+#~ msgid "Set up manually later"
+#~ msgstr "Configurar manualmente más tarde"
+
+#~ msgid "Step 1: Connecting to your TV"
+#~ msgstr "Paso 1: Conexión al televisor"
+
+#~ msgid "For optimal display settings, specify your TV model and AuraHD connection type. Please, read the TV user guide before you do it."
+#~ msgstr "Para la configuración óptima de visualización, especifique su modelo e TV y AuraHD tipo de conexión. Por favor, lea la guía de usuario del televisor antes de hacerlo."
+
+#~ msgid "RCA cable"
+#~ msgstr "Calbe RCA"
+
+#~ msgid "HDMI cable"
+#~ msgstr "Cable HDMI"
+
+#~ msgid "Attention:"
+#~ msgstr "Atención:"
+
+#~ msgid "For TVs with the HDMI interface, we recommend to use an HDMI cable for connecting AuraHD to maximize image quality (HD or Full HD)."
+#~ msgstr "Para televisores con el interfaz de HDMI, le recomendamos que utilice un cable HDMI para conectar AuraHD para maximizar la calidad de imagen (HD o Full HD)."
+
+#~ msgid "Step 2: Connecting AuraHD to LAN and/or to the Internet"
+#~ msgstr "Paso 2: Conexión AuraHD de LAN o Internet"
+
+#~ msgid "Active AuraHD Internet connection gives you access to web resources from your TV and also makes it possible to view media files located on your computer or local network. Select the connection type:"
+#~ msgstr "Conexión a Internet AuraHD activo le da acceso a los recursos web de su televisor y también hace que sea posible ver los archivos multimedia ubicados en su ordenador o red local. Seleccione el tipo de conexión:"
+
+#~ msgid "Wired"
+#~ msgstr "Acelerado"
+
+#~ msgid "Wireless"
+#~ msgstr "Wireless"
+
+#~ msgid "Skip"
+#~ msgstr "Omitir"
+
+#~ msgid "Step 2.3: Checking wireless network and Internet connection"
+#~ msgstr "Paso 2.3: Comprobación de la red y conexión a Internet inalámbrica"
+
+#~ msgid "Step 2.1: Checking local network and Internet connection"
+#~ msgstr "Paso 2.1: Comprobación de la red y de Internet conexión local"
+
+#~ msgid "Checking wireless network"
+#~ msgstr "Comprobación de la red inalámbrica"
+
+#~ msgid "Checking local network connection"
+#~ msgstr "Comprobación de la conexión de red local"
+
+#~ msgid "Checking Internet connection"
+#~ msgstr "Comprobación de conexión a Internet"
+
+#~ msgid "Information"
+#~ msgstr "Información"
+
+#~ msgid "Refresh"
+#~ msgstr "Actualizar"
+
+#~ msgid "To access additional/advanced settings in the Main Menu, press the SET/SETUP button on the remote control."
+#~ msgstr "Para acceder a la configuración adicional / avanzados en el menú principal, pulse el botón SET / SETUP en el control remoto."
+
+#~ msgid "Step 2.1: Connecting to the Wireless LAN"
+#~ msgstr "Paso 2.1: Conexión a la LAN inalámbrica"
+
+#~ msgid "Select LAN"
+#~ msgstr "Seleccione LAN"
+
+#~ msgid "Select preferred wireless LAN or set it up manually"
+#~ msgstr "Seleccione LAN inalámbrica preferida o configurarlo manualmente"
+
+#~ msgid "Manual settings"
+#~ msgstr "Ajustes manuales"
+
+#~ msgid "Step 2.2: Password"
+#~ msgstr "Paso 2.2: Contraseña"
+
+#~ msgid "Next"
+#~ msgstr "Siguiente"
+
+#~ msgid "Keyboard"
+#~ msgstr "Teclado"
+
+#~ msgid "Step 2.2: Advanced settings"
+#~ msgstr "Paso 2.2: Configuración avanzada"
+
+#~ msgid "Authentication:"
+#~ msgstr "Autenticación:"
+
+# menu item
+#~ msgid "Open"
+#~ msgstr "Abrir"
+
+#~ msgid "Shared key"
+#~ msgstr "Clave compartida"
+
+#~ msgid "Auto Open/Shared key"
+#~ msgstr "Apertura automática clave compartida"
+
+#~ msgid "Encryption:"
+#~ msgstr "Codificación:"
+
+#~ msgid "SSID (network):"
+#~ msgstr "(Red) SSID:"
+
+#~ msgid "Select/Next"
+#~ msgstr "Seleccione / Siguiente"
+
+#~ msgid "Step 3: Weather forecast"
+#~ msgstr "Paso 3: Pronóstico del tiempo"
+
+#~ msgid "Weather forecast"
+#~ msgstr "Pronóstico del tiempo"
+
+#~ msgid "Select your city and press OK"
+#~ msgstr "Seleccione su ciudad y presione OK"
+
+#~ msgid "Step 4: Time zone"
+#~ msgstr "Paso 4: La zona horaria"
+
+#~ msgid "Select your time zone"
+#~ msgstr "Seleccione su zona horaria"
+
+#~ msgid "Setup completed"
+#~ msgstr "Instalación completa"
+
+#~ msgid "Thank you!"
+#~ msgstr "¡Gracias!"
+
+#~ msgid "The Setup Wizard is complete. All selected settings will be stored in the device’s memory. To edit the system settings any time, press SET or SETUP on your remote control and open the Main Menu."
+#~ msgstr "El asistente de configuración se ha completado. Todos los ajustes seleccionados se almacenan en la memoria del dispositibo. Para editar  la configuración del sistema en cualquier momento, pulse SET o SETUP del mando a distancia y abrir el menú principal."
+
+#~ msgid "Terms of use"
+#~ msgstr "Condiciones de uso"
+
+#~ msgid "&nbsp;&nbsp;Dear user, please read the terms and conditions for services integrated into AuraHD  device.<br />&nbsp;&nbsp;The AuraHD network media player is directly intended for digital content playback from the Internet (media files including streaming video), LANs and removable media including flash memory connected via USB port. The manufacturer is not responsible for quality and stability of the web services integrated into the device's software. The manufacturer also reserves the right to make occasional changes to the device's software and interface without prior notice in order to modify or improve its function.<br />&nbsp;&nbsp;Services by third parties offered in the AuraHD’s menu (Online Cinema, web services) are provided \"as is\" without warranty of any kind. The manufacturer cannot guarantee accuracy, timeliness, validity, completeness, compliance with any standards and laws or supplier's declaration of the service characteristics. The services are transferred by third parties via networks and data transfer means beyond the control of the device’s manufacturer.<br />&nbsp;&nbsp;If you do not agree to these terms and conditions for services integrated into the AuraHD device, please stop using it and return the device to the store where it was purchased within 14 days of purchase."
+#~ msgstr "&nbsp;&nbsp;Estimado usuario, por favor lea los términos y condiciones deservicios integrados en el dispositivo AuraHD. <br />&nbsp;&nbsp; La red AuraHD media media player directamente está destinado a reproducción de contenido digital de Internet (archivos multimedia incluyendo video streaming), LANs y extraíbles, incluyendo conectado mediante un puerto USB de memoria flash. El fabricante no es responsable por la calidad y estabilidad de los servicios web integrados en el software del dispositivo. <br />&nbsp;&nbsp;Interfaz sin previo aviso con el fin de modificar o mejorar su función por parte de terceros ofrecidos en el menú AuraHDs (cine Online, servicios web) se proporciona sin garantía de ningún tipo y el fabricante reserva el derecho a realizar cambios ocasionales al software del dispositivo. \"as is\" El fabricante no puede garantizar la la puntualidad, validez, exactitud, exhaustividad, conformidad con las normas y leyes o declaración de las características de servicio del proveedor. br />&nbsp;&nbsp; Los servicios son transferidos por terceros mediante redes y datos transferencia significa más allá del control de los fabricantes de dispositivos que no acepta estos términos y condiciones de servicios integrados en el dispositivo de AuraHD, por favor deja de usarlo y devuelva el aparato a la tienda donde lo compró dentro de 14 días de la compra."
+
+#~ msgid "Continue"
+#~ msgstr "Continuar"
+
+#~ msgid "Unfortunately, the Setup Wizard was unable to connect your device to LAN and Internet.<br />Please, check general connection terms:<br /> - the Ethernet cable connected to the appropriate slot of the device;<br /> - Wi-Fi status.<br />Try to connect again."
+#~ msgstr "Desafortunadamente, el asistente de configuración no puede conectar el dispositivo a la red LAN e Internet.<br />Por favor, compruebe la conexión términos generales:<br /> - El cable Ethernet conectado a la ranura correspondiente del dispositivo;<br /> - El estado de Wi-Fi."
+
+#~ msgid "Network connection successful. No Internet connection.<br />Possibly, no access to external services.<br />Check your Internet connection status."
+#~ msgstr "Conexión a la red con éxito. No hay conexión a internet.<br />Posiblemente, sin acceso a servicios externos.<br />Compruebe el estado de conexión a Internet."
+
+#~ msgid "Wireless network connection successful. Internet connection available."
+#~ msgstr "Conexión de red inalámbrica con éxito. Conexión a Internet disponible"
+
+#~ msgid "Network connection successful. Internet connection available."
+#~ msgstr "Conexión de red exitosa. Conexión a Internet disponible."
+
+#~ msgid "Notice"
+#~ msgstr "Aviso"
+
+#~ msgid "Wi-Fi adapter not connected"
+#~ msgstr "Adaptador Wi-Fi no conectado"
+
+#~ msgid "Now"
+#~ msgstr "Ahora"
+
+#~ msgid "Frequency"
+#~ msgstr "Frecuencia"
+
+#~ msgid "Contains the list of items which are corresponding to the given filter request"
+#~ msgstr "Contiene la lista de elementos correspondientes a la solicitud del filtro dado"
+
+#~ msgid "Unknown type of selected item"
+#~ msgstr "Elemento selecionado desconocido"
+
+#~ msgid "Total found"
+#~ msgstr "Total encontrado"
+
+#~ msgid "Last found"
+#~ msgstr "Último encontrado"
+
+#~ msgid "Operations"
+#~ msgstr "Operaciones"
+
+#~ msgid "Confirm deletion"
+#~ msgstr "Confirmar eliminación"
+
+#~ msgid "all entries selected?"
+#~ msgstr "Todas las entradas seleccionadas?"
+
+#~ msgid "current entry?"
+#~ msgstr "Entrada actual?"
+
+#~ msgid "Yes"
+#~ msgstr "Si"
+
+# menu item
+#~ msgid "Select all"
+#~ msgstr "Selecionar todo"
+
+# menu item
+#~ msgid "Deselect all"
+#~ msgstr "Desmarcar todo"
+
+# menu item
+#~ msgid "Invert selection"
+#~ msgstr "Invertir selección"
+
+# menu item
+#~ msgid "Delete"
+#~ msgstr "Eliminar"
+
+#~ msgid "DVB menu"
+#~ msgstr "Menú DVB"
+
+#~ msgid "all entries?"
+#~ msgstr "Todas las entradas seleccionadas?"
+
+#~ msgid "EPG"
+#~ msgstr "EPG"
+
+#, fuzzy
+#~ msgid "EPG grid "
+#~ msgstr "EPG grid "
+
+#~ msgid "Auto scan"
+#~ msgstr "Escaneo automático"
+
+#~ msgid "Manual scan"
+#~ msgstr "Escaneo manual"
+
+#~ msgid "Clear list"
+#~ msgstr "Limpiar lista"
+
+#~ msgid "Enter name..."
+#~ msgstr "Introdusca nombre..."
+
+#, fuzzy
+#~ msgid "Menu"
+#~ msgstr "Menu"
+
+# menu item
+#~ msgid "Select"
+#~ msgstr "Selecionar"
+
+#~ msgid "Add to<br>favourites"
+#~ msgstr "Agregar<br>a favoritos"
+
+#~ msgid "Remove from<br>favourites"
+#~ msgstr "Quitar<br>de favoritos"
+
+#~ msgid "No DVB channels"
+#~ msgstr "No hay canales DVB"
+
+#~ msgid "Start auto scan?"
+#~ msgstr "Iniciar escaneo automático?"
+
+#~ msgid "Scanning"
+#~ msgstr "Explorar"
+
+#~ msgid "Stop scanning?"
+#~ msgstr "Detener la exploración?"
+
+#~ msgid "Stop"
+#~ msgstr "Detener"
+
+#~ msgid "DVB channel list was changed"
+#~ msgstr "Lista de canales DVB fue cambiada"
+
+#~ msgid "Save updated DVB channel list?"
+#~ msgstr "Guardar la lista actualizada de canales DVB?"
+
+#~ msgid "Exit without saving"
+#~ msgstr "Çıkış sin guardar"
+
+#~ msgid "The list of favourite records has changed"
+#~ msgstr "La lista de los discos favoritos ha cambiado"
+
+#~ msgid "Save updated list of favourite records?"
+#~ msgstr "Guardar lista actualizada de los discos favoritos?"
+
+#~ msgid "Recording channel"
+#~ msgstr "Grabación de canal"
+
+#~ msgid "Group name"
+#~ msgstr "Nombre del grupo"
+
+#, fuzzy
+#~ msgid "EPG is missing"
+#~ msgstr "EPG is missing"
+
+#~ msgid "Duration:"
+#~ msgstr "Duración:"
+
+# menu item
+#~ msgid "Open selected"
+#~ msgstr "Abrir seleccionado"
+
+# menu item
+#~ msgid "Mount"
+#~ msgstr "Montar"
+
+# menu item
+#~ msgid "Mount share"
+#~ msgstr "Montar recursos compartidos"
+
+# menu item
+#~ msgid "Unmount share"
+#~ msgstr "Desmontar recursos compartidos"
+
+# menu item
+#~ msgid "Edit share"
+#~ msgstr "Editar acciones"
+
+# menu item
+#~ msgid "Add to favourites"
+#~ msgstr "Agregar a favoritos"
+
+# menu item
+#~ msgid "Remove from favourites"
+#~ msgstr "Eliminar de favoritos"
+
+# menu item
+#~ msgid "Cut"
+#~ msgstr "Cortar"
+
+# menu item
+#~ msgid "Copy"
+#~ msgstr "Copiar"
+
+# menu item
+#~ msgid "Paste"
+#~ msgstr "Pegar"
+
+#~ msgid "View"
+#~ msgstr "Vista"
+
+# menu item
+#~ msgid "All"
+#~ msgstr "Todo"
+
+# menu item
+#~ msgid "Folders"
+#~ msgstr "Carpetas"
+
+# menu item
+#~ msgid "Audio"
+#~ msgstr "Audio"
+
+#~ msgid "Video"
+#~ msgstr "Video"
+
+#~ msgid "Images"
+#~ msgstr "Imágenes"
+
+# menu item
+#~ msgid "Playlists"
+#~ msgstr "Lista de reprodución"
+
+#~ msgid "ISO"
+#~ msgstr "ISO"
+
+#~ msgid "Subtitles"
+#~ msgstr "Subtítulos"
+
+#~ msgid "Streams"
+#~ msgstr "Streams"
+
+#~ msgid "Sort"
+#~ msgstr "Ordenar"
+
+# menu item
+#~ msgid "By name"
+#~ msgstr "por nombre"
+
+# menu item
+#~ msgid "By size"
+#~ msgstr "Por tamaño"
+
+# menu item
+#~ msgid "By type"
+#~ msgstr "Por tipo"
+
+# menu item
+#~ msgid "By extension"
+#~ msgstr "Por extensión"
+
+#~ msgid "Tools"
+#~ msgstr "Herramientas"
+
+#~ msgid "Connect NFS/SMB"
+#~ msgstr "Conectar NFS/SMB"
+
+#~ msgid "Disconnect NFS/SMB"
+#~ msgstr "Desconectar NFS/SMB"
+
+# menu item
+#~ msgid "Disk formatting"
+#~ msgstr "Formatear disco"
+
+#~ msgid "Enter path or file name..."
+#~ msgstr "Nombre de archivo o ruta de acceso..."
+
+#~ msgid "Show<br>info panel"
+#~ msgstr "Mostrar<br />panel de información"
+
+#~ msgid "Items:"
+#~ msgstr "Artículos:"
+
+#~ msgid "Selected:"
+#~ msgstr "Seleccionado:"
+
+#~ msgid "Hide<br>info panel"
+#~ msgstr "Ocultar<br />panel de información"
+
+#, fuzzy
+#~ msgid "Warning!"
+#~ msgstr "Warning!"
+
+#, fuzzy
+#~ msgid "\"Storage read only access mode\" is enabled in System Settings"
+#~ msgstr "\"Storage read only access mode\" is enabled in System Settings"
+
+#~ msgid "Deletion error"
+#~ msgstr "Error de eliminación"
+
+#~ msgid "Unable to remove all selected items"
+#~ msgstr "No es posible eliminar todos los elementos seleccionados"
+
+#~ msgid "Contains a list of items corresponding to the given filter request"
+#~ msgstr "Contiene una lista de los elementos correspondientes a petición de filtro"
+
+#~ msgid "LAN supports SMB/CIFS protocol, contains available working groups"
+#~ msgstr "LAN soporta el protocolo SMB/CIFS, contiene grupos de trabajo disponibles"
+
+#~ msgid "List of working group computers"
+#~ msgstr "Lista del grupo de trabajo ordenadores"
+
+#~ msgid "List of available folders for every computer"
+#~ msgstr "Lista de carpetas disponibles para cada equipo"
+
+#~ msgid "Access to folders and files of selected network folder"
+#~ msgstr "Acceso a las carpetas y archivos de carpeta de red"
+
+#~ msgid "Folder:"
+#~ msgstr "Folder:"
+
+#~ msgid "Address:"
+#~ msgstr "Dirección:"
+
+#~ msgid "Type:"
+#~ msgstr "Tipo:"
+
+#~ msgid "Plug&Play, a set of protocols for seamless connection of network devices, home and corporate. Easy and user-friendly access to media files in LAN."
+#~ msgstr "Universal Plug and Play - un conjunto de protocolos para la perfecta conexión de dispositivos de red, hogar y corporativos. Fácil de usar y fácil acceso a archivos multimedia en LAN."
+
+#~ msgid "Access to list of Timeshift and PVR records collected from all available at the moment storages. All records are grouped by the channel names."
+#~ msgstr "Acceso a la lista de registros de Timeshift y PVR colectaron todos disponibles en los almacenes de momento. Todos los registros se agrupan bajo  bajo el nombre de canal."
+
+#~ msgid "Opens a list of Timeshift and PVR records sorted by record date"
+#~ msgstr "Se abre una lista de Timeshift y PVR registros ordenados por fecha de registro"
+
+#~ msgid "Access to list of Timeshift and PVR records sorted by record time"
+#~ msgstr "Acceso a lista de Timeshift y PVR registros ordenados por un tiempo récord"
+
+#~ msgid "Opens a full editable list of favourite records"
+#~ msgstr "Se abre una lista completa editable de registros favoritos"
+
+#~ msgid "Saved items:"
+#~ msgstr "Artículos guardados:"
+
+#~ msgid "Unsaved changes:"
+#~ msgstr "Guardar los cambios:"
+
+#~ msgid "yes"
+#~ msgstr "si"
+
+#~ msgid "no"
+#~ msgstr "no"
+
+#~ msgid "Access to folders and files"
+#~ msgstr "Acceso a archivos y carpetas"
+
+#~ msgid "Name:"
+#~ msgstr "Nombre:"
+
+#~ msgid "Size:"
+#~ msgstr "Tamaño:"
+
+#~ msgid "Performer:"
+#~ msgstr "Artista:"
+
+#~ msgid "File:"
+#~ msgstr "Archivo:"
+
+#~ msgid "List of files or network streams to play"
+#~ msgstr "Lista de archivos o secuencias de red para reproducir"
+
+#~ msgid "Text file with media subtitles or other data"
+#~ msgstr "Archivo de texto con subtítulos de medios u otros datos"
+
+#~ msgid "List of album files with additional info"
+#~ msgstr "Lista de archivos de disco con información adicional"
+
+#~ msgid "Song by:"
+#~ msgstr "Canción de:"
+
+#~ msgid "Genre:"
+#~ msgstr "Genero:"
+
+#~ msgid "Date:"
+#~ msgstr "Fecha:"
+
+#~ msgid "Place:"
+#~ msgstr "Lugar:"
+
+#~ msgid "Comment:"
+#~ msgstr "Comentario:"
+
+#~ msgid "Files:"
+#~ msgstr "Archivos:"
+
+#~ msgid "from"
+#~ msgstr "desde"
+
+#~ msgid "Read only:"
+#~ msgstr "Solo lectura:"
+
+#, fuzzy
+#~ msgid "Record status"
+#~ msgstr "Archivos"
+
+# menu item
+#~ msgid "Make group"
+#~ msgstr "Marcar grupo"
+
+# menu item
+#~ msgid "Create group"
+#~ msgstr "Crear grupo"
+
+#~ msgid "Edit"
+#~ msgstr "Editar"
+
+# menu item
+#~ msgid "Save changes"
+#~ msgstr "Guardar cambios"
+
+#~ msgid "Add to group"
+#~ msgstr "Agregar a grupo"
+
+# menu item
+#~ msgid "Add operator's IPTV list"
+#~ msgstr "Agregar lista de IPTV del operador"
+
+# menu item
+#~ msgid "Add IPTV list"
+#~ msgstr "Agregar lista de IPTV"
+
+# menu item
+#~ msgid "Add IPTV channel"
+#~ msgstr "Añadir canal de IPTV"
+
+#~ msgid "Enter channel or group name..."
+#~ msgstr "Introduzca el nombre de canal o grupo..."
+
+#~ msgid "Record"
+#~ msgstr "Grabar"
+
+#~ msgid "No IPTV channels"
+#~ msgstr "No hay canales IPTV"
+
+#~ msgid "IPTV channel list was changed"
+#~ msgstr "Lista de canales de IPTV fue cambiada"
+
+#~ msgid "Save updated IPTV channel list?"
+#~ msgstr "Guardar nueva lista de canales IPTV?"
+
+#~ msgid "Confirmation"
+#~ msgstr "Confirmar"
+
+#~ msgid "Server address:"
+#~ msgstr "Dirección del servidor:"
+
+#~ msgid "Server folder:"
+#~ msgstr "Carpeta del servidor:"
+
+#~ msgid "Local folder:"
+#~ msgstr "Carpeta local:"
+
+#~ msgid "Connection type:"
+#~ msgstr "Tipo de conexión:"
+
+#~ msgid "Connect"
+#~ msgstr "Conectar"
+
+#~ msgid "Wrong connection parameters"
+#~ msgstr "Parámetros de conexión incorrecta"
+
+#~ msgid "Local folder with this name already exists"
+#~ msgstr "Carpeta local con este nombre ya existe"
+
+#~ msgid "Network folder successfully mounted"
+#~ msgstr "Carpeta de red montada con éxito"
+
+#~ msgid "Resource already connected"
+#~ msgstr "Recurso ya conectado"
+
+#~ msgid "Unable to connect to the resource<br>with the given parameters"
+#~ msgstr "No se puede conectar al recurso <br>con los parámetros dados"
+
+#~ msgid "Edit network folder"
+#~ msgstr "Editar carpeta de red"
+
+#~ msgid "Connect network folder"
+#~ msgstr "Conectar a carpeta de red"
+
+#~ msgid "Disconnect"
+#~ msgstr "Desconectar"
+
+#~ msgid "Network folder successfully unmounted"
+#~ msgstr "Carpeta de red sin montar con éxito"
+
+#~ msgid "Disconnect network folder"
+#~ msgstr "Desconecte la carpeta de red"
+
+#~ msgid "File system:"
+#~ msgstr "Sistema de archivos:"
+
+#~ msgid "Partition:"
+#~ msgstr "Partición:"
+
+#~ msgid "Formatting"
+#~ msgstr "Formateando"
+
+#~ msgid "Formatting completed"
+#~ msgstr "Formato Completo"
+
+#~ msgid "Formatting error"
+#~ msgstr "Error de Formato"
+
+#~ msgid "Formatting impossible.<br>Make sure the device is not used in:<br>\"Download manager\", \"Record manager\"<br>or content playback."
+#~ msgstr "Formato imposible.<br>Asegúrese de que el dispositivo no este en uso:<br>\"Descargando archivos\", \"Grabando archivos\"<br>o reproducción de contenido."
+
+#~ msgid "Formatting impossible"
+#~ msgstr "Formato imposible"
+
+#~ msgid "Start formatting"
+#~ msgstr "Comenzar formato"
+
+#~ msgid "Selected file system supports disks up to 320GB"
+#~ msgstr "Archivo seleccionado sistema soporta discos de hasta 320GB"
+
+#, fuzzy
+#~ msgid "<b style=\"color:red\">Warning: </b>after formatting all data in the<br> selected section will be deleted."
+#~ msgstr "<b style='color:red'>Advertencia: </b>después de formatear todos los<br> datos seran eliminados."
+
+#~ msgid "See playlist content"
+#~ msgstr "Ver contenido reproducción"
+
+#~ msgid "Start playing all records"
+#~ msgstr "Comenzar a reproducir todos los registros"
+
+#~ msgid "Add all records to IPTV channels"
+#~ msgstr "Agregar todos los registros de canales IPTV"
+
+#, fuzzy
+#~ msgid "File encoding:"
+#~ msgstr "Codificación UTF?"
+
+#~ msgid "Open playlist"
+#~ msgstr "Abrir lista de reproducción"
+
+#~ msgid "Encoding:"
+#~ msgstr "Codificación:"
+
+#~ msgid "Accessing subtitle file"
+#~ msgstr "Acceso al archivo de subtítulos"
+
+#~ msgid "Connection"
+#~ msgstr "Conexión"
+
+#~ msgid "Group:"
+#~ msgstr "Grupo:"
+
+#~ msgid "or create and use a new group:"
+#~ msgstr "o crear y utilizar un nuevo grupo:"
+
+#~ msgid "Move"
+#~ msgstr "Mover"
+
+#~ msgid "No storage device"
+#~ msgstr "Ningún dispositivo de almacenamiento"
+
+#~ msgid "No channels"
+#~ msgstr "No hay canales"
+
+#~ msgid "Start recording:"
+#~ msgstr "Iniciar la grabación:"
+
+#~ msgid "End recording:"
+#~ msgstr "Finalizar la grabación:"
+
+#~ msgid "Record length:"
+#~ msgstr "Longitud de registro:"
+
+#~ msgid "Channel:"
+#~ msgstr "Canal:"
+
+#~ msgid "Record name:"
+#~ msgstr "Nombre de grabación:"
+
+#~ msgid "Record in:"
+#~ msgstr "Grabar en:"
+
+#~ msgid "Free space:"
+#~ msgstr "Espacio libre:"
+
+#~ msgid "GB"
+#~ msgstr "GB"
+
+#~ msgid "of"
+#~ msgstr "de"
+
+#~ msgid "Channel list is empty"
+#~ msgstr "Lista de canales está vacía"
+
+#~ msgid "Error. Too many active records."
+#~ msgstr "Error. Demasiados registros activos."
+
+#~ msgid "Not enough disk space"
+#~ msgstr "No hay espacio suficiente en el disco"
+
+#~ msgid "Incorrect time"
+#~ msgstr "Hora incorrecta"
+
+#~ msgid "Wrong name or path"
+#~ msgstr "Nombre o ruta de acceso incorrecto"
+
+#~ msgid "Duplicated file"
+#~ msgstr "Archivos duplicados"
+
+#~ msgid "Wrong URL"
+#~ msgstr "URL incorrecta"
+
+#~ msgid "Too many active records processed"
+#~ msgstr "Demasiados registros activos procesados"
+
+#~ msgid "Error..."
+#~ msgstr "Error..."
+
+#~ msgid "Start recording"
+#~ msgstr "Iniciar la grabación"
+
+#~ msgid "Name :"
+#~ msgstr "Nombre:"
+
+#~ msgid "URL :"
+#~ msgstr "URL:"
+
+#~ msgid "Wrong field data"
+#~ msgstr "Datos incorrectos"
+
+#~ msgid "Bad playlist file"
+#~ msgstr "Mal archivo de lista de reproducción"
+
+#~ msgid "Select country..."
+#~ msgstr "Seleccione país..."
+
+#~ msgid "Select operator..."
+#~ msgstr "Seleccione el operador..."
+
+#~ msgid "Select city..."
+#~ msgstr "Seleccione la ciudad..."
+
+#~ msgid "Country:"
+#~ msgstr "País:"
+
+#~ msgid "City:"
+#~ msgstr "Ciudad:"
+
+#~ msgid "Operator:"
+#~ msgstr "Operador:"
+
+#~ msgid "Loading operator playlist"
+#~ msgstr "Cargando lista de reproducción IPTV"
+
+#~ msgid "DVB type:"
+#~ msgstr "Tipo DVB:"
+
+#, fuzzy
+#~ msgid "Modulation:"
+#~ msgstr "Duración:"
+
+#~ msgid "Scan"
+#~ msgstr "Escanear"
+
+#~ msgid "Start scanning"
+#~ msgstr "Iniciar la exploración"
+
+#~ msgid "Frequency (KHz):"
+#~ msgstr "Frecuencia"
+
+#, fuzzy
+#~ msgid "Bandwidth (MHz):"
+#~ msgstr "Bandwidth (MHz):"
+
+#, fuzzy
+#~ msgid "Auto"
+#~ msgstr "Escaneo automático"
+
+#~ msgid "Network"
+#~ msgstr "Red"
+
+#, fuzzy
+#~ msgid "Network ID:"
+#~ msgstr "Red"
+
+#~ msgid "EPG not available"
+#~ msgstr "EPG no disponible"
+
+#~ msgid "The program for:"
+#~ msgstr "El programa para:"
+
+#~ msgid "Fit on"
+#~ msgstr "Colocar el"
+
+#~ msgid "Zoom"
+#~ msgstr "Enfocar"
+
+#~ msgid "Optimal"
+#~ msgstr "Óptimo"
+
+#~ msgid "Stretch"
+#~ msgstr "Expandir"
+
+#~ msgid "Show<br />playlist"
+#~ msgstr "Mostrar<br />lista de reproducción"
+
+#~ msgid "Hide<br />player"
+#~ msgstr "Ocultar<br />lista de reproducción"
+
+#~ msgid "Previous<br />media"
+#~ msgstr "Reproducciones<br />anteriores"
+
+#~ msgid "Next<br />media"
+#~ msgstr "Siguiente<br />reproducción"
+
+#~ msgid "Audio tracks"
+#~ msgstr "Pistas de audio"
+
+#~ msgid "No storage device selected as the \"File location\" in TimeShift settings. Disable TimeShift?"
+#~ msgstr "Ningún dispositivo de almacenamiento como la ubicación del archivo de configuración TimeShift. Desactivar la función?"
+
+#~ msgid "No"
+#~ msgstr "No"
+
+#~ msgid "TimeShift buffer"
+#~ msgstr "Cargando TimeShift"
+
+#~ msgid "Cyclic recording mode"
+#~ msgstr "Modo de grabación Cíclica"
+
+#~ msgid "3D mode"
+#~ msgstr "Modo 3D"
+
+#~ msgid "Mode"
+#~ msgstr "Modo"
+
+#~ msgid "Slide-show"
+#~ msgstr "Presentación de diapositivas"
+
+#~ msgid "Play"
+#~ msgstr "Reproducir"
+
+#~ msgid "One file once"
+#~ msgstr "un archivo una vez"
+
+#~ msgid "Each file once"
+#~ msgstr "cada archivo solo una vez"
+
+#~ msgid "Repeat file"
+#~ msgstr "Repetir archivo"
+
+#~ msgid "Repeat everything"
+#~ msgstr "Repetir todo"
+
+#~ msgid "Playlist shuffle"
+#~ msgstr "Reproducción aleatoria"
+
+#~ msgid "Hide<br />playlist"
+#~ msgstr "Ocultar<br />lista de reproducción"
+
+#~ msgid "Selected subtitle file is not available"
+#~ msgstr "Archivo de subtítulos seleccionado no está disponible"
+
+#~ msgid "Playing error"
+#~ msgstr "Error de reproducción"
+
+#~ msgid "Antenna power supply disabled"
+#~ msgstr "Fuente de alimentación de antena desactivada"
+
+#~ msgid "Buffer is full"
+#~ msgstr "búfer relleno"
+
+#~ msgid "Writing error"
+#~ msgstr "Error de escritura"
+
+#~ msgid "Check storage device.<br />Disable TimeShift?"
+#~ msgstr "Compruebe el dispositivo de almacenamiento.<br />Deshabilitar TimeShift?"
+
+#~ msgid "Start TimeShift error"
+#~ msgstr "Error al iniciar TimeShift"
+
+#~ msgid "Save TimeShift buffer?"
+#~ msgstr "Guardar búfer temporal?"
+
+#~ msgid "Saving error"
+#~ msgstr "Error de almacenamiento "
+
+#~ msgid "Save to:"
+#~ msgstr "Guardar en:"
+
+#~ msgid "unknown"
+#~ msgstr "desconocido"
+
+#~ msgid "External subtitles:"
+#~ msgstr "Subtítulos externos:"
+
+#~ msgid "Title"
+#~ msgstr "Título"
+
+#~ msgid "Chapter"
+#~ msgstr "Capítulo"
+
+#~ msgid "Contains the list of items corresponding to the given filter request"
+#~ msgstr "Contiene la lista de elementos correspondientes a la solicitud de filtro dado"
+
+#~ msgid "Copying error"
+#~ msgstr "Error de copiado"
+
+#~ msgid "Records"
+#~ msgstr "Archivos"
+
+#~ msgid "Unable to get working group list"
+#~ msgstr "No se puede obtener la lista de grupos de trabajo"
+
+#~ msgid "Unable to get working group servers"
+#~ msgstr "No se puede obtener servidores de grupos de trabajo"
+
+#~ msgid "Unable to get server shares"
+#~ msgstr "No es posible obtener recursos compartidos del servidor"
+
+#~ msgid "Multimedia content"
+#~ msgstr "Contenido Multimedia"
+
+#~ msgid "The directory contains DVD or Blu-ray structure.<br>Begin playing?"
+#~ msgstr "El directorio contiene estructura DVD o Blu-ray.<br>Comenzar a reproducir"
+
+#~ msgid "Network connection"
+#~ msgstr "Conexión de red exitosa. "
+
+#~ msgid "Unable to mount the folder.<br>Authorization may be necessary.<br>Specify login and password?"
+#~ msgstr "Desafortunadamente, el asistente de configuración no puede conectar el dispositivo a la red LAN e Internet.<br />Por favor, compruebe la conexión términos generales:<br /> - El cable Ethernet conectado a la ranura correspondiente del dispositivo;<br /> - El estado de Wi-Fi."
+
+#~ msgid "Authorization"
+#~ msgstr "Autorización"
+
+#, fuzzy
+#~ msgid "Selected subtitle will appear<br>during next player launch"
+#~ msgstr "Selected subtitle will appear<br>during next player launch"
+
+#~ msgid "No records in this playlist"
+#~ msgstr "No hay registros en esta lista de reproducción"
+
+#~ msgid "Add to IPTV channels"
+#~ msgstr "Añadir a los canales de IPTV"
+
+#~ msgid "Unable to add the selected records"
+#~ msgstr "No se puede agregar los registros seleccionados"
+
+#~ msgid "No new channels for selected records"
+#~ msgstr "No hay nuevos canales para los registros seleccionados"
+
+#~ msgid "Channels added successfully:"
+#~ msgstr "Canales agregados con éxito:"
+
+#~ msgid "Go to IPTV channels"
+#~ msgstr "Ir a los canales de IPTV"
+
+#, fuzzy
+#~ msgid "Unable to get dlna group servers"
+#~ msgstr "No se puede obtener servidores de grupos de trabajo"
+
+#~ msgid "Loading..."
+#~ msgstr "Cargando..."
+
+#, fuzzy
+#~ msgid "Unable to get dlna content"
+#~ msgstr "No se puede obtener la lista de grupos de trabajo"
+
+#~ msgid "Update software now"
+#~ msgstr "Güncelle de software ahora"
+
+#~ msgid "Formatting in progress..."
+#~ msgstr "Formato en progreso..."
+
+# menu item
+#~ msgid "Move selected"
+#~ msgstr "Mover seleccionados"
+
+# menu item
+#~ msgid "Copy selected"
+#~ msgstr "Copiar seleccionados"
+
+#, fuzzy
+#~ msgid "To perform this operation, you must to turn off \"Storage read only access\" in system settings"
+#~ msgstr "To perform this operation, you must to turn off \"Storage read only access\" in system settings"
+
+#~ msgid "Selected"
+#~ msgstr "Seleccionado"
+
+#~ msgid "Text"
+#~ msgstr "Texto"
+
+#~ msgid "Groups"
+#~ msgstr "Grupos"
+
+#~ msgid "No sorting"
+#~ msgstr "Ninguna clasificación"

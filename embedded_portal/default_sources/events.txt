@@ -1,0 +1,31 @@
+﻿//All global events
+
+//Reload given window
+"window.reload"
+
+//Load given URL (has 1 param {String} - new window URL)
+"window.load"
+
+// Player end playing some file
+"player.end"
+
+// Play file. (has 1 param {String} - file url)
+"player.play"
+
+// usb device has been mounted
+"broadcast.storage.mount"
+
+// accessControl state has been change
+"broadcast.accessControl"
+
+// usb device has been unmounted
+"broadcast.storage.unmount"
+
+// sent (wake up) device to (from) standby mode
+"portal.standbyMode"
+
+// reload environment variables
+"environment.reload"
+
+// reset player resolution data according to new video mode
+"video.mode.reload"

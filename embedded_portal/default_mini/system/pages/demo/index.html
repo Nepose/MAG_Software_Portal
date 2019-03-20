@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title></title>
+	<script type="text/javascript">
+		(function () {
+			document.write('<link rel="stylesheet" href="css/' + screen.height + '.css">');
+		})();
+		window.moveTo(0, 0);
+		window.resizeTo(screen.width, screen.height);
+	</script>
+
+	<script>
+		var PATH_BASE = '../../../';
+	</script>
+
+	
+	
+	
+	
+	
+	
+	
+
+	<script type="text/javascript" src="index.min.js"></script>
+</head>
+<body onload="page.init()" onkeydown="page.onKeyDown(event)">
+	<div id="contentWrapper">
+		<div id="content"></div>
+	</div>
+	<div class="volumeContainer">
+		<div id="volumeForm" style="visibility:hidden">
+			<div id="volume_bar">
+				<img src="" class="alignLeft" id="volumeLeft" alt="" style="float:left">
+				<div id="volume_right"></div>
+			</div>
+			<div id="volume_num"></div>
+		</div>
+	</div>
+	<div class="info-panel">
+		<ul class="info-list">
+			<li class="list-item">Frame rate: <span class="frame-rate"></span>fps</li>
+			<li class="list-item">Picture width: <span class="picture-width"></span>px</li>
+			<li class="list-item">Picture height: <span class="picture-height"></span>px</li>
+			<li class="list-item storage">Duration: <span class="hours"></span>:<span class="minutes"></span>:<span class="seconds"></span> of <span class="total-duration"></span></li>
+			<li class="list-item stream">Duration: not available</li>
+		</ul>
+	</div>
+</body>
+</html>

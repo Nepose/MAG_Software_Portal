@@ -1,0 +1,368 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: master_settings\n"
+"POT-Creation-Date: 2016-10-20 16:34+0300\n"
+"PO-Revision-Date: 2016-10-20 16:34+0300\n"
+"Last-Translator: Сергей <ssa@infomir.eu>\n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-KeywordsList: _;gettext.data\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../main.js:344
+msgid "Welcome"
+msgstr "Добро пожаловать"
+
+#: ../main.js:345
+msgid "Select language"
+msgstr "Выберите язык"
+
+#: ../main.js:349 ../main.js:351 ../main.js:391
+msgid ""
+"Use Up and Down, Left and Right buttons for selecting. Press OK button to "
+"confirm."
+msgstr ""
+"Для навигации используйте кнопки \"Вверх\", \"Вниз\", \"Влево\", \"Вправо\". "
+"Для подтверждения выбора - \"OK\"."
+
+#: ../main.js:357 ../main.js:395 ../main.js:416 ../main.js:438 ../main.js:462
+#: ../main.js:495 ../main.js:514 ../main.js:548 ../main.js:578 ../main.js:601
+#: ../main.js:645 ../main.js:678 ../main.js:696
+msgid "Exit"
+msgstr "Выход"
+
+#: ../main.js:389
+msgid "AuraHD Setup Wizard"
+msgstr "Мастер настройки AuraHD"
+
+#: ../main.js:390
+msgid ""
+"Use the SetUp Wizard to edit Internet access settings, select display "
+"options and set your time zone"
+msgstr ""
+"Для настройки доступа в Интернет, выбора параметров отображения и часового "
+"пояса запустите Мастер настройки"
+
+#: ../main.js:390
+msgid "Run the Setup Wizard"
+msgstr "Запустить Мастер настройки"
+
+#: ../main.js:390
+msgid "Set up manually later"
+msgstr "Настроить позже вручную"
+
+#: ../main.js:410
+msgid "Step 1: Connecting to your TV"
+msgstr "Шаг 1: Подключение к телевизору"
+
+#: ../main.js:411
+msgid ""
+"For optimal display settings, specify your TV model and AuraHD connection "
+"type. Please, read the TV user guide before you do it."
+msgstr ""
+"Укажите, какой у вас телевизор и тип соединения с AuraHD, чтобы Мастер "
+"настройки подобрал оптимальные параметры отображения. Предварительно "
+"рекомендуем ознакомиться с инструкцией к вашему телевизору."
+
+#: ../main.js:411
+msgid "RCA cable"
+msgstr "Кабель RCA"
+
+#: ../main.js:411
+msgid "HDMI cable"
+msgstr "Кабель HDMI"
+
+#: ../main.js:411
+msgid "Attention:"
+msgstr "Внимание:"
+
+#: ../main.js:411
+msgid ""
+"For TVs with the HDMI interface, we recommend to use an HDMI cable for "
+"connecting AuraHD to maximize image quality (HD or Full HD)."
+msgstr ""
+"Если ваш телевизор оснащен HDMI-входом, для обеспечения максимально "
+"возможного качества картинки (HD или Full HD) мы рекомендуем подключать "
+"AuraHD с помощью HDMI-кабеля."
+
+#: ../main.js:432
+msgid "Step 2: Connecting AuraHD to LAN and/or to the Internet"
+msgstr "Шаг 2: Подключение медиаплеера к локальной сети и/или сети Интернет"
+
+#: ../main.js:433
+msgid ""
+"Active AuraHD Internet connection gives you access to web resources from "
+"your TV and also makes it possible to view media files located on your "
+"computer or local network. Select the connection type:"
+msgstr ""
+"Активное соединение AuraHD с Интернет обеспечивает доступ ко всем ресурсам "
+"сети Интернет с экрана вашего телевизора, а подключение к локальной сети "
+"также дает возможность просмотра медиафайлов, находящихся на вашем "
+"компьютере и в локальной сети. Выберите тип подключения:"
+
+#: ../main.js:433
+msgid "Wired"
+msgstr "Проводное"
+
+#: ../main.js:433
+msgid "Wireless"
+msgstr "Беспроводное"
+
+#: ../main.js:433 ../main.js:597
+msgid "Skip"
+msgstr "Пропустить"
+
+#: ../main.js:453
+msgid "Step 2.3: Checking wireless network and Internet connection"
+msgstr "Шаг 2.3: Проверка подключения к беспроводной сети и Интернет"
+
+#: ../main.js:453
+msgid "Step 2.1: Checking local network and Internet connection"
+msgstr "Шаг 2.1: Проверка подключения к локальной сети и Интернет"
+
+#: ../main.js:455
+msgid "Checking wireless network"
+msgstr "Проверка подключения к беспроводной сети"
+
+#: ../main.js:455
+msgid "Checking local network connection"
+msgstr "Проверка подключения к локальной сети"
+
+#: ../main.js:455 ../main.js:456 ../main.js:777 ../main.js:791 ../main.js:813
+#: ../main.js:825 ../main.js:884
+msgid "sec."
+msgstr "сек."
+
+#: ../main.js:456
+msgid "Checking Internet connection"
+msgstr "Проверка подключения к Интернет"
+
+#: ../main.js:458
+msgid "Cancel"
+msgstr "Прервать"
+
+#: ../main.js:458 ../main.js:489 ../main.js:490
+msgid "Information"
+msgstr "Информация"
+
+#: ../main.js:458
+msgid "Refresh"
+msgstr "Обновить"
+
+#: ../main.js:490
+msgid ""
+"To access additional/advanced settings in the Main Menu, press the SET/SETUP "
+"button on the remote control."
+msgstr ""
+"Дополнительные/расширенные настройки доступны из главного меню по нажатию "
+"кнопки SET/SETUP на пульте ДУ"
+
+#: ../main.js:491 ../main.js:674 ../main.js:1089
+msgid "Close"
+msgstr "Закрыть"
+
+#: ../main.js:508
+msgid "Step 2.1: Connecting to the Wireless LAN"
+msgstr "Шаг 2.1: Подключение к беспроводной сети"
+
+#: ../main.js:509
+msgid "Select LAN"
+msgstr "Выбор сети"
+
+#: ../main.js:509
+msgid "Select preferred wireless LAN or set it up manually"
+msgstr ""
+"Выберите название беспроводной сети, к которой вы хотите подключиться, либо "
+"настройте подключение вручную"
+
+#: ../main.js:525
+msgid "Manual settings"
+msgstr "Настроить вручную"
+
+#: ../main.js:542
+msgid "Step 2.2: Password"
+msgstr "Шаг 2.2: Пароль"
+
+#: ../main.js:543 ../main.js:573
+msgid "Password"
+msgstr ""
+
+#: ../main.js:544 ../main.js:597 ../main.js:913 ../main.js:919
+msgid "Next"
+msgstr "Далее"
+
+#: ../main.js:544 ../main.js:574 ../main.js:597
+msgid "Keyboard"
+msgstr "Клавиатура"
+
+#: ../main.js:572
+msgid "Step 2.2: Advanced settings"
+msgstr "Шаг 2.2: Расширенные настройки"
+
+#: ../main.js:573
+msgid "Authentication:"
+msgstr "Аутентификация:"
+
+#: ../main.js:573
+msgid "Open"
+msgstr "Открытая"
+
+#: ../main.js:573
+msgid "Shared key"
+msgstr "Общий ключ"
+
+#: ../main.js:573
+msgid "Auto Open/Shared key"
+msgstr "Авто Открытая/Общий ключ"
+
+#: ../main.js:573
+msgid "Encryption:"
+msgstr "Шифрование:"
+
+#: ../main.js:573
+msgid "Disabled"
+msgstr "Отключено"
+
+#: ../main.js:573
+msgid "SSID (network):"
+msgstr "SSID (сеть):"
+
+#: ../main.js:574
+msgid "Select/Next"
+msgstr "Выбрать/Далее"
+
+#: ../main.js:595
+msgid "Step 3: Weather forecast"
+msgstr "Шаг 3: Прогноз погоды"
+
+#: ../main.js:596
+msgid "Weather forecast"
+msgstr "Прогноз погоды"
+
+#: ../main.js:596
+msgid "Select your city and press OK"
+msgstr "Выберите город и нажмите \"OK\""
+
+#: ../main.js:639
+msgid "Step 4: Time zone"
+msgstr "Шаг 4: Выбор часового пояса"
+
+#: ../main.js:640
+msgid "Select your time zone"
+msgstr "Выберите ваш часовой пояс"
+
+#: ../main.js:672
+msgid "Setup completed"
+msgstr "Настройка завершена"
+
+#: ../main.js:673
+msgid "Thank you!"
+msgstr "Спасибо!"
+
+#: ../main.js:673
+msgid ""
+"The Setup Wizard is complete. All selected settings will be stored in the "
+"device’s memory. To edit the system settings any time, press SET or SETUP on "
+"your remote control and open the Main Menu."
+msgstr ""
+"Мастер настройки закончил свою работу. Все выбранные пункты будут сохранены "
+"в памяти медиаплеера. Впоследствии системные настройки можно корректировать "
+"из главного меню по нажатию кнопки SET/SETUP на пульте ДУ"
+
+#: ../main.js:690
+msgid "Terms of use"
+msgstr "Пользовательское соглашение"
+
+#: ../main.js:691
+msgid ""
+"&nbsp;&nbsp;Dear user, please read the terms and conditions for services "
+"integrated into AuraHD  device.<br />&nbsp;&nbsp;The AuraHD network media "
+"player is directly intended for digital content playback from the Internet "
+"(media files including streaming video), LANs and removable media including "
+"flash memory connected via USB port. The manufacturer is not responsible for "
+"quality and stability of the web services integrated into the device's "
+"software. The manufacturer also reserves the right to make occasional "
+"changes to the device's software and interface without prior notice in order "
+"to modify or improve its function.<br />&nbsp;&nbsp;Services by third "
+"parties offered in the AuraHD’s menu (Online Cinema, web services) are "
+"provided \"as is\" without warranty of any kind. The manufacturer cannot "
+"guarantee accuracy, timeliness, validity, completeness, compliance with any "
+"standards and laws or supplier's declaration of the service characteristics. "
+"The services are transferred by third parties via networks and data transfer "
+"means beyond the control of the device’s manufacturer.<br />&nbsp;&nbsp;If "
+"you do not agree to these terms and conditions for services integrated into "
+"the AuraHD device, please stop using it and return the device to the store "
+"where it was purchased within 14 days of purchase."
+msgstr ""
+"&nbsp;&nbsp;Уважаемый пользователь, ознакомьтесь, пожалуйста, с условиями "
+"предоставления услуг, интегрированных в медиаплеер AuraHD.<br />&nbsp;&nbsp;"
+"Прямое назначение сетевого медиаплеера TM AuraHD – воспроизведение цифрового "
+"контента (медиафайлов) из сети Интернет (в т.ч. потоковое видео), из "
+"локальной сети и с внешних носителей (флеш-память, подключаемая через USB-"
+"разъем). При этом Производитель не отвечает за качество и стабильность "
+"работы сервисов, установленных в программную оболочку медиаплеера и "
+"использующих соединение с сетью Интернет. Также Производитель оставляет за "
+"собой право периодически вносить изменения в программное обеспечение и "
+"интерфейс медиаплеера, изменять или расширять его возможности без "
+"предупреждения.<br />&nbsp;&nbsp;Сервисы, предоставляемые третьими лицами, "
+"доступ к которым организован в меню медиаплеера AuraHD  (Онлайн Медиа, "
+"Интернет сервисы), предоставляются на условии «как есть». Таким образом, "
+"Производитель не гарантирует их точность, своевременность, законность, "
+"полноту, соответствие каким-либо стандартам или заявленным поставщиком этого "
+"сервиса характеристикам. Данные сервисы передаются третьими лицами с помощью "
+"сети и средств передачи информации, контроля над которыми Производитель "
+"медиаплеера не имеет.<br />&nbsp;&nbsp;Если Вы не согласны с данными "
+"условиями предоставления услуг, интегрированных в медиаплеер AuraHD, Вы "
+"должны отказаться от его использования и в течение 14 дней со дня покупки "
+"вернуть Ваш медиаплеер в торговую точку, где он был приобретен."
+
+#: ../main.js:692
+msgid "Continue"
+msgstr "Далее"
+
+#: ../main.js:905
+msgid ""
+"Unfortunately, the Setup Wizard was unable to connect your device to LAN and "
+"Internet.<br />Please, check general connection terms:<br /> - the Ethernet "
+"cable connected to the appropriate slot of the device;<br /> - Wi-Fi status."
+"<br />Try to connect again."
+msgstr ""
+"К сожалению, Мастер настройки не смог соединить ваш медиаплеер с Локальной "
+"сетью и сетью Интернет.<br />Проверьте, пожалуйста, основные условия "
+"соединения:<br /> - подключен ли сетевой кабель в соответствующий слот на "
+"задней панели медиаплеера;<br /> - cостояние Wi-Fi адаптера.<br />Попробуйте "
+"подключиться еще раз."
+
+#: ../main.js:911
+msgid ""
+"Network connection successful. No Internet connection.<br />Possibly, no "
+"access to external services.<br />Check your Internet connection status."
+msgstr ""
+"Подключение к локальной сети прошло успешно. Подключение к сети Интернет "
+"отсутствует.<br />Может отсутствовать доступ к внешним сервисам.<br /"
+">Проверьте, активно ли соединение с Интернет."
+
+#: ../main.js:917
+msgid "Wireless network connection successful. Internet connection available."
+msgstr "Подключение к беспроводной сети прошло успешно. Интернет доступен."
+
+#: ../main.js:917
+msgid "Network connection successful. Internet connection available."
+msgstr "Подключение к локальной сети прошло успешно. Интернет доступен."
+
+#: ../main.js:1089
+msgid "Notice"
+msgstr "Уведомление"
+
+#: ../main.js:1089
+msgid "Wi-Fi adapter not connected"
+msgstr "Wi-Fi адаптер не подключен"
+
+#~ msgid "Password:"
+#~ msgstr "Пароль:"

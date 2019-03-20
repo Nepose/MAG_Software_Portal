@@ -1,0 +1,203 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Service menu\n"
+"POT-Creation-Date: 2016-10-20 16:34+0300\n"
+"PO-Revision-Date: 2016-10-20 16:34+0300\n"
+"Last-Translator: B_A_S <1990bas@gmail.com>\n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-KeywordsList: _;gettext.data\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../js/main.js:23
+msgid "Retry"
+msgstr "Reintente"
+
+#: ../js/main.js:24
+msgid "Cancel"
+msgstr "İptal"
+
+#: ../js/main.js:25
+msgid "Show log"
+msgstr "Mostrar registro"
+
+#: ../js/main.js:26
+msgid "Hide log"
+msgstr "Ocultar registro"
+
+#: ../js/main.js:27
+msgid "Update"
+msgstr "Güncelle"
+
+#: ../js/main.js:28 ../js/main.js:35
+msgid "Update status"
+msgstr "Estado de Güncelle"
+
+#: ../js/main.js:29
+msgid "Check image"
+msgstr "Compruebe la imagen"
+
+#: ../js/main.js:30
+msgid "Exit"
+msgstr "Çıkış"
+
+#: ../js/main.js:31
+msgid "Current version"
+msgstr "Versión actual"
+
+#: ../js/main.js:32
+msgid "New version"
+msgstr "Nueva versión"
+
+#: ../js/main.js:33
+msgid "Description"
+msgstr "Descripción"
+
+#: ../js/main.js:34
+msgid "Updating to version"
+msgstr "Actualizar a la versión"
+
+#: ../js/main.js:36
+#, fuzzy
+msgid ""
+"<span class=\"alert\">Warning!</span> Device will be rebooted after update"
+msgstr ""
+"<span class='alert'>Advertencia!</span> Reinicio automático del dispositivo "
+"después de la Güncelle"
+
+#: ../js/main.js:37
+msgid "Change log"
+msgstr "Registro de cambios"
+
+#: ../js/main.js:38
+msgid "Information not found"
+msgstr "No se encontró información"
+
+#: ../js/main.js:39
+msgid "Signature init error"
+msgstr "Error de Inicio"
+
+#: ../js/main.js:40
+msgid "Wrong device model"
+msgstr "Modelo de dispositivo incorrecto"
+
+#: ../js/main.js:41
+msgid "Section size exceeds partition size on FLASH"
+msgstr "Tamaño de la sección superior tamaño de la partición en FLASH"
+
+#: ../js/main.js:42
+msgid "Required FLASH section not found. Aborting update"
+msgstr "Sección FLASH requerido no se encuentra. İptal Güncelle."
+
+#: ../js/main.js:43
+msgid "Updating kernel"
+msgstr "Güncelle del kernel"
+
+#: ../js/main.js:44
+msgid "Updating image"
+msgstr "Actualizar imagen"
+
+#: ../js/main.js:45
+msgid "Internal error"
+msgstr "Error interno"
+
+#: ../js/main.js:46
+msgid "Inspecting firmware"
+msgstr "Revisión del firmware"
+
+#: ../js/main.js:47
+msgid "Updating environment variables"
+msgstr "Güncelle de variables de entorno"
+
+#: ../js/main.js:48
+msgid "Updating Bootstrap section"
+msgstr "Güncelle de sección Bootstrap"
+
+#: ../js/main.js:49
+msgid "Skipping Bootstrap section"
+msgstr "Saltar sección Bootstrap"
+
+#: ../js/main.js:50
+msgid "Updating User FS section"
+msgstr "Güncelle de la sección de usuario FS"
+
+#: ../js/main.js:51
+msgid "Skipping User FS section"
+msgstr "Saltar sección usuario FS"
+
+#: ../js/main.js:52
+msgid "Updating second boot"
+msgstr "Inicio segunda Güncelle"
+
+#: ../js/main.js:53
+msgid "Updating logotype"
+msgstr "Güncelle de logotipo"
+
+#: ../js/main.js:54
+msgid "Update finished OK"
+msgstr "Güncelle finalizada correctamente"
+
+#: ../js/main.js:55
+msgid "Wrong signature"
+msgstr "Firma incorrecta"
+
+#: ../js/main.js:56
+msgid "Erasing flash section"
+msgstr "Borrar sección flash"
+
+#: ../js/main.js:57
+msgid "Flash write error"
+msgstr "Error de escritura Flash"
+
+#: ../js/main.js:58
+msgid "File write error"
+msgstr "Error de escritura de archivo"
+
+# Используется в обновлении как статус говорящий о готовности.
+#: ../js/main.js:59
+msgid "Idle"
+msgstr "Libre"
+
+#: ../js/main.js:60
+msgid "Invalid file header"
+msgstr "Encabezado de archivo no válido"
+
+#: ../js/main.js:61
+msgid "Inspecting update file"
+msgstr "Inspección de archivo de Güncelle"
+
+#: ../js/main.js:62
+msgid "File check finished"
+msgstr "Comprobación del archivo terminada"
+
+#: ../js/main.js:63
+msgid "File not found"
+msgstr "No se ha encontrado el archivo"
+
+#: ../js/main.js:64
+msgid "Initialising"
+msgstr "Iniciando"
+
+#: ../js/main.js:65
+msgid "Read error"
+msgstr "Error de lectura"
+
+#: ../js/main.js:66
+msgid "Status"
+msgstr "Estado"
+
+#: ../js/main.js:67
+#, fuzzy
+msgid "Date"
+msgstr "Date"
+
+#: ../js/main.js:71
+msgid "Autoupdate"
+msgstr "Güncelle automática"

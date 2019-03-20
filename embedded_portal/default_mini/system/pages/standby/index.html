@@ -1,0 +1,64 @@
+<!doctype html>
+<html>
+<head>
+	<title>STB Service page</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta http-equiv="Content-Style-Type" content="text/css">
+	<meta http-equiv="Content-Script-Type" content="text/javascript">
+
+	<script>
+		var PATH_BASE = '../../../';
+	</script>
+
+	
+
+	<script type="text/javascript">
+		(function () {
+			var time = (new Date).getTime();
+			// conditional css loading
+			document.write('<link rel="stylesheet" href="../../../system/' + screen.height + '.css?_=' + time + '">');
+			document.write('<link rel="stylesheet" href="' + screen.height + '.css?_=' + time + '">');
+		})();
+	</script>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	<script type="text/javascript">
+		(function () {
+			var time = (new Date).getTime();
+			// conditional css loading
+			document.write('<link rel="stylesheet" href="../' + screen.height + '.css?_=' + time + '">');
+		})();
+	</script>
+
+	<style type="text/css">
+		html, body { overflow:hidden; background:transparent; color:#fff; margin:0; padding:0; -webkit-user-select:none; font-family:Ubuntu, sans-serif; }
+		/* table cell spacing/padding reset */
+		table { border:0; border-collapse:collapse; border-spacing:0; }
+		table td { padding:0 }
+		/* meta-classes */
+		.maxh { height:100% }
+		.maxw { width:100% }
+		a { text-decoration:none }
+		/* scroll bars */
+		::-webkit-scrollbar-track { background:#2a2c2f }
+		::-webkit-scrollbar-thumb { background:#ffc20e }
+		body#body > .page.main { background-color:transparent; }
+	</style>
+
+
+	<script type="text/javascript" src="index.min.js"></script>
+</head>
+<body id="body">
+<div class="page main">
+	<!-- main page body -->
+</div>
+</body>
+</html>

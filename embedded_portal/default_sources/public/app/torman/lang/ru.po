@@ -1,0 +1,340 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Internet Bookmarks Manager\n"
+"POT-Creation-Date: 2017-05-12 12:05+0300\n"
+"PO-Revision-Date: 2017-05-12 12:05+0300\n"
+"Last-Translator: B_A_S <1990bas@gmail.com>\n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-KeywordsList: _;gettext.data\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../app.js:92 ../modals.js:30 ../modals.js:31 ../modals.js:41 ../modals.js:42
+#: ../modals.js:64 ../modals.js:66 ../view.main.js:333
+msgid "GB"
+msgstr "Гб"
+
+#: ../app.js:93 ../view.main.js:336
+msgid "MB"
+msgstr "Мб"
+
+#: ../app.js:94 ../view.main.js:339
+msgid "KB"
+msgstr "Кб"
+
+#: ../app.js:96 ../view.main.js:341
+msgid "B"
+msgstr "байт"
+
+#: ../cdlist.js:319
+msgid "Unsupported format"
+msgstr "Формат не поддерживается"
+
+#: ../cdlist.js:322
+msgid "File not found"
+msgstr "Файл не найден"
+
+#: ../modals.js:24 ../modals.js:39
+msgid "No storage device"
+msgstr "Нет устройства хранения данных"
+
+#: ../modals.js:51 ../view.main.js:266
+msgid "URL:"
+msgstr "URL:"
+
+#: ../modals.js:55 ../view.main.js:265
+msgid "File name:"
+msgstr "Имя файла:"
+
+#: ../modals.js:59
+msgid "Download in:"
+msgstr "Скачать в:"
+
+#: ../modals.js:64
+msgid "Free space:"
+msgstr "Свободное место:"
+
+#: ../modals.js:65
+msgid "of"
+msgstr "из"
+
+#: ../modals.js:80 ../view.main.js:495
+msgid "Add download"
+msgstr "Добавить загрузку"
+
+#: ../modals.js:80 ../modals.js:158 ../modals.js:225
+msgid "Cancel"
+msgstr "Отмена"
+
+#: ../modals.js:113
+msgid "Create"
+msgstr "Создать"
+
+#: ../modals.js:123
+msgid "Not enough disk space"
+msgstr "Недостаточно места для сохранения"
+
+#: ../modals.js:123
+msgid "File size: "
+msgstr "Размер файла:"
+
+#: ../modals.js:123 ../modals.js:126 ../modals.js:142 ../modals.js:184
+#: ../view.main.js:206 ../view.main.js:467
+msgid "Close"
+msgstr "Закрыть"
+
+#: ../modals.js:126
+msgid "Create download"
+msgstr "Создать загрузку"
+
+#: ../modals.js:126
+msgid "File name or URL already used"
+msgstr "Имя файла или ссылка уже используются"
+
+#: ../modals.js:142 ../modals.js:184
+msgid "Wrong data"
+msgstr "Неверные данные"
+
+#: ../modals.js:142
+msgid "Provided name is invalid"
+msgstr "Введенное имя неверно"
+
+#: ../modals.js:144
+msgid "No storage device found"
+msgstr "Нет устройств для сохранения"
+
+#: ../modals.js:154
+msgid "Unsupported file extension"
+msgstr "Неподдерживаемое расширение файла"
+
+#: ../modals.js:158 ../view.main.js:243 ../view.main.js:244
+msgid "Error"
+msgstr "Ошибка"
+
+#: ../modals.js:158
+msgid "File with this name already exist. Do you want rewrite it?"
+msgstr "Файл с таким именем уже существует. Перезаписать его?"
+
+#: ../modals.js:160
+msgid "Ok"
+msgstr "Ок"
+
+#: ../modals.js:175
+msgid "Some error. Please rename the file."
+msgstr "Произошла ошибка. Пожалуйста, переименуйте файл."
+
+#: ../modals.js:184
+msgid "Provided url is invalid"
+msgstr "Введенная ссылка неверна"
+
+#: ../modals.js:213
+msgid "Delete the related file"
+msgstr "Удалить связанный файл"
+
+#: ../modals.js:225
+msgid "Delete download"
+msgstr "Удалить загрузку"
+
+#: ../modals.js:247
+msgid "Apply"
+msgstr "Применить"
+
+#: ../view.main.js:82
+msgid "Download manager"
+msgstr "Менеджер загрузок"
+
+#: ../view.main.js:96
+msgid "Enter part of download name..."
+msgstr "Введите часть имени загрузки..."
+
+#: ../view.main.js:165
+msgid "USB storage is connected"
+msgstr "Подключен USB-накопитель"
+
+#: ../view.main.js:185
+msgid "Exit"
+msgstr "Выход"
+
+#: ../view.main.js:198
+msgid "Menu"
+msgstr "Меню"
+
+#: ../view.main.js:201 ../view.main.js:687
+msgid "Show<br>info panel"
+msgstr "Показать<br />инфо-блок"
+
+#: ../view.main.js:204
+msgid "Add<br>download"
+msgstr "Добавить<br>загрузку"
+
+#: ../view.main.js:206 ../view.main.js:467
+msgid "Warning!"
+msgstr "Внимание!"
+
+#: ../view.main.js:206 ../view.main.js:467
+msgid "\"Storage read only access mode\" is enabled in System Settings"
+msgstr "Включен режим \"только чтение\" для накопителя в Системных настройках"
+
+# menu item
+#: ../view.main.js:211 ../view.main.js:498
+msgid "Select"
+msgstr "Выделить"
+
+#: ../view.main.js:239
+msgid "Paused "
+msgstr "Остановлена"
+
+#: ../view.main.js:240 ../view.main.js:522
+msgid "Waiting"
+msgstr "Ожидающие"
+
+#: ../view.main.js:241
+msgid "Downloading"
+msgstr "Закачивается"
+
+#: ../view.main.js:242
+msgid "Completed"
+msgstr "Завершена"
+
+#: ../view.main.js:253
+msgid "Downloads:"
+msgstr "Загрузок:"
+
+#: ../view.main.js:254
+msgid "Selected:"
+msgstr "Выбрано:"
+
+#: ../view.main.js:267
+msgid "Storage device:"
+msgstr "Накопитель:"
+
+#: ../view.main.js:268
+msgid "State:"
+msgstr "Состояние:"
+
+# menu item
+#: ../view.main.js:269
+msgid "Priority:"
+msgstr "Приоритет:"
+
+#: ../view.main.js:270
+msgid "Size:"
+msgstr "Размер:"
+
+#: ../view.main.js:303
+msgid "Contains a list of items corresponding to the given filter request"
+msgstr "Содержит список записей, соответствующих указанному запросу"
+
+#: ../view.main.js:309
+msgid "Detailed info on selected download"
+msgstr "Детальная информация о выделенной загрузке"
+
+#: ../view.main.js:429
+msgid "Operations"
+msgstr "Операции"
+
+#: ../view.main.js:483
+msgid "Temporary files cleaning..."
+msgstr "Удаление временных файлов..."
+
+# menu item
+#: ../view.main.js:492
+msgid "Open"
+msgstr "Открыть"
+
+#: ../view.main.js:493
+msgid "Resume"
+msgstr "Возобновить"
+
+#: ../view.main.js:494
+msgid "Stop"
+msgstr "Остановить"
+
+# menu item
+#: ../view.main.js:496
+msgid "Increase priority"
+msgstr "Увеличить приоритет"
+
+# menu item
+#: ../view.main.js:497
+msgid "Decrease priority"
+msgstr "Уменьшить приоритет"
+
+# menu item
+#: ../view.main.js:499
+msgid "Select all"
+msgstr "Выделить все"
+
+# menu item
+#: ../view.main.js:500
+msgid "Deselect all"
+msgstr "Снять все выделение"
+
+# menu item
+#: ../view.main.js:501
+msgid "Invert selection"
+msgstr "Инвертировать выделение"
+
+# menu item
+#: ../view.main.js:502
+msgid "Delete"
+msgstr "Удалить"
+
+#: ../view.main.js:503
+msgid "Clean temporary files"
+msgstr "Удалить временные файлы"
+
+#: ../view.main.js:505
+msgid "View"
+msgstr "Вид"
+
+# menu item
+#: ../view.main.js:520
+msgid "All"
+msgstr "Все"
+
+#: ../view.main.js:521
+msgid "Done"
+msgstr "Завершенные"
+
+#: ../view.main.js:523
+msgid "Paused"
+msgstr "Остановленные"
+
+#: ../view.main.js:524
+msgid "Errors"
+msgstr "Ошибки"
+
+#: ../view.main.js:527
+msgid "Sorting"
+msgstr "Сортировка"
+
+# menu item
+#: ../view.main.js:543
+msgid "By state"
+msgstr "По состоянию"
+
+# menu item
+#: ../view.main.js:544
+msgid "By name"
+msgstr "По имени"
+
+# menu item
+#: ../view.main.js:545
+msgid "By size"
+msgstr "По размеру"
+
+# menu item
+#: ../view.main.js:546
+msgid "By priority"
+msgstr "По приоритету"
+
+#: ../view.main.js:687
+msgid "Hide<br>info panel"
+msgstr "Скрыть<br />инфо-блок"

@@ -1,0 +1,1101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: settings\n"
+"POT-Creation-Date: 2017-08-22 14:34+0300\n"
+"PO-Revision-Date: 2018-07-30 11:15+0300\n"
+"Last-Translator: B_A_S <1990bas@gmail.com>\n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-KeywordsList: _;gettext.data\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../js/base_function.js:6 ../js/keypress.js:474 ../js/main.js:839
+#: ../js/main.js:1006 ../js/main.js:2165 ../js/main.js:2209 ../js/main.js:2246
+#: ../js/main.js:2911 ../js/main.js:2934 ../js/main.js:4180 ../js/main.js:4192
+msgid "Confirm"
+msgstr "Підтвердження"
+
+#: ../js/base_function.js:6 ../js/keypress.js:474 ../js/keypress.js:485
+#: ../js/main.js:841 ../js/main.js:904 ../js/main.js:992 ../js/main.js:1008
+#: ../js/main.js:1221 ../js/main.js:1656 ../js/main.js:1714 ../js/main.js:1804
+#: ../js/main.js:2009 ../js/main.js:2046 ../js/main.js:2167 ../js/main.js:2211
+#: ../js/main.js:2248 ../js/main.js:2911 ../js/main.js:2936 ../js/main.js:3162
+#: ../js/main.js:3176 ../js/main.js:3323 ../js/main.js:3459 ../js/main.js:3631
+#: ../js/main.js:3633 ../js/main.js:3736 ../js/main.js:4180 ../js/main.js:4194
+#: ../js/main.js:4280 ../js/main.js:4325 ../js/main.js:4339 ../js/main.js:4473
+#: ../js/modals.js:59 ../js/modals.js:147 ../js/modals.js:229
+#: ../js/modals.js:289
+msgid "Cancel"
+msgstr "Відміна"
+
+#: ../js/base_function.js:6 ../js/main.js:141 ../js/main.js:4846
+#: ../js/main.js:4871
+msgid "Save"
+msgstr "Зберегти"
+
+#: ../js/cbtlist.js:138 ../js/main.js:2044
+msgid "Unpaire"
+msgstr "Забути"
+
+#: ../js/keypress.js:474
+msgid ""
+"You have changed some settings.<br>To apply new settings it is necessary to "
+"reboot device.<br>Reboot now?"
+msgstr ""
+"Були змінені важливі налаштування, які<br>почнуть діяти після перезапуску "
+"пристрою.<br>Виконати перезапуск зараз?"
+
+#: ../js/keypress.js:480 ../js/keypress.js:491 ../js/main.js:843
+#: ../js/main.js:1010 ../js/main.js:2176 ../js/main.js:2237 ../js/main.js:2274
+#: ../js/main.js:2911 ../js/main.js:2938 ../js/main.js:4180 ../js/main.js:4195
+#: ../js/main.js:5017 ../js/main.js:5018
+msgid "Yes"
+msgstr "Так"
+
+#: ../js/keypress.js:485
+msgid "Confirmation"
+msgstr "Підтвердження"
+
+#: ../js/keypress.js:485
+msgid ""
+"You have changed some settings.<br>To apply new settings it is necessary to "
+"restart portal.<br>Restart now?"
+msgstr ""
+"Були змінені важливі налаштування, які<br>почнуть діяти після перезапуску "
+"порталу.<br>Виконати перезапуск зараз?"
+
+#: ../js/keypress.js:518 ../js/keypress.js:587
+msgid "Some settings have been changed"
+msgstr "Деякі налаштування були змінені"
+
+#: ../js/main.js:14
+#, fuzzy
+msgid "No data"
+msgstr "Немає даних"
+
+#: ../js/main.js:47
+msgid "USB storage is connected"
+msgstr "Підключений USB-накопичувач"
+
+#: ../js/main.js:124
+msgid "Exit"
+msgstr "Вихід"
+
+#: ../js/main.js:132 ../js/main.js:2300 ../js/main.js:2617 ../js/main.js:3267
+#: ../js/main.js:3496 ../js/main.js:3664 ../js/main.js:3876 ../js/main.js:4844
+msgid "More"
+msgstr "Додатково"
+
+#: ../js/main.js:135 ../js/main.js:4849
+msgid "Up"
+msgstr "Вгору"
+
+#: ../js/main.js:138 ../js/main.js:4851
+msgid "Down"
+msgstr "Вниз"
+
+#: ../js/main.js:161
+msgid "Info"
+msgstr "Iнформація"
+
+#: ../js/main.js:184 ../js/main.js:4875
+#, fuzzy
+msgid "Add network"
+msgstr "Додати мережу"
+
+#: ../js/main.js:194
+#, fuzzy
+msgid "Remove network"
+msgstr "Видалити мережу"
+
+#: ../js/main.js:195
+#, fuzzy
+msgid "Remove"
+msgstr "Видалити"
+
+#: ../js/main.js:195
+#, fuzzy
+msgid "Do you want to remove this network?"
+msgstr "Видалити цю мережу?"
+
+#: ../js/main.js:195 ../js/main.js:593 ../js/main.js:597 ../js/main.js:1240
+#: ../js/main.js:2321 ../js/main.js:2330 ../js/main.js:2687 ../js/main.js:3789
+msgid "Close"
+msgstr "Закрити"
+
+#: ../js/main.js:195 ../js/main.js:1945 ../js/modals.js:316
+#, fuzzy
+msgid "Ok"
+msgstr ""
+"OK для підтвердження нового режиму. <br> EXIT, щоб повернутися попереднього "
+"режиму. <br> <br> Повернення до попереднього режиму через 15 секунд."
+
+#: ../js/main.js:197 ../js/main.js:4866 ../js/modals.js:61 ../js/modals.js:149
+#: ../js/modals.js:231
+msgid "Refresh"
+msgstr "Оновити"
+
+#: ../js/main.js:593 ../js/main.js:597 ../js/main.js:904 ../js/main.js:992
+#: ../js/main.js:1221 ../js/main.js:1240 ../js/main.js:1656 ../js/main.js:1714
+#: ../js/main.js:1804 ../js/main.js:2321 ../js/main.js:2330 ../js/main.js:2687
+#: ../js/main.js:3323 ../js/main.js:3459 ../js/main.js:3631 ../js/main.js:3633
+#: ../js/main.js:3736 ../js/main.js:4280 ../js/main.js:4325 ../js/main.js:4339
+#: ../js/main.js:4473
+msgid "Notice"
+msgstr "Повідомлення"
+
+#: ../js/main.js:593 ../js/main.js:2321
+msgid ""
+"During file playback, video output frame rate will be automatically "
+"adjusted<br/>according to played content.<br />Notes:<br />- works only with "
+"HDMI 720p/1080i/1080p video modes<br />- make sure your TV supports required "
+"video mode"
+msgstr ""
+"Частота кадрів відеовиходу буде автоматично підлаштована<br/>під програваний "
+"контент під час відтворення.<br />Зауваження:<br />- працює лише в HDMI "
+"720p/1080i/1080p режимах відео.<br />- Переконайтеся, що ваш телевізор "
+"підтримує необхідний режим."
+
+#: ../js/main.js:597
+#, fuzzy
+msgid ""
+"<span style=\"color: red\">With option enabled in DVI mode<br/>HDMI audio "
+"will be missing</span>"
+msgstr ""
+"<span style=\"color: red\">Прі виборі режиму DVI звук по HDMI-кабелю "
+"передаватися не буде</span>"
+
+#: ../js/main.js:665 ../js/main.js:725 ../js/main.js:4639
+msgid "Network"
+msgstr "Мережа"
+
+#: ../js/main.js:666 ../js/main.js:3252 ../js/main.js:4640
+msgid "Servers"
+msgstr "Сервери"
+
+#: ../js/main.js:667 ../js/main.js:2068 ../js/main.js:4641
+msgid "Video"
+msgstr "Відео"
+
+#: ../js/main.js:668 ../js/main.js:3805 ../js/main.js:4642
+msgid "Audio"
+msgstr "Аудіо"
+
+#: ../js/main.js:669 ../js/main.js:2405 ../js/main.js:2408 ../js/main.js:4643
+msgid "Advanced settings"
+msgstr "Розширені налаштування"
+
+#: ../js/main.js:670 ../js/main.js:4025 ../js/main.js:4644
+msgid "Keyboard layout"
+msgstr "Розкладка клавіатури"
+
+#: ../js/main.js:671 ../js/main.js:831 ../js/main.js:1056 ../js/main.js:1271
+#: ../js/main.js:2719 ../js/main.js:4645 ../js/main.js:4858 ../js/modals.js:59
+#: ../js/modals.js:147 ../js/modals.js:229
+msgid "Network info"
+msgstr "Стан мережі"
+
+#: ../js/main.js:672 ../js/main.js:4150 ../js/main.js:4646
+msgid "Device info"
+msgstr "Інформація про пристрій"
+
+#: ../js/main.js:673 ../js/main.js:4647
+msgid "Restart portal"
+msgstr "Перезапуск порталу"
+
+#: ../js/main.js:674 ../js/main.js:4648
+msgid "Reboot device"
+msgstr "Перезавантаження пристрою"
+
+#: ../js/main.js:675 ../js/main.js:4649
+msgid "Reset settings"
+msgstr "Cкидання налаштувань"
+
+#: ../js/main.js:676 ../js/main.js:4650
+msgid "Clear user data"
+msgstr "Очистити дані користувача"
+
+#: ../js/main.js:677 ../js/main.js:2966 ../js/main.js:3130 ../js/main.js:3202
+#: ../js/main.js:4651
+msgid "Software update"
+msgstr "Оновлення ПЗ"
+
+#: ../js/main.js:680 ../js/main.js:4222 ../js/main.js:4654
+msgid "Remote control"
+msgstr "Дистанційне керування"
+
+#: ../js/main.js:703
+msgid "System settings"
+msgstr "Cистемні налаштування"
+
+#: ../js/main.js:742 ../js/main.js:748 ../js/main.js:788 ../js/main.js:2739
+#: ../js/main.js:2745 ../js/main.js:2778
+msgid "Wired (Ethernet)"
+msgstr "Провідне (Ethernet)"
+
+#: ../js/main.js:743 ../js/main.js:750 ../js/main.js:1248 ../js/main.js:2740
+#: ../js/main.js:2747 ../js/main.js:2877
+msgid "Wireless (Wi-Fi)"
+msgstr "Безпровідне (Wi-Fi)"
+
+#: ../js/main.js:749 ../js/main.js:1038 ../js/main.js:2746 ../js/main.js:2834
+msgid "PPPoE"
+msgstr "PPPoE"
+
+#: ../js/main.js:757
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+#: ../js/main.js:809 ../js/main.js:816 ../js/main.js:1045 ../js/main.js:1099
+#: ../js/main.js:1259 ../js/main.js:1313
+msgid "Auto (DHCP)"
+msgstr "Авто (DHCP)"
+
+#: ../js/main.js:810 ../js/main.js:817 ../js/main.js:870 ../js/main.js:1046
+#: ../js/main.js:1181 ../js/main.js:1260 ../js/main.js:1680
+msgid "Auto (DHCP), manual DNS"
+msgstr "Авто (DHCP), DNS вручну"
+
+#: ../js/main.js:811 ../js/main.js:818 ../js/main.js:924 ../js/main.js:1261
+#: ../js/main.js:1736
+msgid "Manual"
+msgstr "Вручну"
+
+#: ../js/main.js:819
+msgid "No IP"
+msgstr "Без IP"
+
+#: ../js/main.js:840 ../js/main.js:1007
+msgid "Confirm changes?"
+msgstr "Застосувати зміни?"
+
+#: ../js/main.js:904 ../js/main.js:992 ../js/main.js:1221 ../js/main.js:1656
+#: ../js/main.js:1714 ../js/main.js:1804 ../js/main.js:2687 ../js/main.js:3323
+#: ../js/main.js:3459 ../js/main.js:3633 ../js/main.js:3736 ../js/main.js:4280
+#: ../js/main.js:4325 ../js/main.js:4339 ../js/main.js:4473
+msgid "Following fields filled in incorrectly:"
+msgstr "Наступні поля заповнені неправильно:"
+
+#: ../js/main.js:935 ../js/main.js:963 ../js/main.js:1747 ../js/main.js:1772
+#: ../js/main.js:2810 ../js/main.js:2853 ../js/main.js:2901 ../js/modals.js:42
+#: ../js/modals.js:134 ../js/modals.js:216
+msgid "IP address:"
+msgstr "IP-адреса:"
+
+#: ../js/main.js:936 ../js/main.js:971 ../js/main.js:1748 ../js/main.js:1780
+#: ../js/main.js:2811 ../js/modals.js:46
+msgid "Network mask:"
+msgstr "Мережева маска:"
+
+#: ../js/main.js:937 ../js/main.js:979 ../js/main.js:1749 ../js/main.js:1788
+#: ../js/main.js:2812 ../js/main.js:2854 ../js/main.js:2902 ../js/modals.js:50
+#: ../js/modals.js:138 ../js/modals.js:220
+msgid "Gateway:"
+msgstr "Шлюз:"
+
+#: ../js/main.js:938 ../js/main.js:987 ../js/main.js:2813 ../js/main.js:2855
+#: ../js/main.js:2903 ../js/modals.js:54 ../js/modals.js:142
+#: ../js/modals.js:224
+msgid "DNS server:"
+msgstr "DNS сервер:"
+
+#: ../js/main.js:1074 ../js/main.js:1146
+msgid "PPPoE:"
+msgstr "PPPoE:"
+
+#: ../js/main.js:1087 ../js/main.js:1168
+msgid "Login:"
+msgstr "Ім'я:"
+
+#: ../js/main.js:1088 ../js/main.js:1169 ../js/modals.js:273
+msgid "Password:"
+msgstr "Пароль:"
+
+#: ../js/main.js:1170
+msgid "DNS:"
+msgstr "DNS:"
+
+#: ../js/main.js:1240
+msgid "Wi-Fi adapter not connected"
+msgstr "Wi-Fi адаптер не підключений"
+
+#: ../js/main.js:1329 ../js/main.js:1337 ../js/main.js:1370
+msgid "Enable WiFi"
+msgstr "Увімкнути WiFi"
+
+#: ../js/main.js:1329 ../js/main.js:1337 ../js/main.js:1370
+msgid "Disable WiFi"
+msgstr "Вимкнути WiFi"
+
+#: ../js/main.js:1390 ../js/main.js:1469
+msgid "Open"
+msgstr "Відкрита"
+
+#: ../js/main.js:1391 ../js/main.js:1470
+msgid "Shared key"
+msgstr "Загальний ключ"
+
+#: ../js/main.js:1392 ../js/main.js:1471
+msgid "Auto Open/Shared key"
+msgstr "Відкрита мережа/Загальний ключ"
+
+#: ../js/main.js:1397 ../js/main.js:1476
+msgid "NONE"
+msgstr "Вимкнений"
+
+#: ../js/main.js:1418 ../js/main.js:1528 ../js/main.js:4906
+msgid "Authentication mode:"
+msgstr "Режим автентифікації:"
+
+#: ../js/main.js:1419 ../js/main.js:1529 ../js/main.js:4907
+msgid "Encryption:"
+msgstr "Шифрування:"
+
+#: ../js/main.js:1420 ../js/main.js:1530 ../js/main.js:1584 ../js/main.js:1615
+#: ../js/main.js:1627 ../js/main.js:1631 ../js/main.js:1638 ../js/main.js:1649
+msgid "Key or passphrase:"
+msgstr "Пароль:"
+
+#: ../js/main.js:1421 ../js/main.js:1531
+msgid "Keys and encoding setup"
+msgstr "Введення ключів доступу"
+
+#: ../js/main.js:1831
+msgid "Scan devices"
+msgstr "Сканувати пристрої"
+
+#: ../js/main.js:1835 ../js/main.js:1915 ../js/main.js:1931 ../js/main.js:1997
+msgid "Enable Bluetooth"
+msgstr "Ввімкнути Bluetooth"
+
+#: ../js/main.js:1857 ../js/main.js:1931
+msgid "Disable Bluetooth"
+msgstr "Вимкнути Bluetooth"
+
+#: ../js/main.js:1861 ../js/main.js:1873 ../js/main.js:1929
+msgid "Search for devices"
+msgstr "Пошук пристроїв"
+
+#: ../js/main.js:1867
+msgid "Searching ..."
+msgstr "Пошук пристроїв ..."
+
+#: ../js/main.js:1881
+msgid "Scanning devices failed"
+msgstr "Сканування пристроїв не вдалося"
+
+#: ../js/main.js:1942
+msgid "Bluetooth pairing request"
+msgstr "Запит Bluetooth парування"
+
+#: ../js/main.js:1944
+msgid ""
+"Note: After you type this code, you might need to press Enter, OK, or a "
+"similar button on your device"
+msgstr ""
+"Примітка: Після введення цього коду, можливо, буде потрібно натиснути Enter, "
+"OK, або аналогічну кнопку на пристрої"
+
+#: ../js/main.js:1943
+msgid "Enter the code on your device: "
+msgstr "Введіть вказаний код  на пристрої:"
+
+#: ../js/main.js:1955
+msgid "Bluetooth authentication failed"
+msgstr "Аутентифікація Bluetooth зірвалася"
+
+#: ../js/main.js:1970
+msgid "Bluetooth device connected"
+msgstr "Пристрій Bluetooth підключено"
+
+#: ../js/main.js:1974
+msgid "Bluetooth device disconnected"
+msgstr "Пристрій Bluetooth відключений"
+
+#: ../js/main.js:2007
+msgid "Connection"
+msgstr "Підключення"
+
+#: ../js/main.js:2008
+msgid "Device "
+msgstr "Пристрій "
+
+#: ../js/main.js:2008
+#, fuzzy
+msgid "will be paired"
+msgstr "буде забутий"
+
+#: ../js/main.js:2011
+msgid "Connect"
+msgstr "Підключити"
+
+#: ../js/main.js:2018 ../js/main.js:2027
+msgid "Connection failed"
+msgstr "Підключення не вдалося"
+
+#: ../js/main.js:2019
+msgid "This device type is not supported"
+msgstr "Цей тип пристрою не підтримується"
+
+#: ../js/main.js:2020 ../js/main.js:2029
+msgid "close"
+msgstr "закрити"
+
+#: ../js/main.js:2028
+msgid "Connection to"
+msgstr ""
+
+#: ../js/main.js:2028
+msgid "failed"
+msgstr ""
+
+#: ../js/main.js:2045
+#, fuzzy
+msgid "Device"
+msgstr "Пристрій "
+
+#: ../js/main.js:2045
+msgid "will be unpaired"
+msgstr "буде забутий"
+
+#: ../js/main.js:2048
+msgid "Forget"
+msgstr "Забути"
+
+#: ../js/main.js:2091 ../js/main.js:2102
+msgid "Video output mode:"
+msgstr "Режим відеовиходу:"
+
+#: ../js/main.js:2099
+msgid "Graphic resolution:"
+msgstr "Графічне розширення:"
+
+#: ../js/main.js:2166
+msgid ""
+"OK to confirm the new mode. <br> EXIT to return to the previous mode. <br> "
+"<br> Return to the previous mode after 15 seconds."
+msgstr ""
+"OK для підтвердження нового режиму. <br> EXIT, щоб повернутися попереднього "
+"режиму. <br> <br> Повернення до попереднього режиму через 15 секунд."
+
+#: ../js/main.js:2210 ../js/main.js:2247
+#, fuzzy
+msgid ""
+"OK to confirm the new mode. <br> Confirmation will reboot the device. <br> "
+"EXIT to cancel."
+msgstr ""
+"OK для підтвердження нового режиму. <br> Підтвердження призводить до "
+"перезавантаження пристрою <br> EXIT для скасування."
+
+#: ../js/main.js:2313
+msgid "Auto frame rate:"
+msgstr "Автопідлаштування частоти кадрів:"
+
+#: ../js/main.js:2314 ../js/main.js:2485 ../js/main.js:2496 ../js/main.js:2841
+#: ../js/modals.js:121 ../js/modals.js:162
+msgid "Disabled"
+msgstr "Вiдключено"
+
+#: ../js/main.js:2325
+msgid "HDMI/DVI:"
+msgstr "HDMI/DVI:"
+
+#: ../js/main.js:2326
+msgid "HDMI"
+msgstr "HDMI"
+
+#: ../js/main.js:2327
+msgid "DVI"
+msgstr "DVI"
+
+#: ../js/main.js:2330
+#, fuzzy
+msgid ""
+"<span style='color: red'>With option enabled in DVI mode<br/>HDMI audio will "
+"be missing</span>"
+msgstr ""
+"<span style=\"color: red\">Прі виборі режиму DVI звук по HDMI-кабелю "
+"передаватися не буде</span>"
+
+#: ../js/main.js:2473
+msgid "Language:"
+msgstr "Мова:"
+
+#: ../js/main.js:2483
+msgid "Time zone:"
+msgstr "Часова зона:"
+
+#: ../js/main.js:2484
+msgid "UPnP client enabled:"
+msgstr "Запускати UPnP клієнт:"
+
+#: ../js/main.js:2487
+msgid "Wireless"
+msgstr "Безпровідна мережа"
+
+#: ../js/main.js:2489
+msgid "Buffer size (ms):"
+msgstr "Розмір буфера (мс):"
+
+#: ../js/main.js:2495
+msgid "HDMI-CEC:"
+msgstr ""
+
+#: ../js/main.js:2497
+#, fuzzy
+msgid "Enabled"
+msgstr "Увімкнено"
+
+#: ../js/main.js:2498
+#, fuzzy
+msgid "Enable once"
+msgstr "Увімкнути одноразово"
+
+#: ../js/main.js:2623
+msgid "Storages access mode:"
+msgstr "Режим доступу до накопичувачів:"
+
+#: ../js/main.js:2624
+msgid "full access"
+msgstr "повний доступ"
+
+#: ../js/main.js:2625
+msgid "read only"
+msgstr "тільки читання"
+
+#: ../js/main.js:2628
+msgid "This change will take effect after reboot"
+msgstr "Ця зміна набуде чинності після перезавантаження"
+
+#: ../js/main.js:2632
+msgid "IGMP version:"
+msgstr "Версія IGMP:"
+
+#: ../js/main.js:2636
+msgid "Multicast proxy enabled:"
+msgstr "Використовувати multicast proxy:"
+
+#: ../js/main.js:2645 ../js/main.js:2682
+msgid "Multicast proxy URL:"
+msgstr "Адреса multicast proxy:"
+
+#: ../js/main.js:2795 ../js/modals.js:23 ../js/modals.js:81
+msgid "Manual DNS"
+msgstr "Змінити DNS"
+
+#: ../js/main.js:2798 ../js/main.js:2888 ../js/modals.js:19 ../js/modals.js:77
+#: ../js/modals.js:197 ../js/modals.js:243
+msgid "Static IP"
+msgstr "Статичний IP"
+
+#: ../js/main.js:2801 ../js/modals.js:16 ../js/modals.js:74
+msgid "No config"
+msgstr "Без налаштувань"
+
+#: ../js/main.js:2805 ../js/main.js:2849 ../js/main.js:2896
+msgid "Current configuration"
+msgstr "Поточні налаштування"
+
+#: ../js/main.js:2807 ../js/main.js:2851 ../js/main.js:2898
+msgid "Current status"
+msgstr "Поточний стан"
+
+#: ../js/main.js:2808 ../js/main.js:2852 ../js/main.js:2899 ../js/modals.js:34
+#: ../js/modals.js:130 ../js/modals.js:208
+msgid "Link status:"
+msgstr "Стан лінка:"
+
+#: ../js/main.js:2809 ../js/main.js:2900 ../js/main.js:4164 ../js/modals.js:38
+#: ../js/modals.js:212
+msgid "MAC address:"
+msgstr "MAC-адреса:"
+
+#: ../js/main.js:2911
+msgid "Restart portal?"
+msgstr "Перезапустити портал?"
+
+#: ../js/main.js:2935
+msgid "Reset settings?"
+msgstr "Скинути налаштування?"
+
+#: ../js/main.js:2951 ../js/main.js:3209
+msgid "HTTP"
+msgstr "HTTP"
+
+#: ../js/main.js:2952 ../js/main.js:3210
+msgid "USB"
+msgstr "USB"
+
+#: ../js/main.js:2955 ../js/main.js:3213
+msgid "Multicast"
+msgstr "Multicast"
+
+#: ../js/main.js:2958 ../js/main.js:3216
+msgid "TFTP"
+msgstr "TFTP"
+
+#: ../js/main.js:2973 ../js/main.js:3204
+msgid "Update method:"
+msgstr "Метод оновлення:"
+
+#: ../js/main.js:3022 ../js/main.js:3205
+msgid "Disk:"
+msgstr "Диск:"
+
+#: ../js/main.js:3029 ../js/main.js:3050 ../js/main.js:3222
+msgid "No disk found"
+msgstr "Диск не знайдено"
+
+#: ../js/main.js:3033 ../js/main.js:3206
+msgid "Path:"
+msgstr "Шлях:"
+
+#: ../js/main.js:3141
+msgid "Incorrect URL"
+msgstr "Неправильний URL"
+
+#: ../js/main.js:3152
+msgid "USB device not found!"
+msgstr "USB-пристрій не знайдено!"
+
+#: ../js/main.js:3162 ../js/main.js:3176 ../js/main.js:3789
+msgid "Warning"
+msgstr "Попередження"
+
+#: ../js/main.js:3162 ../js/main.js:3176
+msgid ""
+"<span class=\"alert\">Warning!</span> The device will be rebooted and "
+"updated automatically."
+msgstr ""
+"<span class='alert'>Увага!</span> Після завершення оновлення пристрій буде "
+"перезавантажений"
+
+#: ../js/main.js:3164 ../js/main.js:3178
+msgid "Update"
+msgstr "Оновити"
+
+#: ../js/main.js:3166 ../js/main.js:3180
+msgid "Starting update..."
+msgstr "Оновлення ПЗ"
+
+#: ../js/main.js:3168 ../js/main.js:3182
+msgid "Some error occurred. Please, contact your operator."
+msgstr "Виникла помилка. Будь ласка зв'яжiться зi своiм оператором."
+
+#: ../js/main.js:3193
+msgid "Verify"
+msgstr "Перевірити"
+
+#: ../js/main.js:3265 ../js/main.js:3295
+msgid "General"
+msgstr "Загальні"
+
+#: ../js/main.js:3266 ../js/main.js:3374
+msgid "Portals"
+msgstr "Портали"
+
+#: ../js/main.js:3302 ../js/main.js:3318
+msgid "NTP server:"
+msgstr "NTP-сервер:"
+
+#: ../js/main.js:3401
+msgid "Portal 1 name"
+msgstr "Портал 1 ім'я"
+
+#: ../js/main.js:3402 ../js/main.js:3438
+msgid "Portal 1 URL"
+msgstr "Портал 1 URL"
+
+#: ../js/main.js:3403
+msgid "Portal 2 name"
+msgstr "Портал 2 ім'я"
+
+#: ../js/main.js:3404 ../js/main.js:3455
+msgid "Portal 2 URL"
+msgstr "Портал 2 URL"
+
+#: ../js/main.js:3523 ../js/main.js:3524 ../js/main.js:3525 ../js/main.js:3526
+msgid "sec."
+msgstr "сек."
+
+#: ../js/main.js:3527 ../js/main.js:3528
+msgid "min."
+msgstr "хв."
+
+#: ../js/main.js:3529
+msgid "Without auto start"
+msgstr "Без автозавантаження"
+
+#: ../js/main.js:3532
+msgid "Multiportal mode:"
+msgstr "Режим мультипортальності:"
+
+#: ../js/main.js:3533
+msgid "Default portal:"
+msgstr "Портал за замовчанням:"
+
+#: ../js/main.js:3534
+msgid "Portal load delay:"
+msgstr "Затримка завантаження порталу:"
+
+#: ../js/main.js:3535 ../js/main.js:4730 ../js/main.js:4734 ../js/main.js:4763
+#: ../js/main.js:4767
+msgid "Portal:"
+msgstr "Портал:"
+
+#: ../js/main.js:3536 ../js/main.js:3762
+msgid "Use portal"
+msgstr "Використати портал"
+
+#: ../js/main.js:3537 ../js/main.js:3763
+msgid "Name"
+msgstr "Ім'я"
+
+#: ../js/main.js:3538 ../js/main.js:3764
+msgid "URL"
+msgstr "URL"
+
+#: ../js/main.js:3626
+msgid "Not all required fields are filled."
+msgstr "Заповнені не всі поля."
+
+#: ../js/main.js:3670
+msgid "Use DHCP portal:"
+msgstr "Використати DHCP-портал:"
+
+#: ../js/main.js:3679 ../js/main.js:3707
+msgid "DHCP portal:"
+msgstr "DHCP-портал:"
+
+#: ../js/main.js:3680 ../js/main.js:3715
+msgid "Bootstrap URL:"
+msgstr "Bootstrap URL:"
+
+#: ../js/main.js:3681 ../js/main.js:3723
+msgid "Update URL:"
+msgstr "URL-образу:"
+
+#: ../js/main.js:3682 ../js/main.js:3731
+msgid "Control channel URL:"
+msgstr "Канал керування (URL):"
+
+#: ../js/main.js:3789
+msgid ""
+"For correct work of \"Multiportal mode\" it is necessary to turn off \"Use "
+"DHCP portal\" (System settings/Servers/More)"
+msgstr ""
+"Для коректного використання режиму мультипортальності необхідно відключити "
+"\"використовувати DHCP портал \" (Системні налаштування / Сервери / "
+"Додатково)"
+
+#: ../js/main.js:3820
+msgid "Initial volume:"
+msgstr "Початкова гучність:"
+
+#: ../js/main.js:3821
+msgid "Audio output mode:"
+msgstr "Режим виведення звуку:"
+
+#: ../js/main.js:3822
+msgid "Stereo"
+msgstr "Стерео"
+
+#: ../js/main.js:3823
+msgid "Mono"
+msgstr "Моно"
+
+#: ../js/main.js:3824
+msgid "Mono Left"
+msgstr "Моно лівий"
+
+#: ../js/main.js:3825
+msgid "Mono Right"
+msgstr "Моно правий"
+
+#: ../js/main.js:3907
+msgid "Operating mode:"
+msgstr "Operating mode:"
+
+#: ../js/main.js:3913
+msgid "SPDIF Mode:"
+msgstr "Режим SPDIF:"
+
+#: ../js/main.js:3917
+msgid "HDMI Audio:"
+msgstr "HDMI-аудіо:"
+
+#: ../js/main.js:4007
+msgid "Russian"
+msgstr "Російська"
+
+#: ../js/main.js:4008
+msgid "Ukrainian"
+msgstr "Українська"
+
+#: ../js/main.js:4009
+msgid "English"
+msgstr "Англійська"
+
+#: ../js/main.js:4010
+msgid "German"
+msgstr "Нiмецька"
+
+#: ../js/main.js:4011
+#, fuzzy
+msgid "Turkish"
+msgstr "Турецька"
+
+#: ../js/main.js:4012
+msgid "Arabic"
+msgstr ""
+
+#: ../js/main.js:4013
+#, fuzzy
+msgid "Bulgarian"
+msgstr "Болгарська"
+
+#: ../js/main.js:4014
+#, fuzzy
+msgid "Greek"
+msgstr "Грецька"
+
+#: ../js/main.js:4015
+#, fuzzy
+msgid "Spanish"
+msgstr "Іспанська"
+
+#: ../js/main.js:4105
+msgid ""
+"None of the proposed layouts selected.<br>Layouts will be selected according "
+"to the location."
+msgstr ""
+"Не обрана жодна із запропонованих розкладок. <br> Розкладка буде обрана "
+"згідно локалізації."
+
+#: ../js/main.js:4136
+#, fuzzy
+msgid "emergency mode"
+msgstr "режим захисту від збоїв"
+
+#: ../js/main.js:4162
+msgid "Model:"
+msgstr "Модель:"
+
+#: ../js/main.js:4163
+msgid "Serial number:"
+msgstr "Серійний номер:"
+
+#: ../js/main.js:4165
+msgid "Vendor:"
+msgstr "Виробник:"
+
+#: ../js/main.js:4166
+msgid "Hardware version:"
+msgstr "Версія апаратури:"
+
+#: ../js/main.js:4167
+msgid "Active bank:"
+msgstr "Активний банк:"
+
+#: ../js/main.js:4168
+msgid "Image version:"
+msgstr "Версія образу:"
+
+#: ../js/main.js:4169
+msgid "Image description:"
+msgstr "Опис образу:"
+
+#: ../js/main.js:4170
+#, fuzzy
+msgid "Image date:"
+msgstr "Дата образу:"
+
+#: ../js/main.js:4171
+msgid "RootFS version:"
+msgstr "Версія RootFS:"
+
+#: ../js/main.js:4172
+msgid "JS API version:"
+msgstr ""
+
+#: ../js/main.js:4180
+msgid "Device is going to reboot. Are you sure?"
+msgstr "Перезавантажити пристрій?"
+
+#: ../js/main.js:4193
+msgid ""
+"<span style=\"color: red\">User data will be lost!</span><br>We strongly "
+"recommend read Menu Guide.<br>Do you want to do it?"
+msgstr ""
+"<span style=\"color: red\">Дані користувача будуть безповоротно видалені!</"
+"span> <br>Наполегливо рекомендуємо ознайомитися з Довiдкою з меню."
+"<br>Видалити призначені для користувача дані?"
+
+#: ../js/main.js:4232
+msgid "Use remote control:"
+msgstr "Використати дистанційне керування:"
+
+#: ../js/main.js:4245
+msgid "Device name:"
+msgstr "Ім'я пристрою:"
+
+#: ../js/main.js:4246
+msgid "Password (numbers only):"
+msgstr "Пароль (тільки цифри):"
+
+#: ../js/main.js:4266
+msgid "Device name"
+msgstr "Інформація про пристрій"
+
+#: ../js/main.js:4272
+msgid "Password"
+msgstr "Пароль:"
+
+#: ../js/main.js:4303 ../js/main.js:4325 ../js/main.js:4339
+msgid "Passphrase:"
+msgstr "Кодова фраза:"
+
+#: ../js/main.js:4304
+msgid "Generate WEP 64 keys"
+msgstr "Генерація ключів 64 біт"
+
+#: ../js/main.js:4305
+msgid "Generate WEP 128 keys"
+msgstr "Генерація ключів 128 біт"
+
+#: ../js/main.js:4306 ../js/main.js:4353
+msgid "Default key"
+msgstr "Ключ за замовчанням"
+
+#: ../js/main.js:4307 ../js/main.js:4308 ../js/main.js:4309 ../js/main.js:4310
+#: ../js/main.js:4367 ../js/main.js:4375 ../js/main.js:4379 ../js/main.js:4393
+#: ../js/main.js:4401 ../js/main.js:4406 ../js/main.js:4410 ../js/main.js:4423
+#: ../js/main.js:4431 ../js/main.js:4435 ../js/main.js:4440 ../js/main.js:4453
+#: ../js/main.js:4461 ../js/main.js:4465 ../js/main.js:4469
+msgid "Key"
+msgstr "Ключ"
+
+#: ../js/main.js:4307 ../js/main.js:4308 ../js/main.js:4309 ../js/main.js:4310
+msgid "symbols"
+msgstr "символів"
+
+#: ../js/main.js:4701
+msgid "Successfully saved"
+msgstr "Успішно збережено"
+
+#: ../js/main.js:4707
+msgid "Same as video"
+msgstr "Відпов. відеовиходу"
+
+#: ../js/main.js:4722 ../js/main.js:4747
+msgid "Embedded portal"
+msgstr "Вбудований портал"
+
+#: ../js/main.js:4895
+msgid "Networks:"
+msgstr "Мережи:"
+
+#: ../js/main.js:4905
+msgid "SSID:"
+msgstr "SSID:"
+
+#: ../js/main.js:4908
+msgid "Frequency:"
+msgstr "Частота:"
+
+#: ../js/main.js:4909
+msgid "Channel:"
+msgstr "Канал:"
+
+#: ../js/main.js:4910
+msgid "Signal info:"
+msgstr "Iнформація сигналу"
+
+#: ../js/main.js:4942
+msgid "Detailed info on selected network"
+msgstr "Детальна інформація вибраної мережі"
+
+#: ../js/main.js:4963
+msgid "Devices:"
+msgstr "Прилади:"
+
+#: ../js/main.js:4973
+#, fuzzy
+msgid "Name:"
+msgstr "Ім'я"
+
+#: ../js/main.js:4974
+msgid "Address:"
+msgstr "Адреса:"
+
+#: ../js/main.js:4975
+msgid "Vendor Id:"
+msgstr ""
+
+#: ../js/main.js:4976
+msgid "Product Id:"
+msgstr ""
+
+#: ../js/main.js:4977
+msgid "Type:"
+msgstr "Тип:"
+
+#: ../js/main.js:4978
+msgid "Paired:"
+msgstr "З'єднаний:"
+
+#: ../js/main.js:4979
+#, fuzzy
+msgid "Active:"
+msgstr "Активний банк:"
+
+#: ../js/main.js:5009
+msgid "Detailed info on selected device"
+msgstr "Детальна інформація про вибраному пристрою"
+
+#: ../js/main.js:5017 ../js/main.js:5018
+msgid "No"
+msgstr "Ні"
+
+#: ../js/modals.js:30 ../js/modals.js:126 ../js/modals.js:204
+msgid "Current configuration:"
+msgstr "Поточні налаштування:"
+
+#: ../js/modals.js:289
+#, fuzzy
+msgid "Enter password"
+msgstr "Введіть пароль"
+
+#: ../js/modals.js:321
+#, fuzzy
+msgid "Wrong password!"
+msgstr "Неправильний пароль!"
+
+#~ msgid "Enable"
+#~ msgstr "Ввімкнути"
+
+#, fuzzy
+#~ msgid "Connection to "
+#~ msgstr "Підключення"
+
+#~ msgid "Dynamic range compression:"
+#~ msgstr "Стиснення динамічного діапазону:"
+
+#~ msgid "Max"
+#~ msgstr "Макс."
+
+#~ msgid "Powered:"
+#~ msgstr "Працює:"
+
+#, fuzzy
+#~ msgid "Auto"
+#~ msgstr "Авто"
+
+#~ msgid "Not connected "
+#~ msgstr "Не підключена"

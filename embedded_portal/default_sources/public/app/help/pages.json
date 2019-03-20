@@ -1,0 +1,95 @@
+[
+	{
+		"key": "common",
+		"title": "Общие вопросы по использованию медиаплеера",
+		"annotation": "Общие вопросы по использованию медиаплеера",
+		"data": [
+			{
+				"title": "Терминология",
+				"key": "termins",
+				"annotation": "Терминология"
+			},
+			{
+				"title": "Возможности медиаплеера AuraHD",
+				"key": "abilities",
+				"annotation": "Возможности медиаплеера AuraHD"
+			},
+			{
+				"title": "Способы ввода",
+				"key": "stdin",
+				"annotation": "Способы ввода"
+			},
+			{
+				"title": "Как использовать сервисное меню",
+				"key": "service",
+				"annotation": "Как использовать сервисное меню"
+			},
+			{
+				"title": "Работа с медиаплеером",
+				"key": "mediaplayer",
+				"annotation": "Работа с медиаплеером"
+			},
+			{
+				"title": "Системные настройки",
+				"key": "systemsettings",
+				"annotation": "Системные настройки"
+			}
+		]
+	},
+	{
+		"key": "menu",
+		"title": "Меню медиаплеера, описание сервисов",
+		"annotation": "Меню медиаплеера, описание сервисов",
+		"data": [
+			{
+				"title": "Главное меню",
+				"key": "main_menu",
+				"annotation": "Главное меню"
+			},
+			{
+				"title": "Online Media",
+				"key": "online_media",
+				"annotation": "Online Media"
+			},
+			{
+				"title": "Home Media",
+				"key": "home_media",
+				"annotation": "Home Media",
+				"data": [
+					{
+						"title": "Архитектура раздела и навигация",
+						"key": "architecture",
+						"annotation": "Архитектура раздела и навигация"
+					},
+					{
+						"title": "Подключение сетевых папок",
+						"key": "remote_folders",
+						"annotation": "Подключение сетевых папок"
+					}
+				]
+			},
+			{
+				"title": "IPTV каналы",
+				"key": "iptv_channels",
+				"annotation": "IPTV каналы",
+				"data": [
+					{
+						"title": "Краткое описание раздела и навигация",
+						"key": "navigation",
+						"annotation": "Краткое описание раздела и навигация"
+					},
+					{
+						"title": "Формирование групп каналов и операции с ними",
+						"key": "groups",
+						"annotation": "Формирование групп каналов и операции с ними"
+					}
+				]
+			},
+			{
+				"title": "Интернет-браузер",
+				"key": "internet_browser",
+				"annotation": "Интернет-браузер"
+			}
+		]
+	}
+]

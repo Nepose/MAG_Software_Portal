@@ -1,0 +1,138 @@
+<!doctype html>
+<html>
+<head>
+	<title>Internet Bookmarks Manager</title>
+	<meta charset='utf-8'>
+	<link rel="shortcut icon" href="../../img/1280/media/type_5.png"/>
+
+	<style type="text/css">
+		html, body { overflow:hidden; background:transparent; color:#fff; margin:0; padding:0; -webkit-user-select:none; font-family:Ubuntu,sans-serif; }
+
+		/* table cell spacing/padding reset */
+		table { border:0; border-collapse:collapse }
+		table td { padding:0 }
+
+		/* meta-classes */
+		.maxh { height:100% }
+		.maxw { width:100% }
+		a { text-decoration:none }
+		tr.content.article div.content a { color:#ffc20e; pointer-events:none; cursor:default; }
+
+		/* scroll bars */
+		::-webkit-scrollbar-track { background:#2a2c2f }
+		::-webkit-scrollbar-thumb { background:#ffc20e }
+
+		.highlighted { background:#ffc20e; color:blue }
+	</style>
+
+	<script>
+		var PATH_BASE = '../../../';
+	</script>
+
+	<script type="text/javascript" src="../../../system/init.js"></script>
+
+	<script type="text/javascript">
+		(function () {
+			var time = (new Date).getTime();
+			// conditional css loading
+			document.write('<link rel="stylesheet" href="../../../system/' + WINDOW_HEIGHT + '.css?_=' + time + '">');
+			document.write('<link rel="stylesheet" href="' + WINDOW_HEIGHT + '.css?_=' + time + '">');
+		})();
+	</script>
+
+	<script type="text/javascript" src="../../../system/config.js"></script>
+	<script type="text/javascript" src="../../../system/wm.js"></script>
+	<script type="text/javascript" src="../../../system/keys.js"></script>
+	<script type="text/javascript" src="../../../system/gettext.js"></script>
+	<script type="text/javascript" src="../../../system/tools.js"></script>
+	<script type="text/javascript" src="../../../system/cbase.js"></script>
+	<script type="text/javascript" src="../../../system/cpage.js"></script>
+	<script type="text/javascript" src="../../../system/cslist.js"></script>
+	<script type="text/javascript" src="../../../system/cgmenu.js"></script>
+	<script type="text/javascript" src="../../../system/cmodal.js"></script>
+	<script type="text/javascript" src="../../../system/cbpanel.js"></script>
+	<script type="text/javascript" src="../../../system/cbcrumb.js"></script>
+	<script type="text/javascript" src="../../../system/buffer.js"></script>
+	<script type="text/javascript" src="../../../system/cinput.js"></script>
+	<script type="text/javascript" src="../../../system/cwebinput.js"></script>
+	<script type="text/javascript" src="../../../system/ctreelist.js"></script>
+
+	<script type="text/javascript" src="../../config.js"></script>
+
+	<script type="text/javascript" src="../../portal/types.js"></script>
+	<script type="text/javascript" src="app.js"></script>
+	<script type="text/javascript" src="model.main.js"></script>
+	<script type="text/javascript" src="view.main.js"></script>
+	<script type="text/javascript" src="chlist.js"></script>
+</head>
+<body>
+	<div class="page main">
+		<div class="cgmenu-main list"></div>
+		<!-- main page body -->
+		<table class="body">
+			<!-- page body top panel -->
+			<tr class="header">
+				<td colspan="2" class="crop">
+					<table class="maxw list">
+						<tr>
+							<!-- Breadcrumb component -->
+							<td class="cbcrumb"></td>
+							<!-- Search bar component -->
+							<td class="csbar"></td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+
+			<!-- page body main content block -->
+			<tr class="content list" style="background-color:#010101">
+				<td colspan="3" class="crop">
+					<table class="maxw">
+						<tr>
+							<td class="main">
+								<!-- FileList component -->
+								<div class="cslist-main ctreelist-main"></div>
+							</td>
+							<td class="sbar">
+								<!-- SideBar component -->
+								<table class="maxh maxw">
+									<tr>
+										<td class="view">
+											<!-- main preview block -->
+										</td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+
+			<tr class="content article" style="background-color:#010101">
+				<td colspan="3" class="crop">
+					<table class="maxw">
+						<tr>
+							<td class="main">
+								<!-- FileList component -->
+								<div class="content"></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+
+			<!-- page body bottom panel -->
+			<tr class="footer">
+				<td class="crop exit">
+					<div class="cbpanel-main"></div>
+					<!--<div onclick="app.views.main.actions.exit()">Exit</div>-->
+				</td>
+				<td class="crop main" colspan="2">
+					<!-- control buttons block -->
+					<div class="cbpanel-main"></div>
+				</td>
+			</tr>
+		</table>
+	</div>
+</body>
+</html>

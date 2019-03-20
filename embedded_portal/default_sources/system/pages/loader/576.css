@@ -1,0 +1,69 @@
+/**
+ * 720x576
+ * Portals loading and 404 pages style
+ * author: B_A_S
+ */
+
+/* header */
+.page.main .body .header { background:none; height:100px }
+	.page.main .body .header .info { font-size:24px; }
+
+/* body */
+.page.main .body { background-image:url('../../img/720/loader/bg.png'); height:480px; width:720px; }
+	.page.main .body .container { vertical-align:top; padding-top:15px; }
+	.page.main .body .content { width:646px; }
+		.page.main .body .content td { vertical-align:top; }
+		.page.main .body .content .cslist-main { height:408px; margin-right:16px; }
+			.page.main .body .content .cslist-main div.icon { width:64px; height:64px; background:no-repeat center; float:left; }
+			.page.main .body .content .cslist-main .internet .icon { background-image:url('../../img/720/loader/net.png'); }
+			.page.main .body .content .cslist-main .home .icon { background-image:url('../../img/720/loader/home.png'); }
+			.page.main .body .content .cslist-main .local .icon { background-image:url('../../img/720/loader/local.png'); }
+			.page.main .body .content .cslist-main .settings .icon { background-image:url('../../img/720/loader/settings.png'); }
+			.page.main .body .content .cslist-main .refresh .icon { background-image:url('../../img/720/loader/refresh.png'); }
+
+/* 404 page */
+.page.main .header .info.page404 { color:red; }
+	.page.main .header .info.page404 > span { color:#646464; font-size:20px; display:block; }
+
+.page.main .body .content.page404 .cslist-main { width:400px; }
+.page.main .body .content.page404 .portalInfo { float:left; padding:5px 0; }
+	.page.main .body .content.page404 .cslist-main a { line-height:64px; height:64px; padding:0; width:380px; }
+	.page.main .body .content.page404 .cslist-main .url { width:306px; line-height:25px; font-size:20px; color:#646464; overflow:hidden; text-overflow:ellipsis; }
+	.page.main .body .content.page404 .cslist-main .text { width:306px; line-height:29px; font-size:24px; overflow:hidden; text-overflow:ellipsis; }
+	.page.main .body .content.page404 .cslist-main .text.single { line-height:58px; }
+
+/* 404 page service menu */
+.page.main .body .content .infoList { background:url('../../img/720/loader/bg_white_30.png') 50%; border-radius:6px; padding:5px 0; width:230px; height:280px; vertical-align:top; font-size:16px; line-height:24px; }
+	.page.main .body .content .infoList .infoBlock { padding:0 5px; }
+		.page.main .body .content .infoList .infoBlock .title { width:100%; height:26px; }
+		.page.main .body .content .infoList .infoBlock > hr { color:#646464; border-color:#646464; border-bottom:none; border-left:none; border-right:none; }
+		.page.main .body .content .infoList .infoBlock > div { color:#555; }
+			.page.main .body .content .infoList .infoBlock > .title > div { float:left; }
+			.page.main .body .content .infoList .infoBlock > .title > span { color:white; float:left; overflow:hidden; text-overflow:ellipsis; }
+			.page.main .body .content .infoList .infoBlock > div > span.devInf { overflow:hidden; text-overflow:ellipsis; width:135px; display:inline-block; white-space:nowrap; }
+			.page.main .body .content .infoList .infoBlock > div > span { color:white; padding-left:5px; }
+			.page.main .body .content .infoList .infoBlock > div > span.error { color:red; }
+			.page.main .body .content .infoList .infoBlock > div > div.ethernetIcon { background:url('../../img/720/loader/lan.png') no-repeat center; height:26px; width:26px; float:left; margin-right:5px; }
+			.page.main .body .content .infoList .infoBlock > div > div.wifiIcon { background:url('../../img/720/loader/wifi.png') no-repeat center; height:26px; width:26px; float:left; margin-right:5px; }
+			.page.main .body .content .infoList .infoBlock > div > div.internetIcon { background:url('../../img/720/loader/connect.png') no-repeat center; height:26px; width:26px; float:left; margin-right:5px; }
+
+/* loader */
+.page.main .body .content.loader .cslist-main { width:640px; margin-right:0; }
+.page.main .body .content.loader .portalInfo { float:left; }
+	.page.main .body .content.loader .cslist-main a { display:block; line-height:64px; height:64px; padding:0; width:620px; margin-left:0; text-decoration:none; color:white; cursor:pointer; white-space:nowrap; overflow:hidden; text-overflow:ellipsis }
+		.page.main .body .content.loader .cslist-main .portalInfo .url { width:270px; float:right; text-align:right; font-size:18px; color:#646464; overflow:hidden; text-overflow:ellipsis; }
+		.page.main .body .content.loader .cslist-main .portalInfo .text { width:275px; float:left; font-size:24px; overflow:hidden; text-overflow:ellipsis; }
+
+/* fast loader */
+.fastLoad { position:absolute; height:100%; width:100%; background-image:url('../../img/720/loader/bg2.jpg'); margin:0; color:#ccc; font-family:Ubuntu; display:none; }
+	.fastLoad .container { display:table; margin:250px auto; }
+		.fastLoad .container .box { display:table; margin:auto; }
+			.fastLoad .container .box .logo { height:30px; width:30px; float:left; background:url('../../img/720/loader/loading.png') no-repeat right; -webkit-animation-name:rotateThis; -webkit-animation-duration:1s; -webkit-animation-iteration-count:infinite; -webkit-animation-timing-function:linear; }
+			.fastLoad .container .box .title { height:30px; line-height: 30px; text-align:right; padding-left:45px; font-size:32px; }
+		.fastLoad .container .second { font-size:24px; color:#646464; padding:15px 55px 0 55px; text-align: center; }
+
+@-webkit-keyframes rotateThis {
+	from { -webkit-transform:rotate(0deg); }
+	to { -webkit-transform:rotate(360deg); }
+}
+

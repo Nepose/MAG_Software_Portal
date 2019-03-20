@@ -1,0 +1,361 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Internet bookmarks Manager\n"
+"POT-Creation-Date: 2016-10-20 16:34+0300\n"
+"PO-Revision-Date: 2016-10-20 16:34+0300\n"
+"Last-Translator: B_A_S <1990bas@gmail.com>\n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-KeywordsList: _;gettext.data\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../app.js:51
+msgid "Search in Google"
+msgstr "Suche in Google:"
+
+#: ../app.js:52
+msgid "Open link"
+msgstr "Link öffnen:"
+
+#: ../cblist.js:490 ../view.main.js:104
+msgid "Error"
+msgstr "Fehler"
+
+#: ../cblist.js:490
+msgid "Unknown type of selected item"
+msgstr "Typ des ausgewählten Elements ist unbekannt "
+
+#: ../cblist.js:490 ../modals.js:136 ../modals.js:164 ../view.main.js:104
+#: ../view.main.js:190
+msgid "Close"
+msgstr "Schließen"
+
+#: ../modals.js:21 ../modals.js:197 ../view.main.js:522 ../view.main.js:538
+msgid "Name:"
+msgstr "Name:"
+
+#: ../modals.js:25
+msgid "URL:"
+msgstr "URL:"
+
+#: ../modals.js:29
+msgid "Folder:"
+msgstr "Ordner:"
+
+#: ../modals.js:34
+msgid "or create and use a new folder:"
+msgstr "oder neuen Ordner erstellen und verwenden: "
+
+#: ../modals.js:43 ../view.main.js:471 ../view.main.js:985
+msgid "Internet bookmarks"
+msgstr "Internet Lesezeichen"
+
+#: ../modals.js:77
+msgid "Modify bookmark"
+msgstr "Lesezeichen bearbeiten"
+
+#: ../modals.js:77
+msgid "Create bookmark"
+msgstr "Erstellte Lesezeichen"
+
+#: ../modals.js:77 ../modals.js:216 ../view.main.js:172 ../view.main.js:1386
+msgid "Cancel"
+msgstr "Abbruch:"
+
+#: ../modals.js:118 ../modals.js:222
+msgid "Apply"
+msgstr "Anwenden"
+
+#: ../modals.js:118 ../modals.js:222
+msgid "Create"
+msgstr "Erstellen"
+
+#: ../modals.js:136 ../modals.js:216
+msgid "Create folder"
+msgstr "Erstellete Ordner"
+
+#: ../modals.js:136
+msgid "Folder with this name already exists"
+msgstr "Ordner mit solchem Namen existiert bereits. "
+
+#: ../modals.js:161 ../view.main.js:80 ../view.main.js:1106
+msgid "Remove<br>bookmark"
+msgstr "Lesezeichen<br>entfernen"
+
+#: ../modals.js:164
+msgid "Wrong data"
+msgstr "Falsche Daten "
+
+#: ../modals.js:164
+msgid "Provided url name or address is invalid"
+msgstr "Angegebener URL Name oder Adresse ist ungültig "
+
+#: ../modals.js:216
+msgid "Modify folder"
+msgstr "Ordner bearbeiten"
+
+#: ../view.main.js:52
+msgid "USB storage is connected"
+msgstr "USB-Datenträger ist angeschlossen"
+
+#: ../view.main.js:83 ../view.main.js:602 ../view.main.js:1085
+#: ../view.main.js:1106 ../view.main.js:1397
+msgid "Add<br>bookmark"
+msgstr "Lesezeichen<br>hinzufügen "
+
+#: ../view.main.js:104
+msgid "This webpage is not available"
+msgstr "Diese Webseite ist nicht verfügbar"
+
+#: ../view.main.js:171
+msgid "Select action"
+msgstr "Aktion wählen"
+
+#: ../view.main.js:172
+msgid "To play this file press F1, to save it press F2"
+msgstr ""
+"Um die Datei wiederzugeben – drücken Sie Abspielen,<br>um zu laden – drücken "
+"Sie Laden"
+
+#: ../view.main.js:172
+msgid "To save this file press F2"
+msgstr "Um diese Datei zu speichern, drücken Sie F2"
+
+#: ../view.main.js:180
+msgid "Play"
+msgstr "Abspielen"
+
+#: ../view.main.js:188
+msgid "Download"
+msgstr "Laden"
+
+#: ../view.main.js:190
+msgid "Warning!"
+msgstr "Warnung!"
+
+#: ../view.main.js:190
+msgid "\"Storage read only access mode\" is enabled in System Settings"
+msgstr ""
+"\"Speicherung des Zugriffsmodus  nur lesen \" in den Systemeinstellungen "
+"aktiviert "
+
+#: ../view.main.js:331
+msgid "Enter url address or title to filter..."
+msgstr "Zum Filtern bitte URL Adresse oder Bezeichnung eingeben ..."
+
+#: ../view.main.js:413
+msgid "Enter url address or text to search..."
+msgstr "Zum Filtern bitte URL Adresse oder Text eingeben ..."
+
+#: ../view.main.js:489
+msgid "Items:"
+msgstr "Aufzeichnungen:"
+
+#: ../view.main.js:490
+msgid "Selected:"
+msgstr "Ausgewählt: "
+
+#: ../view.main.js:508
+msgid "Contains a list of items corresponding to the given filter request"
+msgstr "Enthält eine Liste an Elementen entsprechend der gefilterten Anfrage"
+
+#: ../view.main.js:520
+msgid "Gives access to url links organized in groups"
+msgstr "Erteilt Zugang zu URL Links, organisiert in Gruppen."
+
+#: ../view.main.js:523
+msgid "Bookmarks:"
+msgstr "Lesezeichen:"
+
+#: ../view.main.js:524 ../view.main.js:540
+msgid "Time:"
+msgstr "Zeit:"
+
+#: ../view.main.js:539
+msgid "Address:"
+msgstr "Adresse:"
+
+#: ../view.main.js:578
+msgid "Exit"
+msgstr "Beenden"
+
+#: ../view.main.js:593
+msgid "Menu"
+msgstr "Menü"
+
+#: ../view.main.js:596 ../view.main.js:949 ../view.main.js:1108
+msgid "Fullscreen"
+msgstr "Fullscreen"
+
+#: ../view.main.js:599 ../view.main.js:1088 ../view.main.js:1276
+msgid "Show<br>info panel"
+msgstr "Informationsfeld<br />einblenden "
+
+# menu item
+#: ../view.main.js:605 ../view.main.js:810
+msgid "Select"
+msgstr "Auswählen"
+
+#: ../view.main.js:704 ../view.main.js:890
+msgid "Operations"
+msgstr "Operationen "
+
+# menu item
+#: ../view.main.js:806
+msgid "Open"
+msgstr "Öffnen"
+
+#: ../view.main.js:807 ../view.main.js:921
+msgid "Add bookmark"
+msgstr "Lesezeichen hinzufügen"
+
+#: ../view.main.js:808
+msgid "Add folder"
+msgstr "Ordner hinzufügen"
+
+#: ../view.main.js:809
+msgid "Edit"
+msgstr "Bearbeiten"
+
+# menu item
+#: ../view.main.js:811
+msgid "Select all"
+msgstr "Alles auswählen"
+
+# menu item
+#: ../view.main.js:812
+msgid "Deselect all"
+msgstr "Auswahl aufheben "
+
+# menu item
+#: ../view.main.js:813
+msgid "Invert selection"
+msgstr "Auswahl invertieren "
+
+# menu item
+#: ../view.main.js:814 ../view.main.js:1392
+msgid "Delete"
+msgstr "Entfernen"
+
+#: ../view.main.js:817
+msgid "Sort"
+msgstr "Sortierung"
+
+# menu item
+#: ../view.main.js:834
+msgid "By name"
+msgstr "Nach Namen"
+
+# menu item
+#: ../view.main.js:835
+msgid "By time"
+msgstr "Nach Zeit"
+
+#: ../view.main.js:917
+msgid "Back"
+msgstr "Zurück"
+
+#: ../view.main.js:918
+msgid "Forward"
+msgstr "Vorwärts "
+
+#: ../view.main.js:919
+msgid "Stop"
+msgstr "Anhalten"
+
+#: ../view.main.js:920
+msgid "Reload"
+msgstr "Neu laden"
+
+#: ../view.main.js:922
+msgid "Remove bookmark"
+msgstr "Lesezeichen entfernen"
+
+#: ../view.main.js:925
+msgid "View"
+msgstr "Ansicht"
+
+#: ../view.main.js:950
+msgid "Zoom 50%"
+msgstr "Zoom 50%"
+
+#: ../view.main.js:951
+msgid "Zoom 75%"
+msgstr "Zoom 75%"
+
+#: ../view.main.js:952
+msgid "Zoom 100%"
+msgstr "Zoom 100%"
+
+#: ../view.main.js:953
+msgid "Zoom 150%"
+msgstr "Zoom 150%"
+
+#: ../view.main.js:954
+msgid "Zoom 200%"
+msgstr "Zoom 200%"
+
+#: ../view.main.js:955
+msgid "Zoom 300%"
+msgstr "Zoom 300%"
+
+#: ../view.main.js:958
+msgid "Tools"
+msgstr "Werkzeug"
+
+#: ../view.main.js:984
+msgid "Download manager"
+msgstr "Download Manager"
+
+#: ../view.main.js:986
+msgid "Virtual mouse"
+msgstr "Virtuelle Maus "
+
+#: ../view.main.js:1088 ../view.main.js:1276
+msgid "Hide<br>info panel"
+msgstr "Informationsfeld<br />ausblenden"
+
+#: ../view.main.js:1384
+msgid "Confirm deletion"
+msgstr "Löschvorgang bestätigen"
+
+#: ../view.main.js:1385
+msgid "Are you sure you want to delete"
+msgstr "Wollen Sie wirklich entfernen?"
+
+#: ../view.main.js:1385
+msgid "all entries selected?"
+msgstr "ausgewählte Aufzeichnungen? "
+
+#: ../view.main.js:1385
+msgid "current entry?"
+msgstr "aktuelle Aufzeichnung?"
+
+# menu item
+#~ msgid "Cut"
+#~ msgstr "Ausschneiden"
+
+# menu item
+#~ msgid "Copy"
+#~ msgstr "Kopieren"
+
+# menu item
+#~ msgid "Paste"
+#~ msgstr "Einfügen"
+
+#~ msgid "Change<br>view"
+#~ msgstr "Ansicht<br>wechseln"
+
+#, fuzzy
+#~ msgid ""
+#~ "To perform this operation, you must to turn off \"Storage read only access"
+#~ "\" in system settings"
+#~ msgstr ""
+#~ "To perform this operation, you must to turn off \"Storage read only access"
+#~ "\" in system settings"

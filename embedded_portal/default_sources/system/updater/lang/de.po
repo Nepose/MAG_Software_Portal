@@ -1,0 +1,199 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Service menu\n"
+"POT-Creation-Date: 2016-10-20 16:34+0300\n"
+"PO-Revision-Date: 2016-10-20 16:34+0300\n"
+"Last-Translator: B_A_S <1990bas@gmail.com>\n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-KeywordsList: _;gettext.data\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../js/main.js:23
+msgid "Retry"
+msgstr "Wiederholen"
+
+#: ../js/main.js:24
+msgid "Cancel"
+msgstr "Abbruch"
+
+#: ../js/main.js:25
+msgid "Show log"
+msgstr "Protokoll anzeigen "
+
+#: ../js/main.js:26
+msgid "Hide log"
+msgstr "Protokoll ausblenden "
+
+#: ../js/main.js:27
+msgid "Update"
+msgstr "Update"
+
+#: ../js/main.js:28 ../js/main.js:35
+msgid "Update status"
+msgstr "Update Status "
+
+#: ../js/main.js:29
+msgid "Check image"
+msgstr "Check Image "
+
+#: ../js/main.js:30
+msgid "Exit"
+msgstr "Beenden"
+
+#: ../js/main.js:31
+msgid "Current version"
+msgstr "Aktuelle Version "
+
+#: ../js/main.js:32
+msgid "New version"
+msgstr "Verfügbare Version "
+
+#: ../js/main.js:33
+msgid "Description"
+msgstr "Beschreibung "
+
+#: ../js/main.js:34
+msgid "Updating to version"
+msgstr "Update zur Version "
+
+#: ../js/main.js:36
+msgid ""
+"<span class=\"alert\">Warning!</span> Device will be rebooted after update"
+msgstr ""
+"<span class='alert'>Achtung!</span> Nach der Aktualisierung wird das Gerät "
+"neu gestartet!"
+
+#: ../js/main.js:37
+msgid "Change log"
+msgstr "Protokoll zu Änderungen"
+
+#: ../js/main.js:38
+msgid "Information not found"
+msgstr "Information nicht gefunden "
+
+#: ../js/main.js:39
+msgid "Signature init error"
+msgstr "Signature init Fehler"
+
+#: ../js/main.js:40
+msgid "Wrong device model"
+msgstr "Falsches Gerätemodell "
+
+#: ../js/main.js:41
+msgid "Section size exceeds partition size on FLASH"
+msgstr "Größe überschreitet FLASH Partitionsgröße "
+
+#: ../js/main.js:42
+msgid "Required FLASH section not found. Aborting update"
+msgstr "Erforderlicher FLASH Abschnitt nicht gefunden. Update-Abbruch "
+
+#: ../js/main.js:43
+msgid "Updating kernel"
+msgstr "Aktualisierung Kernel"
+
+#: ../js/main.js:44
+msgid "Updating image"
+msgstr "Bild aktualisieren"
+
+#: ../js/main.js:45
+msgid "Internal error"
+msgstr "Interner Fehler "
+
+#: ../js/main.js:46
+msgid "Inspecting firmware"
+msgstr "Inspektion Firmware"
+
+#: ../js/main.js:47
+msgid "Updating environment variables"
+msgstr "Aktualisieren der Umgebungsvariablen "
+
+#: ../js/main.js:48
+msgid "Updating Bootstrap section"
+msgstr "Aktualisiere Bootstrap Abschnitt "
+
+#: ../js/main.js:49
+msgid "Skipping Bootstrap section"
+msgstr "Bootstrap Update "
+
+#: ../js/main.js:50
+msgid "Updating User FS section"
+msgstr "Aktualisiere User FS-Teil"
+
+#: ../js/main.js:51
+msgid "Skipping User FS section"
+msgstr "Überspringe User FS Teil "
+
+#: ../js/main.js:52
+msgid "Updating second boot"
+msgstr "Aktualisiere zweiten Boot"
+
+#: ../js/main.js:53
+msgid "Updating logotype"
+msgstr "Aktualisiere Logo "
+
+#: ../js/main.js:54
+msgid "Update finished OK"
+msgstr "Update abgeschlossen - OK"
+
+#: ../js/main.js:55
+msgid "Wrong signature"
+msgstr "Falsche Unterschrift"
+
+#: ../js/main.js:56
+msgid "Erasing flash section"
+msgstr "Flash Abschnitt wird gelöscht "
+
+#: ../js/main.js:57
+msgid "Flash write error"
+msgstr "Flash-Schreibfehler "
+
+#: ../js/main.js:58
+msgid "File write error"
+msgstr "Flash-Schreibfehler "
+
+#: ../js/main.js:59
+msgid "Idle"
+msgstr "Inaktiv "
+
+#: ../js/main.js:60
+msgid "Invalid file header"
+msgstr "Ungültige Datei-Header "
+
+#: ../js/main.js:61
+msgid "Inspecting update file"
+msgstr "Inspektion der Update-Datei"
+
+#: ../js/main.js:62
+msgid "File check finished"
+msgstr "Dateiprüfung abgeschlossen "
+
+#: ../js/main.js:63
+msgid "File not found"
+msgstr "Datei nicht gefunden "
+
+#: ../js/main.js:64
+msgid "Initialising"
+msgstr "Initialisierung"
+
+#: ../js/main.js:65
+msgid "Read error"
+msgstr "Lesefehler "
+
+#: ../js/main.js:66
+msgid "Status"
+msgstr "Status"
+
+#: ../js/main.js:67
+msgid "Date"
+msgstr "Datum"
+
+#: ../js/main.js:71
+msgid "Autoupdate"
+msgstr "Autoupdate"

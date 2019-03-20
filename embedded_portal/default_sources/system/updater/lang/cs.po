@@ -1,0 +1,197 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Service menu\n"
+"POT-Creation-Date: 2017-05-12 12:12+0300\n"
+"PO-Revision-Date: 2017-05-12 12:12+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-KeywordsList: _;gettext.data\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../js/main.js:23
+msgid "Retry"
+msgstr ""
+
+#: ../js/main.js:24
+msgid "Cancel"
+msgstr ""
+
+#: ../js/main.js:25
+msgid "Show log"
+msgstr ""
+
+#: ../js/main.js:26
+msgid "Hide log"
+msgstr ""
+
+#: ../js/main.js:27
+msgid "Update"
+msgstr ""
+
+#: ../js/main.js:28 ../js/main.js:35
+msgid "Update status"
+msgstr ""
+
+#: ../js/main.js:29
+msgid "Check image"
+msgstr ""
+
+#: ../js/main.js:30
+msgid "Exit"
+msgstr ""
+
+#: ../js/main.js:31
+msgid "Current version"
+msgstr ""
+
+#: ../js/main.js:32
+msgid "New version"
+msgstr ""
+
+#: ../js/main.js:33
+msgid "Description"
+msgstr ""
+
+#: ../js/main.js:34
+msgid "Updating to version"
+msgstr ""
+
+#: ../js/main.js:36
+msgid "<span class=\"alert\">Warning!</span> Device will be rebooted after update"
+msgstr ""
+
+#: ../js/main.js:37
+msgid "Change log"
+msgstr ""
+
+#: ../js/main.js:38
+msgid "Information not found"
+msgstr ""
+
+#: ../js/main.js:39
+msgid "Signature init error"
+msgstr ""
+
+#: ../js/main.js:40
+msgid "Wrong device model"
+msgstr ""
+
+#: ../js/main.js:41
+msgid "Section size exceeds partition size on FLASH"
+msgstr ""
+
+#: ../js/main.js:42
+msgid "Required FLASH section not found. Aborting update"
+msgstr ""
+
+#: ../js/main.js:43
+msgid "Updating kernel"
+msgstr ""
+
+#: ../js/main.js:44
+msgid "Updating image"
+msgstr ""
+
+#: ../js/main.js:45
+msgid "Internal error"
+msgstr ""
+
+#: ../js/main.js:46
+msgid "Inspecting firmware"
+msgstr ""
+
+#: ../js/main.js:47
+msgid "Updating environment variables"
+msgstr ""
+
+#: ../js/main.js:48
+msgid "Updating Bootstrap section"
+msgstr ""
+
+#: ../js/main.js:49
+msgid "Skipping Bootstrap section"
+msgstr ""
+
+#: ../js/main.js:50
+msgid "Updating User FS section"
+msgstr ""
+
+#: ../js/main.js:51
+msgid "Skipping User FS section"
+msgstr ""
+
+#: ../js/main.js:52
+msgid "Updating second boot"
+msgstr ""
+
+#: ../js/main.js:53
+msgid "Updating logotype"
+msgstr ""
+
+#: ../js/main.js:54
+msgid "Update finished OK"
+msgstr ""
+
+#: ../js/main.js:55
+msgid "Wrong signature"
+msgstr ""
+
+#: ../js/main.js:56
+msgid "Erasing flash section"
+msgstr ""
+
+#: ../js/main.js:57
+msgid "Flash write error"
+msgstr ""
+
+#: ../js/main.js:58
+msgid "File write error"
+msgstr ""
+
+#: ../js/main.js:59
+msgid "Idle"
+msgstr ""
+
+#: ../js/main.js:60
+msgid "Invalid file header"
+msgstr ""
+
+#: ../js/main.js:61
+msgid "Inspecting update file"
+msgstr ""
+
+#: ../js/main.js:62
+msgid "File check finished"
+msgstr ""
+
+#: ../js/main.js:63
+msgid "File not found"
+msgstr ""
+
+#: ../js/main.js:64
+msgid "Initialising"
+msgstr ""
+
+#: ../js/main.js:65
+msgid "Read error"
+msgstr ""
+
+#: ../js/main.js:66
+msgid "Status"
+msgstr ""
+
+#: ../js/main.js:67
+msgid "Date"
+msgstr ""
+
+#: ../js/main.js:71
+msgid "Autoupdate"
+msgstr ""

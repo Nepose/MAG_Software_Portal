@@ -1,0 +1,355 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Internet Bookmarks Manager\n"
+"POT-Creation-Date: 2016-10-20 16:34+0300\n"
+"PO-Revision-Date: 2016-10-20 16:34+0300\n"
+"Last-Translator: georgesat20 <georgesat20@gmail.com>\n"
+"Language-Team: MAG-infomir-Greek-Blog <http://mag250-greece.blogspot.gr/>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-KeywordsList: _;gettext.data\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../app.js:92 ../modals.js:30 ../modals.js:31 ../modals.js:41
+#: ../modals.js:42 ../modals.js:64 ../modals.js:66 ../view.main.js:334
+msgid "GB"
+msgstr "GB"
+
+#: ../app.js:93 ../view.main.js:337
+msgid "MB"
+msgstr "MB"
+
+#: ../app.js:94 ../view.main.js:340
+msgid "KB"
+msgstr "KB"
+
+#: ../app.js:96 ../view.main.js:342
+msgid "B"
+msgstr "B"
+
+#: ../cdlist.js:319
+msgid "Unsupported format"
+msgstr "Μη υποστηριζόμενη μoρφή"
+
+#: ../cdlist.js:322
+msgid "File not found"
+msgstr "Το αρχείο δεν βρέθηκε"
+
+#: ../modals.js:24 ../modals.js:39
+msgid "No storage device"
+msgstr "Δεν υπάρχει συσκευή αποθήκευσης"
+
+#: ../modals.js:51 ../view.main.js:266
+msgid "URL:"
+msgstr "URL:"
+
+#: ../modals.js:55 ../view.main.js:265
+msgid "File name:"
+msgstr "Όνομα αρχείου:"
+
+#: ../modals.js:59
+msgid "Download in:"
+msgstr "Λήψη σε:"
+
+#: ../modals.js:64
+msgid "Free space:"
+msgstr "Ελεύθερος χώρος:"
+
+#: ../modals.js:65
+msgid "of"
+msgstr "με"
+
+#: ../modals.js:80 ../view.main.js:496
+msgid "Add download"
+msgstr "Προσθέστε λήψη "
+
+#: ../modals.js:80 ../modals.js:158 ../modals.js:225
+msgid "Cancel"
+msgstr "Ακύρωση"
+
+#: ../modals.js:113
+msgid "Create"
+msgstr "Δημιουργήστε"
+
+#: ../modals.js:123
+msgid "Not enough disk space"
+msgstr "δεν υπάρχει επαρκής διαθέσιμος αποθηκευτικός χώρος στη συσκευή σας"
+
+#: ../modals.js:123
+msgid "File size: "
+msgstr "Μέγεθος αρχείου:"
+
+#: ../modals.js:123 ../modals.js:126 ../modals.js:142 ../modals.js:184
+#: ../view.main.js:206 ../view.main.js:468
+msgid "Close"
+msgstr "Κλείσιμο"
+
+#: ../modals.js:126
+msgid "Create download"
+msgstr "Δημιουργήστε λήψη"
+
+#: ../modals.js:126
+msgid "File name or URL already used"
+msgstr "Όνομα αρχείου ή το URL χρησιμοποιείται ήδη"
+
+#: ../modals.js:142 ../modals.js:184
+msgid "Wrong data"
+msgstr "Λάθος στοιχεία"
+
+#: ../modals.js:142
+msgid "Provided name is invalid"
+msgstr "Το όνομα δεν είναι έγκυρο"
+
+#: ../modals.js:144
+msgid "No storage device found"
+msgstr "Δεν βρέθηκε συσκευή αποθήκευσης"
+
+#: ../modals.js:154
+msgid "Unsupported file extension"
+msgstr "Μη υποστηριζόμενη επέκταση αρχείου"
+
+#: ../modals.js:158 ../view.main.js:243 ../view.main.js:244
+msgid "Error"
+msgstr "Σφάλμα"
+
+#: ../modals.js:158
+msgid "File with this name already exist. Do you want rewrite it?"
+msgstr "Αρχείο με αυτό το όνομα υπάρχει ήδη. Θέλετε να ξαναγράψει αυτό;"
+
+#: ../modals.js:160
+msgid "Ok"
+msgstr "Εντάξει"
+
+#: ../modals.js:175
+msgid "Some error. Please rename the file."
+msgstr "Υπάρχει σφάλμα. Παρακαλούμε να μετονομάσετε το αρχείο."
+
+#: ../modals.js:184
+msgid "Provided url is invalid"
+msgstr "Η διεύθυνση url δεν είναι έγκυρη"
+
+#: ../modals.js:213
+msgid "Delete the related file"
+msgstr "Διαγράψτε το σχετικό αρχείο"
+
+#: ../modals.js:225
+msgid "Delete download"
+msgstr "Διαγραφή λήψης"
+
+#: ../modals.js:247
+msgid "Apply"
+msgstr "Εφαρμόστε"
+
+#: ../view.main.js:82
+msgid "Download manager"
+msgstr "Διαχειριστής λήψεων"
+
+#: ../view.main.js:96
+msgid "Enter part of download name..."
+msgstr "Πληκτρολογήστε μέρος του ονόματος της λήψης..."
+
+#: ../view.main.js:165
+msgid "USB storage is connected"
+msgstr "Το USB είναι συνδεδεμένο"
+
+#: ../view.main.js:185
+msgid "Exit"
+msgstr "Έξοδος"
+
+#: ../view.main.js:198
+msgid "Menu"
+msgstr "Μενού"
+
+#: ../view.main.js:201 ../view.main.js:688
+msgid "Show<br>info panel"
+msgstr "Εμφάνισε<br />Πληροφορίες πάνελ"
+
+#: ../view.main.js:204
+msgid "Add<br>download"
+msgstr "Προσθέστε<br>λήψη"
+
+#: ../view.main.js:206 ../view.main.js:468
+msgid "Warning!"
+msgstr "Προσοχή!"
+
+#: ../view.main.js:206 ../view.main.js:468
+msgid "\"Storage read only access mode\" is enabled in System Settings"
+msgstr ""
+"\"η λειτουργία μόνο για ανάγνωση  \"είναι ενεργοποιημένη στις ρυθμίσεις "
+"συστήματος"
+
+# menu item
+#: ../view.main.js:211 ../view.main.js:499
+msgid "Select"
+msgstr "Επιλέξτε"
+
+#: ../view.main.js:239
+msgid "Paused "
+msgstr "Διακόπηκε"
+
+#: ../view.main.js:240 ../view.main.js:523
+msgid "Waiting"
+msgstr "Αναμονή"
+
+#: ../view.main.js:241
+msgid "Downloading"
+msgstr "Λήψη"
+
+#: ../view.main.js:242
+msgid "Completed"
+msgstr "Ολοκληρώθηκε"
+
+#: ../view.main.js:253
+msgid "Downloads:"
+msgstr "Λήψεις:"
+
+#: ../view.main.js:254
+msgid "Selected:"
+msgstr "Επιλεγμένο:"
+
+#: ../view.main.js:267
+msgid "Storage device:"
+msgstr "Συσκευή αποθήκευσης:"
+
+#: ../view.main.js:268
+msgid "State:"
+msgstr "Κατάσταση:"
+
+# menu item
+#: ../view.main.js:269
+msgid "Priority:"
+msgstr "Προτεραιότητα:"
+
+#: ../view.main.js:270
+msgid "Size:"
+msgstr "Μέγεθος:"
+
+#: ../view.main.js:304
+msgid "Contains a list of items corresponding to the given filter request"
+msgstr ""
+"Περιέχει μια λίστα των αντικειμένων που αντιστοιχούν στο συγκεκριμένο αίτημα "
+"του φίλτρου"
+
+#: ../view.main.js:310
+msgid "Detailed info on selected download"
+msgstr "Λεπτομερείς πληροφορίες για την επιλεγμένη λήψη"
+
+#: ../view.main.js:430
+msgid "Operations"
+msgstr "Λειτουργίες"
+
+#: ../view.main.js:484
+msgid "Temporary files cleaning..."
+msgstr "Καθαρισμός προσωρινών αρχείων..."
+
+# menu item
+#: ../view.main.js:493
+msgid "Open"
+msgstr "Άνοιγμα"
+
+#: ../view.main.js:494
+msgid "Resume"
+msgstr "Συνέχιση"
+
+#: ../view.main.js:495
+msgid "Stop"
+msgstr "Διακοπή"
+
+# menu item
+#: ../view.main.js:497
+msgid "Increase priority"
+msgstr "αύξηση προτεραιότητας"
+
+# menu item
+#: ../view.main.js:498
+msgid "Decrease priority"
+msgstr "μείωση προτεραιότητας"
+
+# menu item
+#: ../view.main.js:500
+msgid "Select all"
+msgstr "Επιλογή όλων"
+
+# menu item
+#: ../view.main.js:501
+msgid "Deselect all"
+msgstr "Αποεπιλογή όλων"
+
+# menu item
+#: ../view.main.js:502
+msgid "Invert selection"
+msgstr "Αντιστροφή της επιλογής"
+
+# menu item
+#: ../view.main.js:503
+msgid "Delete"
+msgstr "Διαγραφή"
+
+#: ../view.main.js:504
+msgid "Clean temporary files"
+msgstr "Καθαρίστε τα προσωρινά αρχεία"
+
+#: ../view.main.js:506
+msgid "View"
+msgstr "Προβολή"
+
+# menu item
+#: ../view.main.js:521
+msgid "All"
+msgstr "Όλα"
+
+#: ../view.main.js:522
+msgid "Done"
+msgstr "Έτοιμο"
+
+#: ../view.main.js:524
+msgid "Paused"
+msgstr "Διακόπηκε"
+
+#: ../view.main.js:525
+msgid "Errors"
+msgstr "Σφάλματα"
+
+#: ../view.main.js:528
+msgid "Sorting"
+msgstr "Ταξινόμηση"
+
+# menu item
+#: ../view.main.js:544
+msgid "By state"
+msgstr "Ανά κατάσταση"
+
+# menu item
+#: ../view.main.js:545
+msgid "By name"
+msgstr "Ανά όνομα"
+
+# menu item
+#: ../view.main.js:546
+msgid "By size"
+msgstr "Ανά μέγεθος"
+
+# menu item
+#: ../view.main.js:547
+msgid "By priority"
+msgstr "Ανά προτεραιότητα"
+
+#: ../view.main.js:688
+msgid "Hide<br>info panel"
+msgstr "Απόκρυψη<br />Πάνελ πληροφοριών"
+
+#, fuzzy
+#~ msgid ""
+#~ "To perform this operation, you must to turn off \"Storage read only access"
+#~ "\" in system settings"
+#~ msgstr ""
+#~ "Увага! Включений режим \"тільки читання\" для накопичувача в Системних "
+#~ "налаштуваннях"
+
+#~ msgid "Downloaded:"
+#~ msgstr "Викачано:"

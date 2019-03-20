@@ -1,0 +1,200 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Service menu\n"
+"POT-Creation-Date: 2017-05-12 12:12+0300\n"
+"PO-Revision-Date: 2017-05-12 12:12+0300\n"
+"Last-Translator: Сергей <ssa@infomir.eu>\n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-KeywordsList: _;gettext.data\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../js/main.js:23
+msgid "Retry"
+msgstr "Повторить"
+
+#: ../js/main.js:24
+msgid "Cancel"
+msgstr "Отмена"
+
+#: ../js/main.js:25
+msgid "Show log"
+msgstr "Показать отчет"
+
+#: ../js/main.js:26
+msgid "Hide log"
+msgstr "Скрыть отчет"
+
+#: ../js/main.js:27
+msgid "Update"
+msgstr "Обновить"
+
+#: ../js/main.js:28 ../js/main.js:35
+msgid "Update status"
+msgstr "Статус обновления"
+
+#: ../js/main.js:29
+msgid "Check image"
+msgstr "Проверка образа"
+
+#: ../js/main.js:30
+msgid "Exit"
+msgstr "Выход"
+
+#: ../js/main.js:31
+msgid "Current version"
+msgstr "Текущая версия"
+
+#: ../js/main.js:32
+msgid "New version"
+msgstr "Доступная версия"
+
+#: ../js/main.js:33
+msgid "Description"
+msgstr "Описание"
+
+#: ../js/main.js:34
+msgid "Updating to version"
+msgstr "Обновление до версии"
+
+#: ../js/main.js:36
+msgid ""
+"<span class=\"alert\">Warning!</span> Device will be rebooted after update"
+msgstr ""
+"<span class='alert'>Внимание!</span> После обновления устройство будет "
+"перезагружено!"
+
+#: ../js/main.js:37
+msgid "Change log"
+msgstr "Список изменений"
+
+#: ../js/main.js:38
+msgid "Information not found"
+msgstr "Информация не найдена"
+
+#: ../js/main.js:39
+msgid "Signature init error"
+msgstr "Ошибка инициализации криптобиблиотеки"
+
+#: ../js/main.js:40
+msgid "Wrong device model"
+msgstr "Неверная модель устройства"
+
+#: ../js/main.js:41
+msgid "Section size exceeds partition size on FLASH"
+msgstr "Размер NAND слишком мал для размещения данных"
+
+#: ../js/main.js:42
+msgid "Required FLASH section not found. Aborting update"
+msgstr "Необходимый раздел NAND не найден. Отмена обновления."
+
+#: ../js/main.js:43
+msgid "Updating kernel"
+msgstr "Обновление ядра"
+
+#: ../js/main.js:44
+msgid "Updating image"
+msgstr "Обновление образа"
+
+#: ../js/main.js:45
+msgid "Internal error"
+msgstr "Непредвиденная ошибка"
+
+#: ../js/main.js:46
+msgid "Inspecting firmware"
+msgstr "Анализ прошивки"
+
+#: ../js/main.js:47
+msgid "Updating environment variables"
+msgstr "Обновление переменных среды"
+
+#: ../js/main.js:48
+msgid "Updating Bootstrap section"
+msgstr "Обновление bootstrap"
+
+#: ../js/main.js:49
+msgid "Skipping Bootstrap section"
+msgstr "Пропуск обновления bootstrap"
+
+#: ../js/main.js:50
+msgid "Updating User FS section"
+msgstr "Обновление файловой системы пользователя"
+
+#: ../js/main.js:51
+msgid "Skipping User FS section"
+msgstr "Пропуск обновления файловой системы пользователя"
+
+#: ../js/main.js:52
+msgid "Updating second boot"
+msgstr "Обновление второго загрузчика"
+
+#: ../js/main.js:53
+msgid "Updating logotype"
+msgstr "Обновление логотипа"
+
+#: ../js/main.js:54
+msgid "Update finished OK"
+msgstr "Обновление завершено"
+
+#: ../js/main.js:55
+msgid "Wrong signature"
+msgstr "Неправильная сигнатура"
+
+#: ../js/main.js:56
+msgid "Erasing flash section"
+msgstr "Подготовка NAND для записи"
+
+#: ../js/main.js:57
+msgid "Flash write error"
+msgstr "Ошибка записи в NAND"
+
+#: ../js/main.js:58
+msgid "File write error"
+msgstr "Ошибка записи в файл"
+
+# Используется в обновлении как статус говорящий о готовности.
+#: ../js/main.js:59
+msgid "Idle"
+msgstr "Готово к обновлению"
+
+#: ../js/main.js:60
+msgid "Invalid file header"
+msgstr "Неправильный заголовок файла"
+
+#: ../js/main.js:61
+msgid "Inspecting update file"
+msgstr "Анализ файла обновления"
+
+#: ../js/main.js:62
+msgid "File check finished"
+msgstr "Проверка файла завершена"
+
+#: ../js/main.js:63
+msgid "File not found"
+msgstr "Файл не найден"
+
+#: ../js/main.js:64
+msgid "Initialising"
+msgstr "Подготовка к работе"
+
+#: ../js/main.js:65
+msgid "Read error"
+msgstr "Ошибка чтения"
+
+#: ../js/main.js:66
+msgid "Status"
+msgstr "Статус"
+
+#: ../js/main.js:67
+msgid "Date"
+msgstr "Дата"
+
+#: ../js/main.js:71
+msgid "Autoupdate"
+msgstr "Автообновление"

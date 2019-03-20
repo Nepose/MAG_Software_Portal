@@ -1,0 +1,65 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Internet Bookmarks Manager\n"
+"POT-Creation-Date: 2016-10-20 16:34+0300\n"
+"PO-Revision-Date: 2016-10-20 16:34+0300\n"
+"Last-Translator: B_A_S <1990bas@gmail.com>\n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-KeywordsList: _;gettext.data\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../chlist.js:134 ../view.main.js:175
+msgid "Help"
+msgstr "Справка по меню"
+
+#: ../view.main.js:100
+msgid "Enter part of title to filter..."
+msgstr "Введите часть имени для фильтрации"
+
+#: ../view.main.js:245
+#, fuzzy
+msgid "Exit"
+msgstr "Exit"
+
+#: ../view.main.js:259
+#, fuzzy
+msgid "Menu"
+msgstr "Menu"
+
+#: ../view.main.js:262 ../view.main.js:614
+msgid "Hide<br>info panel"
+msgstr "Показать<br />инфо-блок"
+
+#: ../view.main.js:262 ../view.main.js:614
+msgid "Show<br>info panel"
+msgstr "Скрыть<br />инфо-блок"
+
+#: ../view.main.js:326
+msgid "Operations"
+msgstr "Операции"
+
+#: ../view.main.js:350
+msgid "Open"
+msgstr "Открыть"
+
+#: ../view.main.js:351
+msgid "Expand all"
+msgstr "Развернуть все"
+
+#: ../view.main.js:352
+msgid "Minimize all"
+msgstr "Свернуть все"
+
+#: ../view.main.js:549
+msgid "USB storage is connected"
+msgstr "USB storage is connected"
+
+#~ msgid "Change<br>mode"
+#~ msgstr "Change<br>mode"

@@ -1,0 +1,1 @@
+gettext.load({"Device will be shut down in ":"Device will be shut down in "," seconds.<br>Press any key to cancel.":" seconds.<br>Press any key to cancel."});

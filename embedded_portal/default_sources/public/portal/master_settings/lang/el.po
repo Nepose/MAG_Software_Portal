@@ -1,0 +1,381 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: master_settings\n"
+"POT-Creation-Date: 2016-10-20 16:34+0300\n"
+"PO-Revision-Date: 2016-10-20 16:34+0300\n"
+"Last-Translator: georgesat20 <georgesat20@gmail.com>\n"
+"Language-Team: \n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-KeywordsList: _;gettext.data\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../main.js:344
+msgid "Welcome"
+msgstr "Καλώς ήρθατε"
+
+#: ../main.js:345
+msgid "Select language"
+msgstr "Επιλέξτε τη γλώσσα"
+
+#: ../main.js:349 ../main.js:351 ../main.js:391
+msgid ""
+"Use Up and Down, Left and Right buttons for selecting. Press OK button to "
+"confirm."
+msgstr ""
+"Για την πλοήγηση, χρησιμοποιήστε τα \"πάνω\", \"κάτω\", \"αριστερά\", \"δεξιά"
+"\". Για να επιβεβαιώσετε - \"OK\""
+
+#: ../main.js:357 ../main.js:395 ../main.js:416 ../main.js:438 ../main.js:462
+#: ../main.js:495 ../main.js:514 ../main.js:548 ../main.js:578 ../main.js:601
+#: ../main.js:645 ../main.js:678 ../main.js:696
+msgid "Exit"
+msgstr "Έξοδος"
+
+#: ../main.js:389
+msgid "AuraHD Setup Wizard"
+msgstr "Οδηγός εγκατάστασης AuraHD "
+
+#: ../main.js:390
+msgid ""
+"Use the SetUp Wizard to edit Internet access settings, select display "
+"options and set your time zone"
+msgstr ""
+"Χρησιμοποιήσετε τον οδηγό ρυθμίσεων για να επεξεργαστείτε τις ρυθμίσεις "
+"πρόσβασης στο Internet, επιλέξτε τις επιλογές εμφάνισης και ορίστε τη ζώνη "
+"ώρας σας"
+
+#: ../main.js:390
+msgid "Run the Setup Wizard"
+msgstr "Εκτελέστε τον Οδηγό εγκατάστασης"
+
+#: ../main.js:390
+msgid "Set up manually later"
+msgstr "Ρυθμίστε χειροκίνητα αργότερα"
+
+#: ../main.js:410
+msgid "Step 1: Connecting to your TV"
+msgstr "Βήμα 1: Σύνδεση με την τηλεόραση σας"
+
+#: ../main.js:411
+msgid ""
+"For optimal display settings, specify your TV model and AuraHD connection "
+"type. Please, read the TV user guide before you do it."
+msgstr ""
+"Για βέλτιστες ρυθμίσεις της οθόνης, καθορίστε το μοντέλο της τηλεόρασής σας "
+"και τον AuraHD τύπο σύνδεσης. Παρακαλούμε, διαβάστε το εγχειρίδιο χρήσης της "
+"τηλεόρασής σας πριν το κάνετε."
+
+#: ../main.js:411
+msgid "RCA cable"
+msgstr "RCA καλώδιο"
+
+#: ../main.js:411
+msgid "HDMI cable"
+msgstr "HDMI καλώδιο"
+
+#: ../main.js:411
+msgid "Attention:"
+msgstr "Προσοχή:"
+
+#: ../main.js:411
+msgid ""
+"For TVs with the HDMI interface, we recommend to use an HDMI cable for "
+"connecting AuraHD to maximize image quality (HD or Full HD)."
+msgstr ""
+"Για τηλεοράσεις με διεπαφή HDMI, σας συνιστούμε να χρησιμοποιήσετε ένα "
+"καλώδιο HDMI στον AuraHD για μεγιστοποίηση της ποιότητας εικόνας (HD ή Full "
+"HD)."
+
+#: ../main.js:432
+msgid "Step 2: Connecting AuraHD to LAN and/or to the Internet"
+msgstr "Βήμα 2: Σύνδεση AuraHD στο LAN ή στο διαδίκτυο"
+
+#: ../main.js:433
+msgid ""
+"Active AuraHD Internet connection gives you access to web resources from "
+"your TV and also makes it possible to view media files located on your "
+"computer or local network. Select the connection type:"
+msgstr ""
+"Ενεργή η σύνδεση του AuraHD στο Internet αυτό σας δίνει πρόσβαση στους "
+"δικτυακούς πόρους από την τηλεόρασή σας και επίσης καθιστά δυνατό να δείτε "
+"τα αρχεία πολυμέσων που βρίσκεται στον υπολογιστή σας ή στο τοπικό δίκτυο. "
+"Επιλέξτε τον τύπο σύνδεσης:"
+
+#: ../main.js:433
+msgid "Wired"
+msgstr "Ενσύρματο"
+
+#: ../main.js:433
+msgid "Wireless"
+msgstr "Ασύρματο"
+
+#: ../main.js:433 ../main.js:597
+msgid "Skip"
+msgstr "Παράκαμψη"
+
+#: ../main.js:453
+msgid "Step 2.3: Checking wireless network and Internet connection"
+msgstr "Βήμα 2.3: Έλεγχος ασύρματου δίκτυου και σύνδεση στο Internet"
+
+#: ../main.js:453
+msgid "Step 2.1: Checking local network and Internet connection"
+msgstr "Βήμα 2.1: Έλεγχος τοπικού δικτύου και σύνδεση στο Internet"
+
+#: ../main.js:455
+msgid "Checking wireless network"
+msgstr "Έλεγχος ασύρματου δικτύου"
+
+#: ../main.js:455
+msgid "Checking local network connection"
+msgstr "Έλεγχος τοπικής σύνδεσης δικτύου"
+
+#: ../main.js:455 ../main.js:456 ../main.js:777 ../main.js:791 ../main.js:813
+#: ../main.js:825 ../main.js:884
+msgid "sec."
+msgstr "δευτερόλεπτα."
+
+#: ../main.js:456
+msgid "Checking Internet connection"
+msgstr "Έλεγχος σύνδεσης στο Internet"
+
+#: ../main.js:458
+msgid "Cancel"
+msgstr "Ακύρωση"
+
+#: ../main.js:458 ../main.js:489 ../main.js:490
+msgid "Information"
+msgstr "Πληροφορίες"
+
+#: ../main.js:458
+msgid "Refresh"
+msgstr "Ανανέωση"
+
+#: ../main.js:490
+msgid ""
+"To access additional/advanced settings in the Main Menu, press the SET/SETUP "
+"button on the remote control."
+msgstr ""
+"Για να αποκτήσετε πρόσβαση σε πρόσθετες / προηγμένες ρυθμίσεις στο Κύριο "
+"μενού, πατήστε το πλήκτρο SET / SETUP στο τηλεχειριστήριο."
+
+#: ../main.js:491 ../main.js:674 ../main.js:1089
+msgid "Close"
+msgstr "Κλείσιμο"
+
+#: ../main.js:508
+msgid "Step 2.1: Connecting to the Wireless LAN"
+msgstr "Βήμα 2.1: Σύνδεση στο ασύρματο LAN (Δίκτυο)"
+
+#: ../main.js:509
+msgid "Select LAN"
+msgstr "Επιλέξτε LAN (Δίκτυο)"
+
+#: ../main.js:509
+msgid "Select preferred wireless LAN or set it up manually"
+msgstr "Επιλέξτε το προτιμώμενο ασύρματο LAN ή φτιάξτε το με το χέρι"
+
+#: ../main.js:525
+msgid "Manual settings"
+msgstr "Χειροκίνητες ρυθμίσεις"
+
+#: ../main.js:542
+msgid "Step 2.2: Password"
+msgstr "Βήμα 2.2: Κωδικός πρόσβασης"
+
+#: ../main.js:543 ../main.js:573
+msgid "Password"
+msgstr ""
+
+#: ../main.js:544 ../main.js:597 ../main.js:913 ../main.js:919
+msgid "Next"
+msgstr "Επόμενο"
+
+#: ../main.js:544 ../main.js:574 ../main.js:597
+msgid "Keyboard"
+msgstr "Πληκτρολόγιο"
+
+#: ../main.js:572
+msgid "Step 2.2: Advanced settings"
+msgstr "Βήμα 2.2: Ρυθμίσεις για προχωρημένους"
+
+#: ../main.js:573
+msgid "Authentication:"
+msgstr "Έλεγχος ταυτότητας:"
+
+#: ../main.js:573
+msgid "Open"
+msgstr "Ανοιχτό"
+
+#: ../main.js:573
+msgid "Shared key"
+msgstr "Κοινόχρηστο κλειδί"
+
+#: ../main.js:573
+msgid "Auto Open/Shared key"
+msgstr "Αυτόματο Ανοιχτό/Κοινόχρηστο κλειδί"
+
+#: ../main.js:573
+msgid "Encryption:"
+msgstr "Κρυπτογράφηση:"
+
+#: ../main.js:573
+msgid "Disabled"
+msgstr "Απενεργοποιημένο"
+
+#: ../main.js:573
+msgid "SSID (network):"
+msgstr "SSID (δίκτυο):"
+
+#: ../main.js:574
+msgid "Select/Next"
+msgstr "Επιλέξτε / Επόμενο"
+
+#: ../main.js:595
+msgid "Step 3: Weather forecast"
+msgstr "Βήμα 3: Πρόγνωση καιρού"
+
+#: ../main.js:596
+msgid "Weather forecast"
+msgstr "Πρόγνωση καιρού"
+
+#: ../main.js:596
+msgid "Select your city and press OK"
+msgstr "Επιλέξτε την πόλη σας και πατήστε OK"
+
+#: ../main.js:639
+msgid "Step 4: Time zone"
+msgstr "Βήμα 4: Ζώνη ώρας"
+
+#: ../main.js:640
+msgid "Select your time zone"
+msgstr "Επιλέξτε τη ζώνη ώρας σας"
+
+#: ../main.js:672
+msgid "Setup completed"
+msgstr "Η ρύθμιση ολοκληρώθηκε"
+
+#: ../main.js:673
+msgid "Thank you!"
+msgstr "Σας ευχαριστούμε!"
+
+#: ../main.js:673
+msgid ""
+"The Setup Wizard is complete. All selected settings will be stored in the "
+"device’s memory. To edit the system settings any time, press SET or SETUP on "
+"your remote control and open the Main Menu."
+msgstr ""
+"Ο οδηγός εγκατάστασης έχει ολοκληρωθεί. Όλες οι επιλεγμένες ρυθμίσεις θα "
+"αποθηκευτούν στη μνήμη της συσκευής. Για να επεξεργαστείτε τις ρυθμίσεις του "
+"συστήματος οποιαδήποτε στιγμή, πατήστε το πλήκτρο SET ή SETUP στο "
+"τηλεχειριστήριο σας για να ανοίξετε το Κύριο μενού."
+
+#: ../main.js:690
+msgid "Terms of use"
+msgstr "Όροι χρήσης"
+
+#: ../main.js:691
+msgid ""
+"&nbsp;&nbsp;Dear user, please read the terms and conditions for services "
+"integrated into AuraHD  device.<br />&nbsp;&nbsp;The AuraHD network media "
+"player is directly intended for digital content playback from the Internet "
+"(media files including streaming video), LANs and removable media including "
+"flash memory connected via USB port. The manufacturer is not responsible for "
+"quality and stability of the web services integrated into the device's "
+"software. The manufacturer also reserves the right to make occasional "
+"changes to the device's software and interface without prior notice in order "
+"to modify or improve its function.<br />&nbsp;&nbsp;Services by third "
+"parties offered in the AuraHD’s menu (Online Cinema, web services) are "
+"provided \"as is\" without warranty of any kind. The manufacturer cannot "
+"guarantee accuracy, timeliness, validity, completeness, compliance with any "
+"standards and laws or supplier's declaration of the service characteristics. "
+"The services are transferred by third parties via networks and data transfer "
+"means beyond the control of the device’s manufacturer.<br />&nbsp;&nbsp;If "
+"you do not agree to these terms and conditions for services integrated into "
+"the AuraHD device, please stop using it and return the device to the store "
+"where it was purchased within 14 days of purchase."
+msgstr ""
+"&nbsp;&nbsp;Αγαπητέ χρήστη, παρακαλούμε να διαβάσετε τους όρους και τις "
+"προϋποθέσεις για τις υπηρεσίες που ενσωματώνονται στη συσκευή AuraHD.<br /"
+">&nbsp;&nbsp;Το δίκτυο AuraHD media player προορίζεται άμεσα για την "
+"αναπαραγωγή ψηφιακού περιεχομένου από το Internet (αρχεία πολυμέσων, "
+"συμπεριλαμβανομένων βίντεο συνεχούς ροής), τοπικά δίκτυα και τα "
+"μετακινούμενα μέσα συμπεριλαμβανομένης της μνήμης flash που συνδέεται μέσω "
+"θύρας USB. Ο κατασκευαστής δεν είναι υπεύθυνος για την ποιότητα και τη "
+"σταθερότητα των υπηρεσιών web που ενσωματώνονται στο λογισμικό της συσκευής. "
+"Ο κατασκευαστής διατηρεί επίσης το δικαίωμα να κάνει περιστασιακές αλλαγές "
+"στο λογισμικό της συσκευής και διασύνδεσης, χωρίς προηγούμενη ειδοποίηση, "
+"προκειμένου να τροποποιήσουν ή να βελτιώσουν τη λειτουργία της.<br />&nbsp;"
+"&nbsp;Οι υπηρεσίες από τρίτους που προσφέρονται στο μενού του AuraHD (Online "
+"Cinema, υπηρεσίες web) παρέχεται όπως είναι χωρίς κανενός είδους εγγύηση. Ο "
+"κατασκευαστής δεν μπορεί να εγγυηθεί την ακρίβεια, την επικαιρότητα, την "
+"εγκυρότητα, την πληρότητα, τη συμμόρφωση με όλα τα πρότυπα και τους νόμους ή "
+"δήλωση του προμηθευτή από τα χαρακτηριστικά των υπηρεσιών. Οι υπηρεσίες που "
+"μεταβιβάζονται από τρίτους μέσω δικτύων και η μεταφορά δεδομένων σημαίνει "
+"πέρα από τον έλεγχο του κατασκευαστή της συσκευής. <br />&nbsp;&nbsp;Εάν δεν "
+"συμφωνείτε με αυτούς τους όρους και τις προϋποθέσεις για την παροχή "
+"υπηρεσιών που είναι ενσωματωμένα στη συσκευή AuraHD, παρακαλούμε σταματήστε "
+"τη χρήση του και να επιστρέψετε τη συσκευή στο κατάστημα από όπου το "
+"αγοράσατε εντός 14 ημερών από την αγορά."
+
+#: ../main.js:692
+msgid "Continue"
+msgstr "Συνέχεια"
+
+#: ../main.js:905
+msgid ""
+"Unfortunately, the Setup Wizard was unable to connect your device to LAN and "
+"Internet.<br />Please, check general connection terms:<br /> - the Ethernet "
+"cable connected to the appropriate slot of the device;<br /> - Wi-Fi status."
+"<br />Try to connect again."
+msgstr ""
+"Δυστυχώς, ο οδηγός εγκατάστασης δεν ήταν σε θέση να συνδέσει τη συσκευή σας "
+"σε δίκτυο LAN και στο Internet.<br />Παρακαλούμε, ελέγξτε όρους σύνδεσης:"
+"<br /> - το καλώδιο Ethernet είναι συνδεδεμένο στην κατάλληλη υποδοχή της "
+"συσκευής;<br /> - Wi-Fi κατάσταση.<br />Προσπαθήστε να συνδεθείτε ξανά."
+
+#: ../main.js:911
+msgid ""
+"Network connection successful. No Internet connection.<br />Possibly, no "
+"access to external services.<br />Check your Internet connection status."
+msgstr ""
+"Επιτυχημένη σύνδεση στο δίκτυο. Αλλά δεν υπάρχει σύνδεση στο Internet.<br /"
+">Ενδεχομένως, δεν έχετε πρόσβαση σε εξωτερικές υπηρεσίες.<br />Ελέγξτε την "
+"κατάσταση της σύνδεσής σας στο Internet."
+
+#: ../main.js:917
+msgid "Wireless network connection successful. Internet connection available."
+msgstr ""
+"Επιτυχημένη σύνδεση ασύρματου δικτύου. Η σύνδεση στο Διαδίκτυο είναι "
+"διαθέσιμη."
+
+#: ../main.js:917
+msgid "Network connection successful. Internet connection available."
+msgstr "Επιτυχημένη σύνδεση δικτύου. Σύνδεση στο Διαδίκτυο."
+
+#: ../main.js:1089
+msgid "Notice"
+msgstr "Ειδοποίηση"
+
+#: ../main.js:1089
+msgid "Wi-Fi adapter not connected"
+msgstr "Ο Wi-Fi προσαρμογέας δεν είναι συνδεδεμένος"
+
+#~ msgid "Password:"
+#~ msgstr "Κωδικός πρόσβασης :"
+
+#~ msgid "Back"
+#~ msgstr "Назад"
+
+#~ msgid ""
+#~ "If your TV has an HDMI input, use an HDMI cable to connect AuraHD and get "
+#~ "the best image quality (HD or Full HD)"
+#~ msgstr ""
+#~ "Если ваш телевизор оснащен HDMI-входом, для обеспечения максимально "
+#~ "возможного качества картинки (HD или Full HD) мы рекомендуем подключать "
+#~ "AuraHD с помощью HDMI-кабеля."

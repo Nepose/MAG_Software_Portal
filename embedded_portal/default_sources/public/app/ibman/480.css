@@ -1,0 +1,60 @@
+/**
+ * 720 x 480
+ * Internet Bookmarks Manager application style set
+ * by Stanislav Kalashnik <sk@infomir.eu>
+ */
+
+/* main page */
+.page.main { background-color:transparent }
+	.page.main .body { width:100% }
+	.page.main .body .header .csbar { width:5px }
+	.page.main .body .header .tray { width:45px; text-align:center; background-color:#252a32; white-space:nowrap; /*border-bottom:1px solid #000000*/ }
+	.page.main .body .header .tray img { height:28px; /*margin-right:10px;*/ vertical-align:middle }
+	.page.main .cmodal-main .cmodal-menu { float:right }
+
+	/*.page.main .cmodal-main .warn { padding-bottom:10px }*/
+	/*.page.main .cmodal-main .progressbar { height:24px; padding:3px; margin-top:7px; border:solid 2px #00aeee; background:none }*/
+	/*.page.main .cmodal-main .progressbar_bg { background:#fff }*/
+	/*.page.main .cmodal-main .progressbar_line { width:0; background-color:#ffc20e }*/
+	/*.page.main .cmodal-main .progressbar_digit { color:#000; text-align:center; margin-top:-22px }*/
+	/*.page.main .cmodal-main .cmodal-content.cmodal-pls .cbpanel-item { font-size:18px; padding-bottom:10px; padding-right:0; display:block !important }*/
+	/*.page.main .cmodal-main .cmodal-content.cmodal-pls .cbpanel-item:last-of-type { padding-bottom:0 }*/
+	/*.page.main .cmodal-main .cmodal-content.cmodal-pls .block { padding-bottom:20px; margin-bottom:14px; line-height:28px; border-bottom:2px solid #999 }*/
+	/*.page.main .cmodal-main .cmodal-content.cmodal-pls .block a.switch { width:80px; height:30px; background: url("../img/720/switch_act.png") 0 0 no-repeat; display:inline-block; float:right }*/
+	/*.page.main .cmodal-main .cmodal-content.cmodal-pls .block a.switch.on { background-position:0 -34px }*/
+	/*.page.main .cmodal-main.format { background:url('../img/bg_black_70.png') }*/
+	.page.main .content .cslist-main { height:295px; }
+		.page.main .content .cslist-main a                { width:598px; height:55px; line-height:55px; padding:0 10px; border:2px solid #010101; margin-left:-2px; margin-right:4px }
+		.page.main .content .cslist-main a.focused        { background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0%,#3b3b3b), color-stop(40%,#181818), color-stop(60%,#181818), color-stop(100%,#4e4e4e)) }
+		.page.main .content .cslist-main a.focused.marked { background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0%,#433a23), color-stop(40%,#2f250b), color-stop(60%,#2f250b), color-stop(100%,#4c432c)) }
+		.page.main .content .cslist-main a .data          { text-indent:63px; font-size:19px; white-space:nowrap; text-overflow:ellipsis; overflow:hidden; background: no-repeat left center; }
+		.page.main .content .preview .cslist-main a { width:360px }
+		.page.main .content .main { background-color:#010101; }
+			.page.main tr.content.bookmarks > td { background: url("../../img/720/backgrounds/bg_icon_ibman.png") center no-repeat; }
+		.page.main .content .sbar { width:230px; height:295px; padding-left:8px; }
+			.page.main .content .sbar > table {  }
+			.page.main .content .sbar > table .view { font-size:15px; vertical-align:top; }
+			.page.main .content .sbar > table .view > div { height:262px; overflow:hidden }
+			.page.main .content .sbar > table .view div.fade { position:absolute; bottom:126px; width:245px; height:32px; background: url("../../img/720/backgrounds/bottom_trans.png") repeat-x bottom }
+			.page.main .content .sbar > table .view .hint { text-align:center; margin-bottom:21px }
+			.page.main .content .sbar > table .view .lbl  { color:#ffc20e; margin-bottom:7px }
+			.page.main .content .sbar > table .view .txt  { color:#fff; margin-left:3px; word-break: break-all; word-wrap: break-word; }
+			/*.page.main .content .sbar > table .view img { padding:0 10px 7px 0 }*/
+			.page.main .content .sbar > table .view div.text { margin-left:49px; padding:0 0 3px 7px; border-left:2px solid #3e3e3e }
+			.page.main .content .sbar > table .view div.file { font-size:0; text-align:center }
+			.page.main .content .sbar > table .view div.file img.empty { background-color:#282828; width:200px; height:150px; }
+			.page.main .content .sbar > table .view div.file img.ready {  }
+			/*.page.main .content .sbar > table .view div.file .player { height:154px; margin-bottom:2px; cursor:pointer }*/
+			/*.page.main .content .sbar > table .view div.file .player.stop { background: url("../img/bg_white_30.png") center repeat, url("../img/720/media/ico_osd_playpause.png") center no-repeat }*/
+			/*.page.main .content .sbar > table .view div.file .player.load { background: url("../img/bg_white_30.png") center repeat, url("../img/720/media/ico_osd_wait.png") center no-repeat }*/
+			/*.page.main .content .sbar > table .view div.file .player.audio { background: url("../img/bg_white_30.png") center repeat, url("../img/720/media/ico_osd_audio.png") center no-repeat }*/
+			/*.page.main .content .sbar > table .view div.file .player.play { background:none }*/
+			/*.page.main .content .sbar > table .view div.file .pgbar  { height:8px; background-color:#2a2c2f; *//*display:none*//* }*/
+			/*.page.main .content .sbar > table .view div.file .pgval  { height:8px; top:-8px; width:0; background-color:#ffc20e; position:relative; display:inline-block; *//*display:none*//* }*/
+			.page.main .content .sbar > table .info { height:31px; background:none; border-top:2px solid #3e3e3e }
+			.page.main .content .sbar > table .info .block { display:inline-block; line-height:28px; padding:0 16px 0 26px; font-size:14px; color:#888 }
+			.page.main .content .sbar > table .info .block.all { background:url("../../img/720/media/ico_list_rec.png") no-repeat left center; padding-right:1px; }
+			.page.main .content .sbar > table .info .block.sel { background:url("../../img/720/media/ico_list_sel.png") no-repeat left center; padding-right:0 }
+			.page.main .content .sbar > table .info .block span.value { color:#fff }
+
+.cselect-box-wide { width:399px !important; }

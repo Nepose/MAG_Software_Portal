@@ -16,9 +16,18 @@ function checkIfPackage() {
 
 if [ $(dpkg-query -W -f='${Status}' `echo $1` 2>/dev/null | grep -c "ok installed") -eq 0 ]
 then
-	echo "[ ${OutputRed}ERR${OutputWhite} ] The required package $1 is not installed. Install it and then try starting script again. Now aborting."
+	echo "[ ${OutputRed}ERR${OutputWhite} ] The required package $1 is not installed."
 	[ "$2" != "" ] && echo "      Additional message sent by script: $2"
-	kill -s TERM $TOP_PID
+	read -p "      Do you want to install it now? (Y/n)" install
+	case "$install" in
+		"n"|"N"|"nO"|"No"|"NO")
+			kill -s TERM $TOP_PID
+		"y"|"Y"|"yes"|"Yes"|"yES"|"yEs"|"YeS"|"YES"|"YEs"|"yeS")
+			sudo apt-get update
+			sudo apt-get install "$1"
+		*)
+			echo "[ ${OutputRed}ERR${OutputWhite} ] Invalid input. Aborting."
+			kill -s TERM $TOP_PID
 fi
 
 }

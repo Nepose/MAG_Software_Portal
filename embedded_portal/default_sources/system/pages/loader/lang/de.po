@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Service menu\n"
+"POT-Creation-Date: 2016-10-20 16:34+0300\n"
+"PO-Revision-Date: 2016-10-20 16:34+0300\n"
+"Last-Translator: Boris Aleynikov <aleynikov.boris@gmail.com>\n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-KeywordsList: _;gettext.data\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../view.js:117
+msgid "Portal"
+msgstr "Portal"
+
+#: ../view.js:195
+msgid "Loading portal..."
+msgstr "Portal lädt ..."
+
+#: ../view.js:196
+msgid "Press MENU to load portal selection screen"
+msgstr "Drücken Sie MENÜ, um Portal-Auswahl zu laden "
+
+#: ../view.js:259
+msgid "Select a portal for loading"
+msgstr "Wählen Sie zum Laden das Portal aus "
+
+#: ../view.js:275
+msgid "Page loading error"
+msgstr "Fehler beim Laden der Seite "
+
+#: ../view.js:283
+msgid "Internet: "
+msgstr "Internet:"
+
+#: ../view.js:284 ../view.js:295 ../view.js:314 ../view.js:446 ../view.js:485
+#: ../view.js:496
+msgid "Enabled"
+msgstr "An"
+
+#: ../view.js:295 ../view.js:314 ../view.js:485
+#, fuzzy
+msgid "Not connected"
+msgstr "Aus"
+
+#: ../view.js:300
+msgid "Ethernet: "
+msgstr "Ethernet: "
+
+#: ../view.js:303 ../view.js:322
+msgid "IP: "
+msgstr "IP: "
+
+#: ../view.js:303 ../view.js:304 ../view.js:322 ../view.js:323 ../view.js:446
+#: ../view.js:489 ../view.js:500 ../view.js:512 ../view.js:514
+#, fuzzy
+msgid "Not available"
+msgstr "Nicht erreichbar "
+
+#: ../view.js:304 ../view.js:323
+msgid "MAC: "
+msgstr "MAC: "
+
+#: ../view.js:319
+msgid "Wi-Fi: "
+msgstr "WLAN:"
+
+#: ../view.js:332
+msgid "Model: "
+msgstr "Modell:"
+
+#: ../view.js:333
+msgid "Version: "
+msgstr "Version:"
+
+#: ../view.js:344
+msgid "Please check the connection and the page URL"
+msgstr "Bitte überprüfen Sie die Internetverbindung und die URL "
+
+#: ../view.js:364 ../view.js:397
+msgid "Try again"
+msgstr "Versuchen Sie es erneut "
+
+#: ../view.js:369
+msgid "Embedded portal"
+msgstr "Internes Portal "
+
+#: ../view.js:376
+msgid "System settings"
+msgstr "Systemeinstellungen"
+
+#: ../view.js:496 ../view.js:510
+msgid "Disabled"
+msgstr "Aus "

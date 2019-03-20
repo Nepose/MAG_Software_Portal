@@ -1,0 +1,395 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Internet bookmarks Manager\n"
+"POT-Creation-Date: 2016-10-20 16:34+0300\n"
+"PO-Revision-Date: 2016-10-20 16:34+0300\n"
+"Last-Translator: georgesat20 <georgesat20@gmail.com>\n"
+"Language-Team: \n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-KeywordsList: _;gettext.data\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../cblist.js:460
+msgid "File not found"
+msgstr "Το αρχείο δεν βρέθηκε"
+
+#: ../cblist.js:480
+msgid "Error"
+msgstr "Σφάλμα"
+
+#: ../cblist.js:480
+msgid "Unknown type of selected item"
+msgstr "Άγνωστος τύπος του επιλεγμένου στοιχείου"
+
+#: ../cblist.js:480 ../view.main.js:222 ../view.main.js:441
+msgid "Close"
+msgstr "Κλείσιμο"
+
+#: ../modals.js:130 ../modals.js:635
+msgid "End recording:"
+msgstr "Ολοκλήρωση της εγγραφής:"
+
+#: ../modals.js:147 ../modals.js:652
+msgid "Record length:"
+msgstr "Μήκος εγγραφής:"
+
+#: ../modals.js:234 ../modals.js:344 ../modals.js:854
+msgid "Cancel"
+msgstr "Ακύρωση"
+
+#: ../modals.js:237 ../view.main.js:506
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+#: ../modals.js:332
+msgid "Delete related file"
+msgstr "Διαγράψτε το συνδεδεμένο αρχείο"
+
+#: ../modals.js:344
+msgid "Delete record"
+msgstr "Διαγραφή εγγραφής"
+
+# menu item
+#: ../modals.js:366 ../view.main.js:512
+msgid "Delete"
+msgstr "Διαγραφή"
+
+#: ../modals.js:563
+msgid "IPTV"
+msgstr "IPTV"
+
+#: ../modals.js:590 ../modals.js:785 ../view.main.js:176
+msgid "No storage device"
+msgstr "Καμία συσκευή αποθήκευσης"
+
+#: ../modals.js:602
+msgid "No channels"
+msgstr "Δεν υπάρχουν κανάλια"
+
+#: ../modals.js:618
+msgid "Start recording:"
+msgstr "Έναρξη εγγραφής:"
+
+#: ../modals.js:662
+msgid "Path:"
+msgstr "Διαδρομή:"
+
+#: ../modals.js:667 ../view.main.js:287
+msgid "Channel:"
+msgstr "Κανάλι:"
+
+#: ../modals.js:671
+msgid "Record name:"
+msgstr "Όνομα εγγραφής:"
+
+#: ../modals.js:677
+msgid "Record in:"
+msgstr "εγγραφή στο:"
+
+#: ../modals.js:683
+msgid "Free space:"
+msgstr "Ελεύθερος χώρος:"
+
+#: ../modals.js:683 ../modals.js:684
+msgid "GB"
+msgstr "GB"
+
+#: ../modals.js:683
+msgid "of"
+msgstr "από"
+
+#: ../modals.js:766
+msgid "Channel list is empty"
+msgstr "Η λίστα καναλιών είναι άδεια"
+
+#: ../modals.js:780
+msgid "Error. Too many active records."
+msgstr "Σφάλμα. Πάρα πολλές ενεργές εγγραφές."
+
+#: ../modals.js:790 ../modals.js:821 ../modals.js:839 ../model.main.js:60
+#: ../model.main.js:78
+msgid "Not enough disk space"
+msgstr "Δεν υπάρχει αρκετός χώρος στο δίσκο"
+
+#: ../modals.js:824 ../model.main.js:63
+msgid "Incorrect time"
+msgstr "Λάθος ώρα"
+
+#: ../modals.js:827 ../model.main.js:66
+msgid "Wrong name or path"
+msgstr "Λάθος όνομα ή διαδρομή"
+
+#: ../modals.js:830 ../model.main.js:69
+msgid "Duplicated file"
+msgstr "Διπλασιασμός του αρχείου"
+
+#: ../modals.js:833 ../model.main.js:72
+msgid "Wrong URL"
+msgstr "Λάθος URL "
+
+#: ../modals.js:836 ../model.main.js:75
+msgid "Too many active records processed"
+msgstr "Πάρα πολλές ενεργές εγγραφές"
+
+#: ../modals.js:842
+msgid "Error..."
+msgstr "Σφάλμα..."
+
+#: ../modals.js:857
+msgid "Start recording"
+msgstr "Έναρξη εγγραφής"
+
+#: ../model.main.js:39 ../view.main.js:534
+msgid "Scheduled"
+msgstr "Προγραμματισμένη"
+
+#: ../model.main.js:43
+msgid "Recording"
+msgstr "Εγγραφή"
+
+#: ../model.main.js:47 ../model.main.js:81
+msgid "Recording error"
+msgstr "Σφάλμα εγγραφής"
+
+#: ../model.main.js:51 ../view.main.js:537
+msgid "Completed"
+msgstr "Ολοκληρώθηκε"
+
+#: ../view.main.js:92
+msgid "Record manager"
+msgstr "Διαχειριστής εγγραφών"
+
+#: ../view.main.js:102
+msgid "Enter record name..."
+msgstr "Πληκτρολογήστε το όνομα της εγγραφής"
+
+#: ../view.main.js:190
+msgid "USB storage is connected"
+msgstr "Το USB είναι συνδεδεμένο"
+
+#: ../view.main.js:204
+msgid "Exit"
+msgstr "Έξοδος"
+
+#: ../view.main.js:214
+msgid "Menu"
+msgstr "Мενού"
+
+#: ../view.main.js:217 ../view.main.js:699
+msgid "Show<br>info panel"
+msgstr "Εμφάνιση<br />πληροφοριών"
+
+#: ../view.main.js:220
+msgid "Add<br>record"
+msgstr "Προσθήκη<br>εγγραφής"
+
+#: ../view.main.js:222 ../view.main.js:441
+msgid "Warning!"
+msgstr "Προειδοποίηση!"
+
+#: ../view.main.js:222 ../view.main.js:441
+msgid "\"Storage read only access mode\" is enabled in System Settings"
+msgstr ""
+"\"Αποθήκευση λειτουργίας πρόσβασης μόνο για ανάγνωση\" είναι ενεργοποιημένη "
+"στις ρυθμίσεις συστήματος"
+
+# menu item
+#: ../view.main.js:227 ../view.main.js:508
+msgid "Select"
+msgstr "Επιλέξτε"
+
+#: ../view.main.js:247
+msgid "Items:"
+msgstr "Στοιχεία:"
+
+#: ../view.main.js:248
+msgid "Selected:"
+msgstr "Επιλεγμένα:"
+
+#: ../view.main.js:259
+msgid "Contains a list of items corresponding to the given filter request"
+msgstr ""
+"Περιέχει μια λίστα των αντικειμένων που αντιστοιχούν στο συγκεκριμένο αίτημα "
+"του φίλτρου"
+
+#: ../view.main.js:279
+msgid "Detailed information about the selected record"
+msgstr "Λεπτομερείς πληροφορίες σχετικά με την επιλεγμένη εγγραφή"
+
+#: ../view.main.js:282
+msgid "Name:"
+msgstr "Όνομα:"
+
+#: ../view.main.js:283
+msgid "Status:"
+msgstr "Κατάσταση:"
+
+#: ../view.main.js:284
+msgid "Start:"
+msgstr "Έναρξη:"
+
+#: ../view.main.js:285
+msgid "End:"
+msgstr "Λήξη:"
+
+# menu item
+#: ../view.main.js:286
+msgid "Duration:"
+msgstr "Διάρκεια:"
+
+# часов
+#: ../view.main.js:286
+msgid "h."
+msgstr "ω."
+
+# минут
+#: ../view.main.js:286
+msgid "m."
+msgstr "λ."
+
+#: ../view.main.js:323
+msgid "Jan"
+msgstr "Ιαν"
+
+#: ../view.main.js:323
+msgid "Feb"
+msgstr "Φεβ"
+
+#: ../view.main.js:323
+msgid "Mar"
+msgstr "Μάρτ"
+
+#: ../view.main.js:323
+msgid "Apr"
+msgstr "Απρ"
+
+#: ../view.main.js:323
+msgid "May"
+msgstr "Μάι"
+
+#: ../view.main.js:323
+msgid "Jun"
+msgstr "Ιούν"
+
+#: ../view.main.js:323
+msgid "Jul"
+msgstr "Ιούλ"
+
+#: ../view.main.js:323
+msgid "Aug"
+msgstr "Αύγ"
+
+#: ../view.main.js:323
+msgid "Sep"
+msgstr "Σεπ"
+
+#: ../view.main.js:323
+msgid "Oct"
+msgstr "Οκτ"
+
+#: ../view.main.js:323
+msgid "Nov"
+msgstr "Νοέμ"
+
+#: ../view.main.js:323
+msgid "Dec"
+msgstr "Δεκ"
+
+#: ../view.main.js:429
+msgid "Operations"
+msgstr "Λειτουργίες"
+
+#: ../view.main.js:443 ../view.main.js:505 ../view.main.js:710
+msgid "Add record"
+msgstr "Προσθέστε εγγραφή"
+
+#: ../view.main.js:448
+msgid "Edit record"
+msgstr "Επεξεργασία εγγραφής"
+
+# menu item
+#: ../view.main.js:504
+msgid "Open"
+msgstr "Άνοιγμα"
+
+#: ../view.main.js:507
+msgid "Stop"
+msgstr "Διακοπή"
+
+# menu item
+#: ../view.main.js:509
+msgid "Select all"
+msgstr "Επιλογή όλων"
+
+# menu item
+#: ../view.main.js:510
+msgid "Deselect all"
+msgstr "Αποεπιλογή όλων"
+
+# menu item
+#: ../view.main.js:511
+msgid "Invert selection"
+msgstr "Αντιστροφή της επιλογής"
+
+#: ../view.main.js:515
+msgid "View"
+msgstr "Προβολή"
+
+# menu item
+#: ../view.main.js:533
+msgid "All"
+msgstr "Όλων"
+
+# menu item
+#: ../view.main.js:535
+msgid "In progress"
+msgstr "Σε εξέλιξη"
+
+#: ../view.main.js:536
+msgid "Errors"
+msgstr "Σφάλματα"
+
+#: ../view.main.js:540
+msgid "Sort"
+msgstr "Ταξινόμηση"
+
+# menu item
+#: ../view.main.js:555
+msgid "By name"
+msgstr "Με βάση το όνομα"
+
+# menu item
+#: ../view.main.js:556
+msgid "By time"
+msgstr "Με βάση την ώρα"
+
+# menu item
+#: ../view.main.js:557
+msgid "By state"
+msgstr "Με βάση την κατάσταση"
+
+# menu item
+#: ../view.main.js:558
+msgid "By duration"
+msgstr "Με βάση την διάρκεια"
+
+#: ../view.main.js:699
+msgid "Hide<br>info panel"
+msgstr "Απόκρυψη<br />πληροφοριών"
+
+#, fuzzy
+#~ msgid ""
+#~ "To perform this operation, you must to turn off \"Storage read only access"
+#~ "\" in system settings"
+#~ msgstr ""
+#~ "Чтобы выполнить эту операцию, необходимо отключить \"Storage read only "
+#~ "access\" в системных настройках"
+
+#~ msgid "Selected record detailed info"
+#~ msgstr "Подробная информация о выбранной записи"

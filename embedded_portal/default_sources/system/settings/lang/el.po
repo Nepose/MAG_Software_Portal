@@ -1,0 +1,1088 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: settings\n"
+"POT-Creation-Date: 2017-03-17 16:06+0200\n"
+"PO-Revision-Date: 2017-03-17 16:06+0200\n"
+"Last-Translator: denvas <denvasden@gmail.com>\n"
+"Language-Team: \n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-KeywordsList: _;gettext.data\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../js/base_function.js:6 ../js/keypress.js:474 ../js/main.js:858
+#: ../js/main.js:1025 ../js/main.js:2091 ../js/main.js:2135 ../js/main.js:2172
+#: ../js/main.js:2835 ../js/main.js:2858 ../js/main.js:4082 ../js/main.js:4094
+msgid "Confirm"
+msgstr "Επιβεβαίωση"
+
+#: ../js/base_function.js:6 ../js/keypress.js:474 ../js/keypress.js:485
+#: ../js/main.js:860 ../js/main.js:923 ../js/main.js:1011 ../js/main.js:1027
+#: ../js/main.js:1240 ../js/main.js:1623 ../js/main.js:1681 ../js/main.js:1771
+#: ../js/main.js:1949 ../js/main.js:1972 ../js/main.js:2093 ../js/main.js:2137
+#: ../js/main.js:2174 ../js/main.js:2835 ../js/main.js:2860 ../js/main.js:3086
+#: ../js/main.js:3100 ../js/main.js:3247 ../js/main.js:3383 ../js/main.js:3555
+#: ../js/main.js:3557 ../js/main.js:3660 ../js/main.js:4082 ../js/main.js:4096
+#: ../js/main.js:4182 ../js/main.js:4227 ../js/main.js:4241 ../js/main.js:4375
+#: ../js/modals.js:59 ../js/modals.js:147 ../js/modals.js:229
+#: ../js/modals.js:289
+msgid "Cancel"
+msgstr "Ακύρωση"
+
+#: ../js/base_function.js:6 ../js/main.js:140 ../js/main.js:4748
+#: ../js/main.js:4773
+msgid "Save"
+msgstr "Αποθήκευση"
+
+#: ../js/cbtlist.js:128
+msgid "Unpaire"
+msgstr ""
+
+#: ../js/keypress.js:474
+msgid ""
+"You have changed some settings.<br>To apply new settings it is necessary to "
+"reboot device.<br>Reboot now?"
+msgstr ""
+"Έχετε αλλάξει κάποιες ρυθμίσεις. <br>για να εφαρμόσετε τις νέες ρυθμίσεις "
+"είναι απαραίτητη η επανεκκίνηση της συσκευής.<br>Επανεκκίνηση τώρα;"
+
+#: ../js/keypress.js:480 ../js/keypress.js:491 ../js/main.js:862
+#: ../js/main.js:1029 ../js/main.js:2102 ../js/main.js:2163 ../js/main.js:2200
+#: ../js/main.js:2835 ../js/main.js:2862 ../js/main.js:4082 ../js/main.js:4097
+msgid "Yes"
+msgstr "Ναι"
+
+#: ../js/keypress.js:485
+msgid "Confirmation"
+msgstr "Επικύρωση"
+
+#: ../js/keypress.js:485
+msgid ""
+"You have changed some settings.<br>To apply new settings it is necessary to "
+"restart portal.<br>Restart now?"
+msgstr ""
+"Έχετε αλλάξει κάποιες ρυθμίσεις. <br>για να εφαρμόσετε τις νέες ρυθμίσεις "
+"είναι απαραίτητη η επανεκκίνηση του portal.<br>Επανεκκίνηση τώρα;"
+
+#: ../js/keypress.js:518 ../js/keypress.js:587
+msgid "Some settings have been changed"
+msgstr "Ορισμένες ρυθμίσεις έχουν αλλάξει"
+
+#: ../js/main.js:13
+#, fuzzy
+msgid "No data"
+msgstr "No data"
+
+#: ../js/main.js:46
+msgid "USB storage is connected"
+msgstr "Το USB αποθήκευσης είναι συνδεδεμένο"
+
+#: ../js/main.js:123
+msgid "Exit"
+msgstr "Έξοδος"
+
+#: ../js/main.js:131 ../js/main.js:2226 ../js/main.js:2543 ../js/main.js:3191
+#: ../js/main.js:3420 ../js/main.js:3588 ../js/main.js:3800 ../js/main.js:4746
+msgid "More"
+msgstr "Περισσότερα"
+
+#: ../js/main.js:134 ../js/main.js:4751
+msgid "Up"
+msgstr "πάνω"
+
+#: ../js/main.js:137 ../js/main.js:4753
+msgid "Down"
+msgstr "Κάτω"
+
+#: ../js/main.js:160
+msgid "Info"
+msgstr "Πληροφορίες"
+
+#: ../js/main.js:183 ../js/main.js:4777
+#, fuzzy
+msgid "Add network"
+msgstr "Δίκτυο"
+
+#: ../js/main.js:193
+msgid "Remove network"
+msgstr ""
+
+#: ../js/main.js:194
+msgid "Remove"
+msgstr ""
+
+#: ../js/main.js:194
+msgid "Do you want to remove this network?"
+msgstr ""
+
+#: ../js/main.js:194 ../js/main.js:616 ../js/main.js:620 ../js/main.js:1259
+#: ../js/main.js:2247 ../js/main.js:2256 ../js/main.js:2613 ../js/main.js:3713
+msgid "Close"
+msgstr "Κλείσιμο"
+
+#: ../js/main.js:194 ../js/main.js:1892 ../js/modals.js:316
+msgid "Ok"
+msgstr "Ok"
+
+#: ../js/main.js:196 ../js/main.js:4768 ../js/modals.js:61 ../js/modals.js:149
+#: ../js/modals.js:231
+msgid "Refresh"
+msgstr "Ανανέωση"
+
+#: ../js/main.js:616 ../js/main.js:620 ../js/main.js:923 ../js/main.js:1011
+#: ../js/main.js:1240 ../js/main.js:1259 ../js/main.js:1623 ../js/main.js:1681
+#: ../js/main.js:1771 ../js/main.js:2247 ../js/main.js:2256 ../js/main.js:2613
+#: ../js/main.js:3247 ../js/main.js:3383 ../js/main.js:3555 ../js/main.js:3557
+#: ../js/main.js:3660 ../js/main.js:4182 ../js/main.js:4227 ../js/main.js:4241
+#: ../js/main.js:4375
+msgid "Notice"
+msgstr "Ειδοποίηση"
+
+#: ../js/main.js:616 ../js/main.js:2247
+msgid ""
+"During file playback, video output frame rate will be automatically "
+"adjusted<br/>according to played content.<br />Notes:<br />- works only with "
+"HDMI 720p/1080i/1080p video modes<br />- make sure your TV supports required "
+"video mode"
+msgstr ""
+"Κατά τη διάρκεια της αναπαραγωγής του αρχείου, το frame rate εξόδου βίντεο "
+"θα ρυθμιστεί αυτόματα<br/>σύμφωνα με το περιεχόμενο που έπαιξε<br /> "
+"Σημειώσεις:<br />- Λειτουργεί μόνο με HDMI 720p/1080i/1080p λειτουργίες "
+"βίντεο.<br />-βεβαιωθείτε ότι η τηλεόρασή σας υποστηρίζει την απαιτούμενη "
+"λειτουργία βίντεο."
+
+#: ../js/main.js:620
+msgid ""
+"<span style=\"color: red\">With option enabled in DVI mode<br/>HDMI audio "
+"will be missing</span>"
+msgstr ""
+
+#: ../js/main.js:688 ../js/main.js:748 ../js/main.js:4541
+msgid "Network"
+msgstr "Δίκτυο"
+
+#: ../js/main.js:689 ../js/main.js:3176 ../js/main.js:4542
+msgid "Servers"
+msgstr "Servers"
+
+#: ../js/main.js:690 ../js/main.js:1994 ../js/main.js:4543
+msgid "Video"
+msgstr "Βίντεο"
+
+#: ../js/main.js:691 ../js/main.js:3729 ../js/main.js:4544
+msgid "Audio"
+msgstr "Ήχος"
+
+#: ../js/main.js:692 ../js/main.js:2331 ../js/main.js:2334 ../js/main.js:4545
+msgid "Advanced settings"
+msgstr "Σύνθετες ρυθμίσεις"
+
+#: ../js/main.js:693 ../js/main.js:3949 ../js/main.js:4546
+msgid "Keyboard layout"
+msgstr "Διάταξη πληκτρολογίου"
+
+#: ../js/main.js:694 ../js/main.js:850 ../js/main.js:1075 ../js/main.js:1290
+#: ../js/main.js:2645 ../js/main.js:4547 ../js/main.js:4760 ../js/modals.js:59
+#: ../js/modals.js:147 ../js/modals.js:229
+msgid "Network info"
+msgstr "Πληροφορίες δικτύου"
+
+#: ../js/main.js:695 ../js/main.js:4053 ../js/main.js:4548
+msgid "Device info"
+msgstr "Πληροφορίες συσκευής"
+
+#: ../js/main.js:696 ../js/main.js:4549
+msgid "Restart portal"
+msgstr "Επανεκκίνηση portal"
+
+#: ../js/main.js:697 ../js/main.js:4550
+msgid "Reboot device"
+msgstr "Επανεκκίνηση της συσκευής"
+
+#: ../js/main.js:698 ../js/main.js:4551
+msgid "Reset settings"
+msgstr "Επαναφορά ρυθμίσεων"
+
+#: ../js/main.js:699 ../js/main.js:4552
+msgid "Clear user data"
+msgstr "Διαγραφή δεδομένων χρήστη"
+
+#: ../js/main.js:700 ../js/main.js:2890 ../js/main.js:3054 ../js/main.js:3126
+#: ../js/main.js:4553
+msgid "Software update"
+msgstr "Ενημέρωση λογισμικού"
+
+#: ../js/main.js:703 ../js/main.js:4124 ../js/main.js:4556
+msgid "Remote control"
+msgstr "Τηλεχειριστήριο apk"
+
+#: ../js/main.js:726
+msgid "System settings"
+msgstr "Ρυθμίσεις συστήματος"
+
+#: ../js/main.js:763 ../js/main.js:769 ../js/main.js:809 ../js/main.js:2663
+#: ../js/main.js:2669 ../js/main.js:2702
+msgid "Wired (Ethernet)"
+msgstr "Ενσύρματο (Ethernet)"
+
+#: ../js/main.js:764 ../js/main.js:771 ../js/main.js:1267 ../js/main.js:2664
+#: ../js/main.js:2671 ../js/main.js:2801
+msgid "Wireless (Wi-Fi)"
+msgstr "Ασύρματο (Wi-Fi)"
+
+#: ../js/main.js:770 ../js/main.js:1057 ../js/main.js:2670 ../js/main.js:2758
+msgid "PPPoE"
+msgstr "PPPoE"
+
+#: ../js/main.js:778
+msgid "Bluetooth"
+msgstr ""
+
+#: ../js/main.js:828 ../js/main.js:835 ../js/main.js:1064 ../js/main.js:1118
+#: ../js/main.js:1278 ../js/main.js:1329
+msgid "Auto (DHCP)"
+msgstr "Αυτόματο (DHCP)"
+
+#: ../js/main.js:829 ../js/main.js:836 ../js/main.js:889 ../js/main.js:1065
+#: ../js/main.js:1200 ../js/main.js:1279 ../js/main.js:1647
+msgid "Auto (DHCP), manual DNS"
+msgstr "Αυτόματο (DHCP), χειροκίνητος DNS"
+
+#: ../js/main.js:830 ../js/main.js:837 ../js/main.js:943 ../js/main.js:1280
+#: ../js/main.js:1703
+msgid "Manual"
+msgstr "Χειροκίνητο"
+
+#: ../js/main.js:838
+msgid "No IP"
+msgstr "Χωρίς IP"
+
+#: ../js/main.js:859 ../js/main.js:1026
+msgid "Confirm changes?"
+msgstr "Επιβεβαίωση των αλλαγών;"
+
+#: ../js/main.js:923 ../js/main.js:1011 ../js/main.js:1240 ../js/main.js:1623
+#: ../js/main.js:1681 ../js/main.js:1771 ../js/main.js:2613 ../js/main.js:3247
+#: ../js/main.js:3383 ../js/main.js:3557 ../js/main.js:3660 ../js/main.js:4182
+#: ../js/main.js:4227 ../js/main.js:4241 ../js/main.js:4375
+msgid "Following fields filled in incorrectly:"
+msgstr "Τα πεδία δεν έχουν συμπληρωθεί σωστά:"
+
+#: ../js/main.js:954 ../js/main.js:982 ../js/main.js:1714 ../js/main.js:1739
+#: ../js/main.js:2734 ../js/main.js:2777 ../js/main.js:2825 ../js/modals.js:42
+#: ../js/modals.js:134 ../js/modals.js:216
+msgid "IP address:"
+msgstr "Διεύθυνση IP:"
+
+#: ../js/main.js:955 ../js/main.js:990 ../js/main.js:1715 ../js/main.js:1747
+#: ../js/main.js:2735 ../js/modals.js:46
+msgid "Network mask:"
+msgstr "Μάσκα δικτύου:"
+
+#: ../js/main.js:956 ../js/main.js:998 ../js/main.js:1716 ../js/main.js:1755
+#: ../js/main.js:2736 ../js/main.js:2778 ../js/main.js:2826 ../js/modals.js:50
+#: ../js/modals.js:138 ../js/modals.js:220
+msgid "Gateway:"
+msgstr "Πύλη:"
+
+#: ../js/main.js:957 ../js/main.js:1006 ../js/main.js:2737 ../js/main.js:2779
+#: ../js/main.js:2827 ../js/modals.js:54 ../js/modals.js:142
+#: ../js/modals.js:224
+msgid "DNS server:"
+msgstr "DNS διακομιστής:"
+
+#: ../js/main.js:1093 ../js/main.js:1165
+msgid "PPPoE:"
+msgstr "PPPoE:"
+
+#: ../js/main.js:1106 ../js/main.js:1187
+msgid "Login:"
+msgstr "Είσοδος:"
+
+#: ../js/main.js:1107 ../js/main.js:1188 ../js/modals.js:273
+msgid "Password:"
+msgstr "Κωδικός πρόσβασης:"
+
+#: ../js/main.js:1189
+msgid "DNS:"
+msgstr "DNS:"
+
+#: ../js/main.js:1259
+msgid "Wi-Fi adapter not connected"
+msgstr "Ο Wi-Fi προσαρμογέας δεν είναι συνδεδεμένος"
+
+#: ../js/main.js:1357 ../js/main.js:1436
+msgid "Open"
+msgstr "Ανοιχτό"
+
+#: ../js/main.js:1358 ../js/main.js:1437
+msgid "Shared key"
+msgstr "Κοινόχρηστο κλειδί"
+
+#: ../js/main.js:1359 ../js/main.js:1438
+msgid "Auto Open/Shared key"
+msgstr "Αυτόματο Ανοιχτό/Κοινόχρηστο κλειδί"
+
+#: ../js/main.js:1364 ../js/main.js:1443
+msgid "NONE"
+msgstr "ΚΑΝΕΝΑ"
+
+#: ../js/main.js:1385 ../js/main.js:1495 ../js/main.js:4808
+msgid "Authentication mode:"
+msgstr "Λειτουργία ελέγχου:"
+
+#: ../js/main.js:1386 ../js/main.js:1496 ../js/main.js:4809
+msgid "Encryption:"
+msgstr "Κρυπτογράφηση:"
+
+#: ../js/main.js:1387 ../js/main.js:1497 ../js/main.js:1551 ../js/main.js:1582
+#: ../js/main.js:1594 ../js/main.js:1598 ../js/main.js:1605 ../js/main.js:1616
+msgid "Key or passphrase:"
+msgstr "Κλειδί ή φράση πρόσβασης:"
+
+#: ../js/main.js:1388 ../js/main.js:1498
+msgid "Keys and encoding setup"
+msgstr "Κλειδιά και ρύθμιση κωδικοποίησης"
+
+#: ../js/main.js:1808
+msgid "Scan devices"
+msgstr ""
+
+#: ../js/main.js:1812 ../js/main.js:1879
+msgid "Enable Bluetooth"
+msgstr ""
+
+#: ../js/main.js:1835 ../js/main.js:1879
+msgid "Disable Bluetooth"
+msgstr ""
+
+#: ../js/main.js:1839 ../js/main.js:1851 ../js/main.js:1877
+msgid "Search for devices"
+msgstr ""
+
+#: ../js/main.js:1845
+msgid "Searching ..."
+msgstr ""
+
+#: ../js/main.js:1859
+msgid "Scanning devices failed"
+msgstr ""
+
+#: ../js/main.js:1889
+msgid "Bluetooth pairing request"
+msgstr ""
+
+#: ../js/main.js:1891
+msgid ""
+"Note: After you type this code, you might need to press Enter, OK, or a "
+"similar button on your device"
+msgstr ""
+
+#: ../js/main.js:1890
+msgid "Enter the code on your device: "
+msgstr ""
+
+#: ../js/main.js:1901
+msgid "Bluetooth authentication failed"
+msgstr ""
+
+#: ../js/main.js:1906
+msgid "Bluetooth device connected"
+msgstr ""
+
+#: ../js/main.js:1915
+msgid "Failed to connect bluetooth device"
+msgstr ""
+
+#: ../js/main.js:1918
+msgid "Bluetooth device disconnected"
+msgstr ""
+
+#: ../js/main.js:1938
+msgid "Enable"
+msgstr ""
+
+#: ../js/main.js:1947
+msgid "Connection"
+msgstr ""
+
+#: ../js/main.js:1948 ../js/main.js:1971
+msgid "Device "
+msgstr ""
+
+#: ../js/main.js:1951
+msgid "Connect"
+msgstr ""
+
+#: ../js/main.js:1956
+msgid "Connection failed"
+msgstr ""
+
+#: ../js/main.js:1957
+msgid "Failed to connect "
+msgstr ""
+
+#: ../js/main.js:1958
+msgid "close"
+msgstr ""
+
+#: ../js/main.js:1970
+msgid "Disconnection"
+msgstr ""
+
+#: ../js/main.js:1974
+msgid "Disconnect"
+msgstr ""
+
+#: ../js/main.js:2017 ../js/main.js:2028
+msgid "Video output mode:"
+msgstr "Λειτουργία εξόδου βίντεο:"
+
+#: ../js/main.js:2025
+msgid "Graphic resolution:"
+msgstr "Ανάλυση γραφικών:"
+
+#: ../js/main.js:2092
+msgid ""
+"OK to confirm the new mode. <br> EXIT to return to the previous mode. <br> "
+"<br> Return to the previous mode after 15 seconds."
+msgstr ""
+
+#: ../js/main.js:2136 ../js/main.js:2173
+msgid ""
+"OK to confirm the new mode. <br> Confirmation will reboot the device. <br> "
+"EXIT to cancel."
+msgstr ""
+
+#: ../js/main.js:2239
+msgid "Auto frame rate:"
+msgstr "Αυτόματος ρυθμός καρέ:"
+
+#: ../js/main.js:2240 ../js/main.js:2411 ../js/main.js:2422 ../js/main.js:2765
+#: ../js/main.js:3821 ../js/modals.js:121 ../js/modals.js:162
+msgid "Disabled"
+msgstr "Απενεργοποιημένο"
+
+#: ../js/main.js:2251
+msgid "HDMI/DVI:"
+msgstr "HDMI/DVI:"
+
+#: ../js/main.js:2252
+msgid "HDMI"
+msgstr "HDMI"
+
+#: ../js/main.js:2253
+msgid "DVI"
+msgstr "DVI"
+
+#: ../js/main.js:2256
+msgid ""
+"<span style='color: red'>With option enabled in DVI mode<br/>HDMI audio will "
+"be missing</span>"
+msgstr ""
+
+#: ../js/main.js:2399
+msgid "Language:"
+msgstr "Γλώσσα"
+
+#: ../js/main.js:2409
+msgid "Time zone:"
+msgstr "Ζώνη ώρας:"
+
+#: ../js/main.js:2410
+msgid "UPnP client enabled:"
+msgstr "UPnP πελάτη ενεργοποιημένο:"
+
+#: ../js/main.js:2413
+msgid "Wireless"
+msgstr "Ασύρματο"
+
+#: ../js/main.js:2415
+msgid "Buffer size (ms):"
+msgstr "Μέγεθος ρυθμιστικού διαλύματος (ms):"
+
+#: ../js/main.js:2421
+msgid "HDMI-CEC:"
+msgstr ""
+
+#: ../js/main.js:2423
+msgid "Enabled"
+msgstr ""
+
+#: ../js/main.js:2424
+msgid "Enable once"
+msgstr ""
+
+#: ../js/main.js:2549
+msgid "Storages access mode:"
+msgstr "Λειτουργία πρόσβασης αποθηκεύσης:"
+
+#: ../js/main.js:2550
+msgid "full access"
+msgstr "πλήρης πρόσβαση"
+
+#: ../js/main.js:2551
+msgid "read only"
+msgstr "μόνο για ανάγνωση"
+
+#: ../js/main.js:2554
+msgid "This change will take effect after reboot"
+msgstr "Αυτή η αλλαγή θα τεθεί σε ισχύ μετά την επανεκκίνηση"
+
+#: ../js/main.js:2558
+msgid "IGMP version:"
+msgstr "IGMP έκδοση:"
+
+#: ../js/main.js:2562
+msgid "Multicast proxy enabled:"
+msgstr "Multicast proxy ενεργοποιημένη:"
+
+#: ../js/main.js:2571 ../js/main.js:2608
+msgid "Multicast proxy URL:"
+msgstr "Multicast proxy URL:"
+
+#: ../js/main.js:2719 ../js/modals.js:23 ../js/modals.js:81
+msgid "Manual DNS"
+msgstr "Χειροκίνητο DNS"
+
+#: ../js/main.js:2722 ../js/main.js:2812 ../js/modals.js:19 ../js/modals.js:77
+#: ../js/modals.js:197 ../js/modals.js:243
+msgid "Static IP"
+msgstr "Στατική IP"
+
+#: ../js/main.js:2725 ../js/modals.js:16 ../js/modals.js:74
+msgid "No config"
+msgstr "Καμία ρύθμιση"
+
+#: ../js/main.js:2729 ../js/main.js:2773 ../js/main.js:2820
+msgid "Current configuration"
+msgstr "Тρέχουσα διαμόρφωση"
+
+#: ../js/main.js:2731 ../js/main.js:2775 ../js/main.js:2822
+msgid "Current status"
+msgstr "Τρέχουσα κατάσταση"
+
+#: ../js/main.js:2732 ../js/main.js:2776 ../js/main.js:2823 ../js/modals.js:34
+#: ../js/modals.js:130 ../js/modals.js:208
+msgid "Link status:"
+msgstr "Κατάσταση Link:"
+
+#: ../js/main.js:2733 ../js/main.js:2824 ../js/main.js:4067 ../js/modals.js:38
+#: ../js/modals.js:212
+msgid "MAC address:"
+msgstr "MAC διεύθυνση:"
+
+#: ../js/main.js:2835
+msgid "Restart portal?"
+msgstr "Επανεκκίνηση portal;"
+
+#: ../js/main.js:2859
+msgid "Reset settings?"
+msgstr "Επαναφορά ρυθμίσεων;"
+
+#: ../js/main.js:2875 ../js/main.js:3133
+msgid "HTTP"
+msgstr "HTTP"
+
+#: ../js/main.js:2876 ../js/main.js:3134
+msgid "USB"
+msgstr "USB"
+
+#: ../js/main.js:2879 ../js/main.js:3137
+msgid "Multicast"
+msgstr "Multicast"
+
+#: ../js/main.js:2882 ../js/main.js:3140
+msgid "TFTP"
+msgstr "TFTP"
+
+#: ../js/main.js:2897 ../js/main.js:3128
+msgid "Update method:"
+msgstr "Μέθοδος ενημέρωσης:"
+
+#: ../js/main.js:2946 ../js/main.js:3129
+msgid "Disk:"
+msgstr "Δίσκος:"
+
+#: ../js/main.js:2953 ../js/main.js:2974 ../js/main.js:3146
+msgid "No disk found"
+msgstr "Δεν βρέθηκε δίσκος"
+
+#: ../js/main.js:2957 ../js/main.js:3130
+msgid "Path:"
+msgstr "Διαδρομή:"
+
+#: ../js/main.js:3065
+msgid "Incorrect URL"
+msgstr "Εσφαλμένη διεύθυνση URL"
+
+#: ../js/main.js:3076
+msgid "USB device not found!"
+msgstr "Η συσκευή USB δεν βρέθηκε!"
+
+#: ../js/main.js:3086 ../js/main.js:3100 ../js/main.js:3713
+msgid "Warning"
+msgstr "Προειδοποίηση"
+
+#: ../js/main.js:3086 ../js/main.js:3100
+msgid ""
+"<span class=\"alert\">Warning!</span> The device will be rebooted and "
+"updated automatically."
+msgstr ""
+"<span class='alert'>Προειδοποίηση!</span> Η συσκευή θα επανεκκινηθεί και θα "
+"ενημερώνεται αυτόματα."
+
+#: ../js/main.js:3088 ../js/main.js:3102
+msgid "Update"
+msgstr "Ενημέρωση"
+
+#: ../js/main.js:3090 ../js/main.js:3104
+msgid "Starting update..."
+msgstr "Έναρξη ενημέρωσης ..."
+
+#: ../js/main.js:3092 ../js/main.js:3106
+msgid "Some error occurred. Please, contact your operator."
+msgstr "Βρέθηκαν μερικά σφάλματα. Παρακαλώ, επικοινωνήστε με το φορέα σας."
+
+#: ../js/main.js:3117
+msgid "Verify"
+msgstr "Επαλήθευση"
+
+#: ../js/main.js:3189 ../js/main.js:3219
+msgid "General"
+msgstr "Γενικό"
+
+#: ../js/main.js:3190 ../js/main.js:3298
+msgid "Portals"
+msgstr "Portals"
+
+#: ../js/main.js:3226 ../js/main.js:3242
+msgid "NTP server:"
+msgstr "NTP server (για λήψη ζώνης ώρας):"
+
+#: ../js/main.js:3325
+msgid "Portal 1 name"
+msgstr "Portal 1 όνομα"
+
+#: ../js/main.js:3326 ../js/main.js:3362
+msgid "Portal 1 URL"
+msgstr "Portal 1 διεύθυνση URL"
+
+#: ../js/main.js:3327
+msgid "Portal 2 name"
+msgstr "Portal 2 όνομα"
+
+#: ../js/main.js:3328 ../js/main.js:3379
+msgid "Portal 2 URL"
+msgstr "Portal 2 διεύθυνση URL"
+
+#: ../js/main.js:3447 ../js/main.js:3448 ../js/main.js:3449 ../js/main.js:3450
+msgid "sec."
+msgstr "δευτερόλεπτα."
+
+#: ../js/main.js:3451 ../js/main.js:3452
+msgid "min."
+msgstr "λεπτά."
+
+#: ../js/main.js:3453
+msgid "Without auto start"
+msgstr "Χωρίς αυτόματη εκκίνηση"
+
+#: ../js/main.js:3456
+msgid "Multiportal mode:"
+msgstr "Λειτουργία Multiportal:"
+
+#: ../js/main.js:3457
+msgid "Default portal:"
+msgstr "Προεπιλεγμένο portal:"
+
+#: ../js/main.js:3458
+msgid "Portal load delay:"
+msgstr "Καθυστέρηση φόρτωσης portal:"
+
+#: ../js/main.js:3459 ../js/main.js:4632 ../js/main.js:4636 ../js/main.js:4665
+#: ../js/main.js:4669
+msgid "Portal:"
+msgstr "Portal:"
+
+#: ../js/main.js:3460 ../js/main.js:3686
+msgid "Use portal"
+msgstr "Χρήση portal"
+
+#: ../js/main.js:3461 ../js/main.js:3687
+msgid "Name"
+msgstr "Όνομα"
+
+#: ../js/main.js:3462 ../js/main.js:3688
+msgid "URL"
+msgstr "URL"
+
+#: ../js/main.js:3550
+msgid "Not all required fields are filled."
+msgstr "Δεν είναι όλα τα απαιτούμενα πεδία συμπληρωμένα ."
+
+#: ../js/main.js:3594
+msgid "Use DHCP portal:"
+msgstr "Χρησιμοποιήστε το DHCP portal:"
+
+#: ../js/main.js:3603 ../js/main.js:3631
+msgid "DHCP portal:"
+msgstr "DHCP portal:"
+
+#: ../js/main.js:3604 ../js/main.js:3639
+msgid "Bootstrap URL:"
+msgstr "Bootstrap URL:"
+
+#: ../js/main.js:3605 ../js/main.js:3647
+msgid "Update URL:"
+msgstr "Ενημέρωση URL:"
+
+#: ../js/main.js:3606 ../js/main.js:3655
+msgid "Control channel URL:"
+msgstr "κανάλι ελέγχου URL:"
+
+#: ../js/main.js:3713
+msgid ""
+"For correct work of \"Multiportal mode\" it is necessary to turn off \"Use "
+"DHCP portal\" (System settings/Servers/More)"
+msgstr ""
+"Για τη σωστή λειτουργία\"Multiportal \" είναι αναγκαίο να απενεργοποιήσετε"
+"\"τη χρήση του DHCP portal\" (ρυθμίσεις συστήματος/Servers/Περισσότερα)"
+
+#: ../js/main.js:3744
+msgid "Initial volume:"
+msgstr "αρχικός ήχος:"
+
+#: ../js/main.js:3745
+msgid "Audio output mode:"
+msgstr "Κατάσταση εξόδου ήχου:"
+
+#: ../js/main.js:3746
+msgid "Stereo"
+msgstr "Stereo"
+
+#: ../js/main.js:3747
+msgid "Mono"
+msgstr "Mono"
+
+#: ../js/main.js:3748
+msgid "Mono Left"
+msgstr "Mono Αριστερό"
+
+#: ../js/main.js:3749
+msgid "Mono Right"
+msgstr "Mono Δεξί"
+
+#: ../js/main.js:3820
+msgid "Dynamic range compression:"
+msgstr "Δυναμικό εύρος συμπίεσης:"
+
+#: ../js/main.js:3829
+msgid "Max"
+msgstr "Μέγιστο"
+
+#: ../js/main.js:3831
+msgid "Operating mode:"
+msgstr "Τρόπος λειτουργίας:"
+
+#: ../js/main.js:3837
+msgid "SPDIF Mode:"
+msgstr "SPDIF λειτουργία:"
+
+#: ../js/main.js:3841
+msgid "HDMI Audio:"
+msgstr "HDMI ήχος:"
+
+#: ../js/main.js:3931
+msgid "Russian"
+msgstr "Ρωσική"
+
+#: ../js/main.js:3932
+msgid "Ukrainian"
+msgstr "Ουκρανικά"
+
+#: ../js/main.js:3933
+msgid "English"
+msgstr "Αγγλικά"
+
+#: ../js/main.js:3934
+msgid "German"
+msgstr "Γερμανικά"
+
+#: ../js/main.js:3935
+msgid "Turkish"
+msgstr ""
+
+#: ../js/main.js:3936
+msgid "Arabic"
+msgstr ""
+
+#: ../js/main.js:3937
+msgid "Bulgarian"
+msgstr ""
+
+#: ../js/main.js:3938
+msgid "Greek"
+msgstr ""
+
+#: ../js/main.js:3939
+msgid "Spanish"
+msgstr ""
+
+#: ../js/main.js:4029
+msgid ""
+"None of the proposed layouts selected.<br>Layouts will be selected according "
+"to the location."
+msgstr ""
+"Καμία από τις προτεινόμενες διατάξεις δεν επιλέχθηκε.<br>Οι διατάξεις θα "
+"επιλεγούν ανάλογα με την τοποθεσία."
+
+#: ../js/main.js:4065
+msgid "Model:"
+msgstr "Μοντέλο:"
+
+#: ../js/main.js:4066
+msgid "Serial number:"
+msgstr "Σειριακός αριθμός:"
+
+#: ../js/main.js:4068
+msgid "Vendor:"
+msgstr "Πωλητής:"
+
+#: ../js/main.js:4069
+msgid "Hardware version:"
+msgstr "Έκδοση υλικού:"
+
+#: ../js/main.js:4070
+msgid "Active bank:"
+msgstr "Ενεργή Τράπεζα:"
+
+#: ../js/main.js:4071
+msgid "Image version:"
+msgstr "Έκδοση λογισμικού:"
+
+#: ../js/main.js:4072
+msgid "Image description:"
+msgstr "Περιγραφή λογισμικού:"
+
+#: ../js/main.js:4073
+#, fuzzy
+msgid "Image date:"
+msgstr "Image date:"
+
+#: ../js/main.js:4074
+msgid "RootFS version:"
+msgstr "RootFS έκδοση:"
+
+#: ../js/main.js:4082
+msgid "Device is going to reboot. Are you sure?"
+msgstr "Η συσκευή θα επανεκκινήσει. Είσαι σίγουρος;"
+
+#: ../js/main.js:4095
+msgid ""
+"<span style=\"color: red\">User data will be lost!</span><br>We strongly "
+"recommend read Menu Guide.<br>Do you want to do it?"
+msgstr ""
+"<span style=\"color: red\">Τα δεδομένα χρήστη θα χαθούν!</span> <br>Σας "
+"συνιστούμε να διαβάσετε τον Οδηγό μενού.<br>Θέλετε να το κάνετε;"
+
+#: ../js/main.js:4134
+msgid "Use remote control:"
+msgstr "Χρησιμοποιήστε το τηλεχειριστήριο:"
+
+#: ../js/main.js:4147
+msgid "Device name:"
+msgstr "Όνομα συσκευής:"
+
+#: ../js/main.js:4148
+msgid "Password (numbers only):"
+msgstr "Κωδικός πρόσβασης (μόνο αριθμοί):"
+
+#: ../js/main.js:4168
+msgid "Device name"
+msgstr "Όνομα συσκευής"
+
+#: ../js/main.js:4174
+msgid "Password"
+msgstr "Κωδικός πρόσβασης"
+
+#: ../js/main.js:4205 ../js/main.js:4227 ../js/main.js:4241
+msgid "Passphrase:"
+msgstr "Φράση κλειδί:"
+
+#: ../js/main.js:4206
+msgid "Generate WEP 64 keys"
+msgstr "ΔημιουργήστεWEP 64 κλειδιά"
+
+#: ../js/main.js:4207
+msgid "Generate WEP 128 keys"
+msgstr "ΔημιουργήστεWEP 128 κλειδιά"
+
+#: ../js/main.js:4208 ../js/main.js:4255
+msgid "Default key"
+msgstr "Προεπιλεγμένο κλειδί"
+
+#: ../js/main.js:4209 ../js/main.js:4210 ../js/main.js:4211 ../js/main.js:4212
+#: ../js/main.js:4269 ../js/main.js:4277 ../js/main.js:4281 ../js/main.js:4295
+#: ../js/main.js:4303 ../js/main.js:4308 ../js/main.js:4312 ../js/main.js:4325
+#: ../js/main.js:4333 ../js/main.js:4337 ../js/main.js:4342 ../js/main.js:4355
+#: ../js/main.js:4363 ../js/main.js:4367 ../js/main.js:4371
+msgid "Key"
+msgstr "κλειδί"
+
+#: ../js/main.js:4209 ../js/main.js:4210 ../js/main.js:4211 ../js/main.js:4212
+msgid "symbols"
+msgstr "χαρακτήρες"
+
+#: ../js/main.js:4603
+msgid "Successfully saved"
+msgstr "Αποθηκεύτηκαν με επιτυχία"
+
+#: ../js/main.js:4609
+msgid "Same as video"
+msgstr "Ίδιο όπως το βίντεο"
+
+#: ../js/main.js:4624 ../js/main.js:4649
+msgid "Embedded portal"
+msgstr "Ενσωματωμένο portal"
+
+#: ../js/main.js:4797
+msgid "Networks:"
+msgstr "Δίκτυα:"
+
+#: ../js/main.js:4807
+msgid "SSID:"
+msgstr "SSID:"
+
+#: ../js/main.js:4810
+msgid "Frequency:"
+msgstr "Συχνότητα:"
+
+#: ../js/main.js:4811
+msgid "Channel:"
+msgstr "Κανάλι:"
+
+#: ../js/main.js:4812
+msgid "Signal info:"
+msgstr "Πληροφορίες σήματος:"
+
+#: ../js/main.js:4844
+msgid "Detailed info on selected network"
+msgstr "Λεπτομερείς πληροφορίες για το επιλεγμένο δίκτυο"
+
+#: ../js/main.js:4865
+msgid "Devices:"
+msgstr ""
+
+#: ../js/main.js:4875
+msgid "Name:"
+msgstr ""
+
+#: ../js/main.js:4876
+msgid "Title:"
+msgstr ""
+
+#: ../js/main.js:4877
+msgid "Address:"
+msgstr ""
+
+#: ../js/main.js:4878
+msgid "Vendor Id:"
+msgstr ""
+
+#: ../js/main.js:4879
+msgid "Product Id:"
+msgstr ""
+
+#: ../js/main.js:4880
+msgid "Type:"
+msgstr ""
+
+#: ../js/main.js:4881
+msgid "Status:"
+msgstr ""
+
+#: ../js/main.js:4911
+msgid "Detailed info on selected device"
+msgstr ""
+
+#: ../js/main.js:4921
+msgid "Discovered"
+msgstr ""
+
+#: ../js/main.js:4924
+msgid "Paired"
+msgstr ""
+
+#: ../js/main.js:4927
+msgid "Connected"
+msgstr "Συνδεδεμένο"
+
+#: ../js/modals.js:30 ../js/modals.js:126 ../js/modals.js:204
+msgid "Current configuration:"
+msgstr "Τρέχουσα διαμόρφωση:"
+
+#: ../js/modals.js:289
+#, fuzzy
+msgid "Enter password"
+msgstr "Enter password"
+
+#: ../js/modals.js:321
+#, fuzzy
+msgid "Wrong password!"
+msgstr "Wrong password!"
+
+#~ msgid ""
+#~ "<span style=\"color: red\">With option enabled in DIV mode<br/>HDMI audio "
+#~ "will be missing</span>"
+#~ msgstr ""
+#~ "<span style=\"color: red\">Με την λειτουργία DIV ενεργοποιημένη<br/>ο "
+#~ "ήχος HDMI δεν θα είναι διαθέσιμος</span>"
+
+#~ msgid ""
+#~ "<span style='color: red'>With option enabled in DIV mode<br/>HDMI audio "
+#~ "will be missing</span>"
+#~ msgstr ""
+#~ "<span style=\"color: red\">Με την λειτουργία DIV ενεργοποιημένη<br/>ο "
+#~ "ήχος HDMI δεν θα είναι διαθέσιμος</span>"
+
+#~ msgid "Not connected "
+#~ msgstr "Δεν έχει συνδεθεί"
+
+#~ msgid "Authentication method:"
+#~ msgstr "Метод аутентификации:"
+
+#~ msgid "Select Wi-Fi group from list:"
+#~ msgstr "Выберите Wi-Fi группу из списка"
+
+#~ msgid "Invalid format"
+#~ msgstr "Неправильный формат"
+
+#~ msgid ""
+#~ "You have changed some settings.<br>Device reboot is required to apply new "
+#~ "settings.<br>Reboot now?"
+#~ msgstr ""
+#~ "Были изменены важные настройки, которые<br>вступят в силу после "
+#~ "перезагрузки устройства.<br>Выполнить перезагрузку сейчас?"
+
+#~ msgid "Portal restart"
+#~ msgstr "Перезапуск портала"
+
+#~ msgid "Use portals:"
+#~ msgstr "Использовать порталы:"
+
+#~ msgid "Disable PPPoE"
+#~ msgstr "Отключить PPPoE"
+
+#, fuzzy
+#~ msgid "From HTTP"
+#~ msgstr "WEB"
+
+#, fuzzy
+#~ msgid "From USB device"
+#~ msgstr "USB устройство"

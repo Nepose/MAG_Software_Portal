@@ -1,0 +1,1941 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Service menu\n"
+"POT-Creation-Date: 2015-10-20 11:37+0200\n"
+"PO-Revision-Date: 2015-10-20 11:37+0200\n"
+"Last-Translator: Harry <harry@aaa.aa>\n"
+"Language-Team: \n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-KeywordsList: _;gettext.data\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../main.js:15
+#, fuzzy
+msgid "Password"
+msgstr "Şifre"
+
+#: ../main.js:45
+msgid "Unlock"
+msgstr ""
+
+#: ../main.js:45 ../main.js:94
+msgid "Cancel"
+msgstr "İptal"
+
+#: ../main.js:65
+msgid "Ok"
+msgstr "Tamam"
+
+#: ../main.js:89
+msgid "Lock device or exit portal?"
+msgstr ""
+
+#: ../main.js:91
+msgid "Lock device?"
+msgstr ""
+
+#: ../main.js:94
+msgid "Confirm"
+msgstr "Onayla"
+
+#: ../main.js:105
+msgid "Lock"
+msgstr ""
+
+#: ../main.js:112
+#, fuzzy
+msgid "Exit portal"
+msgstr "Exit portal"
+
+#, fuzzy
+#~ msgid "Login"
+#~ msgstr "Ad:"
+
+#, fuzzy
+#~ msgid "Do you want to logout or exit portal?"
+#~ msgstr "Portaldan çıkmaktan emin misiniz?"
+
+#, fuzzy
+#~ msgid "Are you sure you want to logout?"
+#~ msgstr "Silmekten emin misiniz?"
+
+#, fuzzy
+#~ msgid "Logout"
+#~ msgstr "Logout"
+
+#~ msgid "January"
+#~ msgstr "Ocak"
+
+#~ msgid "February"
+#~ msgstr "Şubat"
+
+#~ msgid "March"
+#~ msgstr "Mart"
+
+#~ msgid "April"
+#~ msgstr "Nisan"
+
+#~ msgid "May"
+#~ msgstr "Mayıs"
+
+#~ msgid "June"
+#~ msgstr "Haziran"
+
+#~ msgid "July"
+#~ msgstr "Temmuz"
+
+#~ msgid "August"
+#~ msgstr "Ağustos"
+
+#~ msgid "September"
+#~ msgstr "Eylül"
+
+#~ msgid "October"
+#~ msgstr "Ekim"
+
+#~ msgid "November"
+#~ msgstr "Kasım"
+
+#~ msgid "December"
+#~ msgstr "Aralık"
+
+#~ msgid "Sunday "
+#~ msgstr "Pazar"
+
+#~ msgid "Monday "
+#~ msgstr "Pazartesi"
+
+#~ msgid "Tuesday "
+#~ msgstr "Salı"
+
+#~ msgid "Wednesday "
+#~ msgstr "Çarşamba"
+
+#~ msgid "Thursday "
+#~ msgstr "Perşembe"
+
+#~ msgid "Friday "
+#~ msgstr "Cuma"
+
+#~ msgid "Saturday "
+#~ msgstr "Cumartesi"
+
+#~ msgid "Clear/Sunny"
+#~ msgstr "açık/güneşli"
+
+#~ msgid "Partly Cloudy"
+#~ msgstr "parçalı bulutlu"
+
+#~ msgid "Cloudy"
+#~ msgstr "bulutlu"
+
+#~ msgid "Overcast"
+#~ msgstr "çok bulutlu"
+
+#~ msgid "Mist"
+#~ msgstr "sisli"
+
+#~ msgid "Patchy rain nearby"
+#~ msgstr "Yamalı yağmur yağabilir"
+
+#~ msgid "Patchy snow nearby"
+#~ msgstr "Yamalı kar yağabilir"
+
+#~ msgid "Patchy sleet nearby"
+#~ msgstr "Yamalı karla karışık yağabilir"
+
+#~ msgid "Patchy freezing drizzle nearby"
+#~ msgstr "yamalı çiseleyen yağmur yağabilir"
+
+#~ msgid "Thundery outbreaks in nearby"
+#~ msgstr "gök gürültüleri olabilir"
+
+#~ msgid "Blowing snow"
+#~ msgstr "Tipi"
+
+#~ msgid "Blizzard"
+#~ msgstr "kar fırtınası"
+
+#~ msgid "Fog"
+#~ msgstr "sis"
+
+#~ msgid "Freezing fog"
+#~ msgstr "dondurucu sis"
+
+#~ msgid "Patchy light drizzle"
+#~ msgstr "Yamalı hafif çiseleyen yağışlı"
+
+#~ msgid "Light drizzle"
+#~ msgstr "Hafif çişeleyen yağışlı"
+
+#~ msgid "Freezing drizzle"
+#~ msgstr "Dondurucu çiseleyen yağışlı"
+
+#~ msgid "Heavy freezing drizzle"
+#~ msgstr "Şiddetli dondurucu çisenti yağışlı"
+
+#~ msgid "Patchy light rain"
+#~ msgstr "Yamalı hafif yağışlı"
+
+#~ msgid "Light rain"
+#~ msgstr "Hafif yağışlı"
+
+#~ msgid "Moderate rain at times"
+#~ msgstr "Zaman zaman orta yağışlı"
+
+#~ msgid "Moderate rain"
+#~ msgstr "Orta yağışlı"
+
+#~ msgid "Heavy rain at times"
+#~ msgstr "Zaman zaman yoğun yağışlı"
+
+#~ msgid "Heavy rain"
+#~ msgstr "Yoğun yağış"
+
+#~ msgid "Light freezing rain"
+#~ msgstr "hafif dondurucu yağış"
+
+#~ msgid "Moderate or Heavy freezing rain"
+#~ msgstr "Orta veya yoğun dondurucu yağmur"
+
+#~ msgid "Light sleet"
+#~ msgstr "Hafif çisenti"
+
+#~ msgid "Moderate or heavy sleet"
+#~ msgstr "Orta veya yoğun çisenti"
+
+#~ msgid "Patchy light snow"
+#~ msgstr "Yamalı hafif kar yağışı"
+
+#~ msgid "Light snow"
+#~ msgstr "Hafif kar yağışı"
+
+#~ msgid "Patchy moderate snow"
+#~ msgstr "Yamalı kar yağışı"
+
+#~ msgid "Moderate snow"
+#~ msgstr "Kar yağışlı"
+
+#~ msgid "Patchy heavy snow"
+#~ msgstr "Yamalı yoğun kar"
+
+#~ msgid "Heavy snow"
+#~ msgstr "Yoğun kar yağışı"
+
+#~ msgid "Ice pellets"
+#~ msgstr "Dolu"
+
+#~ msgid "Light rain shower"
+#~ msgstr "Kısa süreli sağanak"
+
+#~ msgid "Moderate or heavy rain shower"
+#~ msgstr "Yoğun sağanak"
+
+#~ msgid "Torrential rain shower"
+#~ msgstr "Çok yoğun sağanak"
+
+#~ msgid "Light sleet showers"
+#~ msgstr "Hafif sulu kar sağanağı"
+
+#~ msgid "Moderate or heavy sleet showers"
+#~ msgstr "Yoğun sulı kar sağanağı"
+
+#~ msgid "Light snow showers"
+#~ msgstr "Kısa süreli kar sağanağı"
+
+#~ msgid "Moderate or heavy snow showers"
+#~ msgstr "Yoğun kar sağanağı"
+
+#~ msgid "Light showers of ice pellets"
+#~ msgstr "Kısa süreli dolu tanecikleri sağanağı"
+
+#~ msgid "Moderate or heavy showers of ice pellets"
+#~ msgstr "Yoğun dolu tanecik sağanağı"
+
+#~ msgid "Patchy light rain in area with thunder"
+#~ msgstr "Gök gürültüsü ile hafif yağıs"
+
+#~ msgid "Moderate or heavy rain in area with thunder"
+#~ msgstr "Gök gürültüsü ile yoğun yağış"
+
+#~ msgid "Patchy light snow in area with thunder"
+#~ msgstr "местами небольшой снег с громом"
+
+#~ msgid "Moderate or heavy snow in area with thunder"
+#~ msgstr "Gök gürültüsü ile yoğun kar yağışı"
+
+#~ msgid "Today"
+#~ msgstr "Bugün"
+
+#~ msgid "Home Media"
+#~ msgstr "Home Media"
+
+#~ msgid "IPTV channels"
+#~ msgstr "IPTV-kanalları"
+
+#~ msgid "DVB channels"
+#~ msgstr "DVB-kanalları"
+
+#~ msgid "Favourites"
+#~ msgstr "Favoriler"
+
+#~ msgid "Internet Browser"
+#~ msgstr "İnternet tarayıcısı"
+
+#~ msgid "Internet bookmarks"
+#~ msgstr "İnternet şeridi"
+
+#~ msgid "YouTube"
+#~ msgstr "YouTube"
+
+#~ msgid "Picasa"
+#~ msgstr "Picasa"
+
+#~ msgid "Lines"
+#~ msgstr "Lines"
+
+#~ msgid "Sudoku"
+#~ msgstr "Sudoku"
+
+#~ msgid "Memory"
+#~ msgstr "Memory"
+
+#~ msgid "Settings"
+#~ msgstr "Ayarlar"
+
+#~ msgid "Download manager"
+#~ msgstr "İndirme yöneticisi"
+
+#~ msgid "Internet services"
+#~ msgstr "İnternet servisleri"
+
+#~ msgid "Online Media"
+#~ msgstr "Online Media"
+
+#, fuzzy
+#~ msgid "Apps"
+#~ msgstr "Apps"
+
+#~ msgid "Infomir Stalker"
+#~ msgstr "Stalker portalı"
+
+#~ msgid "Menu Guide"
+#~ msgstr "Menü kılavuzu"
+
+#~ msgid "Record manager"
+#~ msgstr "Kayıt yöneticisi"
+
+#~ msgid "Weather"
+#~ msgstr "Hava durumu"
+
+#~ msgid "Weather in"
+#~ msgstr "Hava durumu"
+
+#~ msgid "The service is not available at the moment.<br /> Please try again later."
+#~ msgstr "Şu an servis mevcut değil.<br />. Sonra tekrar deneyiniz"
+
+#~ msgid "Setup Wizard"
+#~ msgstr "Kurulum Sihirbazı"
+
+#~ msgid "Select city"
+#~ msgstr "Şehri seç"
+
+#~ msgid "Weather is not found, select another city"
+#~ msgstr "Bu şehir için hava durumu bulunamadı, diğer bir şehir seçiniz"
+
+#~ msgid "<br>Do you want to save location?"
+#~ msgstr "Yeri kaydetmek ister misiniz?"
+
+#~ msgid "Loading service..."
+#~ msgstr "Servisin yüklenmesi..."
+
+#~ msgid "Service unavailable"
+#~ msgstr "Servis mevcut değil"
+
+#~ msgid "Humidity"
+#~ msgstr "Nemlik"
+
+#~ msgid "Wind"
+#~ msgstr "Rüzgâr"
+
+#~ msgid "N"
+#~ msgstr "K"
+
+#~ msgid "NE"
+#~ msgstr "KD"
+
+#~ msgid "E"
+#~ msgstr "D"
+
+#~ msgid "SE"
+#~ msgstr "GD"
+
+#~ msgid "S"
+#~ msgstr "G"
+
+#~ msgid "SW"
+#~ msgstr "GB"
+
+#~ msgid "W"
+#~ msgstr "B"
+
+#~ msgid "NW"
+#~ msgstr "KB"
+
+#~ msgid "m/s"
+#~ msgstr "m/san."
+
+#~ msgid "miles/h"
+#~ msgstr "mil/saat"
+
+#~ msgid "Loading data. It may take some time."
+#~ msgstr "Veri yüklenmekte. Bu işlem bir kaç dakika sürebilir"
+
+#~ msgid "English"
+#~ msgstr "İngilizce"
+
+#~ msgid "Russian"
+#~ msgstr "Rusça"
+
+#~ msgid "Ukrainian"
+#~ msgstr "Ukraynaca"
+
+#~ msgid "Belarusian"
+#~ msgstr "Beyaz Rusça"
+
+#~ msgid "French"
+#~ msgstr "Fransızca"
+
+#~ msgid "German"
+#~ msgstr "Немецкий"
+
+#~ msgid "Italian"
+#~ msgstr "İtalyanca"
+
+#~ msgid "Spanish"
+#~ msgstr "İspanyolca"
+
+#~ msgid "Portuguese"
+#~ msgstr "Portekizce"
+
+#~ msgid "Swedish"
+#~ msgstr "İsveççe"
+
+#~ msgid "Norwegian"
+#~ msgstr "Norveççe"
+
+#~ msgid "Dutch"
+#~ msgstr "Hollandaca"
+
+#~ msgid "Serbian"
+#~ msgstr "Sırpça"
+
+#~ msgid "Slovenian"
+#~ msgstr "Slovençe"
+
+#~ msgid "Croatian"
+#~ msgstr "Hırvatça"
+
+#~ msgid "Albanian"
+#~ msgstr "Arnavutça"
+
+#~ msgid "Japanese"
+#~ msgstr "Japonca"
+
+#~ msgid "Chinese"
+#~ msgstr "Çince"
+
+#~ msgid "Korean"
+#~ msgstr "Koreçe"
+
+#~ msgid "Vietnamese"
+#~ msgstr "Vietnamca"
+
+#~ msgid "Latvian"
+#~ msgstr "Letonca"
+
+#~ msgid "Lithuanian"
+#~ msgstr "Litvanca"
+
+#~ msgid "Estonian"
+#~ msgstr "Estonca"
+
+#~ msgid "Finnish"
+#~ msgstr "Fince"
+
+#~ msgid "Hungarian"
+#~ msgstr "Macarca"
+
+#~ msgid "Czech"
+#~ msgstr "Çekçe"
+
+#~ msgid "Slovak"
+#~ msgstr "Slovakça"
+
+#~ msgid "Bulgarian"
+#~ msgstr "Bulgarca"
+
+#~ msgid "Polish"
+#~ msgstr "Lehçe"
+
+#~ msgid "Romanian"
+#~ msgstr "Romanca"
+
+#~ msgid "Greek"
+#~ msgstr "Yunanca"
+
+#~ msgid "Hebrew"
+#~ msgstr "İbranice"
+
+#~ msgid "Turkish"
+#~ msgstr "Türkçe"
+
+#~ msgid "Danish"
+#~ msgstr "Danca"
+
+#~ msgid "Icelandic"
+#~ msgstr "İzlandaca"
+
+#~ msgid "Hindi"
+#~ msgstr "Hintçe"
+
+#~ msgid "Bengali"
+#~ msgstr "Bengali"
+
+#~ msgid "Arabic"
+#~ msgstr "Arapça"
+
+#~ msgid "Armenian"
+#~ msgstr "Ermenice"
+
+#~ msgid "Georgian"
+#~ msgstr "Gürcüce"
+
+#~ msgid "Azerbaijani"
+#~ msgstr "Azerice"
+
+#~ msgid "Bashkir"
+#~ msgstr "Başkurtça"
+
+#~ msgid "Basque"
+#~ msgstr "Baskça"
+
+#~ msgid "Bosnian"
+#~ msgstr "Boşnakça"
+
+#~ msgid "Buriat"
+#~ msgstr "Buryatça"
+
+#~ msgid "Burmese"
+#~ msgstr "Burmaca"
+
+#~ msgid "Chechen"
+#~ msgstr "Çeçence"
+
+#~ msgid "Welsh"
+#~ msgstr "Galce"
+
+#~ msgid "Dzongkha"
+#~ msgstr "Dzongka"
+
+#~ msgid "Esperanto"
+#~ msgstr "Esperanto"
+
+#~ msgid "Persian"
+#~ msgstr "Farsça"
+
+#~ msgid "Irish"
+#~ msgstr "İrlandaca"
+
+#~ msgid "Gujarati"
+#~ msgstr "Gucaratça"
+
+#~ msgid "Indonesian"
+#~ msgstr "Endonezce"
+
+#~ msgid "Iranian"
+#~ msgstr "İranca"
+
+#~ msgid "Kashmiri"
+#~ msgstr "Keşmirce"
+
+#~ msgid "Kazakh"
+#~ msgstr "Kazakça"
+
+#~ msgid "Kabardian"
+#~ msgstr "Kabartayca"
+
+#~ msgid "Komi"
+#~ msgstr "Komi"
+
+#~ msgid "Karelian"
+#~ msgstr "Karelyaca"
+
+#~ msgid "Kurdish"
+#~ msgstr "Kürtçe"
+
+#~ msgid "Marathi"
+#~ msgstr "Marathi"
+
+#~ msgid "Macedonian"
+#~ msgstr "Makedonca"
+
+#~ msgid "Nepali"
+#~ msgstr "Nepali"
+
+#~ msgid "Ossetian"
+#~ msgstr "Osetçe"
+
+#~ msgid "Yakut"
+#~ msgstr "Yakutça"
+
+#~ msgid "Somali"
+#~ msgstr "Somalice"
+
+#~ msgid "Tamil"
+#~ msgstr "Tamilce"
+
+#~ msgid "Tatar"
+#~ msgstr "Tatarça"
+
+#~ msgid "Telugu"
+#~ msgstr "Teluguca"
+
+#~ msgid "Tajik"
+#~ msgstr "Tacikçe"
+
+#~ msgid "Thai"
+#~ msgstr "Tayca"
+
+#~ msgid "Turkmen"
+#~ msgstr "Türkmence"
+
+#~ msgid "Udmurt"
+#~ msgstr "Udmurtça"
+
+#~ msgid "Urdu"
+#~ msgstr "Urduca"
+
+#~ msgid "Uzbek"
+#~ msgstr "Özbekçe"
+
+#~ msgid "Kalmyk"
+#~ msgstr "Kalmıkça"
+
+#~ msgid "Tibetan"
+#~ msgstr "Tibetçe"
+
+#~ msgid "Yiddish"
+#~ msgstr "Yidiş"
+
+#~ msgid "Enter your location..."
+#~ msgstr "Yerinizi işaret ediniz..."
+
+#~ msgid "Exit"
+#~ msgstr "Çıkış"
+
+#~ msgid "Receiving<br>weather<br>data"
+#~ msgstr "Hava <br>durumu verileri<br>alma"
+
+#~ msgid "No<br>weather<br>settings"
+#~ msgstr "Hava <br>durumu <br>ayarlanmadı"
+
+#~ msgid "Error"
+#~ msgstr "Hata"
+
+#~ msgid "Close"
+#~ msgstr "Kapat"
+
+#~ msgid "USB storage is connected"
+#~ msgstr "USB-bellek aygıt bağlı"
+
+#~ msgid "Update manually"
+#~ msgstr "Elle güncelle"
+
+#~ msgid "Save"
+#~ msgstr "Sakla"
+
+#~ msgid "Playback"
+#~ msgstr "Oynat"
+
+#~ msgid "Interface"
+#~ msgstr "Arayüz"
+
+#~ msgid "Auto update software"
+#~ msgstr "Yazılımın otomatik güncellemesi"
+
+#~ msgid "TimeShift"
+#~ msgstr "TimeShift"
+
+#~ msgid "System settings"
+#~ msgstr "Sistem ayarları"
+
+#~ msgid "DVB"
+#~ msgstr "DVB"
+
+#, fuzzy
+#~ msgid "Network Diagnostics"
+#~ msgstr "Ağ şifresi:"
+
+#~ msgid "Speed test"
+#~ msgstr "Hız testi"
+
+#~ msgid "None"
+#~ msgstr "Yok"
+
+#~ msgid "Some settings have been changed"
+#~ msgstr "Birkaç ayarlar değiştirildi"
+
+#, fuzzy
+#~ msgid "Red"
+#~ msgstr "Kayıt"
+
+#, fuzzy
+#~ msgid "Green"
+#~ msgstr "Yunanca"
+
+#~ msgid "Disabled"
+#~ msgstr "Kapalı"
+
+#~ msgid "Primary audio track language"
+#~ msgstr "Ses parçası dili"
+
+#~ msgid "Primary subtitle language"
+#~ msgstr "Altyazı dili"
+
+#, fuzzy
+#~ msgid "Subtitle size"
+#~ msgstr "Altyazı"
+
+#, fuzzy
+#~ msgid "Subtitle color"
+#~ msgstr "Altyazı"
+
+#~ msgid "Main menu"
+#~ msgstr "Ana menü"
+
+#~ msgid "1 minute"
+#~ msgstr "1 dakika"
+
+#~ msgid "3 minutes"
+#~ msgstr "3 dakika"
+
+#~ msgid "5 minutes"
+#~ msgstr "5 dakika"
+
+#~ msgid "10 minutes"
+#~ msgstr "10 dakika"
+
+#~ msgid "30 minutes"
+#~ msgstr "30 dakika"
+
+#~ msgid "Start page"
+#~ msgstr "Ana sayfa"
+
+# имеется ввиду метрическая или английская система измерения скорости
+#~ msgid "Weather system format"
+#~ msgstr "Hava durumu sistemi biçimi"
+
+#~ msgid "Metric (Celsius, meters per second)"
+#~ msgstr "Metrik (Selsius, m/s)"
+
+#~ msgid "English (Fahrenheit, miles per hour)"
+#~ msgstr "İngiliz (Fahrenhayt, mil/saat)"
+
+# menu item
+#~ msgid "HDMI event reaction:"
+#~ msgstr "HDMI olaylara tepki:"
+
+#~ msgid "Enabled"
+#~ msgstr "Açık"
+
+#~ msgid "5 minutes delay"
+#~ msgstr "Gecikme 5 dakika"
+
+#~ msgid "10 minutes delay"
+#~ msgstr "Gecikme 10 dakika"
+
+#~ msgid "Screensaver interval"
+#~ msgstr "Ekran koruyucusunun aralığı"
+
+#~ msgid "Screensaver"
+#~ msgstr "Ekran koruyucusu"
+
+#~ msgid "LED brightness:"
+#~ msgstr "LED parlaklığı:"
+
+#~ msgid "LED brightness (standby):"
+#~ msgstr "LED parlaklığı (beklemede):"
+
+#~ msgid "Auto update"
+#~ msgstr "Otomatik güncellenme"
+
+#~ msgid "With confirmation"
+#~ msgstr "Onaylı"
+
+#~ msgid "Update to beta versions"
+#~ msgstr "Beta versiyonuna güncelle"
+
+#~ msgid "Use TimeShift"
+#~ msgstr "TimeShift'i kullan"
+
+#~ msgid "Icon enable"
+#~ msgstr "Simgeyi aç"
+
+#~ msgid "File location"
+#~ msgstr "Dosya konumu"
+
+#~ msgid "Length"
+#~ msgstr "Azamî uzunluk"
+
+#~ msgid "minutes"
+#~ msgstr "dakika"
+
+#~ msgid "hour"
+#~ msgstr "saat"
+
+#~ msgid "2 hours"
+#~ msgstr "2 saat"
+
+#~ msgid "3 hours"
+#~ msgstr "3 saat"
+
+#~ msgid "5 hours"
+#~ msgstr "5 saat"
+
+#~ msgid "10 hours"
+#~ msgstr "10 saat"
+
+#~ msgid "20 hours"
+#~ msgstr "20 saat"
+
+#~ msgid "24 hours"
+#~ msgstr "24 saat"
+
+#~ msgid "Using buffer mode"
+#~ msgstr "Buffer kullanma modu"
+
+#~ msgid "Cyclic record mode"
+#~ msgstr "Devirli kayıt modu"
+
+#~ msgid "Stop when out of space"
+#~ msgstr "Boş alan bitince dur"
+
+#~ msgid "On exit"
+#~ msgstr "Çıkış eylemi"
+
+#~ msgid "Do not save buffer"
+#~ msgstr "Bufferi saklama"
+
+#~ msgid "Save buffer"
+#~ msgstr "Bufferi sakla"
+
+#~ msgid "Request to save"
+#~ msgstr "Saklama isteği"
+
+#~ msgid "Delay"
+#~ msgstr "Gecikme"
+
+#~ msgid "By pressing Pause button"
+#~ msgstr "\"Duraklat\" tuşuna basınca"
+
+#~ msgid "sec."
+#~ msgstr "san."
+
+#~ msgid "Available"
+#~ msgstr "Mevcut"
+
+#~ msgid "Not available"
+#~ msgstr "Mevcut değil"
+
+#~ msgid "Speed:"
+#~ msgstr "Hız:"
+
+#~ msgid "Waiting"
+#~ msgstr "Beklemede"
+
+#~ msgid "Testing"
+#~ msgstr "Kontrol"
+
+#~ msgid "Start"
+#~ msgstr "Başlat"
+
+#, fuzzy
+#~ msgid "IP Address"
+#~ msgstr "Adres:"
+
+#, fuzzy
+#~ msgid "Attention"
+#~ msgstr "Dikkat:"
+
+#, fuzzy
+#~ msgid "Run the test"
+#~ msgstr "Kurulum Sihirbazını aç"
+
+#~ msgid "Antenna with such signal type can't be powered up."
+#~ msgstr "Antenin seçilmiş sinyal türü ile bağlantısı mümkün değil"
+
+#~ msgid "Signal type"
+#~ msgstr "Sinyal türü"
+
+#~ msgid "Antenna power supply"
+#~ msgstr "Anten güç kaynağı"
+
+#~ msgid "Sorry, no firmware image at the moment"
+#~ msgstr "Kusura bakmayınız, şimdi kalıp dosyaları listesi boştur"
+
+#~ msgid "Software update"
+#~ msgstr "Yazılım güncellenmesi"
+
+#~ msgid "Successfully saved"
+#~ msgstr "Başarılı kaydedildi"
+
+#~ msgid "Device reboot is required to apply changes. Reboot now?"
+#~ msgstr "Değişiklikler sadece cihazın yeniden açılmasından sonra yürürlüğe girer. Şimdi yeniden açar mısınız?"
+
+#~ msgid "Welcome"
+#~ msgstr "Hoş geldiniz"
+
+#~ msgid "Select language"
+#~ msgstr "Dili seçiniz"
+
+#~ msgid "Use Up and Down, Left and Right buttons for selecting. Press OK button to confirm."
+#~ msgstr "Seçme için \"Yukarıya\", \"Aşağıya\", \"Sola\", \"Sağa\" tuşlarına basınız. Seçme onaylamak için \"OK\" tuşuna basınız."
+
+#~ msgid "AuraHD Setup Wizard"
+#~ msgstr "AuraHD Kurulum Sihirbazı"
+
+#~ msgid "Use the SetUp Wizard to edit Internet access settings, select display options and set your time zone"
+#~ msgstr "İnternete erişim ayarlamaya, görüntü parametreleri, saat dilimini seçmeye Kurulum Sihirbazını oynatlayınız"
+
+#~ msgid "Run the Setup Wizard"
+#~ msgstr "Kurulum Sihirbazını aç"
+
+#~ msgid "Set up manually later"
+#~ msgstr "Sonra elle kur"
+
+#~ msgid "Step 1: Connecting to your TV"
+#~ msgstr "Adım 1: Televizyonunuza bağlayınız"
+
+#~ msgid "For optimal display settings, specify your TV model and AuraHD connection type. Please, read the TV user guide before you do it."
+#~ msgstr "Görüntü parametrelerini optimal olarak seçilmesi için televizyonunuzun ve AuraHD ile bağlantı türünü işaretleyiniz. Bunu yapmadan önce TV kullanım kılavuzunu okuyunuz."
+
+#~ msgid "RCA cable"
+#~ msgstr "RCA kablosu"
+
+#~ msgid "HDMI cable"
+#~ msgstr "HDMI kablosu"
+
+#~ msgid "Attention:"
+#~ msgstr "Dikkat:"
+
+#~ msgid "For TVs with the HDMI interface, we recommend to use an HDMI cable for connecting AuraHD to maximize image quality (HD or Full HD)."
+#~ msgstr "Televizyonunuz HDMI girişliyse, görüntünün olabilecek en yüksek kalitesini sağlamak için (HD veya Full HD) biz AuraHD'i HDMI kablosu üzerinden bağlamanızı tavsiye ederiz."
+
+#~ msgid "Step 2: Connecting AuraHD to LAN and/or to the Internet"
+#~ msgstr "Adım 2: AuraHD cıhazının yerel alan ağına ve/veya İnternete bağlaması"
+
+#~ msgid "Active AuraHD Internet connection gives you access to web resources from your TV and also makes it possible to view media files located on your computer or local network. Select the connection type:"
+#~ msgstr "AuraHD ile İnternet etkin bağlantı televizyonunuzun ekranından İnternet şebekesinin tüm kaynaklarına erişim sağlar, yerel alan ağına bağlantı ise de sözü edilen yerel alan ağında ve bilgisayarınızda bulunan medya dosyalarını seyretme imkânını sağlar. Bağlantı türünü seçiniz:"
+
+#~ msgid "Wired"
+#~ msgstr "Kablolu"
+
+#~ msgid "Wireless"
+#~ msgstr "Kablosuz"
+
+#~ msgid "Skip"
+#~ msgstr "Geç"
+
+#~ msgid "Step 2.3: Checking wireless network and Internet connection"
+#~ msgstr "Adım 2.3: Kablosuz şebekeye ve İnternete bağlantı kontrolü"
+
+#~ msgid "Step 2.1: Checking local network and Internet connection"
+#~ msgstr "Adım 2.1: Yerel alan ağına ve İnternete bağlantı kontrolü"
+
+#~ msgid "Checking wireless network"
+#~ msgstr "Kablosuz bağlantı kontrolü"
+
+#~ msgid "Checking local network connection"
+#~ msgstr "Yerel alan ağına bağlantı kontrolü"
+
+#~ msgid "Checking Internet connection"
+#~ msgstr "İnternet bağlantısı kontrolü"
+
+#~ msgid "Information"
+#~ msgstr "Bilgi"
+
+#~ msgid "Refresh"
+#~ msgstr "Yenle"
+
+#~ msgid "To access additional/advanced settings in the Main Menu, press the SET/SETUP button on the remote control."
+#~ msgstr "Ek/gelişmiş ayarlar, uzaktan kumandadaki SET/SETUP tuşuna basıp ana menüden mevcuttur"
+
+#~ msgid "Step 2.1: Connecting to the Wireless LAN"
+#~ msgstr "Adım 2.1: Kablosuz şebekeye bağlantı"
+
+#~ msgid "Select LAN"
+#~ msgstr "Yerel alan ağını seç"
+
+#~ msgid "Select preferred wireless LAN or set it up manually"
+#~ msgstr "Bağlamak istediğiniz kablosuz şebekeyi seçiniz veya bağlantıyı elle ayarlayınız"
+
+#~ msgid "Manual settings"
+#~ msgstr "Manüel ayarlar"
+
+#~ msgid "Step 2.2: Password"
+#~ msgstr "Adım 2.2: Şifre"
+
+#~ msgid "Next"
+#~ msgstr "Sonraki"
+
+#~ msgid "Keyboard"
+#~ msgstr "Klavye"
+
+#~ msgid "Step 2.2: Advanced settings"
+#~ msgstr "Adım 2.2: Gelişmiş ayarlar"
+
+#~ msgid "Authentication:"
+#~ msgstr "Belgeleme:"
+
+# menu item
+#~ msgid "Open"
+#~ msgstr "Aç"
+
+#~ msgid "Shared key"
+#~ msgstr "Paylaşılan anahtar"
+
+#~ msgid "Auto Open/Shared key"
+#~ msgstr "Oto açık/Paylaşılan anahtar"
+
+#~ msgid "Encryption:"
+#~ msgstr "Şifreleme:"
+
+#~ msgid "SSID (network):"
+#~ msgstr "SSID (ağ):"
+
+#~ msgid "Select/Next"
+#~ msgstr "Seç/Sonraki"
+
+#~ msgid "Step 3: Weather forecast"
+#~ msgstr "Adım 3: Hava durumu"
+
+#~ msgid "Weather forecast"
+#~ msgstr "Hava durumu"
+
+#~ msgid "Select your city and press OK"
+#~ msgstr "Şehri seçip \"OK\" basınız"
+
+#~ msgid "Step 4: Time zone"
+#~ msgstr "Adım 4: Saat dilimi"
+
+#~ msgid "Select your time zone"
+#~ msgstr "Saat diliminizi seçiniz"
+
+#~ msgid "Setup completed"
+#~ msgstr "Kurulum tamamlandı"
+
+#~ msgid "Thank you!"
+#~ msgstr "Teşekkürler!"
+
+#~ msgid "The Setup Wizard is complete. All selected settings will be stored in the device’s memory. To edit the system settings any time, press SET or SETUP on your remote control and open the Main Menu."
+#~ msgstr "Kurulum Sihirbazı işini tamamladı. Tüm seçilmiş ayarlar cihaz belleğinde saklanacaktır. Sistem ayarlarını  uzaktan kumandadaki SET/SETUP tuşlarına basarak değiştirebilirsiniz."
+
+#~ msgid "Terms of use"
+#~ msgstr "Kullanım şartları"
+
+#~ msgid "&nbsp;&nbsp;Dear user, please read the terms and conditions for services integrated into AuraHD  device.<br />&nbsp;&nbsp;The AuraHD network media player is directly intended for digital content playback from the Internet (media files including streaming video), LANs and removable media including flash memory connected via USB port. The manufacturer is not responsible for quality and stability of the web services integrated into the device's software. The manufacturer also reserves the right to make occasional changes to the device's software and interface without prior notice in order to modify or improve its function.<br />&nbsp;&nbsp;Services by third parties offered in the AuraHD’s menu (Online Cinema, web services) are provided \"as is\" without warranty of any kind. The manufacturer cannot guarantee accuracy, timeliness, validity, completeness, compliance with any standards and laws or supplier's declaration of the service characteristics. The services are transferred by third parties via networks and data transfer means beyond the control of the device’s manufacturer.<br />&nbsp;&nbsp;If you do not agree to these terms and conditions for services integrated into the AuraHD device, please stop using it and return the device to the store where it was purchased within 14 days of purchase."
+#~ msgstr "&nbsp;&nbsp;Sayın kullanıcı, AuraHD cihazında bulunan hizmetleri verilme şartlarını okuyunuz.<br />&nbsp;&nbsp; TM AuraHD cihazının temel amacı  İnternetten (canlı video dahil olmak üzere), yerel alan ağından ve dış ortamdan (USB girişinden bağlanan flash bellek) dijital içeriği (medya dosya) oynatmaktır. Aynı zamanda Üretici cihazın yazılımına yüklenen ve İnternet ile bağlantıyı kullanan servisin kalitesinden ve çalışma istikrarından sorumlu değildir. Üretici zaman zaman, uyarmadan cihazın yazılımına ve arayüzüne değişiklik yapma hakkını saklar.<br />&nbsp;&nbsp;AuraHD menünde düzenlenlenmiş olan üçüncü şahısları tarafından sunulan servisler (Online Media, İnterner servisleri) ''olduğu gibi'' koşuluyla sunulur.  Böylece, Üretici onların doğruluğunu, güncelliğini, geçerliliğini, tamlığını, her hangi bir standartlarına veya beyan edilen özelliklere uygun olmasını garanti etmez.  İşbu servisler, cihaz Üreticisinin kontrol edemediği ağ ve veri aktarım araçlar yardımıyla sunulur.<br />&nbsp;&nbsp; AuraHD cihazında kurulmuş olan servislerin sunulması şartlarını kabul etmiyorsanız, bu cihaz kullanmaktan vazgeçip satın almanızdan  sonra 14 gün içinde satın aldığınız mağazaya iade etmeniz lâzım."
+
+#~ msgid "Continue"
+#~ msgstr "Devam"
+
+#~ msgid "Unfortunately, the Setup Wizard was unable to connect your device to LAN and Internet.<br />Please, check general connection terms:<br /> - the Ethernet cable connected to the appropriate slot of the device;<br /> - Wi-Fi status.<br />Try to connect again."
+#~ msgstr "Maalesef, Kurulum Sihirbazı cihazınızı Yerel Alan Ağı ve İnternet ile bağlantı kuramadı. <br />Genel bağlantı koşullarını kontrol ediniz. :<br /> - Ethernet kablosu cihazın arka panelindeki uygun yuvaya bağlandı ;<br /> - Wi-Fi  durumu .<br />Lütfen, tekrar deneyiniz."
+
+#~ msgid "Network connection successful. No Internet connection.<br />Possibly, no access to external services.<br />Check your Internet connection status."
+#~ msgstr "Yerel Alan Ağı ile bağlantısı başarılı kuruldu. İnternet bağlantısı yok.<br /> Dış servislere erişim olmayabilir.<br />İnternet bağlantısı durumunu kontrol ediniz."
+
+#~ msgid "Wireless network connection successful. Internet connection available."
+#~ msgstr "Kablosuz ağ bağlantısı başarılı kurulmuştur. İnternet bağlantısı mevcuttur."
+
+#~ msgid "Network connection successful. Internet connection available."
+#~ msgstr "Yerel Alan Ağ bağlantısı başarılı kuruldu. İnternet bağlantısı mevcuttur."
+
+#~ msgid "Notice"
+#~ msgstr "Bildirim"
+
+#~ msgid "Wi-Fi adapter not connected"
+#~ msgstr "Wi-Fi adaptörü bağlı değil"
+
+#~ msgid "Now"
+#~ msgstr "Şimdi"
+
+#~ msgid "Frequency"
+#~ msgstr "Freksans/sıklık"
+
+#~ msgid "Contains the list of items which are corresponding to the given filter request"
+#~ msgstr "Gösterilen isteğe uygun olan kayıt listesi içerir."
+
+#~ msgid "Unknown type of selected item"
+#~ msgstr "Seçilmiş öğenin bilinmeyen türü"
+
+#~ msgid "Total found"
+#~ msgstr "Toplam bulundu"
+
+#~ msgid "Last found"
+#~ msgstr "Son bulunan"
+
+#~ msgid "Operations"
+#~ msgstr "İşlemler"
+
+#~ msgid "Confirm deletion"
+#~ msgstr "Silme onayı"
+
+#~ msgid "all entries selected?"
+#~ msgstr "tüm seçilen kayıtları mı?"
+
+#~ msgid "current entry?"
+#~ msgstr "geçerli kayıt mı?"
+
+#~ msgid "Yes"
+#~ msgstr "Evet"
+
+# menu item
+#~ msgid "Select all"
+#~ msgstr "Tümünü seç"
+
+# menu item
+#~ msgid "Deselect all"
+#~ msgstr "Tüm seçimleri kaldır"
+
+# menu item
+#~ msgid "Invert selection"
+#~ msgstr "Seçimi ters çevir"
+
+# menu item
+#~ msgid "Delete"
+#~ msgstr "Sil"
+
+#~ msgid "DVB menu"
+#~ msgstr "DVB menü"
+
+#~ msgid "all entries?"
+#~ msgstr "tüm kayıtlar mı?"
+
+#~ msgid "EPG"
+#~ msgstr "Program listesi"
+
+#~ msgid "EPG grid "
+#~ msgstr "EPG şebekesi"
+
+#~ msgid "Auto scan"
+#~ msgstr "Otomatik tarama"
+
+#~ msgid "Manual scan"
+#~ msgstr "Elle tarama"
+
+#~ msgid "Clear list"
+#~ msgstr "Listi temizle"
+
+#~ msgid "Enter name..."
+#~ msgstr "Adı girin..."
+
+#~ msgid "Menu"
+#~ msgstr "Menü"
+
+# menu item
+#~ msgid "Select"
+#~ msgstr "Seç"
+
+#~ msgid "Add to<br>favourites"
+#~ msgstr "Favoriye в<br>ekle"
+
+#~ msgid "Remove from<br>favourites"
+#~ msgstr "Favoriden из<br>sil"
+
+#~ msgid "No DVB channels"
+#~ msgstr "DVB kanal bulunamadı"
+
+#~ msgid "Start auto scan?"
+#~ msgstr "Otomatik taramaya başlatmak istiyor musunuz?"
+
+#~ msgid "Scanning"
+#~ msgstr "Tarama"
+
+#~ msgid "Stop scanning?"
+#~ msgstr "Taramayı durdurmak istiyor musunuz?"
+
+#~ msgid "Stop"
+#~ msgstr "Dur"
+
+#~ msgid "DVB channel list was changed"
+#~ msgstr "DVB kanalları listesi değiştirildi"
+
+#~ msgid "Save updated DVB channel list?"
+#~ msgstr "Değişikli DVB kanalları listesi kaydetmek istiyor musunuz?"
+
+#~ msgid "Exit without saving"
+#~ msgstr "Kaydetmeden çık"
+
+#~ msgid "The list of favourite records has changed"
+#~ msgstr "Favori listesi değiştirildi"
+
+#~ msgid "Save updated list of favourite records?"
+#~ msgstr "Favori kayıtların yenilenmiş listesini kaydetmek istiyor musunuz?"
+
+#~ msgid "Recording channel"
+#~ msgstr "Kanal kaydı"
+
+#~ msgid "Group name"
+#~ msgstr "Grup adı"
+
+#~ msgid "EPG is missing"
+#~ msgstr "EPG bulunamadı"
+
+#~ msgid "Duration:"
+#~ msgstr "Süre:"
+
+# menu item
+#~ msgid "Open selected"
+#~ msgstr "Seçileni aç"
+
+# menu item
+#~ msgid "Mount"
+#~ msgstr "Bağla"
+
+# menu item
+#~ msgid "Mount share"
+#~ msgstr "Kaynağı bağla"
+
+# menu item
+#~ msgid "Unmount share"
+#~ msgstr "Kaynağı kes"
+
+# menu item
+#~ msgid "Edit share"
+#~ msgstr "Değiştir"
+
+# menu item
+#~ msgid "Add to favourites"
+#~ msgstr "Favorilere ekle"
+
+# menu item
+#~ msgid "Remove from favourites"
+#~ msgstr "Favorilerden sil"
+
+# menu item
+#~ msgid "Cut"
+#~ msgstr "Kes"
+
+# menu item
+#~ msgid "Copy"
+#~ msgstr "Kopyala"
+
+# menu item
+#~ msgid "Paste"
+#~ msgstr "Yapıştır"
+
+#~ msgid "View"
+#~ msgstr "Görünüm"
+
+# menu item
+#~ msgid "All"
+#~ msgstr "Tümü"
+
+# menu item
+#~ msgid "Folders"
+#~ msgstr "Belgeler"
+
+# menu item
+#~ msgid "Audio"
+#~ msgstr "Ses kayıtları"
+
+#~ msgid "Video"
+#~ msgstr "Video kayıtlar"
+
+#~ msgid "Images"
+#~ msgstr "Görüntü"
+
+# menu item
+#~ msgid "Playlists"
+#~ msgstr "Oynatma listeleri"
+
+#~ msgid "ISO"
+#~ msgstr "ISO"
+
+#~ msgid "Subtitles"
+#~ msgstr "Altyazı"
+
+#~ msgid "Streams"
+#~ msgstr "Akış"
+
+#~ msgid "Sort"
+#~ msgstr "Sırala"
+
+# menu item
+#~ msgid "By name"
+#~ msgstr "Ada göre"
+
+# menu item
+#~ msgid "By size"
+#~ msgstr "Büyüklüğe göre"
+
+# menu item
+#~ msgid "By type"
+#~ msgstr "Türe göre"
+
+# menu item
+#~ msgid "By extension"
+#~ msgstr "Boyuta göre"
+
+#~ msgid "Tools"
+#~ msgstr "Araçlar"
+
+#~ msgid "Connect NFS/SMB"
+#~ msgstr "NFS/SMB bağla"
+
+#~ msgid "Disconnect NFS/SMB"
+#~ msgstr "NFS/SMB kes"
+
+# menu item
+#~ msgid "Disk formatting"
+#~ msgstr "Disk biçimlendirme"
+
+#~ msgid "Enter path or file name..."
+#~ msgstr "Yolu veya dosya adını giriniz... "
+
+#~ msgid "Show<br>info panel"
+#~ msgstr "Bilgi panelini<br /> göster"
+
+#~ msgid "Items:"
+#~ msgstr "Öğeler:"
+
+#~ msgid "Selected:"
+#~ msgstr "Seçilmiş:"
+
+#~ msgid "Hide<br>info panel"
+#~ msgstr "Bilgi panelini <br />gizlet"
+
+#~ msgid "Warning!"
+#~ msgstr "Dikkat!"
+
+#~ msgid "\"Storage read only access mode\" is enabled in System Settings"
+#~ msgstr "Depolama cihazı için Sistem Ayarlarında ''sadece-okuma'' modu açıldı"
+
+#~ msgid "Deletion error"
+#~ msgstr "Silme hatası"
+
+#~ msgid "Unable to remove all selected items"
+#~ msgstr "Tüm seçilmiş öğeler silinemedi"
+
+#~ msgid "Contains a list of items corresponding to the given filter request"
+#~ msgstr "Gösterilen isteğe uygun olan kayıt listesi içerir."
+
+#~ msgid "LAN supports SMB/CIFS protocol, contains available working groups"
+#~ msgstr "Yerer Alan Ağı SMB / CIFS protokolününe göre çalışıp tüm çalışma grupları içerir"
+
+#~ msgid "List of working group computers"
+#~ msgstr "Çalışma grubunda bilgisayar listesini içerir"
+
+#~ msgid "List of available folders for every computer"
+#~ msgstr "Her bilgisayarda mevcut belgeler listesi bulunur"
+
+#~ msgid "Access to folders and files of selected network folder"
+#~ msgstr "Klasörlere ve seçilen ağ klasörünün dosyalarına erişim "
+
+#~ msgid "Folder:"
+#~ msgstr "Klasör:"
+
+#~ msgid "Address:"
+#~ msgstr "Adres:"
+
+#~ msgid "Type:"
+#~ msgstr "Tür:"
+
+#~ msgid "Plug&Play, a set of protocols for seamless connection of network devices, home and corporate. Easy and user-friendly access to media files in LAN."
+#~ msgstr "Plug and Play hem evinizde, hem de şirketinizde ağ cihazlarının üniversel otomatik ayarlanmaktır. Yerel Alan Ağındaki dosyalara basit ve kullanışlı erişim sunar."
+
+#~ msgid "Access to list of Timeshift and PVR records collected from all available at the moment storages. All records are grouped by the channel names."
+#~ msgstr "Şu an mevcut olan taşayıcı tümünden toplanmış Timeshift ve PVR kayıt listesine erişim sunar. Tüm kayıtlar kanallar adlarına göre sıralandı."
+
+#~ msgid "Opens a list of Timeshift and PVR records sorted by record date"
+#~ msgstr "Kayıt tarihine göre sıralanan Timeshift ve PVR kayıt listesine erişim sunar"
+
+#~ msgid "Access to list of Timeshift and PVR records sorted by record time"
+#~ msgstr "Kayıt saatine göre sıralanan Timeshift ve PVR kayıt listesine erişim sunar"
+
+#~ msgid "Opens a full editable list of favourite records"
+#~ msgstr "Değiştirmeli ortak  seçilmiş kayıt listesine erişim sunar"
+
+#~ msgid "Saved items:"
+#~ msgstr "Kaydedilen öğeler:"
+
+#~ msgid "Unsaved changes:"
+#~ msgstr "Kaydedilmeyen değişiklikler:"
+
+#~ msgid "yes"
+#~ msgstr "evet"
+
+#~ msgid "no"
+#~ msgstr "hayır"
+
+#~ msgid "Access to folders and files"
+#~ msgstr "Klasöre ve dosyalara erişim"
+
+#~ msgid "Name:"
+#~ msgstr "Ad:"
+
+#~ msgid "Size:"
+#~ msgstr "Büyüklüğü:"
+
+#~ msgid "Performer:"
+#~ msgstr "Yerine getiren:"
+
+#~ msgid "File:"
+#~ msgstr "Dosya:"
+
+#~ msgid "List of files or network streams to play"
+#~ msgstr "Oynatmaya dosya veya ağ akışları listesi bulunur."
+
+#~ msgid "Text file with media subtitles or other data"
+#~ msgstr "Medya verilerine altyazılı veya diğer bilgli metin dosyası"
+
+#~ msgid "List of album files with additional info"
+#~ msgstr "İlâve bilgili albüm dosya listesi bulunur"
+
+#~ msgid "Song by:"
+#~ msgstr "Şarkı yazarı:"
+
+#~ msgid "Genre:"
+#~ msgstr "Tarz:"
+
+#~ msgid "Date:"
+#~ msgstr "Tarih:"
+
+#~ msgid "Place:"
+#~ msgstr "Yer:"
+
+#~ msgid "Comment:"
+#~ msgstr "Yorum:"
+
+#~ msgid "Files:"
+#~ msgstr "Dosyalar:"
+
+#~ msgid "from"
+#~ msgstr "nereden"
+
+#~ msgid "Read only:"
+#~ msgstr "Sadece okuma:"
+
+#, fuzzy
+#~ msgid "Record status"
+#~ msgstr "Kayıtlar"
+
+# menu item
+#~ msgid "Make group"
+#~ msgstr "Gruba ekle"
+
+# menu item
+#~ msgid "Create group"
+#~ msgstr "Yeni grup oluştur"
+
+#~ msgid "Edit"
+#~ msgstr "Edit"
+
+# menu item
+#~ msgid "Save changes"
+#~ msgstr "Değişikleri kaydet"
+
+#~ msgid "Add to group"
+#~ msgstr "Gruba kaydet"
+
+# menu item
+#~ msgid "Add operator's IPTV list"
+#~ msgstr "IPTV listesini seç"
+
+# menu item
+#~ msgid "Add IPTV list"
+#~ msgstr "IPTV listesini seç"
+
+# menu item
+#~ msgid "Add IPTV channel"
+#~ msgstr "IPTV kanalını ekle"
+
+#~ msgid "Enter channel or group name..."
+#~ msgstr "Kanal veya grup adını giriniz... "
+
+#~ msgid "Record"
+#~ msgstr "Kayıt"
+
+#~ msgid "No IPTV channels"
+#~ msgstr "IPTV kanal bulunamadı"
+
+#~ msgid "IPTV channel list was changed"
+#~ msgstr "IPTV kanalları listesi değiştirildi"
+
+#~ msgid "Save updated IPTV channel list?"
+#~ msgstr "Değiştirilmiş IPTV listesini kaydetmek istiyor musunuz?"
+
+#~ msgid "Confirmation"
+#~ msgstr "Onayla"
+
+#~ msgid "Server address:"
+#~ msgstr "Sunucu adresi:"
+
+#~ msgid "Server folder:"
+#~ msgstr "Sunucu klasörü:"
+
+#~ msgid "Local folder:"
+#~ msgstr "Yerel klasör:"
+
+#~ msgid "Connection type:"
+#~ msgstr "Bağlantı türü:"
+
+#~ msgid "Connect"
+#~ msgstr "Bağla"
+
+#~ msgid "Wrong connection parameters"
+#~ msgstr "Bağlantı parametreleri yanlış gösterildi"
+
+#~ msgid "Local folder with this name already exists"
+#~ msgstr "Bu adlı yerel klasörü zaten mevcuttur"
+
+#~ msgid "Network folder successfully mounted"
+#~ msgstr "Ağ klasörü başarılı oturtuldu"
+
+#~ msgid "Resource already connected"
+#~ msgstr "İşbu kaynak zaten bağlı"
+
+#~ msgid "Unable to connect to the resource<br>with the given parameters"
+#~ msgstr "Verilen parametreli olarak<br>ağ kaynağına bağlanamadı"
+
+#~ msgid "Edit network folder"
+#~ msgstr "Ağ klasörü değiştirmesi"
+
+#~ msgid "Connect network folder"
+#~ msgstr "Ağ klasörü bağla"
+
+#~ msgid "Disconnect"
+#~ msgstr "Kes"
+
+#~ msgid "Network folder successfully unmounted"
+#~ msgstr "Ağ klasörü başarılı çekildi"
+
+#~ msgid "Disconnect network folder"
+#~ msgstr "Ağ klasörü kes"
+
+#~ msgid "File system:"
+#~ msgstr "Dosya sistemi:"
+
+#~ msgid "Partition:"
+#~ msgstr "Bölüm:"
+
+#~ msgid "Formatting"
+#~ msgstr "Biçimlendirme"
+
+#~ msgid "Formatting completed"
+#~ msgstr "Biçimlendirme tamamlandı"
+
+#~ msgid "Formatting error"
+#~ msgstr "Biçimlendirme hatası"
+
+#~ msgid "Formatting impossible.<br>Make sure the device is not used in:<br>\"Download manager\", \"Record manager\"<br>or content playback."
+#~ msgstr "Biçinlendirilemez.<br>Aygıtın  :<br>\"İndirme yöneticisinde\", \"Kayıt yöneticisinde\"<br> veya kayıt oynatmasına kullanılmadığını kontrol ediniz."
+
+#~ msgid "Formatting impossible"
+#~ msgstr "Biçimlendirilemez"
+
+#~ msgid "Start formatting"
+#~ msgstr "Biçimlendirmeye başlat"
+
+#~ msgid "Selected file system supports disks up to 320GB"
+#~ msgstr "Seçilmiş dosya sistemini için disk boş alanı 320 GB"
+
+#, fuzzy
+#~ msgid "<b style=\"color:red\">Warning: </b>after formatting all data in the<br> selected section will be deleted."
+#~ msgstr "<b style='color:red'>Dikkat: </b>biçimlendirme<br>seçilen kısmının verilerin tümünü silecek."
+
+#~ msgid "See playlist content"
+#~ msgstr "İçeriği gözden geçir"
+
+#~ msgid "Start playing all records"
+#~ msgstr "Tüm kayıtların oynatılmasına başlat"
+
+#~ msgid "Add all records to IPTV channels"
+#~ msgstr "Tüm kayıtları IPTV kanallara ekle"
+
+#~ msgid "File encoding:"
+#~ msgstr "Dosya kodlması:"
+
+#~ msgid "Open playlist"
+#~ msgstr "Oynatma listesini aç"
+
+#~ msgid "Encoding:"
+#~ msgstr "Kodlama:"
+
+#~ msgid "Accessing subtitle file"
+#~ msgstr "Altyazı dosyası erişimi"
+
+#~ msgid "Connection"
+#~ msgstr "Bağlantı"
+
+#~ msgid "Group:"
+#~ msgstr "Grup:"
+
+#~ msgid "or create and use a new group:"
+#~ msgstr "veya yeni bir grup oluştur:"
+
+#~ msgid "Move"
+#~ msgstr "Taşı"
+
+#~ msgid "No storage device"
+#~ msgstr "Bellek aygıtı bulunamadı"
+
+#~ msgid "No channels"
+#~ msgstr "Kanal listesi boş"
+
+#~ msgid "Start recording:"
+#~ msgstr "Başlat:"
+
+#~ msgid "End recording:"
+#~ msgstr "Bitir:"
+
+#~ msgid "Record length:"
+#~ msgstr "Kayıt uzunluğu:"
+
+#~ msgid "Channel:"
+#~ msgstr "Kanal:"
+
+#~ msgid "Record name:"
+#~ msgstr "Kayıt adı:"
+
+#~ msgid "Record in:"
+#~ msgstr "Kaydet:"
+
+#~ msgid "Free space:"
+#~ msgstr "Boş alan:"
+
+#~ msgid "GB"
+#~ msgstr "GB"
+
+#~ msgid "of"
+#~ msgstr "nereden"
+
+#~ msgid "Channel list is empty"
+#~ msgstr "Kanal listesi boş"
+
+#~ msgid "Error. Too many active records."
+#~ msgstr "Hata: İşleyen kayıtların sayısı çoktur."
+
+#~ msgid "Not enough disk space"
+#~ msgstr "Kaydetmeye boş alanı yeterli değil"
+
+#~ msgid "Incorrect time"
+#~ msgstr "Yanlış süre"
+
+#~ msgid "Wrong name or path"
+#~ msgstr "Yanlış ad veya yol"
+
+#~ msgid "Duplicated file"
+#~ msgstr "Dosya zaten mevcut"
+
+#~ msgid "Wrong URL"
+#~ msgstr "Недопустимый адрес URL"
+
+#~ msgid "Too many active records processed"
+#~ msgstr "İşleyen kayıtların sayısı çok"
+
+#~ msgid "Error..."
+#~ msgstr "Hata..."
+
+#~ msgid "Start recording"
+#~ msgstr "Kaydetmeye başlat"
+
+#~ msgid "Name :"
+#~ msgstr "Ad:"
+
+#~ msgid "URL :"
+#~ msgstr "URL:"
+
+#~ msgid "Wrong field data"
+#~ msgstr "Girdiğiniz veriler yanlış"
+
+#~ msgid "Bad playlist file"
+#~ msgstr "Oynatma listesi açılışı hatası"
+
+#~ msgid "Select country..."
+#~ msgstr "Ülkeyi seçin..."
+
+#~ msgid "Select operator..."
+#~ msgstr "Operatörü seçiniz..."
+
+#~ msgid "Select city..."
+#~ msgstr "Şehri seçiniz..."
+
+#~ msgid "Country:"
+#~ msgstr "Ülke:"
+
+#~ msgid "City:"
+#~ msgstr "Şehir:"
+
+#~ msgid "Operator:"
+#~ msgstr "Operatör:"
+
+#~ msgid "Loading operator playlist"
+#~ msgstr "IPTV operatör listesinin yüklenmesi"
+
+#~ msgid "DVB type:"
+#~ msgstr "DVB türü:"
+
+#~ msgid "Symbol rate:"
+#~ msgstr "Sembol oranı"
+
+#~ msgid "Modulation:"
+#~ msgstr "Modülasyon:"
+
+#~ msgid "Scan"
+#~ msgstr "Tara"
+
+#~ msgid "Start scanning"
+#~ msgstr "Taramaya başlat"
+
+#~ msgid "Frequency (KHz):"
+#~ msgstr "Frekans (KHz):"
+
+#~ msgid "Bandwidth (MHz):"
+#~ msgstr "Kuşak genişliği (MHz):"
+
+#~ msgid "Auto"
+#~ msgstr "Otomatik"
+
+#~ msgid "Network"
+#~ msgstr "Şebeke"
+
+#~ msgid "Full"
+#~ msgstr "Tam"
+
+#~ msgid "Fast"
+#~ msgstr "Hızlı"
+
+#~ msgid "Network ID:"
+#~ msgstr "Ağ şifresi:"
+
+#~ msgid "EPG not available"
+#~ msgstr "Program listesi mevcut değil"
+
+#~ msgid "The program for:"
+#~ msgstr "Program listesi ... için:"
+
+#~ msgid "Fit on"
+#~ msgstr "Sığ"
+
+#~ msgid "Zoom"
+#~ msgstr "Yaklaş"
+
+#~ msgid "Optimal"
+#~ msgstr "Optimal"
+
+#~ msgid "Stretch"
+#~ msgstr "Uzat"
+
+#~ msgid "Show<br />playlist"
+#~ msgstr "Oynatma listesini<br />göster"
+
+#~ msgid "Hide<br />player"
+#~ msgstr "Oynatıcı <br />sakla"
+
+#~ msgid "Previous<br />media"
+#~ msgstr "Geçmiş<br />medya"
+
+#~ msgid "Next<br />media"
+#~ msgstr "Gelecek<br />medya"
+
+#~ msgid "Audio tracks"
+#~ msgstr "Ses parçaları"
+
+#~ msgid "No storage device selected as the \"File location\" in TimeShift settings. Disable TimeShift?"
+#~ msgstr "TimeShift ayarlarında  \"Dosya konumu\" olarak seçilen taşayıcı bulunamadı TimeShift. TimeShift fonksiyonu kapatmak istiyor musunuz?"
+
+#~ msgid "No"
+#~ msgstr "Hayır"
+
+#~ msgid "TimeShift buffer"
+#~ msgstr "TimeShift buffer"
+
+#~ msgid "Cyclic recording mode"
+#~ msgstr "Devirli kayıt modu"
+
+#~ msgid "3D mode"
+#~ msgstr "3D rejimi"
+
+#~ msgid "Mode"
+#~ msgstr "Rejim"
+
+#~ msgid "Slide-show"
+#~ msgstr "Slayt gösterisi"
+
+#~ msgid "Play"
+#~ msgstr "Oynat"
+
+#~ msgid "One file once"
+#~ msgstr "Dosya bir kere"
+
+#~ msgid "Each file once"
+#~ msgstr "Hepsi bir kere"
+
+#~ msgid "Repeat file"
+#~ msgstr "Dosya tekrar oynat"
+
+#~ msgid "Repeat everything"
+#~ msgstr "Hepsi tekrar oynat"
+
+#~ msgid "Playlist shuffle"
+#~ msgstr "Oynatma listesini taşı"
+
+#~ msgid "Hide<br />playlist"
+#~ msgstr "Oynatma listesini <br />sakla"
+
+#~ msgid "Selected subtitle file is not available"
+#~ msgstr "Secilmiş altyazı dosyası mevcut değil"
+
+#~ msgid "Playing error"
+#~ msgstr "Oynatma hatası"
+
+#~ msgid "Antenna power supply disabled"
+#~ msgstr "Anten gücü kaynağı kesildi"
+
+#~ msgid "Buffer is full"
+#~ msgstr "Buffer dolu"
+
+#~ msgid "Writing error"
+#~ msgstr "Kayıt hatası"
+
+#~ msgid "Check storage device.<br />Disable TimeShift?"
+#~ msgstr "Taşayıcı durumunu kontrol ediniz.<br />TimeShift kapatmak istiyor musunuz?"
+
+#~ msgid "Start TimeShift error"
+#~ msgstr "TimeShift açılma hatası"
+
+#~ msgid "Save TimeShift buffer?"
+#~ msgstr "TimeShift bufferin içeriğini kaydetmek istiyor musunuz?"
+
+#~ msgid "Saving error"
+#~ msgstr "Kaydetme hatası"
+
+#~ msgid "Save to:"
+#~ msgstr "Kaydet:"
+
+#~ msgid "unknown"
+#~ msgstr "Bilinmeyen"
+
+#~ msgid "External subtitles:"
+#~ msgstr "Dış altyazı:"
+
+#~ msgid "Title"
+#~ msgstr "Bölüm"
+
+#~ msgid "Chapter"
+#~ msgstr "Kısım"
+
+#~ msgid "Contains the list of items corresponding to the given filter request"
+#~ msgstr "Gösterilen isteğe uygun olan kayıt listesi içerir."
+
+#~ msgid "Copying error"
+#~ msgstr "Kopyalama hatası"
+
+#~ msgid "Records"
+#~ msgstr "Kayıtlar"
+
+#~ msgid "Unable to get working group list"
+#~ msgstr "Çalışma grupları listesi alınamadı"
+
+#~ msgid "Unable to get working group servers"
+#~ msgstr "Çalışma grupları sunucu listesi alınamadı"
+
+#~ msgid "Unable to get server shares"
+#~ msgstr "Mevcut belgeler listesi alınamadı"
+
+#~ msgid "Multimedia content"
+#~ msgstr "Multimedya içeriği"
+
+#, fuzzy
+#~ msgid "The directory contains DVD or Blu-ray structure.<br>Begin playing?"
+#~ msgstr "Klasör DVD veya Blue-Ray içerir.<br>Oynatmaya başlatmak istiyor musunuz?"
+
+#~ msgid "Network connection"
+#~ msgstr "Ağ bağlantısı"
+
+#~ msgid "Unable to mount the folder.<br>Authorization may be necessary.<br>Specify login and password?"
+#~ msgstr "Klasör oturtulamadı.<br>Belki, yetkilendirmeye ihtiyacınız var.<br>Adı ve şifreyi girer misiniz?"
+
+#~ msgid "Authorization"
+#~ msgstr "Yetkilendirme"
+
+#~ msgid "Selected subtitle will appear<br>during next player launch"
+#~ msgstr "Seçilen altyazı dosyası oynatıcının gelecek  <br>girişinde kullanılacak"
+
+#~ msgid "No records in this playlist"
+#~ msgstr "Oynatma listesinde dosya bulunamadı"
+
+#~ msgid "Add to IPTV channels"
+#~ msgstr "IPTV kanallarına ekle"
+
+#~ msgid "Unable to add the selected records"
+#~ msgstr "Seçilen kayıtlar eklenemedi"
+
+#~ msgid "No new channels for selected records"
+#~ msgstr "Seçilmiş kayıtlarda yeni kanal bulunamadı"
+
+#~ msgid "Channels added successfully:"
+#~ msgstr "Başarılı eklenmış kanallar:"
+
+#~ msgid "Go to IPTV channels"
+#~ msgstr "IPTV kanallara git"
+
+#, fuzzy
+#~ msgid "Unable to get dlna group servers"
+#~ msgstr "Çalışma grupları sunucu listesi alınamadı"
+
+#~ msgid "Loading..."
+#~ msgstr "Yüklenme..."
+
+#, fuzzy
+#~ msgid "Unable to get dlna content"
+#~ msgstr "Çalışma grupları listesi alınamadı"
+
+#~ msgid "Update software now"
+#~ msgstr "Обновить ПО сейчас"
+
+#~ msgid "Formatting in progress..."
+#~ msgstr "Форматирование в процессе..."
+
+# menu item
+#~ msgid "Move selected"
+#~ msgstr "Переместить выделенное"
+
+# menu item
+#~ msgid "Copy selected"
+#~ msgstr "Копировать выделенное"
+
+#, fuzzy
+#~ msgid "To perform this operation, you must to turn off \"Storage read only access\" in system settings"
+#~ msgstr "Чтобы выполнить эту операцию, необходимо отключить \"Storage read only access\" в системных настройках"
+
+#~ msgid "Selected"
+#~ msgstr "Выделенное"
+
+#~ msgid "Text"
+#~ msgstr "Текст"
+
+#~ msgid "Groups"
+#~ msgstr "Группы"
+
+#~ msgid "No sorting"
+#~ msgstr "Без сортировки"

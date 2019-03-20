@@ -1,0 +1,62 @@
+<!doctype html>
+<html>
+<head>
+	<title>STB Service page</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta http-equiv="Content-Style-Type" content="text/css">
+	<meta http-equiv="Content-Script-Type" content="text/javascript">
+
+	<script>
+		var PATH_BASE = '../../../';
+	</script>
+
+	<script type="text/javascript" src="../../../system/init.js"></script>
+
+	<script type="text/javascript">
+		(function () {
+			var time = (new Date).getTime();
+			// conditional css loading
+			document.write('<link rel="stylesheet" href="../../../system/' + WINDOW_HEIGHT + '.css?_=' + time + '">');
+			document.write('<link rel="stylesheet" href="' + WINDOW_HEIGHT + '.css?_=' + time + '">');
+		})();
+	</script>
+	<script type="text/javascript" src="../../wm.js"></script>
+	<script type="text/javascript" src="../../config.js"></script>
+	<script type="text/javascript" src="../../keys.js"></script>
+	<script type="text/javascript" src="../../gettext.js"></script>
+	<script type="text/javascript" src="../../tools.js"></script>
+	<script type="text/javascript" src="../../cbase.js"></script>
+	<script type="text/javascript" src="../../cpage.js"></script>
+	<script type="text/javascript" src="../../cmodal.js"></script>
+	<script type="text/javascript" src="./main.js"></script>
+
+	<script type="text/javascript">
+		(function () {
+			var time = (new Date).getTime();
+			// conditional css loading
+			document.write('<link rel="stylesheet" href="../' + WINDOW_HEIGHT + '.css?_=' + time + '">');
+		})();
+	</script>
+
+	<style type="text/css">
+		html, body { overflow:hidden; background:transparent; color:#fff; margin:0; padding:0; -webkit-user-select:none; font-family:Ubuntu, sans-serif; }
+		/* table cell spacing/padding reset */
+		table { border:0; border-collapse:collapse; border-spacing:0; }
+		table td { padding:0 }
+		/* meta-classes */
+		.maxh { height:100% }
+		.maxw { width:100% }
+		a { text-decoration:none }
+		/* scroll bars */
+		::-webkit-scrollbar-track { background:#2a2c2f }
+		::-webkit-scrollbar-thumb { background:#ffc20e }
+		body#body > .page.main { background-color:transparent; }
+	</style>
+
+</head>
+<body id="body">
+<div class="page main">
+	<!-- main page body -->
+</div>
+</body>
+</html>

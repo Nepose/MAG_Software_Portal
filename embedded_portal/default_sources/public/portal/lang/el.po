@@ -1,0 +1,3143 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Service menu\n"
+"POT-Creation-Date: 2017-03-17 16:05+0200\n"
+"PO-Revision-Date: 2017-03-17 16:05+0200\n"
+"Last-Translator: Igor <deadbyelpy@gmail.com>\n"
+"Language-Team: Greek Blog Infomir <http://mag250-greece.blogspot.gr/>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-KeywordsList: _;gettext.data\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../lang.js:9
+msgid "January"
+msgstr "Ιανουάριος"
+
+#: ../lang.js:9
+msgid "February"
+msgstr "Φεβρουάριος"
+
+#: ../lang.js:9
+msgid "March"
+msgstr "Μάρτιος"
+
+#: ../lang.js:9
+msgid "April"
+msgstr "Απρίλιος"
+
+#: ../lang.js:9
+msgid "May"
+msgstr "Μάιος"
+
+#: ../lang.js:9
+msgid "June"
+msgstr "Ιούνιος"
+
+#: ../lang.js:9
+msgid "July"
+msgstr "Ιούλιος"
+
+#: ../lang.js:9
+msgid "August"
+msgstr "Αύγουστος"
+
+#: ../lang.js:9
+msgid "September"
+msgstr "Σεπτέμβριος"
+
+#: ../lang.js:9
+msgid "October"
+msgstr "Οκτώβριος"
+
+#: ../lang.js:9
+msgid "November"
+msgstr "Νοέμβριος"
+
+#: ../lang.js:9
+msgid "December"
+msgstr "Δεκέμβριος"
+
+#: ../lang.js:10
+msgid "Sunday "
+msgstr "Κυριακή"
+
+#: ../lang.js:10
+msgid "Monday "
+msgstr "Δευτέρα"
+
+#: ../lang.js:10
+msgid "Tuesday "
+msgstr "Τρίτη"
+
+#: ../lang.js:10
+msgid "Wednesday "
+msgstr "Τετάρτη"
+
+#: ../lang.js:10
+msgid "Thursday "
+msgstr "Πέμπτη"
+
+#: ../lang.js:10
+msgid "Friday "
+msgstr "Παρασκευή"
+
+#: ../lang.js:10
+msgid "Saturday "
+msgstr "Σάββατο"
+
+#: ../lang.js:13
+msgid "Clear/Sunny"
+msgstr "Καθαρός / Ηλιόλουστος"
+
+#: ../lang.js:14
+msgid "Partly Cloudy"
+msgstr "Μερικώς νεφελώδης"
+
+#: ../lang.js:15
+msgid "Cloudy"
+msgstr "Νεφελώδης"
+
+#: ../lang.js:16
+msgid "Overcast"
+msgstr "Πυκνή συννεφιά"
+
+#: ../lang.js:17
+msgid "Mist"
+msgstr "Ελαφριά ομίχλη"
+
+#: ../lang.js:18
+msgid "Patchy rain nearby"
+msgstr "Κατά τόπους βροχή"
+
+#: ../lang.js:19
+msgid "Patchy snow nearby"
+msgstr "Κατά τόπους χιόνι"
+
+#: ../lang.js:20
+msgid "Patchy sleet nearby"
+msgstr "Κατά τόπους χιονόνερο"
+
+#: ../lang.js:21
+msgid "Patchy freezing drizzle nearby"
+msgstr "Κατά τόπους ψιλόβροχο, παγετός"
+
+#: ../lang.js:22
+msgid "Thundery outbreaks in nearby"
+msgstr "Ξεσπάσματα καταιγίδας"
+
+#: ../lang.js:23
+msgid "Blowing snow"
+msgstr "Φυσώντας χιόνι"
+
+#: ../lang.js:24
+msgid "Blizzard"
+msgstr "Χιονοθύελλα"
+
+#: ../lang.js:25
+msgid "Fog"
+msgstr "Ομίχλη"
+
+#: ../lang.js:26
+msgid "Freezing fog"
+msgstr "Παγετός-ομίχλη"
+
+#: ../lang.js:27
+msgid "Patchy light drizzle"
+msgstr "Κατά τόπους ελαφρά ψιχαλίζει"
+
+#: ../lang.js:28
+msgid "Light drizzle"
+msgstr "ψιχαλίζει"
+
+#: ../lang.js:29
+msgid "Freezing drizzle"
+msgstr "Παγετός ψιλόβροχο"
+
+#: ../lang.js:30
+msgid "Heavy freezing drizzle"
+msgstr "πυκνή ομίχλη παγετός"
+
+#: ../lang.js:31
+msgid "Patchy light rain"
+msgstr "Κατά τόπους ασθενής βροχή"
+
+#: ../lang.js:32
+msgid "Light rain"
+msgstr "Ασθενής βροχή"
+
+#: ../lang.js:33
+msgid "Moderate rain at times"
+msgstr "Μέτρια βροχή κατά περιόδους"
+
+#: ../lang.js:34
+msgid "Moderate rain"
+msgstr "μέτρια βροχή"
+
+#: ../lang.js:35
+msgid "Heavy rain at times"
+msgstr "Δυνατή βροχή κατά περιόδους"
+
+#: ../lang.js:36
+msgid "Heavy rain"
+msgstr "Δυνατή βροχή"
+
+#: ../lang.js:37
+msgid "Light freezing rain"
+msgstr "Ασθενής βροχή Παγετός"
+
+#: ../lang.js:38
+msgid "Moderate or Heavy freezing rain"
+msgstr "Μέτρια ή δυνατή βροχή Παγετός"
+
+#: ../lang.js:39
+msgid "Light sleet"
+msgstr "Ελαφρά χιονόπτωση"
+
+#: ../lang.js:40
+msgid "Moderate or heavy sleet"
+msgstr "Μέτρια ή ισχυρή χιονόπτωση"
+
+#: ../lang.js:41
+msgid "Patchy light snow"
+msgstr "Κατά τόπους ελαφρά χιονόπτωση"
+
+#: ../lang.js:42
+msgid "Light snow"
+msgstr "Ασθενής χιονόπτωση"
+
+#: ../lang.js:43
+msgid "Patchy moderate snow"
+msgstr "Κατά τόπους ελαφρά χιονόπτωση"
+
+#: ../lang.js:44
+msgid "Moderate snow"
+msgstr "μέτρια χιονόπτωση"
+
+#: ../lang.js:45
+msgid "Patchy heavy snow"
+msgstr "Κατά τόπους ισχυρή χιονόπτωση"
+
+#: ../lang.js:46
+msgid "Heavy snow"
+msgstr "Ισχυρή χιονόπτωση"
+
+#: ../lang.js:47
+msgid "Ice pellets"
+msgstr "Χαλάζι"
+
+#: ../lang.js:48
+msgid "Light rain shower"
+msgstr "σύντομη νεροποντή"
+
+#: ../lang.js:49
+msgid "Moderate or heavy rain shower"
+msgstr "δυνατή βροχή"
+
+#: ../lang.js:50
+msgid "Torrential rain shower"
+msgstr "Έντονες βροχοπτώσεις"
+
+#: ../lang.js:51
+msgid "Light sleet showers"
+msgstr "Χιονόνερο"
+
+#: ../lang.js:52
+msgid "Moderate or heavy sleet showers"
+msgstr "Μέτρια ή βροχή χιονόνερο"
+
+#: ../lang.js:53
+msgid "Light snow showers"
+msgstr "Ελαφρά χιονόπτωση"
+
+#: ../lang.js:54
+msgid "Moderate or heavy snow showers"
+msgstr "Μέτρια ή βαριά χιονόπτωση"
+
+#: ../lang.js:55
+msgid "Light showers of ice pellets"
+msgstr "Κατά τόπους ελαφρύ χιονόνερο"
+
+#: ../lang.js:56
+msgid "Moderate or heavy showers of ice pellets"
+msgstr "Μέτριο ή δυνατό χιονόνερο"
+
+#: ../lang.js:57
+msgid "Patchy light rain in area with thunder"
+msgstr "Κατά τόπους ελαφρά βροχή - βροντή"
+
+#: ../lang.js:58
+msgid "Moderate or heavy rain in area with thunder"
+msgstr "Μερικές φορές δυνατή βροχή με βροντές"
+
+#: ../lang.js:59
+msgid "Patchy light snow in area with thunder"
+msgstr "Κατά τόπους ελαφρά χιονόπτωση - βροντή"
+
+#: ../lang.js:60
+msgid "Moderate or heavy snow in area with thunder"
+msgstr "Μερικές φορές πυκνό χιόνι με βροντές"
+
+#: ../lang.js:64
+msgid "Today"
+msgstr "Σήμερα"
+
+#: ../lang.js:65 ../media/exlporer.js:529 ../services.js:1504
+msgid "Home Media"
+msgstr "Αναπαραγωγή Πολυμέσων"
+
+#: ../lang.js:66 ../media/dvbepg.js:94 ../media/iptv.js:294
+#: ../media/modals.js:1088 ../services.js:1503
+msgid "IPTV channels"
+msgstr "IPTV-κανάλια"
+
+#: ../lang.js:67 ../media/dvbepg.js:90 ../media/dvbtv.js:258
+#: ../services.js:1511
+msgid "DVB channels"
+msgstr "DVB-κανάλια"
+
+#: ../lang.js:68 ../media/browsers/file.js:167
+#, fuzzy
+msgid "Favorites"
+msgstr "Αγαπημένα"
+
+#: ../lang.js:69
+msgid "Internet Browser"
+msgstr "Internet Browser"
+
+#: ../lang.js:70
+msgid "Internet bookmarks"
+msgstr "Internet bookmarks"
+
+#: ../lang.js:71 ../media/player.js:160 ../services.js:907
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: ../lang.js:72
+msgid "Download manager"
+msgstr "Διαχείριση λήψεων"
+
+#: ../lang.js:73
+msgid "Internet services"
+msgstr "Υπηρεσίες Διαδικτύου"
+
+#: ../lang.js:75
+#, fuzzy
+msgid "Apps"
+msgstr "Apps"
+
+#: ../lang.js:76
+msgid "Infomir Stalker"
+msgstr "Infomir Stalker"
+
+#: ../lang.js:77
+msgid "Menu Guide"
+msgstr "Οδηγός Μενού"
+
+#: ../lang.js:78
+msgid "Record manager"
+msgstr "Διαχείριση Εγγραφών"
+
+#: ../lang.js:79 ../menu.js:544
+msgid "Weather"
+msgstr "Καιρός"
+
+#: ../lang.js:80
+msgid "Weather in"
+msgstr "Καιρός "
+
+#: ../lang.js:81
+msgid ""
+"The service is not available at the moment.<br /> Please try again later."
+msgstr ""
+"Η υπηρεσία δεν είναι διαθέσιμη αυτή τη στιγμή.<br />Παρακαλώ δοκιμάστε ξανά "
+"αργότερα."
+
+#: ../lang.js:82 ../services.js:944
+msgid "Setup Wizard"
+msgstr "Οδηγός εγκατάστασης"
+
+#: ../lang.js:83
+msgid "Select city"
+msgstr "Επιλέξτε πόλη"
+
+#: ../lang.js:84
+msgid "Weather is not found, select another city"
+msgstr "Ο καιρός δεν έχει βρεθεί, επιλέξτε μια άλλη πόλη"
+
+#: ../lang.js:85
+msgid "<br>Do you want to save location?"
+msgstr "<br>Θέλετε να αποθηκεύσετε την τοποθεσία;"
+
+#: ../lang.js:86 ../media/player.js:791 ../services.js:2530
+msgid "Ok"
+msgstr "Ok"
+
+#: ../lang.js:87 ../master_settings/main.js:458 ../media/browsers/file.js:365
+#: ../media/browsers/file.js:411 ../media/browsers/file.js:420
+#: ../media/browsers/file.js:465 ../media/browsers/file.js:474
+#: ../media/dvbtv.js:113 ../media/dvbtv.js:169 ../media/dvbtv.js:400
+#: ../media/dvbtv.js:545 ../media/exlporer.js:1154 ../media/iptv.js:134
+#: ../media/iptv.js:957 ../media/modals.js:225 ../media/modals.js:532
+#: ../media/modals.js:745 ../media/modals.js:760 ../media/modals.js:903
+#: ../media/modals.js:986 ../media/modals.js:1107 ../media/modals.js:1618
+#: ../media/modals.js:1766 ../media/modals.js:1909 ../media/modals.js:2055
+#: ../media/modals.js:2261 ../media/modals.js:2464 ../media/modals.js:2738
+#: ../media/modals.js:3257 ../media/modals.js:3366 ../menu.js:124
+#: ../services.js:1405 ../services.js:1868 ../services.js:2529
+#: ../services.js:2534
+msgid "Cancel"
+msgstr "Ακύρωση"
+
+#: ../lang.js:88
+msgid "Loading service..."
+msgstr "Φόρτωση Υπηρεσίας ..."
+
+#: ../lang.js:89
+msgid "Service unavailable"
+msgstr "Η υπηρεσία δεν είναι διαθέσιμη"
+
+#: ../lang.js:91
+msgid "Humidity"
+msgstr "Υγρασία"
+
+#: ../lang.js:92
+msgid "Wind"
+msgstr "Άνεμος"
+
+#: ../lang.js:93
+msgid "N"
+msgstr "Β"
+
+#: ../lang.js:94
+msgid "NE"
+msgstr "Β/Α"
+
+#: ../lang.js:95
+msgid "E"
+msgstr "Α"
+
+#: ../lang.js:96
+msgid "SE"
+msgstr "Ν/Α"
+
+#: ../lang.js:97
+msgid "S"
+msgstr "Ν"
+
+#: ../lang.js:98
+msgid "SW"
+msgstr "Ν/Δ"
+
+#: ../lang.js:99
+msgid "W"
+msgstr "Δ"
+
+#: ../lang.js:100
+msgid "NW"
+msgstr "Β/Δ"
+
+#: ../lang.js:101
+msgid "m/s"
+msgstr "μίλια / δευτερόλεπτο"
+
+#: ../lang.js:102
+msgid "miles/h"
+msgstr "μίλια/ώρα"
+
+#: ../lang.js:103
+msgid "Loading data. It may take some time."
+msgstr "Φόρτωση δεδομένων. Μπορεί να πάρει κάποιο χρόνο."
+
+#: ../lang.js:110
+msgid "English"
+msgstr "Αγγλικά"
+
+#: ../lang.js:114
+msgid "Russian"
+msgstr "Ρωσική"
+
+#: ../lang.js:118
+msgid "Ukrainian"
+msgstr "Ουκρανικά"
+
+#: ../lang.js:122
+msgid "Belarusian"
+msgstr "Λευκορωσίας"
+
+#: ../lang.js:126
+msgid "French"
+msgstr "Γαλλικά"
+
+#: ../lang.js:130
+msgid "German"
+msgstr "Γερμανικά"
+
+#: ../lang.js:134
+msgid "Italian"
+msgstr "Ιταλικά"
+
+#: ../lang.js:138
+msgid "Spanish"
+msgstr "Ισπανικά"
+
+#: ../lang.js:142
+msgid "Portuguese"
+msgstr "Πορτογαλικά"
+
+#: ../lang.js:146
+msgid "Swedish"
+msgstr "Σουηδικά"
+
+#: ../lang.js:150
+msgid "Norwegian"
+msgstr "Νορβηγικά"
+
+#: ../lang.js:154
+msgid "Dutch"
+msgstr "Ολλανδικά"
+
+#: ../lang.js:158
+msgid "Serbian"
+msgstr "Σερβική"
+
+#: ../lang.js:162
+msgid "Slovenian"
+msgstr "Σλοβενίας"
+
+#: ../lang.js:166
+msgid "Croatian"
+msgstr "Κροατικά"
+
+#: ../lang.js:170
+msgid "Albanian"
+msgstr "Αλβανική"
+
+#: ../lang.js:174
+msgid "Japanese"
+msgstr "Ιαπωνικά"
+
+#: ../lang.js:178
+msgid "Chinese"
+msgstr "Кινέζικα"
+
+#: ../lang.js:182
+msgid "Korean"
+msgstr "Κορέας"
+
+#: ../lang.js:186
+msgid "Vietnamese"
+msgstr "Βιετνάμ"
+
+#: ../lang.js:190
+msgid "Latvian"
+msgstr "Λετονίας"
+
+#: ../lang.js:194
+msgid "Lithuanian"
+msgstr "Λιθουανικά"
+
+#: ../lang.js:198
+msgid "Estonian"
+msgstr "Εσθονίας"
+
+#: ../lang.js:202
+msgid "Finnish"
+msgstr "Φινλανδικά"
+
+#: ../lang.js:206
+msgid "Hungarian"
+msgstr "Ουγγρικά"
+
+#: ../lang.js:210
+msgid "Czech"
+msgstr "Τσεχία"
+
+#: ../lang.js:214
+msgid "Slovak"
+msgstr "Σλοβακίας"
+
+#: ../lang.js:218
+msgid "Bulgarian"
+msgstr "Βουλγαρικά"
+
+#: ../lang.js:222
+msgid "Polish"
+msgstr "Πολωνικά"
+
+#: ../lang.js:226
+msgid "Romanian"
+msgstr "Ρουμανικά"
+
+#: ../lang.js:230
+msgid "Greek"
+msgstr "Ελληνικά"
+
+#: ../lang.js:234
+msgid "Hebrew"
+msgstr "Εβραϊκά"
+
+#: ../lang.js:238
+msgid "Turkish"
+msgstr "Τουρκικά"
+
+#: ../lang.js:242
+msgid "Danish"
+msgstr "Δανίας"
+
+#: ../lang.js:246
+msgid "Icelandic"
+msgstr "Іσλανδική"
+
+#: ../lang.js:250
+msgid "Hindi"
+msgstr "Ινδικά"
+
+#: ../lang.js:254
+msgid "Bengali"
+msgstr "Βεγγαλικά"
+
+#: ../lang.js:258
+msgid "Arabic"
+msgstr "Αραβικά"
+
+#: ../lang.js:262
+msgid "Armenian"
+msgstr "Αρμενικά"
+
+#: ../lang.js:266
+msgid "Georgian"
+msgstr "Γεωργίας"
+
+#: ../lang.js:270
+msgid "Azerbaijani"
+msgstr "Αζερμπαϊτζάν"
+
+#: ../lang.js:274
+msgid "Bashkir"
+msgstr "Μπασκίρ"
+
+#: ../lang.js:278
+msgid "Basque"
+msgstr "Βάσκων"
+
+#: ../lang.js:282
+msgid "Bosnian"
+msgstr "Βοσνιακά"
+
+#: ../lang.js:286
+msgid "Buriat"
+msgstr "Μπουργιάτες"
+
+#: ../lang.js:290
+msgid "Burmese"
+msgstr "Βιρμανίας"
+
+#: ../lang.js:294
+msgid "Chechen"
+msgstr "Τσετσενίας"
+
+#: ../lang.js:298
+msgid "Welsh"
+msgstr "Ουαλία;"
+
+#: ../lang.js:302
+msgid "Dzongkha"
+msgstr "Ρωμαϊκή Dzongkha"
+
+#: ../lang.js:306
+msgid "Esperanto"
+msgstr "Εσπεράντο"
+
+#: ../lang.js:310
+msgid "Persian"
+msgstr "Пερσικά"
+
+#: ../lang.js:314
+msgid "Irish"
+msgstr "Іρλανδική"
+
+#: ../lang.js:318
+msgid "Gujarati"
+msgstr "Γκουτζαράτ"
+
+#: ../lang.js:322
+msgid "Indonesian"
+msgstr "Ινδονησίας"
+
+#: ../lang.js:326
+msgid "Iranian"
+msgstr "Ιράν"
+
+#: ../lang.js:330
+msgid "Kashmiri"
+msgstr "Κασμίρ"
+
+#: ../lang.js:334
+msgid "Kazakh"
+msgstr "Καζακστάν"
+
+#: ../lang.js:338
+msgid "Kabardian"
+msgstr "Καμπαρντίνο"
+
+#: ../lang.js:342
+msgid "Komi"
+msgstr "Κώμη"
+
+#: ../lang.js:346
+msgid "Karelian"
+msgstr "Καρελίας"
+
+#: ../lang.js:350
+msgid "Kurdish"
+msgstr "Кουρδική"
+
+#: ../lang.js:354
+msgid "Marathi"
+msgstr "Μαράθι"
+
+#: ../lang.js:358
+msgid "Macedonian"
+msgstr "ΠΓΔΜ"
+
+#: ../lang.js:362
+msgid "Nepali"
+msgstr "Νεπάλ"
+
+#: ../lang.js:366
+msgid "Ossetian"
+msgstr "Оσετίας"
+
+#: ../lang.js:370
+msgid "Yakut"
+msgstr "Γιακουτίας"
+
+#: ../lang.js:374
+msgid "Somali"
+msgstr "Σομαλίας"
+
+#: ../lang.js:378
+msgid "Tamil"
+msgstr "Ταμίλ"
+
+#: ../lang.js:382
+msgid "Tatar"
+msgstr "Тατάρ"
+
+#: ../lang.js:386
+msgid "Telugu"
+msgstr "Τελούγκου"
+
+#: ../lang.js:390
+msgid "Tajik"
+msgstr "Τατζικιστάν"
+
+#: ../lang.js:394
+msgid "Thai"
+msgstr "Ταϊλάνδης"
+
+#: ../lang.js:398
+msgid "Turkmen"
+msgstr "Τουρκμενιστάν"
+
+#: ../lang.js:402
+msgid "Udmurt"
+msgstr "Ουραλική"
+
+#: ../lang.js:406
+msgid "Urdu"
+msgstr "Ουρντού"
+
+#: ../lang.js:410
+msgid "Uzbek"
+msgstr "Ουζμπεκιστάν"
+
+#: ../lang.js:414
+msgid "Kalmyk"
+msgstr "Καλμίκ"
+
+#: ../lang.js:418
+msgid "Tibetan"
+msgstr "Θιβέτ"
+
+#: ../lang.js:422
+msgid "Yiddish"
+msgstr "Γίντις"
+
+#: ../master_settings/main.js:344
+msgid "Welcome"
+msgstr "Καλώς ήρθατε"
+
+#: ../master_settings/main.js:345
+msgid "Select language"
+msgstr "Επιλέξτε τη γλώσσα"
+
+#: ../master_settings/main.js:349 ../master_settings/main.js:351
+#: ../master_settings/main.js:391
+msgid ""
+"Use Up and Down, Left and Right buttons for selecting. Press OK button to "
+"confirm."
+msgstr ""
+"Χρησιμοποιήστε τα πάνω, κάτω, αριστερά και δεξιά κουμπιά για την επιλογή "
+"σας. Πατήστε το κουμπί OK για επιβεβαίωση."
+
+#: ../master_settings/main.js:357 ../master_settings/main.js:395
+#: ../master_settings/main.js:416 ../master_settings/main.js:438
+#: ../master_settings/main.js:462 ../master_settings/main.js:495
+#: ../master_settings/main.js:514 ../master_settings/main.js:548
+#: ../master_settings/main.js:578 ../master_settings/main.js:601
+#: ../master_settings/main.js:645 ../master_settings/main.js:678
+#: ../master_settings/main.js:696 ../media/dvbepg.js:40 ../media/dvbtv.js:329
+#: ../media/exlporer.js:604 ../media/iptv.js:369 ../media/player.js:156
+#: ../menu.js:126 ../menu.js:549 ../services.js:992
+msgid "Exit"
+msgstr "Έξοδος"
+
+#: ../master_settings/main.js:389
+msgid "AuraHD Setup Wizard"
+msgstr "AuraHD Οδηγός εγκατάστασης"
+
+#: ../master_settings/main.js:390
+msgid ""
+"Use the SetUp Wizard to edit Internet access settings, select display "
+"options and set your time zone"
+msgstr ""
+"Χρησιμοποιήσετε τον οδηγό ρυθμίσεων για να επεξεργαστείτε τις ρυθμίσεις "
+"πρόσβασης στο Internet, επιλέξτε τις επιλογές εμφάνισης και ορίστε τη ζώνη "
+"ώρας σας."
+
+#: ../master_settings/main.js:390
+msgid "Run the Setup Wizard"
+msgstr "Εκτελέστε τον Οδηγό εγκατάστασης"
+
+#: ../master_settings/main.js:390
+msgid "Set up manually later"
+msgstr "Ρυθμίστε με το χειροκίνητα αργότερα"
+
+#: ../master_settings/main.js:410
+msgid "Step 1: Connecting to your TV"
+msgstr "Βήμα 1: Σύνδεση με την τηλεόραση σας"
+
+#: ../master_settings/main.js:411
+msgid ""
+"For optimal display settings, specify your TV model and AuraHD connection "
+"type. Please, read the TV user guide before you do it."
+msgstr ""
+"Για βέλτιστες ρυθμίσεις της οθόνης, καθορίστε το μοντέλο της τηλεόρασής σας "
+"και AuraHD τύπο σύνδεσης. Παρακαλούμε, διαβάστε το εγχειρίδιο χρήσης της "
+"τηλεόρασής σας πριν το κάνετε."
+
+#: ../master_settings/main.js:411
+msgid "RCA cable"
+msgstr "RCA καλώδιο"
+
+#: ../master_settings/main.js:411
+msgid "HDMI cable"
+msgstr "HDMI καλώδιο"
+
+#: ../master_settings/main.js:411
+msgid "Attention:"
+msgstr "Προσοχή:"
+
+#: ../master_settings/main.js:411
+msgid ""
+"For TVs with the HDMI interface, we recommend to use an HDMI cable for "
+"connecting AuraHD to maximize image quality (HD or Full HD)."
+msgstr ""
+"Για τηλεοράσεις με διεπαφή HDMI, σας συνιστούμε να χρησιμοποιήσετε ένα "
+"καλώδιο HDMI για σύνδεση AuraHD για μεγιστοποίηση της ποιότητας εικόνας (HD "
+"ή Full HD)."
+
+#: ../master_settings/main.js:432
+msgid "Step 2: Connecting AuraHD to LAN and/or to the Internet"
+msgstr "Βήμα 2: Σύνδεση AuraHD σε δίκτυο ή / και στο Διαδίκτυο"
+
+#: ../master_settings/main.js:433
+msgid ""
+"Active AuraHD Internet connection gives you access to web resources from "
+"your TV and also makes it possible to view media files located on your "
+"computer or local network. Select the connection type:"
+msgstr ""
+"Ενεργή AuraHD σύνδεση στο Internet σας δίνει πρόσβαση στους δικτυακούς "
+"πόρους από την τηλεόρασή σας και επίσης καθιστά δυνατό να δείτε τα αρχεία "
+"πολυμέσων που βρίσκονται στον υπολογιστή σας ή στο τοπικό σας δίκτυο. "
+"Επιλέξτε τον τύπο σύνδεσης:"
+
+#: ../master_settings/main.js:433
+msgid "Wired"
+msgstr "Ενσύρματο"
+
+#: ../master_settings/main.js:433
+msgid "Wireless"
+msgstr "Ασύρματο"
+
+#: ../master_settings/main.js:433 ../master_settings/main.js:597
+msgid "Skip"
+msgstr "Παράκαμψη"
+
+#: ../master_settings/main.js:453
+msgid "Step 2.3: Checking wireless network and Internet connection"
+msgstr "Βήμα 2.3: Έλεγχος ασύρματου δίκτυου και σύνδεση στο Internet"
+
+#: ../master_settings/main.js:453
+msgid "Step 2.1: Checking local network and Internet connection"
+msgstr "Βήμα 2.1: Έλεγχος τοπικού δικτύου και σύνδεση στο Internet"
+
+#: ../master_settings/main.js:455
+msgid "Checking wireless network"
+msgstr "Έλεγχος ασύρματου δικτύου"
+
+#: ../master_settings/main.js:455
+msgid "Checking local network connection"
+msgstr "Έλεγχος τοπικής σύνδεσης δικτύου"
+
+#: ../master_settings/main.js:455 ../master_settings/main.js:456
+#: ../master_settings/main.js:777 ../master_settings/main.js:791
+#: ../master_settings/main.js:813 ../master_settings/main.js:825
+#: ../master_settings/main.js:884 ../media/player.js:566 ../media/player.js:567
+#: ../media/player.js:571 ../media/player.js:572 ../media/player.js:573
+#: ../services.js:1645
+msgid "sec."
+msgstr "sec."
+
+#: ../master_settings/main.js:456
+msgid "Checking Internet connection"
+msgstr "Έλεγχος σύνδεσης στο Internet"
+
+#: ../master_settings/main.js:458 ../master_settings/main.js:489
+#: ../master_settings/main.js:490
+msgid "Information"
+msgstr "Πληροφορίες"
+
+#: ../master_settings/main.js:458
+msgid "Refresh"
+msgstr "Ανανέωση"
+
+#: ../master_settings/main.js:490
+msgid ""
+"To access additional/advanced settings in the Main Menu, press the SET/SETUP "
+"button on the remote control."
+msgstr ""
+"Για να αποκτήσετε πρόσβαση σε πρόσθετες / προηγμένες ρυθμίσεις στο Κύριο "
+"μενού, πατήστε το πλήκτρο SET / SETUP στο τηλεχειριστήριο."
+
+#: ../master_settings/main.js:491 ../master_settings/main.js:674
+#: ../master_settings/main.js:1089 ../media/browsers/file.js:50
+#: ../media/browsers/file.js:258 ../media/browsers/file.js:289
+#: ../media/browsers/file.js:320 ../media/browsers/file.js:788
+#: ../media/browsers/file.js:799 ../media/browsers/file.js:843
+#: ../media/browsers/file.js:845 ../media/browsers/file.js:847
+#: ../media/browsers/upnp.js:19 ../media/browsers/upnp.js:172
+#: ../media/dvblist.js:486 ../media/exlporer.js:1148 ../media/exlporer.js:1194
+#: ../media/iptv.js:385 ../media/modals.js:710 ../media/modals.js:724
+#: ../media/modals.js:729 ../media/modals.js:733 ../media/modals.js:756
+#: ../media/modals.js:785 ../media/player.js:445 ../media/player.js:788
+#: ../media/player.js:1458 ../media/player.js:2055 ../media/player.js:2255
+#: ../media/player.js:2859 ../media/player.js:2928 ../media/player.js:2942
+#: ../media/player.js:2982 ../media/tvlist.js:528 ../menu.js:1035
+#: ../menu.js:1045 ../menu.js:1130
+msgid "Close"
+msgstr "Κλείσιμο"
+
+#: ../master_settings/main.js:508
+msgid "Step 2.1: Connecting to the Wireless LAN"
+msgstr "Βήμα 2.1: Σύνδεση στο ασύρματο LAN (Δίκτυο)"
+
+#: ../master_settings/main.js:509
+msgid "Select LAN"
+msgstr "Επιλέξτε LAN (Δίκτυο)"
+
+#: ../master_settings/main.js:509
+msgid "Select preferred wireless LAN or set it up manually"
+msgstr "Επιλέξτε το προτιμώμενο ασύρματο LAN ή φτιάξτε το με το χέρι"
+
+#: ../master_settings/main.js:525
+msgid "Manual settings"
+msgstr "Χειροκίνητες ρυθμίσεις"
+
+#: ../master_settings/main.js:542
+msgid "Step 2.2: Password"
+msgstr "Βήμα 2.2: Κωδικός πρόσβασης"
+
+#: ../master_settings/main.js:543 ../master_settings/main.js:573
+#: ../media/browsers/file.js:419 ../media/browsers/file.js:473
+#: ../media/modals.js:158 ../services.js:2039
+#, fuzzy
+msgid "Password"
+msgstr "Κωδικός πρόσβασης :"
+
+#: ../master_settings/main.js:544 ../master_settings/main.js:597
+#: ../master_settings/main.js:913 ../master_settings/main.js:919
+msgid "Next"
+msgstr "Επόμενο"
+
+#: ../master_settings/main.js:544 ../master_settings/main.js:574
+#: ../master_settings/main.js:597
+msgid "Keyboard"
+msgstr "Πληκτρολόγιο"
+
+#: ../master_settings/main.js:572
+msgid "Step 2.2: Advanced settings"
+msgstr "Βήμα 2.2: Ρυθμίσεις για προχωρημένους"
+
+#: ../master_settings/main.js:573
+msgid "Authentication:"
+msgstr "Έλεγχος ταυτότητας:"
+
+# menu item
+#: ../master_settings/main.js:573 ../media/dvbtv.js:145
+#: ../media/exlporer.js:385 ../media/iptv.js:245
+msgid "Open"
+msgstr "Ανοιχτό"
+
+#: ../master_settings/main.js:573
+msgid "Shared key"
+msgstr "Κοινόχρηστο κλειδί"
+
+#: ../master_settings/main.js:573
+msgid "Auto Open/Shared key"
+msgstr "Αυτόματο Ανοιχτό/Κοινόχρηστο κλειδί"
+
+#: ../master_settings/main.js:573
+msgid "Encryption:"
+msgstr "Κρυπτογράφηση:"
+
+#: ../master_settings/main.js:573 ../media/player.js:471 ../media/player.js:565
+#: ../media/player.js:3552 ../media/player.js:3583 ../media/player.js:3645
+#: ../services.js:1457 ../services.js:1538 ../services.js:1552
+#: ../services.js:1563 ../services.js:1607 ../services.js:2099
+msgid "Disabled"
+msgstr "Απενεργοποίηση"
+
+#: ../master_settings/main.js:573
+msgid "SSID (network):"
+msgstr "SSID (δίκτυο):"
+
+#: ../master_settings/main.js:574
+msgid "Select/Next"
+msgstr "Επιλέξτε / Επόμενο"
+
+#: ../master_settings/main.js:595
+msgid "Step 3: Weather forecast"
+msgstr "Βήμα 3: Πρόγνωση καιρού"
+
+#: ../master_settings/main.js:596
+msgid "Weather forecast"
+msgstr "Πρόγνωση καιρού"
+
+#: ../master_settings/main.js:596
+msgid "Select your city and press OK"
+msgstr "Επιλέξτε την πόλη σας και πατήστε OK"
+
+#: ../master_settings/main.js:639
+msgid "Step 4: Time zone"
+msgstr "Βήμα 4: Ζώνη ώρας"
+
+#: ../master_settings/main.js:640
+msgid "Select your time zone"
+msgstr "Επιλέξτε τη ζώνη ώρας σας"
+
+#: ../master_settings/main.js:672
+msgid "Setup completed"
+msgstr "Η ρύθμιση ολοκληρώθηκε"
+
+#: ../master_settings/main.js:673
+msgid "Thank you!"
+msgstr "Σας ευχαριστούμε!"
+
+#: ../master_settings/main.js:673
+msgid ""
+"The Setup Wizard is complete. All selected settings will be stored in the "
+"device’s memory. To edit the system settings any time, press SET or SETUP on "
+"your remote control and open the Main Menu."
+msgstr ""
+"Ο οδηγός εγκατάστασης έχει ολοκληρωθεί. Όλες οι επιλεγμένες ρυθμίσεις θα "
+"αποθηκευτούν στη μνήμη της συσκευής. Για να επεξεργαστείτε τις ρυθμίσεις του "
+"συστήματος οποιαδήποτε στιγμή, πατήστε το πλήκτρο SET ή SETUP στο "
+"τηλεχειριστήριο σας για να ανοίξετε το Κύριο μενού."
+
+#: ../master_settings/main.js:690
+msgid "Terms of use"
+msgstr "Όροι χρήσης"
+
+#: ../master_settings/main.js:691
+msgid ""
+"&nbsp;&nbsp;Dear user, please read the terms and conditions for services "
+"integrated into AuraHD  device.<br />&nbsp;&nbsp;The AuraHD network media "
+"player is directly intended for digital content playback from the Internet "
+"(media files including streaming video), LANs and removable media including "
+"flash memory connected via USB port. The manufacturer is not responsible for "
+"quality and stability of the web services integrated into the device's "
+"software. The manufacturer also reserves the right to make occasional "
+"changes to the device's software and interface without prior notice in order "
+"to modify or improve its function.<br />&nbsp;&nbsp;Services by third "
+"parties offered in the AuraHD’s menu (Online Cinema, web services) are "
+"provided \"as is\" without warranty of any kind. The manufacturer cannot "
+"guarantee accuracy, timeliness, validity, completeness, compliance with any "
+"standards and laws or supplier's declaration of the service characteristics. "
+"The services are transferred by third parties via networks and data transfer "
+"means beyond the control of the device’s manufacturer.<br />&nbsp;&nbsp;If "
+"you do not agree to these terms and conditions for services integrated into "
+"the AuraHD device, please stop using it and return the device to the store "
+"where it was purchased within 14 days of purchase."
+msgstr ""
+"&nbsp;&nbsp;Αγαπητέ χρήστη, παρακαλούμε να διαβάσετε τους όρους και τις "
+"προϋποθέσεις για τις υπηρεσίες που ενσωματώνονται στη συσκευή AuraHD.<br /"
+">&nbsp;&nbsp;Το δίκτυο AuraHD media player προορίζεται άμεσα για την "
+"αναπαραγωγή ψηφιακού περιεχομένου από το Internet (αρχεία πολυμέσων, "
+"συμπεριλαμβανομένων βίντεο συνεχούς ροής), τοπικά δίκτυα και τα "
+"μετακινούμενα μέσα συμπεριλαμβανομένης της μνήμης flash που συνδέεται μέσω "
+"θύρας USB. Ο κατασκευαστής δεν είναι υπεύθυνος για την ποιότητα και τη "
+"σταθερότητα των υπηρεσιών web που ενσωματώνονται στο λογισμικό της συσκευής. "
+"Ο κατασκευαστής διατηρεί επίσης το δικαίωμα να κάνει περιστασιακές αλλαγές "
+"στο λογισμικό της συσκευής και διασύνδεσης, χωρίς προηγούμενη ειδοποίηση, "
+"προκειμένου να τροποποιήσουν ή να βελτιώσουν τη λειτουργία της.<br />&nbsp;"
+"&nbsp;Οι υπηρεσίες από τρίτους που προσφέρονται στο μενού του AuraHD (Online "
+"Cinema, υπηρεσίες web) παρέχεται όπως είναι χωρίς κανενός είδους εγγύηση. Ο "
+"κατασκευαστής δεν μπορεί να εγγυηθεί την ακρίβεια, την επικαιρότητα, την "
+"εγκυρότητα, την πληρότητα, τη συμμόρφωση με όλα τα πρότυπα και τους νόμους ή "
+"δήλωση του προμηθευτή από τα χαρακτηριστικά των υπηρεσιών. Οι υπηρεσίες που "
+"μεταβιβάζονται από τρίτους μέσω δικτύων και η μεταφορά δεδομένων σημαίνει "
+"πέρα από τον έλεγχο του κατασκευαστή της συσκευής. <br />&nbsp;&nbsp;Εάν δεν "
+"συμφωνείτε με αυτούς τους όρους και τις προϋποθέσεις για την παροχή "
+"υπηρεσιών που είναι ενσωματωμένα στη συσκευή AuraHD, παρακαλούμε σταματήστε "
+"τη χρήση του και να επιστρέψετε τη συσκευή στο κατάστημα από όπου το "
+"αγοράσατε εντός 14 ημερών από την αγορά."
+
+#: ../master_settings/main.js:692
+msgid "Continue"
+msgstr "Συνέχεια"
+
+#: ../master_settings/main.js:905
+msgid ""
+"Unfortunately, the Setup Wizard was unable to connect your device to LAN and "
+"Internet.<br />Please, check general connection terms:<br /> - the Ethernet "
+"cable connected to the appropriate slot of the device;<br /> - Wi-Fi status."
+"<br />Try to connect again."
+msgstr ""
+"Δυστυχώς, ο οδηγός εγκατάστασης δεν ήταν σε θέση να συνδέσει τη συσκευή σας "
+"σε δίκτυο LAN και στο Internet.<br />Παρακαλούμε, ελέγξτε όρους σύνδεσης:"
+"<br /> - το καλώδιο Ethernet είναι συνδεδεμένο στην κατάλληλη υποδοχή της "
+"συσκευής;<br /> - Wi-Fi κατάσταση.<br />Προσπαθήστε να συνδεθείτε ξανά."
+
+#: ../master_settings/main.js:911
+msgid ""
+"Network connection successful. No Internet connection.<br />Possibly, no "
+"access to external services.<br />Check your Internet connection status."
+msgstr ""
+"Επιτυχημένη σύνδεση στο δίκτυο. Αλλά δεν υπάρχει σύνδεση στο Internet.<br /"
+">Ενδεχομένως, δεν έχετε πρόσβαση σε εξωτερικές υπηρεσίες.<br />Ελέγξτε την "
+"κατάσταση της σύνδεσής σας στο Internet."
+
+#: ../master_settings/main.js:917
+msgid "Wireless network connection successful. Internet connection available."
+msgstr ""
+"Επιτυχημένη σύνδεση ασύρματου δικτύου. Η σύνδεση στο Διαδίκτυο είναι "
+"διαθέσιμη."
+
+#: ../master_settings/main.js:917
+msgid "Network connection successful. Internet connection available."
+msgstr "Επιτυχημένη σύνδεση δικτύου. Σύνδεση στο Διαδίκτυο."
+
+#: ../master_settings/main.js:1089
+msgid "Notice"
+msgstr "Ειδοποίηση"
+
+#: ../master_settings/main.js:1089
+msgid "Wi-Fi adapter not connected"
+msgstr "Ο Wi-Fi προσαρμογέας δεν είναι συνδεδεμένος"
+
+#: ../media/browsers/file.js:50 ../media/browsers/file.js:257
+#: ../media/browsers/file.js:288 ../media/browsers/file.js:319
+#: ../media/browsers/file.js:799 ../media/browsers/upnp.js:19
+#: ../media/browsers/upnp.js:171 ../media/dvblist.js:486 ../media/player.js:447
+#: ../media/player.js:2057 ../media/player.js:2257 ../media/player.js:2859
+#: ../media/player.js:2928 ../media/player.js:2944 ../media/player.js:2984
+#: ../media/tvlist.js:528 ../media/tvlist.js:689 ../media/tvlist.js:729
+#: ../menu.js:1035 ../menu.js:1130 ../services.js:1670 ../services.js:1687
+#: ../services.js:1701 ../services.js:1719
+msgid "Error"
+msgstr "Σφάλμα"
+
+#: ../media/browsers/file.js:50 ../media/browsers/upnp.js:19
+#: ../media/dvblist.js:486 ../media/tvlist.js:528
+msgid "Unknown type of selected item"
+msgstr "Άγνωστος τύπος του επιλεγμένου στοιχείου"
+
+#: ../media/browsers/file.js:146 ../media/modals.js:2684
+msgid "Network"
+msgstr "Δίκτυο"
+
+#: ../media/browsers/file.js:164
+msgid "Records"
+msgstr "Εγγραφές"
+
+#: ../media/browsers/file.js:203 ../media/dvbtv.js:595 ../media/exlporer.js:936
+#: ../media/iptv.js:861
+msgid "The list of favourite records has changed"
+msgstr "Η λίστα των αγαπημένων εγγραφών έχει αλλάξει"
+
+#: ../media/browsers/file.js:204 ../media/dvbtv.js:596 ../media/exlporer.js:937
+#: ../media/iptv.js:862
+msgid "Save updated list of favourite records?"
+msgstr "Αποθήκευση του ενημερωμένου καταλόγου των αγαπημένων εγγραφών;"
+
+#: ../media/browsers/file.js:205 ../media/dvbtv.js:569 ../media/dvbtv.js:597
+#: ../media/exlporer.js:938 ../media/iptv.js:829 ../media/iptv.js:863
+msgid "Exit without saving"
+msgstr "Έξοδος χωρίς αποθήκευση"
+
+#: ../media/browsers/file.js:210 ../media/dvbtv.js:579 ../media/dvbtv.js:604
+#: ../media/exlporer.js:945 ../media/iptv.js:845 ../media/iptv.js:870
+#: ../media/modals.js:229 ../media/modals.js:1112 ../media/modals.js:1769
+#: ../media/modals.js:1912 ../media/modals.js:2059 ../media/modals.js:2265
+#: ../media/modals.js:3261 ../services.js:1003 ../services.js:1408
+msgid "Save"
+msgstr "Αποθήκευση"
+
+#: ../media/browsers/file.js:257
+msgid "Unable to get working group list"
+msgstr "Ανικανότητα λήψης ενεργής λίστας"
+
+#: ../media/browsers/file.js:288
+msgid "Unable to get working group servers"
+msgstr "Ανικανότητα λήψης ενεργών servers"
+
+#: ../media/browsers/file.js:319
+msgid "Unable to get server shares"
+msgstr "Αποτυχία λήψης του καταλόγου που παρέχετε από τον server"
+
+#: ../media/browsers/file.js:363
+msgid "Multimedia content"
+msgstr "Περιεχόμενο πολυμέσων"
+
+#: ../media/browsers/file.js:364
+#, fuzzy
+msgid "The directory contains DVD or Blu-ray structure.<br>Begin playing?"
+msgstr "Ο κατάλογος περιέχει DVD ή δομή BlueRay.<br>Έναρξη αναπαραγωγής;"
+
+#: ../media/browsers/file.js:367 ../media/browsers/file.js:413
+#: ../media/browsers/file.js:467 ../media/dvbtv.js:115 ../media/dvbtv.js:171
+#: ../media/exlporer.js:1156 ../media/iptv.js:136 ../media/iptv.js:959
+#: ../media/player.js:449 ../media/player.js:2059 ../media/player.js:2259
+#: ../media/player.js:2676 ../media/player.js:2903 ../media/player.js:2946
+#: ../media/player.js:2986 ../services.js:2534
+msgid "Yes"
+msgstr "Ναι"
+
+#: ../media/browsers/file.js:409 ../media/browsers/file.js:463
+msgid "Network connection"
+msgstr "σύνδεση δικτύου"
+
+#: ../media/browsers/file.js:410 ../media/browsers/file.js:464
+msgid ""
+"Unable to mount the folder.<br>Authorization may be necessary.<br>Specify "
+"login and password?"
+msgstr ""
+"Δεν είναι δυνατή η προσάρτηση του φακέλου.<br>Η άδεια μπορεί να είναι "
+"απαραίτητη.<br>Καθορισμός του ονόματος χρήστη και του κωδικού πρόσβασης;"
+
+#: ../media/browsers/file.js:417 ../media/browsers/file.js:471
+msgid "Authorization"
+msgstr "Εξουσιοδότηση"
+
+#: ../media/browsers/file.js:418 ../media/browsers/file.js:472
+#: ../media/modals.js:154
+msgid "Login:"
+msgstr "Είσοδος:"
+
+#: ../media/browsers/file.js:422 ../media/browsers/file.js:476
+#: ../media/modals.js:1006
+msgid "Connection"
+msgstr "Σύνδεση"
+
+#: ../media/browsers/file.js:429 ../media/browsers/file.js:483
+#: ../media/browsers/upnp.js:73 ../media/modals.js:330 ../media/modals.js:398
+msgid "Unable to connect to the resource<br>with the given parameters"
+msgstr "Αποτυχία σύνδεσης<br>με τις δεδομένες παραμέτρους"
+
+#: ../media/browsers/file.js:682 ../media/browsers/file.js:688
+msgid "Selected subtitle will appear<br>during next player launch"
+msgstr ""
+"Επιλέξτε υπότιτλο για εμφάνιση<br>κατά την επόμενη εκκίνηση της αναπαραγωγής"
+
+#: ../media/browsers/file.js:787
+msgid "New settings"
+msgstr ""
+
+#: ../media/browsers/file.js:787
+msgid "New settings were found. Please reboot the device for activation."
+msgstr ""
+
+#: ../media/browsers/file.js:799
+msgid "No records in this playlist"
+msgstr "Δεν υπάρχουν εγγραφές σε αυτή τη λίστα"
+
+#: ../media/browsers/file.js:843 ../media/browsers/file.js:845
+#: ../media/browsers/file.js:847
+msgid "Add to IPTV channels"
+msgstr "Προσθήκη στα IPTV κανάλια"
+
+#: ../media/browsers/file.js:843
+msgid "Unable to add the selected records"
+msgstr "Δεν μπορείτε να προσθέσετε τις επιλεγμένες εγγραφές"
+
+#: ../media/browsers/file.js:845
+msgid "No new channels for selected records"
+msgstr "Δεν υπάρχουν νέα κανάλια για τις επιλεγμένες εγγραφές"
+
+#: ../media/browsers/file.js:847
+msgid "Channels added successfully:"
+msgstr "Τα κανάλια προστέθηκαν επιτυχώς:"
+
+#: ../media/browsers/file.js:848
+msgid "Go to IPTV channels"
+msgstr "Πηγαίνετε στα IPTV κανάλια"
+
+#: ../media/browsers/upnp.js:171
+#, fuzzy
+msgid "Unable to get dlna group servers"
+msgstr "Ανικανότητα λήψης ενεργών servers"
+
+#: ../media/browsers/upnp.js:185 ../media/browsers/upnp.js:187
+#: ../media/browsers/upnp.js:203 ../media/browsers/upnp.js:205
+msgid "Loading..."
+msgstr "Φορτώνει..."
+
+#: ../media/dvbepg.js:56 ../media/iptv.js:383
+msgid "Record"
+msgstr "Εγγραφή"
+
+#: ../media/dvbepg.js:61
+msgid "Now"
+msgstr "Τώρα"
+
+#: ../media/dvbepg.js:183 ../media/dvbtv.js:677 ../media/iptv.js:991
+#: ../media/player.js:1463
+msgid "Recording channel"
+msgstr "Εγγραφή καναλιού"
+
+#: ../media/dvblist.js:110 ../media/dvblist.js:332 ../media/dvbtv.js:61
+msgid "Frequency"
+msgstr "Συχνότητα"
+
+#: ../media/dvblist.js:327
+msgid ""
+"Contains the list of items which are corresponding to the given filter "
+"request"
+msgstr ""
+"Περιέχει τον κατάλογο των αντικειμένων που αντιστοιχούν στον συγκεκριμένο "
+"αίτημα του φίλτρου"
+
+#: ../media/dvbtv.js:62
+msgid "Total found"
+msgstr "Συνολικά βρέθηκαν"
+
+#: ../media/dvbtv.js:63
+msgid "Last found"
+msgstr "Τελευταία βρέθηκαν"
+
+#: ../media/dvbtv.js:84 ../media/exlporer.js:249 ../media/iptv.js:98
+msgid "Operations"
+msgstr "Λειτουργίες"
+
+#: ../media/dvbtv.js:111 ../media/dvbtv.js:167 ../media/exlporer.js:1152
+#: ../media/iptv.js:132
+msgid "Confirm deletion"
+msgstr "Επιβεβαιώστε τη διαγραφή"
+
+#: ../media/dvbtv.js:112 ../media/dvbtv.js:168 ../media/exlporer.js:1153
+#: ../media/iptv.js:133 ../media/iptv.js:956
+msgid "Are you sure you want to delete"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε;"
+
+#: ../media/dvbtv.js:112 ../media/exlporer.js:1153 ../media/iptv.js:133
+#: ../media/iptv.js:956
+msgid "all entries selected?"
+msgstr "επιλέγονται όλες οι εγγραφές;"
+
+#: ../media/dvbtv.js:112 ../media/exlporer.js:1153 ../media/iptv.js:133
+#: ../media/iptv.js:956
+msgid "current entry?"
+msgstr "στην τρέχουσα καταχώρηση;"
+
+# menu item
+#: ../media/dvbtv.js:146 ../media/exlporer.js:392 ../media/iptv.js:247
+msgid "Select all"
+msgstr "Επιλογή όλων"
+
+# menu item
+#: ../media/dvbtv.js:147 ../media/exlporer.js:397 ../media/iptv.js:248
+msgid "Deselect all"
+msgstr "Αποεπιλογή όλων"
+
+# menu item
+#: ../media/dvbtv.js:148 ../media/exlporer.js:398 ../media/iptv.js:249
+msgid "Invert selection"
+msgstr "Αντιστροφή της επιλογής"
+
+# menu item
+#: ../media/dvbtv.js:149 ../media/exlporer.js:402 ../media/iptv.js:253
+msgid "Delete"
+msgstr "Διαγραφή"
+
+#: ../media/dvbtv.js:152
+msgid "DVB menu"
+msgstr "DVB-μενού"
+
+#: ../media/dvbtv.js:168
+msgid "all entries?"
+msgstr "όλες οι θέσεις;"
+
+#: ../media/dvbtv.js:199 ../media/iptv.js:268 ../media/iptv.js:282
+#: ../media/player.js:496 ../media/player.js:514
+msgid "EPG"
+msgstr "EPG"
+
+#: ../media/dvbtv.js:200 ../media/iptv.js:283 ../media/player.js:515
+msgid "EPG grid "
+msgstr "Πλέγμα EPG"
+
+#: ../media/dvbtv.js:201
+msgid "Auto scan"
+msgstr "Αυτόματη σάρωση"
+
+#: ../media/dvbtv.js:202
+msgid "Manual scan"
+msgstr "Χειροκίνητη σάρωση"
+
+#: ../media/dvbtv.js:203
+msgid "Clear list"
+msgstr "Εκκαθάριση λίστας"
+
+#: ../media/dvbtv.js:205 ../services.js:1974
+#, fuzzy
+msgid "Antenna type"
+msgstr "Τροφοδοσία κεραίας"
+
+#: ../media/dvbtv.js:228 ../services.js:1582 ../services.js:1974
+#, fuzzy
+msgid "Active"
+msgstr "Ενεργός"
+
+#: ../media/dvbtv.js:229 ../services.js:1974
+msgid "Passive"
+msgstr ""
+
+#: ../media/dvbtv.js:262
+msgid "Enter name..."
+msgstr "Πληκτρολογήστε το όνομα ..."
+
+#: ../media/dvbtv.js:340 ../media/exlporer.js:611 ../media/iptv.js:379
+msgid "Menu"
+msgstr "Μενού"
+
+# menu item
+#: ../media/dvbtv.js:343 ../media/exlporer.js:391 ../media/exlporer.js:613
+#: ../media/iptv.js:246 ../media/iptv.js:391
+msgid "Select"
+msgstr "Επιλογή"
+
+#: ../media/dvbtv.js:346 ../media/exlporer.js:614 ../media/iptv.js:394
+#: ../media/player.js:162 ../media/player.js:341 ../media/player.js:1667
+#: ../media/player.js:1956
+#, fuzzy
+msgid "Add to<br>favorites"
+msgstr "Προσθήκη στα<br>αγαπημένα"
+
+#: ../media/dvbtv.js:349 ../media/exlporer.js:615 ../media/iptv.js:397
+#: ../media/player.js:339 ../media/player.js:1654 ../media/player.js:1954
+#, fuzzy
+msgid "Remove from<br>favorites"
+msgstr "Αφαιρέση από τα<br>αγαπημένα"
+
+#: ../media/dvbtv.js:398
+msgid "No DVB channels"
+msgstr "Δεν βρέθηκαν κανάλια DVB"
+
+#: ../media/dvbtv.js:399
+msgid "Start auto scan?"
+msgstr "Έναρξη αυτόματης σάρωσης;"
+
+#: ../media/dvbtv.js:401 ../services.js:1807
+msgid "Start"
+msgstr "Έναρξη"
+
+#: ../media/dvbtv.js:544
+msgid "Scanning"
+msgstr "Σάρωση"
+
+#: ../media/dvbtv.js:544
+msgid "Stop scanning?"
+msgstr "Διακοπή σάρωσης;"
+
+#: ../media/dvbtv.js:546
+msgid "Stop"
+msgstr "Διακοπή"
+
+#: ../media/dvbtv.js:567
+msgid "DVB channel list was changed"
+msgstr "Η λίστα καναλιών DVB άλλαξε"
+
+#: ../media/dvbtv.js:568
+msgid "Save updated DVB channel list?"
+msgstr "Αποθήκευση της ενημερωμένης λίστας καναλιών DVB;"
+
+#: ../media/dvbtv.js:677 ../media/player.js:1463
+msgid "Group name"
+msgstr "Όνομα ομάδας"
+
+#: ../media/epggrid.js:473
+msgid "EPG is missing"
+msgstr "Ο EPG λείπει"
+
+#: ../media/exlporer.js:57
+msgid "Duration:"
+msgstr "Διάρκεια:"
+
+# menu item
+#: ../media/exlporer.js:386
+msgid "Open selected"
+msgstr "Άνοιγμα επιλεγμένου"
+
+# menu item
+#: ../media/exlporer.js:387
+msgid "Mount"
+msgstr "Προσάρτηση"
+
+# menu item
+#: ../media/exlporer.js:388
+msgid "Mount share"
+msgstr "Ενεργοποίηση του πόρου"
+
+# menu item
+#: ../media/exlporer.js:389
+msgid "Unmount share"
+msgstr "Απενεργοποίηση του πόρου"
+
+# menu item
+#: ../media/exlporer.js:390
+msgid "Edit share"
+msgstr "Επεξεργασία πόρου"
+
+# menu item
+#: ../media/exlporer.js:394
+#, fuzzy
+msgid "Add to favorites"
+msgstr "Προσθήκη στα αγαπημένα"
+
+# menu item
+#: ../media/exlporer.js:395
+#, fuzzy
+msgid "Remove from favorites"
+msgstr "Αφαίρεση από τα αγαπημένα"
+
+# menu item
+#: ../media/exlporer.js:399 ../media/iptv.js:250
+msgid "Cut"
+msgstr "Αποκοπή"
+
+# menu item
+#: ../media/exlporer.js:400 ../media/iptv.js:251 ../media/modals.js:1120
+msgid "Copy"
+msgstr "Αντιγραφή"
+
+# menu item
+#: ../media/exlporer.js:401 ../media/iptv.js:252
+msgid "Paste"
+msgstr "Επικόληση"
+
+#: ../media/exlporer.js:408
+msgid "View"
+msgstr "Προβολή"
+
+# menu item
+#: ../media/exlporer.js:440
+msgid "All"
+msgstr "Όλα"
+
+# menu item
+#: ../media/exlporer.js:441
+msgid "Folders"
+msgstr "Φάκελοι"
+
+# menu item
+#: ../media/exlporer.js:442
+msgid "Audio"
+msgstr "Ήχος"
+
+#: ../media/exlporer.js:443
+msgid "Video"
+msgstr "Βίντεο"
+
+#: ../media/exlporer.js:444
+msgid "Images"
+msgstr "Εικόνες"
+
+# menu item
+#: ../media/exlporer.js:445
+msgid "Playlists"
+msgstr "Λίστες αναπαραγωγής"
+
+#: ../media/exlporer.js:446
+msgid "ISO"
+msgstr "ISO"
+
+#: ../media/exlporer.js:447 ../media/player.js:396
+msgid "Subtitles"
+msgstr "Υπότιτλοι"
+
+#: ../media/exlporer.js:448
+msgid "Streams"
+msgstr "Ροές (Streams)"
+
+#: ../media/exlporer.js:451
+msgid "Sort"
+msgstr "Ταξινόμηση"
+
+# menu item
+#: ../media/exlporer.js:470
+msgid "By name"
+msgstr "Με βάση το όνομα"
+
+# menu item
+#: ../media/exlporer.js:471
+msgid "By size"
+msgstr "Με βάση το μέγεθος"
+
+# menu item
+#: ../media/exlporer.js:472
+msgid "By type"
+msgstr "Με βάση τον τύπο"
+
+# menu item
+#: ../media/exlporer.js:473
+msgid "By extension"
+msgstr "Με βάση την επέκταση"
+
+#: ../media/exlporer.js:476
+msgid "Tools"
+msgstr "Εργαλεία"
+
+#: ../media/exlporer.js:497
+msgid "Connect NFS/SMB"
+msgstr "Σύνδεση NFS/SMB"
+
+#: ../media/exlporer.js:498
+msgid "Disconnect NFS/SMB"
+msgstr "Αποσύνδεση NFS/SMB"
+
+# menu item
+#: ../media/exlporer.js:500
+msgid "Disk formatting"
+msgstr "Μορφοποίηση δίσκου"
+
+#: ../media/exlporer.js:503
+msgid "Options"
+msgstr ""
+
+#: ../media/exlporer.js:517
+msgid "Play program"
+msgstr ""
+
+#: ../media/exlporer.js:537
+msgid "Enter path or file name..."
+msgstr "Εισάγετε τη διαδρομή ή το όνομα αρχείου ..."
+
+#: ../media/exlporer.js:612 ../media/exlporer.js:1107
+msgid "Show<br>info panel"
+msgstr "Εμφάνιση<br />πληροφοριών"
+
+#: ../media/exlporer.js:642
+msgid "Items:"
+msgstr "Είδη:"
+
+#: ../media/exlporer.js:643
+msgid "Selected:"
+msgstr "Επιλεγμένα:"
+
+#: ../media/exlporer.js:1107
+msgid "Hide<br>info panel"
+msgstr "Απόκρυψη<br />πληροφοριών"
+
+#: ../media/exlporer.js:1148 ../media/iptv.js:385 ../media/player.js:445
+#: ../media/player.js:1458 ../media/player.js:2055 ../media/player.js:2255
+#: ../media/player.js:2942 ../media/player.js:2982
+msgid "Warning!"
+msgstr "Προσοχή!"
+
+#: ../media/exlporer.js:1148 ../media/iptv.js:385 ../media/player.js:445
+#: ../media/player.js:1458 ../media/player.js:2055 ../media/player.js:2255
+#: ../media/player.js:2942 ../media/player.js:2982
+msgid "\"Storage read only access mode\" is enabled in System Settings"
+msgstr ""
+"Η λειτουργία αποθήκευσης μόνο για ανάγνωση\"είναι ενεργοποιημένη στις "
+"ρυθμίσεις συστήματος"
+
+#: ../media/exlporer.js:1194
+msgid "Deletion error"
+msgstr "Σφάλμα διαγραφής"
+
+#: ../media/exlporer.js:1194
+msgid "Unable to remove all selected items"
+msgstr "Δεν είναι δυνατή η αφαίρεση όλων των επιλεγμένων στοιχείων"
+
+#: ../media/exlporer.js:1487
+msgid "Contains a list of items corresponding to the given filter request"
+msgstr ""
+"Περιέχει μια λίστα των αντικειμένων που αντιστοιχούν στο συγκεκριμένο αίτημα "
+"του φίλτρου"
+
+#: ../media/exlporer.js:1502
+msgid "LAN supports SMB/CIFS protocol, contains available working groups"
+msgstr ""
+"Το LAN υποστηρίζει το πρωτόκολλο SMB / CIFS, περιέχει τις διαθέσιμες ενεργές "
+"ομάδες"
+
+#: ../media/exlporer.js:1514
+msgid "List of working group computers"
+msgstr "Λίστα των ενεργών υπολογιστών ομάδας"
+
+#: ../media/exlporer.js:1526
+msgid "List of available folders for every computer"
+msgstr "Λίστα με τους διαθέσιμους φακέλους για κάθε υπολογιστή"
+
+#: ../media/exlporer.js:1538 ../media/exlporer.js:1554
+msgid "Access to folders and files of selected network folder"
+msgstr "Πρόσβαση σε φακέλους και αρχεία του επιλεγμένου φακέλου δικτύου"
+
+#: ../media/exlporer.js:1540 ../media/exlporer.js:1556
+msgid "Folder:"
+msgstr "Φάκελος:"
+
+#: ../media/exlporer.js:1541 ../media/exlporer.js:1557
+#: ../media/exlporer.js:1759
+msgid "Address:"
+msgstr "Διεύθυνση:"
+
+#: ../media/exlporer.js:1542 ../media/exlporer.js:1558
+#: ../media/exlporer.js:1805
+msgid "Type:"
+msgstr "Τύπος:"
+
+#: ../media/exlporer.js:1570
+msgid ""
+"Plug&Play, a set of protocols for seamless connection of network devices, "
+"home and corporate. Easy and user-friendly access to media files in LAN."
+msgstr ""
+"Universal Plug and Play - αυτόματη διαμόρφωση των συσκευών του δικτύου, τόσο "
+"στο εσωτερικό όσο και στο εταιρικό περιβάλλον. Παρέχει εύκολη και άνετη "
+"πρόσβαση σε αρχεία πολυμέσων στο τοπικό δίκτυο."
+
+#: ../media/exlporer.js:1582
+msgid ""
+"Access to list of Timeshift and PVR records collected from all available at "
+"the moment storages. All records are grouped by the channel names."
+msgstr ""
+"Πρόσβαση στη λίστα Timeshift και στις PVR εγγραφές που συλλέγονται από όλα "
+"τα διαθέσιμα στις αποθηκευτικά μέσα. Όλες οι εγγραφές ομαδοποιούνται από τα "
+"ονόματα των καναλιών."
+
+#: ../media/exlporer.js:1594
+msgid "Opens a list of Timeshift and PVR records sorted by record date"
+msgstr ""
+"Ανοίγει μια λίστα με τα αρχεία Timeshift και τις PVR εγγραφές ταξινομημένες "
+"κατά ημερομηνία εγγραφής"
+
+#: ../media/exlporer.js:1606
+msgid "Access to list of Timeshift and PVR records sorted by record time"
+msgstr ""
+"Πρόσβαση στη λίστα Timeshift και τις PVR εγγραφές ταξινομημένες κατά χρόνο "
+"εγγραφής"
+
+#: ../media/exlporer.js:1624
+msgid "Opens a full editable list of favourite records"
+msgstr "Ανοίγει μια πλήρως επεξεργάσιμη λίστα με τις αγαπημένες εγγραφές"
+
+#: ../media/exlporer.js:1626
+msgid "Saved items:"
+msgstr "Αποθηκευμένα στοιχεία:"
+
+#: ../media/exlporer.js:1627
+msgid "Unsaved changes:"
+msgstr "Μη αποθηκευμένες αλλαγές:"
+
+#: ../media/exlporer.js:1627 ../media/exlporer.js:1804
+msgid "yes"
+msgstr "ναι"
+
+#: ../media/exlporer.js:1627 ../media/exlporer.js:1804
+msgid "no"
+msgstr "όχι"
+
+#: ../media/exlporer.js:1639
+msgid "Access to folders and files"
+msgstr "Πρόσβαση σε φακέλους και αρχεία"
+
+#: ../media/exlporer.js:1663 ../media/exlporer.js:1758
+#: ../media/exlporer.js:1777
+msgid "Name:"
+msgstr "Όνομα:"
+
+#: ../media/exlporer.js:1669 ../media/exlporer.js:1711
+#: ../media/exlporer.js:1725
+msgid "Size:"
+msgstr "Μέγεθος:"
+
+#: ../media/exlporer.js:1677 ../media/exlporer.js:1778
+msgid "Performer:"
+msgstr "Ερμηνευτής:"
+
+#: ../media/exlporer.js:1685 ../media/exlporer.js:1785 ../media/modals.js:970
+msgid "File:"
+msgstr "Αρχείο:"
+
+#: ../media/exlporer.js:1709
+msgid "List of files or network streams to play"
+msgstr "Κατάλογος των αρχείων ή ροώνδικτύου (streams) για αναπαραγωγή"
+
+#: ../media/exlporer.js:1723
+msgid "Text file with media subtitles or other data"
+msgstr "Αρχείο κειμένου με πολυμέσα, υπότιτλους ή άλλα δεδομένα"
+
+#: ../media/exlporer.js:1774
+msgid "List of album files with additional info"
+msgstr "Λίστα αρχείων άλμπουμ με περισσότερες πληροφορίες"
+
+#: ../media/exlporer.js:1779
+msgid "Song by:"
+msgstr "Τραγούδι από:"
+
+#: ../media/exlporer.js:1780
+msgid "Genre:"
+msgstr "Είδος:"
+
+#: ../media/exlporer.js:1781
+msgid "Date:"
+msgstr "Ημερομηνία:"
+
+#: ../media/exlporer.js:1782
+msgid "Place:"
+msgstr "Τόπος:"
+
+#: ../media/exlporer.js:1783
+msgid "Comment:"
+msgstr "Σχόλιο:"
+
+#: ../media/exlporer.js:1787
+msgid "Files:"
+msgstr "Αρχεία:"
+
+#: ../media/exlporer.js:1803 ../services.js:1675 ../services.js:1676
+#: ../services.js:1725 ../services.js:1726
+msgid "Available"
+msgstr "Διαθέσιμο"
+
+#: ../media/exlporer.js:1803
+msgid "from"
+msgstr "από"
+
+#: ../media/exlporer.js:1804
+msgid "Read only:"
+msgstr "Μόνο για ανάγνωση"
+
+#: ../media/iptv.js:46
+#, fuzzy
+msgid "Record status"
+msgstr "Εγγραφές"
+
+# menu item
+#: ../media/iptv.js:211
+msgid "Make group"
+msgstr "Κάνετε ομάδα"
+
+# menu item
+#: ../media/iptv.js:215 ../media/iptv.js:257
+msgid "Create group"
+msgstr "Δημιουργία ομάδας"
+
+#: ../media/iptv.js:254 ../media/modals.js:1803
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+# menu item
+#: ../media/iptv.js:255
+msgid "Save changes"
+msgstr "Αποθήκευση τις αλλαγών"
+
+#: ../media/iptv.js:256
+msgid "Add to group"
+msgstr "Προσθήκη σε ομάδα"
+
+# menu item
+#: ../media/iptv.js:259
+msgid "Add operator's IPTV list"
+msgstr "Προσθήκη σε λίστα IPTV ενός operator"
+
+# menu item
+#: ../media/iptv.js:260 ../media/modals.js:2102
+msgid "Add IPTV list"
+msgstr "Προσθήκη λίστας IPTV"
+
+# menu item
+#: ../media/iptv.js:261 ../media/modals.js:2102
+msgid "Add IPTV channel"
+msgstr "Προσθήκη καναλιού IPTV"
+
+#: ../media/iptv.js:262 ../media/modals.js:1937
+#, fuzzy
+msgid "Export channels"
+msgstr "Δεν υπάρχουν κανάλια"
+
+#: ../media/iptv.js:302
+msgid "Enter channel or group name..."
+msgstr "Πληκτρολογήστε το κανάλι ή το όνομα της ομάδας ..."
+
+#: ../media/iptv.js:560
+msgid "No IPTV channels"
+msgstr "Δεν υπάρχουν κανάλια IPTV"
+
+#: ../media/iptv.js:827
+msgid "IPTV channel list was changed"
+msgstr "Η λίστα καναλιών IPTV άλλαξε"
+
+#: ../media/iptv.js:828
+msgid "Save updated IPTV channel list?"
+msgstr "Αποθήκευση της ενημερωμένης λίστας καναλιών IPTV;"
+
+#: ../media/iptv.js:955
+msgid "Confirmation"
+msgstr "Επιβεβαίωση"
+
+#: ../media/modals.js:138
+msgid "Server address:"
+msgstr "Διεύθυνση διακομιστή (Server):"
+
+#: ../media/modals.js:142
+msgid "Server folder:"
+msgstr "Φάκελος διακομιστή (Server):"
+
+#: ../media/modals.js:146 ../media/modals.js:518
+msgid "Local folder:"
+msgstr "Τοπικός φάκελος:"
+
+#: ../media/modals.js:150
+msgid "Connection type:"
+msgstr "Τύπος σύνδεσης:"
+
+#: ../media/modals.js:229
+msgid "Connect"
+msgstr "Σύνδεση"
+
+#: ../media/modals.js:239
+msgid "Wrong connection parameters"
+msgstr "Λάθος παράμετροι σύνδεσης"
+
+#: ../media/modals.js:257
+msgid "Local folder with this name already exists"
+msgstr "Ο τοπικός φάκελος με αυτό το όνομα υπάρχει ήδη"
+
+#: ../media/modals.js:325 ../media/modals.js:393
+msgid "Network folder successfully mounted"
+msgstr "Ο φάκελος δικτύου ολοκληρώθηκε με επιτυχία"
+
+#: ../media/modals.js:327 ../media/modals.js:395
+msgid "Resource already connected"
+msgstr "Ο πόρος έχει ήδη συνδεθεί"
+
+#: ../media/modals.js:406
+msgid "Edit network folder"
+msgstr "Επεξεργασία φακέλου δικτύου"
+
+#: ../media/modals.js:406
+msgid "Connect network folder"
+msgstr "Συνδέστε το φάκελο δικτύου"
+
+#: ../media/modals.js:536
+msgid "Disconnect"
+msgstr "Αποσύνδεση"
+
+#: ../media/modals.js:560
+msgid "Network folder successfully unmounted"
+msgstr "Ο φάκελος δικτύου έχει αποπροσαρτηθεί με επιτυχία"
+
+#: ../media/modals.js:564
+msgid "Disconnect network folder"
+msgstr "Αποσύνδεση του φακέλου δικτύου"
+
+#: ../media/modals.js:659
+msgid "File system:"
+msgstr "Σύστημα αρχείων:"
+
+#: ../media/modals.js:663
+msgid "Partition:"
+msgstr "Partition:"
+
+#: ../media/modals.js:710 ../media/modals.js:733 ../media/modals.js:759
+#: ../media/modals.js:790
+msgid "Formatting"
+msgstr "Μορφοποίηση"
+
+#: ../media/modals.js:710
+msgid "Formatting completed"
+msgstr "Η μορφοποίηση ολοκληρώθηκε"
+
+#: ../media/modals.js:724 ../media/modals.js:729 ../media/modals.js:733
+#: ../media/modals.js:756 ../media/modals.js:785
+msgid "Formatting error"
+msgstr "Σφάλμα μορφοποίησης"
+
+#: ../media/modals.js:724
+msgid ""
+"Formatting impossible.<br>Make sure the device is not used in:<br>\"Download "
+"manager\", \"Record manager\"<br>or content playback."
+msgstr ""
+"Δεν μπορεί να γίνει διαμόρφωση.<br>Βεβαιωθείτε ότι η συσκευή δεν "
+"χρησιμοποιείται σε:<br>\"Διαχειριστη ληψεων \", \"Διαχειριστή εγγραφών "
+"\"<br>ή στην αναπαραγωγή περιεχομένου."
+
+#: ../media/modals.js:729 ../media/modals.js:785
+msgid "Formatting impossible"
+msgstr "Δεν μπορεί να γίνει διαμόρφωση"
+
+#: ../media/modals.js:750 ../media/modals.js:761
+msgid "Start formatting"
+msgstr "Έναρξη μορφοποίησης"
+
+#: ../media/modals.js:756
+msgid "Selected file system supports disks up to 320GB"
+msgstr "Το επιλεγμένο σύστημα αρχείων υποστηρίζει δίσκους μέχρι 320GB"
+
+#: ../media/modals.js:759
+#, fuzzy
+msgid ""
+"<b style=\"color:red\">Warning: </b>after formatting all data in the<br> "
+"selected section will be deleted."
+msgstr ""
+"<b style='color:red'>Προειδοποίηση: </b>μετά τη μορφοποίηση όλα τα δεδομένα "
+"στο<br> επιλεγμένο μέσο θα διαγραφούν."
+
+#: ../media/modals.js:897
+msgid "See playlist content"
+msgstr "Δείτε το περιεχόμενο της λίστας αναπαραγωγής"
+
+#: ../media/modals.js:898
+msgid "Start playing all records"
+msgstr "Ξεκινήστε να παίζετε όλες τις εγγραφές "
+
+#: ../media/modals.js:899
+msgid "Add all records to IPTV channels"
+msgstr "Προσθέστε όλες τις εγγραφές στα κανάλια IPTV"
+
+#: ../media/modals.js:913 ../media/modals.js:2033
+msgid "File encoding:"
+msgstr "Κωδικοποίηση αρχείου:"
+
+#: ../media/modals.js:918
+msgid "Open playlist"
+msgstr "Άνοιγμα της λίστας αναπαραγωγής"
+
+#: ../media/modals.js:974
+msgid "Encoding:"
+msgstr "Κωδικοποίηση:"
+
+#: ../media/modals.js:986
+msgid "Accessing subtitle file"
+msgstr "Πρόσβαση στο αρχείο υποτίτλων"
+
+#: ../media/modals.js:1070 ../media/modals.js:1095
+msgid "Group:"
+msgstr "Ομάδα:"
+
+#: ../media/modals.js:1075
+msgid "or create and use a new group:"
+msgstr "ή δημιουργήστε και  χρησιμοποιήστε μια νέα ομάδα:"
+
+#: ../media/modals.js:1119
+msgid "Move"
+msgstr "Μετακίνηση"
+
+#: ../media/modals.js:1337 ../media/modals.js:1647
+msgid "No storage device"
+msgstr "Δεν βρέθηκε καμία συσκευή αποθήκευσης"
+
+#: ../media/modals.js:1349
+msgid "No channels"
+msgstr "Δεν υπάρχουν κανάλια"
+
+#: ../media/modals.js:1368
+msgid "Start recording:"
+msgstr "Έναρξη εγγραφής:"
+
+#: ../media/modals.js:1385
+msgid "End recording:"
+msgstr "Ολοκλήρωση της εγγραφής:"
+
+#: ../media/modals.js:1402
+msgid "Record length:"
+msgstr "Μήκος Εγγραφής:"
+
+#: ../media/modals.js:1411
+msgid "Channel:"
+msgstr "Κανάλι:"
+
+#: ../media/modals.js:1415
+msgid "Record name:"
+msgstr "Όνομα εγγραφής:"
+
+#: ../media/modals.js:1421
+msgid "Record in:"
+msgstr "Εγγραφή σε:"
+
+#: ../media/modals.js:1426
+msgid "Free space:"
+msgstr "Ελεύθερος χώρος:"
+
+#: ../media/modals.js:1426 ../media/modals.js:1427
+msgid "GB"
+msgstr "GB"
+
+#: ../media/modals.js:1426
+msgid "of"
+msgstr "από"
+
+#: ../media/modals.js:1533
+msgid "Channel list is empty"
+msgstr "Η λίστα καναλιών είναι άδεια"
+
+#: ../media/modals.js:1547
+msgid "Error. Too many active records."
+msgstr "Σφάλμα. Πάρα πολλές ενεργές εγγραφές."
+
+#: ../media/modals.js:1552 ../media/modals.js:1583 ../media/modals.js:1601
+msgid "Not enough disk space"
+msgstr "Δεν υπάρχει αρκετός χώρος στο δίσκο"
+
+#: ../media/modals.js:1586
+msgid "Incorrect time"
+msgstr "Λάθος ώρα"
+
+#: ../media/modals.js:1589
+msgid "Wrong name or path"
+msgstr "Λάθος όνομα ή διαδρομή"
+
+#: ../media/modals.js:1592
+msgid "Duplicated file"
+msgstr "Διπλασιασμός του αρχείου"
+
+#: ../media/modals.js:1595
+msgid "Wrong URL"
+msgstr "Λάθος URL"
+
+#: ../media/modals.js:1598
+msgid "Too many active records processed"
+msgstr "Πάρα πολλές ενεργές εγγραφές σε επεξεργασία"
+
+#: ../media/modals.js:1604
+msgid "Error..."
+msgstr "Σφάλμα..."
+
+#: ../media/modals.js:1621
+msgid "Start recording"
+msgstr "Έναρξη εγγραφής"
+
+#: ../media/modals.js:1744 ../media/modals.js:1751 ../media/modals.js:2040
+msgid "Name :"
+msgstr "Όνομα:"
+
+#: ../media/modals.js:1755 ../media/modals.js:2047
+msgid "URL :"
+msgstr "URL:"
+
+#: ../media/modals.js:1776 ../media/modals.js:1915 ../media/modals.js:2065
+#: ../media/modals.js:2269 ../media/modals.js:2471 ../media/modals.js:2750
+msgid "Wrong field data"
+msgstr "Λάθος δεδομένα πεδίου"
+
+#: ../media/modals.js:1875 ../services.js:1064 ../services.js:1067
+#: ../services.js:1633 ../services.js:1636
+msgid "None"
+msgstr "Κανένας"
+
+#: ../media/modals.js:1890
+#, fuzzy
+msgid "File location:"
+msgstr "Θέση αρχείου"
+
+#: ../media/modals.js:1894
+#, fuzzy
+msgid "File name:"
+msgstr "Αρχείο:"
+
+# menu item
+#: ../media/modals.js:1898
+#, fuzzy
+msgid "Save from groups:"
+msgstr "Αποθήκευση τις αλλαγών"
+
+#: ../media/modals.js:1929
+#, fuzzy
+msgid "Successfully exported"
+msgstr "Αποθηκεύτηκαν με επιτυχία"
+
+#: ../media/modals.js:1931
+#, fuzzy
+msgid "Save error"
+msgstr "Σφάλμα αποθήκευσης"
+
+#: ../media/modals.js:2185 ../media/modals.js:2238
+msgid "Select country..."
+msgstr "Επιλέξτε χώρα ..."
+
+#: ../media/modals.js:2192 ../media/modals.js:2193 ../media/modals.js:2215
+#: ../media/modals.js:2253
+msgid "Select operator..."
+msgstr "Επιλέξτε πάροχο ..."
+
+#: ../media/modals.js:2195 ../media/modals.js:2196 ../media/modals.js:2203
+#: ../media/modals.js:2245
+msgid "Select city..."
+msgstr "Επιλέξτε πόλη ..."
+
+#: ../media/modals.js:2221
+msgid "Country:"
+msgstr "Χώρα:"
+
+#: ../media/modals.js:2225
+msgid "City:"
+msgstr "Πόλη:"
+
+#: ../media/modals.js:2229
+msgid "Operator:"
+msgstr "Πάροχος:"
+
+#: ../media/modals.js:2281
+msgid "Bad playlist file"
+msgstr "Σφάλμα κατά το άνοιγμα της λίστας αναπαραγωγής"
+
+#: ../media/modals.js:2288
+msgid "Loading operator playlist"
+msgstr "Λήψη λίστας IPTV από τον πάροχο"
+
+#: ../media/modals.js:2436 ../media/modals.js:2452 ../media/modals.js:2628
+#: ../media/modals.js:2713 ../media/modals.js:3234 ../media/modals.js:3246
+msgid "DVB type:"
+msgstr "DVB-τύπος:"
+
+#: ../media/modals.js:2440 ../media/modals.js:2717
+msgid "Symbol rate:"
+msgstr "Symbol rate:"
+
+#: ../media/modals.js:2444 ../media/modals.js:2721
+msgid "Modulation:"
+msgstr "Διαμόρφωση:"
+
+#: ../media/modals.js:2468 ../media/modals.js:2742 ../media/modals.js:3370
+msgid "Scan"
+msgstr "Σάρωση"
+
+#: ../media/modals.js:2497 ../media/modals.js:2780
+msgid "Start scanning"
+msgstr "Ξεκινήστε τη σάρωση"
+
+#: ../media/modals.js:2620
+msgid "Frequency start (KHz):"
+msgstr ""
+
+#: ../media/modals.js:2624
+msgid "Frequency end (KHz):"
+msgstr ""
+
+#: ../media/modals.js:2632
+msgid "Bandwidth (MHz):"
+msgstr "Εύρος ζώνης (MHz):"
+
+#: ../media/modals.js:2651 ../media/player.js:850 ../services.js:2100
+msgid "Auto"
+msgstr "Αυτόματο"
+
+#: ../media/modals.js:2688
+msgid "Full"
+msgstr "Πλήρης"
+
+#: ../media/modals.js:2692
+msgid "Fast"
+msgstr "Γρήγορο"
+
+#: ../media/modals.js:2705
+msgid "Frequency (KHz):"
+msgstr "Συχνότητα(KHz):"
+
+#: ../media/modals.js:2725
+msgid "Network ID:"
+msgstr "ID δικτύου:"
+
+#: ../media/modals.js:2850 ../media/modals.js:2861
+msgid "EPG not available"
+msgstr "Ο EPG δεν είναι διαθέσιμος"
+
+#: ../media/modals.js:2953
+msgid "The program for:"
+msgstr "Το πρόγραμμα για το:"
+
+#: ../media/modals.js:3238
+msgid "Antenna power supply"
+msgstr "Τροφοδοσία κεραίας"
+
+#: ../media/modals.js:3309
+msgid "Antenna"
+msgstr ""
+
+#: ../media/modals.js:3355
+msgid "Program number:"
+msgstr ""
+
+#: ../media/modals.js:3378
+msgid "Select program"
+msgstr ""
+
+#: ../media/player.js:95 ../services.js:1452
+msgid "Fit on"
+msgstr "Προσαρμογή"
+
+#: ../media/player.js:100 ../services.js:1453
+msgid "Zoom"
+msgstr "Zoom (μεγέθυνση)"
+
+#: ../media/player.js:105 ../services.js:1454
+msgid "Optimal"
+msgstr "Βέλτιστη"
+
+#: ../media/player.js:110 ../services.js:1455
+msgid "Stretch"
+msgstr "Τέντωμα"
+
+#: ../media/player.js:159 ../media/player.js:1616 ../media/player.js:1887
+#: ../media/player.js:3092 ../media/playlist.js:90
+msgid "Show<br />playlist"
+msgstr "Εμφάνιση<br />λίστα αναπαραγωγής"
+
+#: ../media/player.js:161
+msgid "Hide<br />player"
+msgstr "Απόκρυψη<br />player"
+
+#: ../media/player.js:163
+msgid "Previous<br />media"
+msgstr "Προηγούμενο<br />αρχείο media"
+
+#: ../media/player.js:164
+msgid "Next<br />media"
+msgstr "Επόμενο<br />αρχείο media"
+
+#: ../media/player.js:376
+msgid "Audio tracks"
+msgstr "Η ταινία (Audio tracks)"
+
+#: ../media/player.js:432 ../services.js:942 ../services.js:1617
+msgid "TimeShift"
+msgstr "TimeShift"
+
+#: ../media/player.js:447 ../media/player.js:2057 ../media/player.js:2257
+#: ../media/player.js:2944 ../media/player.js:2984
+msgid ""
+"No storage device selected as the \"File location\" in TimeShift settings. "
+"Disable TimeShift?"
+msgstr ""
+"Καμία συσκευή αποθήκευσης που επιλέγεται ως \"θέση αρχείου\" στις ρυθμίσεις "
+"TimeShift. Απενεργοποίηση TimeShift;"
+
+#: ../media/player.js:448 ../media/player.js:2058 ../media/player.js:2258
+#: ../media/player.js:2675 ../media/player.js:2900 ../media/player.js:2945
+#: ../media/player.js:2985 ../media/player.js:3521
+msgid "No"
+msgstr "Οχι"
+
+#: ../media/player.js:470 ../services.js:1564 ../services.js:1607
+msgid "Enabled"
+msgstr "Ενεργοποιήθηκε"
+
+#: ../media/player.js:473
+msgid "TimeShift buffer"
+msgstr "ρυθμιστικό TimeShift"
+
+#: ../media/player.js:493
+msgid "Cyclic recording mode"
+msgstr "Κυκλική λειτουργία εγγραφής"
+
+#: ../media/player.js:494 ../services.js:1643
+msgid "Stop when out of space"
+msgstr "Σταματήσε μετά από το ορισμένο διάστημα"
+
+#: ../media/player.js:517
+msgid "3D mode"
+msgstr "3D-λειτουργία"
+
+#: ../media/player.js:529 ../media/player.js:530 ../media/player.js:531
+#: ../media/player.js:532
+msgid "Mode"
+msgstr "Λειτουργία"
+
+#: ../media/player.js:534
+msgid "Slide-show"
+msgstr "Παρουσίαση"
+
+#: ../media/player.js:575
+msgid "Rotate"
+msgstr ""
+
+#: ../media/player.js:587
+msgid "Left"
+msgstr ""
+
+#: ../media/player.js:588
+msgid "Right"
+msgstr ""
+
+#: ../media/player.js:590
+msgid "Play"
+msgstr "Αναπαραγωγή"
+
+#: ../media/player.js:634
+msgid "One file once"
+msgstr "Ένα αρχείο μία φορά"
+
+#: ../media/player.js:635
+msgid "Each file once"
+msgstr "Κάθε αρχείο μία φορά"
+
+#: ../media/player.js:636
+msgid "Repeat file"
+msgstr "Επαναλάβετε το αρχείο"
+
+#: ../media/player.js:637
+msgid "Repeat everything"
+msgstr "Επαναλάβετε τα πάντα"
+
+#: ../media/player.js:638
+msgid "Playlist shuffle"
+msgstr "Αναπαραγωγή με τυχαία σειρά"
+
+# menu item
+#: ../media/player.js:677 ../services.js:947 ../services.js:2086
+#, fuzzy
+msgid "Teletext"
+msgstr "Teletext"
+
+#: ../media/player.js:785
+msgid "Current channel teletext settings"
+msgstr ""
+
+#: ../media/player.js:848 ../services.js:2097
+msgid "Force charset"
+msgstr ""
+
+#: ../media/player.js:892 ../services.js:1481 ../services.js:2143
+msgid "Aspect Ratio"
+msgstr ""
+
+#: ../media/player.js:901 ../services.js:2153
+msgid "Opacity level"
+msgstr ""
+
+#: ../media/player.js:1620
+msgid "Hide<br />playlist"
+msgstr "Απόκρυψη<br />λίστα αναπαραγωγής"
+
+#: ../media/player.js:1717 ../media/player.js:1723
+msgid "Selected subtitle file is not available"
+msgstr "Το επιλεγμένο αρχείο υποτίτλων δεν είναι διαθέσιμο"
+
+#: ../media/player.js:2519 ../media/player.js:2530
+msgid "Playing error"
+msgstr "Σφάλμα Αναπαραγωγής"
+
+#: ../media/player.js:2650
+msgid "Buffer is full"
+msgstr "Η προσωρινής αποθήκευση (Buffer) είναι πλήρης"
+
+#: ../media/player.js:2674
+msgid "Writing error"
+msgstr "Σφάλμα εγγραφής"
+
+#: ../media/player.js:2674
+msgid "Check storage device.<br />Disable TimeShift?"
+msgstr "Ελέγξτε τη συσκευή αποθήκευσης.<br />ΑπενεργοποίησηTimeShift?"
+
+#: ../media/player.js:2774
+msgid "Detected passive antenna type"
+msgstr ""
+
+#: ../media/player.js:2859
+msgid "Start TimeShift error"
+msgstr "Σφάλμα εκκίνησης TimeShift"
+
+#: ../media/player.js:2899 ../services.js:1644
+msgid "Request to save"
+msgstr "Ζητήσε αποθηκεύση"
+
+#: ../media/player.js:2899
+msgid "Save TimeShift buffer?"
+msgstr "Αποθήκευση της ρύθμισης TimeShift;"
+
+#: ../media/player.js:2928
+msgid "Saving error"
+msgstr "Σφάλμα αποθήκευσης"
+
+#: ../media/player.js:2936
+msgid "Save to:"
+msgstr "Αποθήκευση σε:"
+
+#: ../media/player.js:3501 ../media/player.js:3564 ../media/player.js:3640
+msgid "unknown"
+msgstr "άγνωστο"
+
+#: ../media/player.js:3594
+msgid "External subtitles:"
+msgstr "Εξωτερικοί υπότιτλοι:"
+
+#: ../media/player.js:3682
+msgid "Title"
+msgstr "Τίτλος"
+
+#: ../media/player.js:3688
+msgid "Chapter"
+msgstr "Κεφάλαιο-Ενότητα"
+
+#: ../media/tvlist.js:370
+msgid "Contains the list of items corresponding to the given filter request"
+msgstr ""
+"Περιέχει τον κατάλογο των αντικειμένων που αντιστοιχούν στο συγκεκριμένο "
+"αίτημα του φίλτρου"
+
+#: ../media/tvlist.js:689 ../media/tvlist.js:729
+msgid "Copying error"
+msgstr "Σφάλμα αντιγραφής"
+
+#: ../menu.js:39
+msgid "Enter your location..."
+msgstr "Εισάγετε την τοποθεσία σας ..."
+
+#: ../menu.js:122 ../menu.js:557 ../services.js:1405 ../services.js:2534
+msgid "Confirm"
+msgstr "Επιβεβαίωση"
+
+#: ../menu.js:123
+msgid "Are you sure you want to exit portal?"
+msgstr "Είστε βέβαιοι ότι θέλετε να βγείτε από το portal;"
+
+#: ../menu.js:519
+msgid "Receiving<br>weather<br>data"
+msgstr "Λήψη<br>καιρού<br>δεδομένων"
+
+#: ../menu.js:521
+msgid "No<br>weather<br>settings"
+msgstr "Καιρού<br>δεν υπάρχουν<br>ρυθμίσεις"
+
+#: ../services.js:380
+msgid "USB storage is connected"
+msgstr "Το USB-αποθήκευσης είναι συνδεδεμένο"
+
+#: ../services.js:939 ../services.js:1423
+msgid "Playback"
+msgstr "Αναπαραγωγή"
+
+#: ../services.js:940 ../services.js:1492
+msgid "Interface"
+msgstr "Εμφάνιση"
+
+#: ../services.js:941 ../services.js:1603 ../services.js:2210
+#, fuzzy
+msgid "Software autoupdate"
+msgstr "Ενημέρωση του λογισμικού"
+
+#: ../services.js:943 ../services.js:2040
+msgid "System settings"
+msgstr "Ρυθμίσεις συστήματος"
+
+#: ../services.js:945 ../services.js:1933
+msgid "DVB"
+msgstr "DVB"
+
+#: ../services.js:946 ../services.js:1989 ../services.js:2038
+msgid "Access control"
+msgstr ""
+
+#: ../services.js:951 ../services.js:957 ../services.js:1659
+#, fuzzy
+msgid "Network Diagnostics"
+msgstr "ID δικτύου:"
+
+#: ../services.js:954 ../services.js:1665 ../services.js:1672
+msgid "Speed test"
+msgstr "Τest ταχύτητας"
+
+#: ../services.js:999
+msgid "Advanced"
+msgstr ""
+
+#: ../services.js:1000
+msgid "Update manually"
+msgstr "Ενημέρωση με μη αυτόματο τρόπο"
+
+#: ../services.js:1405
+msgid "Some settings have been changed"
+msgstr "Ορισμένες ρυθμίσεις έχουν αλλάξει"
+
+#: ../services.js:1429
+msgid "Small"
+msgstr ""
+
+#: ../services.js:1430
+msgid "Normal"
+msgstr ""
+
+#: ../services.js:1431
+msgid "Large"
+msgstr ""
+
+#: ../services.js:1432
+msgid "Huge"
+msgstr ""
+
+#: ../services.js:1435
+msgid "White"
+msgstr ""
+
+#: ../services.js:1436
+msgid "Black"
+msgstr ""
+
+#: ../services.js:1437
+msgid "Red"
+msgstr ""
+
+#: ../services.js:1438
+msgid "Blue"
+msgstr ""
+
+#: ../services.js:1439
+msgid "Green"
+msgstr ""
+
+#: ../services.js:1440
+msgid "Yellow"
+msgstr ""
+
+#: ../services.js:1441
+msgid "Cyan"
+msgstr ""
+
+#: ../services.js:1442
+msgid "Magenta"
+msgstr ""
+
+#: ../services.js:1443
+msgid "Silver"
+msgstr ""
+
+#: ../services.js:1444
+msgid "Gray"
+msgstr ""
+
+#: ../services.js:1445
+msgid "Maroon"
+msgstr ""
+
+#: ../services.js:1446
+msgid "Olive"
+msgstr ""
+
+#: ../services.js:1447
+msgid "Purple"
+msgstr ""
+
+#: ../services.js:1448
+msgid "Teal"
+msgstr ""
+
+#: ../services.js:1449
+msgid "Navy"
+msgstr ""
+
+#: ../services.js:1461
+msgid "Primary audio track language"
+msgstr "Κύρια γλώσσα ήχου"
+
+#: ../services.js:1466
+msgid "Primary subtitle language"
+msgstr "Κύρια γλώσσα υποτίτλων"
+
+#: ../services.js:1471
+msgid "Subtitle size"
+msgstr ""
+
+#: ../services.js:1476
+msgid "Subtitle color"
+msgstr ""
+
+#: ../services.js:1502 ../services.js:2042
+msgid "Main menu"
+msgstr "Κύριο μενού"
+
+#: ../services.js:1539
+msgid "1 minute"
+msgstr "1 λεπτό"
+
+#: ../services.js:1540
+msgid "3 minutes"
+msgstr "3 λεπτά"
+
+#: ../services.js:1541
+msgid "5 minutes"
+msgstr "5 λεπτά"
+
+#: ../services.js:1542
+msgid "10 minutes"
+msgstr "10 λεπτά"
+
+#: ../services.js:1543
+msgid "30 minutes"
+msgstr "30 λεπτά"
+
+#: ../services.js:1557
+msgid "Start page"
+msgstr "Αρχική σελίδα"
+
+# имеется ввиду метрическая или английская система измерения скорости
+#: ../services.js:1558
+msgid "Weather system format"
+msgstr "Μορφή συστήματος καιρού"
+
+#: ../services.js:1559
+msgid "Metric (Celsius, meters per second)"
+msgstr "Μετρικό (Κελσίου, μέτρα/δευτερόλεπτο)"
+
+#: ../services.js:1560
+msgid "English (Fahrenheit, miles per hour)"
+msgstr "Αγγλικό (Φαρενάιτ, μίλια/ώρα)"
+
+#: ../services.js:1562
+msgid "HDMI event reaction:"
+msgstr "Αντίδραση με HDMI-συμβάν"
+
+#: ../services.js:1565
+msgid "5 minutes delay"
+msgstr "5 λεπτά καθυστέρηση"
+
+#: ../services.js:1566
+msgid "10 minutes delay"
+msgstr "10 λεπτά καθυστέρηση"
+
+#: ../services.js:1568
+msgid "Screensaver interval"
+msgstr "Διάστημα προφύλαξης οθόνης"
+
+#: ../services.js:1569
+msgid "Screensaver"
+msgstr "Προφύλαξη οθόνης"
+
+#: ../services.js:1570
+#, fuzzy
+msgid "Clock during playing"
+msgstr "Clock during playing"
+
+#: ../services.js:1571
+msgid "LED brightness:"
+msgstr "LED φωτεινότητα:"
+
+#: ../services.js:1572
+msgid "LED brightness (standby):"
+msgstr "LED φωτεινότητα (σε κατάσταση αναμονής):"
+
+#: ../services.js:1573
+msgid "RC model"
+msgstr ""
+
+#: ../services.js:1582
+#, fuzzy
+msgid "Deep"
+msgstr "Βαθύς"
+
+#: ../services.js:1586
+#, fuzzy
+msgid "Stand by mode:"
+msgstr "Stand αναμονής:"
+
+#: ../services.js:1588
+msgid "Auto power down:"
+msgstr ""
+
+#: ../services.js:1589
+msgid "Off"
+msgstr ""
+
+#: ../services.js:1590 ../services.js:1642
+msgid "minutes"
+msgstr "λεπτά"
+
+#: ../services.js:1591
+msgid "1 hour"
+msgstr ""
+
+#: ../services.js:1592 ../services.js:1642
+msgid "2 hours"
+msgstr "2 ώρες"
+
+#: ../services.js:1593
+msgid "4 hours"
+msgstr ""
+
+#: ../services.js:1594
+msgid "8 hours"
+msgstr ""
+
+#: ../services.js:1607
+#, fuzzy
+msgid "Autoupdate"
+msgstr "Αυτόματη ενημέρωση"
+
+#: ../services.js:1607
+msgid "With confirmation"
+msgstr "Με επιβεβαίωση"
+
+#: ../services.js:1608
+msgid "Update to beta versions"
+msgstr "Ενημέρωση με beta (δοκιμάστηκες) εκδόσεις"
+
+#: ../services.js:1639
+msgid "Use TimeShift"
+msgstr "Χρήση TimeShift"
+
+#: ../services.js:1640
+msgid "Icon enable"
+msgstr "Ενεργοποίηση εικονίδιου"
+
+#: ../services.js:1641
+msgid "File location"
+msgstr "Θέση αρχείου"
+
+#: ../services.js:1642
+msgid "Length"
+msgstr "Μήκος"
+
+#: ../services.js:1642
+msgid "hour"
+msgstr "ώρα"
+
+#: ../services.js:1642
+msgid "3 hours"
+msgstr "3 ώρες"
+
+#: ../services.js:1642
+msgid "5 hours"
+msgstr "5 ώρες"
+
+#: ../services.js:1642
+msgid "10 hours"
+msgstr "10 ώρες"
+
+#: ../services.js:1642
+msgid "20 hours"
+msgstr "20 ώρες"
+
+#: ../services.js:1642
+msgid "24 hours"
+msgstr "24 ώρες"
+
+#: ../services.js:1643
+msgid "Using buffer mode"
+msgstr "Καθημερινή χρήση του ρυθμιστικού διαλύματος"
+
+#: ../services.js:1643
+msgid "Cyclic record mode"
+msgstr "Κυκλικές ξαναγράψιμο"
+
+#: ../services.js:1644
+msgid "On exit"
+msgstr "Κατά την έξοδο"
+
+#: ../services.js:1644
+msgid "Do not save buffer"
+msgstr "Απορρίψε το ρυθμιστικό"
+
+#: ../services.js:1644
+msgid "Save buffer"
+msgstr "Κρατήσε το ρυθμιστικό"
+
+#: ../services.js:1645
+msgid "Delay"
+msgstr "Καθυστέρηση"
+
+#: ../services.js:1645
+msgid "By pressing Pause button"
+msgstr "Πατώντας το πλήκτρο \"Pause\""
+
+#: ../services.js:1666
+msgid "Extended diagnostics"
+msgstr ""
+
+#: ../services.js:1675 ../services.js:1676 ../services.js:1725
+#: ../services.js:1726
+msgid "Not available"
+msgstr "Δεν είναι διαθέσιμο"
+
+#: ../services.js:1677 ../services.js:1727
+msgid "Speed:"
+msgstr "Ταχύτητα:"
+
+#: ../services.js:1677 ../services.js:1689 ../services.js:1699
+#: ../services.js:1721
+msgid "Waiting"
+msgstr "Αναμονή"
+
+#: ../services.js:1685 ../services.js:1717
+msgid "Testing"
+msgstr "Δοκιμή"
+
+#: ../services.js:1724
+msgid "Test results"
+msgstr ""
+
+#: ../services.js:1802
+msgid "Test result"
+msgstr ""
+
+#: ../services.js:1806
+msgid "Perform diagnostics"
+msgstr ""
+
+#: ../services.js:1808
+msgid "Estimated time of completion"
+msgstr ""
+
+#: ../services.js:1821
+#, fuzzy
+msgid "IP Address"
+msgstr "Διεύθυνση:"
+
+#: ../services.js:1822
+msgid "Loss"
+msgstr ""
+
+#: ../services.js:1823
+msgid "Ping"
+msgstr ""
+
+#: ../services.js:1866 ../services.js:2493
+#, fuzzy
+msgid "Attention"
+msgstr "Προσοχή:"
+
+#: ../services.js:1867
+msgid ""
+"Estimated time to complete the test - 10 minutes.<br> You can not interrupt "
+"the test before it is completed"
+msgstr ""
+
+#: ../services.js:1869
+#, fuzzy
+msgid "Run the test"
+msgstr "Εκτελέστε τον Οδηγό εγκατάστασης"
+
+#: ../services.js:1973
+msgid "Signal type"
+msgstr "Τύπος σήματος"
+
+#: ../services.js:2039
+msgid "Digits only"
+msgstr ""
+
+#: ../services.js:2041
+msgid "Portals loader"
+msgstr ""
+
+#: ../services.js:2093
+msgid "Use Teletext"
+msgstr ""
+
+#: ../services.js:2204
+msgid "Sorry, no firmware image at the moment"
+msgstr ""
+"Λυπούμαστε, αλλά δεν υπάρχει εικόνα λογισμικού (firmware) αυτή τη στιγμή"
+
+#: ../services.js:2212
+msgid "Software update"
+msgstr "Ενημέρωση του λογισμικού"
+
+#: ../services.js:2493
+msgid ""
+"Incorrect password. Use digits only. Space doesn't allow. Maximum length is "
+"10 symbols."
+msgstr ""
+
+#: ../services.js:2528 ../services.js:2548
+msgid "Successfully saved"
+msgstr "Αποθηκεύτηκαν με επιτυχία"
+
+#: ../services.js:2528
+msgid "Device reboot is required to apply changes. Reboot now?"
+msgstr ""
+"Οι αλλαγές θα τεθούν σε ισχύ μετά την επανεκκίνηση της συσκευής. "
+"Επανεκκίνηση τώρα;"
+
+#: ../services.js:2534
+msgid "Restart portal?"
+msgstr ""
+
+#~ msgid "YouTube"
+#~ msgstr "YouTube"
+
+#~ msgid "Picasa"
+#~ msgstr "Picasa"
+
+#~ msgid "Lines"
+#~ msgstr "Lines παιχνίδι"
+
+#~ msgid "Sudoku"
+#~ msgstr "Sudoku παιχνίδι"
+
+#~ msgid "Memory"
+#~ msgstr "Memory παιχνίδι"
+
+#~ msgid "Antenna with such signal type can't be powered up."
+#~ msgstr ""
+#~ "Η κεραία με τέτοιο τύπο σήματος δεν μπορεί να τροφοδοτείται με ρεύμα."
+
+#~ msgid "Online Media"
+#~ msgstr "Πολυμέσα από το διαδίκτυο"
+
+#~ msgid "Password:"
+#~ msgstr "Κωδικός πρόσβασης :"
+
+# menu item
+#, fuzzy
+#~ msgid "Select a portal"
+#~ msgstr "Επιλογή όλων"
+
+#~ msgid "Auto update software"
+#~ msgstr "Αυτόματη ενημέρωση λογισμικού"
+
+#~ msgid "Antenna power supply disabled"
+#~ msgstr "Η τροφοδοσία της κεραίας έχει απενεργοποιηθεί"
+
+#, fuzzy
+#~ msgid "Unable to get dlna content"
+#~ msgstr "Ανικανότητα λήψης ενεργής λίστας"
+
+#~ msgid "Update software now"
+#~ msgstr "Оновити ПЗ зараз"
+
+#~ msgid "Formatting in progress..."
+#~ msgstr "Форматування в процесі..."
+
+# menu item
+#~ msgid "Move selected"
+#~ msgstr "Перемістити виділене"
+
+# menu item
+#~ msgid "Copy selected"
+#~ msgstr "Копіювати виділене"
+
+#, fuzzy
+#~ msgid ""
+#~ "To perform this operation, you must to turn off \"Storage read only access"
+#~ "\" in system settings"
+#~ msgstr ""
+#~ "Щоб виконати цю операцію, необхідно відключити \"Storage read only access"
+#~ "\" в системних налаштуваннях"
+
+#~ msgid "Selected"
+#~ msgstr "Виділене"
+
+#~ msgid "Text"
+#~ msgstr "Текст"
+
+#~ msgid "Groups"
+#~ msgstr "Групи"
+
+#~ msgid "No sorting"
+#~ msgstr "Без сортування"
+
+# menu item
+#~ msgid "Mount NFS/SMB"
+#~ msgstr "Підключити NFS/SMB"
+
+# menu item
+#~ msgid "Unmount NFS/SMB"
+#~ msgstr "Відключити NFS/SMB"
+
+#~ msgid "Back"
+#~ msgstr "Назад"
+
+#~ msgid "Operation"
+#~ msgstr "Операція"
+
+#~ msgid "Connect via Ethernet"
+#~ msgstr "Підключитися через Ethernet"
+
+#~ msgid "Connect via WiFi"
+#~ msgstr "Підключитися по WiFi"
+
+#~ msgid "Checking LAN connection"
+#~ msgstr "Перевірка підключення до локальної мережі"
+
+#~ msgid "To play this file press F1,<br>to save it press F2"
+#~ msgstr "Щоб відтворити файл, натисніть F1,<br>щоб зберегти, натисніть F2"
+
+#, fuzzy
+#~ msgid "To save this file press F2"
+#~ msgstr "Для збереження файлу натиcнiть F2"
+
+#~ msgid "Select action"
+#~ msgstr "Виберіть дію"
+
+#~ msgid "Download"
+#~ msgstr "Завантажити"
+
+#~ msgid "Retry"
+#~ msgstr "Повторити"
+
+#~ msgid "Show log"
+#~ msgstr "Показати звіт"
+
+#~ msgid "Hide log"
+#~ msgstr "Сховати звіт"
+
+#~ msgid "Update"
+#~ msgstr "Оновити"
+
+#~ msgid "Status"
+#~ msgstr "Статус"
+
+#~ msgid "Check image"
+#~ msgstr "Перевірка образа"
+
+#~ msgid "Current version"
+#~ msgstr "Поточна версія"
+
+#~ msgid "New version"
+#~ msgstr "Доступна версія"
+
+#~ msgid "Description"
+#~ msgstr "Опис"
+
+#~ msgid "Change log"
+#~ msgstr "Список змін"
+
+#~ msgid "Updating to version"
+#~ msgstr "Оновлення до версії"
+
+#~ msgid "Update status"
+#~ msgstr "Статус оновлення"
+
+#~ msgid ""
+#~ "<span class='alert'>Warning!</span> Automatic device reboot after updating"
+#~ msgstr ""
+#~ "<span class='alert'>Увага!</span> Після оновлення пристрій буде "
+#~ "перезавантажений!"

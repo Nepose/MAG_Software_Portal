@@ -1,0 +1,110 @@
+﻿<!doctype html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>new MAG 200-250</title>
+
+	<script>
+		var PATH_BASE = '../../../';
+	</script>
+
+	<script type="text/javascript" src="../../../system/init.js"></script>
+
+	<script type="text/javascript">
+		(function(){
+			var time = (new Date).getTime();
+			// conditional css loading
+			document.write('<link rel="stylesheet" href="../../../system/' + WINDOW_HEIGHT + '.css?_=' + time + '">');
+			document.write('<link rel="stylesheet" href="' + WINDOW_HEIGHT + '.css?_=' + time + '">');
+		})();
+	</script>
+
+    <script type="text/javascript" src="rules.js"></script>
+
+	<script type="text/javascript" src="../../../system/variables/check.js"></script>
+	<script type="text/javascript" src="../../../system/wm.js"></script>
+    <script type="text/javascript" src="../../../system/keys.js"></script>
+    <script type="text/javascript" src="../../../system/gettext.js"></script>
+    <script type="text/javascript" src="../../../system/tools.js"></script>
+    <script type="text/javascript" src="../../../system/cbase.js"></script>
+    <script type="text/javascript" src="../../../system/cpage.js"></script>
+    <script type="text/javascript" src="../../../system/cslist.js"></script>
+	<script type="text/javascript" src="../../../system/cbpanel.js"></script>
+	<script type="text/javascript" src="../../../system/cmodal.js"></script>
+	<script type="text/javascript" src="../../../system/config.js"></script>
+	<script type="text/javascript" src="../../access.control/main.js"></script>
+
+    <script type="text/javascript" src="app.js"></script>
+    <script type="text/javascript" src="view.js"></script>
+    <script type="text/javascript" src="data.js"></script>
+
+
+	<style type="text/css">
+        html, body { overflow:hidden; background:transparent; color:#fff; margin:0; padding:0; -webkit-user-select:none }
+
+        /* table cell spacing/padding reset */
+        table { border:0; border-collapse:collapse }
+        table td { padding:0 }
+
+        /* meta-classes */
+        .maxh { height:100% }
+        .maxw { width:100% }
+        a { text-decoration:none }
+
+        /* scroll bars */
+        ::-webkit-scrollbar-track { background:#2a2c2f }
+        ::-webkit-scrollbar-thumb { background:#ffc20e }
+
+		/* loading screen */
+		#loading { width:100%; height:100%; background-color:black; position:absolute; top:0; left:0; display:none; }
+			#loading > span { position:absolute; color:#ccc; font-size:36px; width:100%; text-align:center; top:50% }
+    </style>
+</head>
+
+<body>
+	<div class="page main">
+		<table class="body">
+			<!-- page body top panel -->
+			<tr class="header">
+				<td colspan="2" class="crop">
+					<table class="maxw">
+						<tr>
+							<!-- description -->
+							<td class="info">information</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td class="container" align="center">
+					<!-- page body main content block -->
+					<table class="content">
+						<tr>
+							<td>
+								<!-- CScrollList component -->
+								<div class="cslist-main"></div>
+							</td>
+							<td>
+								<div class="infoList" style="display:none"></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+	<div class="fastLoad">
+			<div class="container">
+				<div class="box">
+					<div class="logo"></div><div class="title"></div>
+				</div>
+				<div class="second"></div>
+			</div>
+	</div>
+	<div class="page fastLoad warningPage">
+	</div>
+	<div id="loading" >
+		<span>Loading...</span>
+	</div>
+</body>
+</html>

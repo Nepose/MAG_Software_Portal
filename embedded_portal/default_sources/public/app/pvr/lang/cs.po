@@ -1,0 +1,367 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Internet Bookmarks Manager\n"
+"POT-Creation-Date: 2017-05-12 12:05+0300\n"
+"PO-Revision-Date: 2017-05-12 12:05+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-KeywordsList: _;gettext.data\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../cblist.js:460
+msgid "File not found"
+msgstr ""
+
+#: ../cblist.js:480
+msgid "Error"
+msgstr ""
+
+#: ../cblist.js:480
+msgid "Unknown type of selected item"
+msgstr ""
+
+#: ../cblist.js:480 ../view.main.js:222 ../view.main.js:441
+msgid "Close"
+msgstr ""
+
+#: ../modals.js:130 ../modals.js:635
+msgid "End recording:"
+msgstr ""
+
+#: ../modals.js:147 ../modals.js:652
+msgid "Record length:"
+msgstr ""
+
+#: ../modals.js:234 ../modals.js:344 ../modals.js:854
+msgid "Cancel"
+msgstr ""
+
+#: ../modals.js:237 ../view.main.js:506
+msgid "Edit"
+msgstr ""
+
+#: ../modals.js:332
+msgid "Delete related file"
+msgstr ""
+
+#: ../modals.js:344
+msgid "Delete record"
+msgstr ""
+
+#: ../modals.js:366 ../view.main.js:512
+msgid "Delete"
+msgstr ""
+
+#: ../modals.js:563
+msgid "IPTV"
+msgstr ""
+
+#: ../modals.js:590 ../modals.js:785 ../view.main.js:176
+msgid "No storage device"
+msgstr ""
+
+#: ../modals.js:602
+msgid "No channels"
+msgstr ""
+
+#: ../modals.js:618
+msgid "Start recording:"
+msgstr ""
+
+#: ../modals.js:662
+msgid "Path:"
+msgstr ""
+
+#: ../modals.js:667 ../view.main.js:287
+msgid "Channel:"
+msgstr ""
+
+#: ../modals.js:671
+msgid "Record name:"
+msgstr ""
+
+#: ../modals.js:677
+msgid "Record in:"
+msgstr ""
+
+#: ../modals.js:683
+msgid "Free space:"
+msgstr ""
+
+#: ../modals.js:683 ../modals.js:684
+msgid "GB"
+msgstr ""
+
+#: ../modals.js:683
+msgid "of"
+msgstr ""
+
+#: ../modals.js:766
+msgid "Channel list is empty"
+msgstr ""
+
+#: ../modals.js:780
+msgid "Error. Too many active records."
+msgstr ""
+
+#: ../modals.js:790 ../modals.js:821 ../modals.js:839 ../model.main.js:60
+#: ../model.main.js:78
+msgid "Not enough disk space"
+msgstr ""
+
+#: ../modals.js:824 ../model.main.js:63
+msgid "Incorrect time"
+msgstr ""
+
+#: ../modals.js:827 ../model.main.js:66
+msgid "Wrong name or path"
+msgstr ""
+
+#: ../modals.js:830 ../model.main.js:69
+msgid "Duplicated file"
+msgstr ""
+
+#: ../modals.js:833 ../model.main.js:72
+msgid "Wrong URL"
+msgstr ""
+
+#: ../modals.js:836 ../model.main.js:75
+msgid "Too many active records processed"
+msgstr ""
+
+#: ../modals.js:842
+msgid "Error..."
+msgstr ""
+
+#: ../modals.js:857
+msgid "Start recording"
+msgstr ""
+
+#: ../model.main.js:39 ../view.main.js:534
+msgid "Scheduled"
+msgstr ""
+
+#: ../model.main.js:43
+msgid "Recording"
+msgstr ""
+
+#: ../model.main.js:47 ../model.main.js:81
+msgid "Recording error"
+msgstr ""
+
+#: ../model.main.js:51 ../view.main.js:537
+msgid "Completed"
+msgstr ""
+
+#: ../view.main.js:92
+msgid "Record manager"
+msgstr ""
+
+#: ../view.main.js:102
+msgid "Enter record name..."
+msgstr ""
+
+#: ../view.main.js:190
+msgid "USB storage is connected"
+msgstr ""
+
+#: ../view.main.js:204
+msgid "Exit"
+msgstr ""
+
+#: ../view.main.js:214
+msgid "Menu"
+msgstr ""
+
+#: ../view.main.js:217 ../view.main.js:699
+msgid "Show<br>info panel"
+msgstr ""
+
+#: ../view.main.js:220
+msgid "Add<br>record"
+msgstr ""
+
+#: ../view.main.js:222 ../view.main.js:441
+msgid "Warning!"
+msgstr ""
+
+#: ../view.main.js:222 ../view.main.js:441
+msgid "\"Storage read only access mode\" is enabled in System Settings"
+msgstr ""
+
+#: ../view.main.js:227 ../view.main.js:508
+msgid "Select"
+msgstr ""
+
+#: ../view.main.js:247
+msgid "Items:"
+msgstr ""
+
+#: ../view.main.js:248
+msgid "Selected:"
+msgstr ""
+
+#: ../view.main.js:259
+msgid "Contains a list of items corresponding to the given filter request"
+msgstr ""
+
+#: ../view.main.js:279
+msgid "Detailed information about the selected record"
+msgstr ""
+
+#: ../view.main.js:282
+msgid "Name:"
+msgstr ""
+
+#: ../view.main.js:283
+msgid "Status:"
+msgstr ""
+
+#: ../view.main.js:284
+msgid "Start:"
+msgstr ""
+
+#: ../view.main.js:285
+msgid "End:"
+msgstr ""
+
+#: ../view.main.js:286
+msgid "Duration:"
+msgstr ""
+
+#: ../view.main.js:286
+msgid "h."
+msgstr ""
+
+#: ../view.main.js:286
+msgid "m."
+msgstr ""
+
+#: ../view.main.js:323
+msgid "Jan"
+msgstr ""
+
+#: ../view.main.js:323
+msgid "Feb"
+msgstr ""
+
+#: ../view.main.js:323
+msgid "Mar"
+msgstr ""
+
+#: ../view.main.js:323
+msgid "Apr"
+msgstr ""
+
+#: ../view.main.js:323
+msgid "May"
+msgstr ""
+
+#: ../view.main.js:323
+msgid "Jun"
+msgstr ""
+
+#: ../view.main.js:323
+msgid "Jul"
+msgstr ""
+
+#: ../view.main.js:323
+msgid "Aug"
+msgstr ""
+
+#: ../view.main.js:323
+msgid "Sep"
+msgstr ""
+
+#: ../view.main.js:323
+msgid "Oct"
+msgstr ""
+
+#: ../view.main.js:323
+msgid "Nov"
+msgstr ""
+
+#: ../view.main.js:323
+msgid "Dec"
+msgstr ""
+
+#: ../view.main.js:429
+msgid "Operations"
+msgstr ""
+
+#: ../view.main.js:443 ../view.main.js:505 ../view.main.js:710
+msgid "Add record"
+msgstr ""
+
+#: ../view.main.js:448
+msgid "Edit record"
+msgstr ""
+
+#: ../view.main.js:504
+msgid "Open"
+msgstr ""
+
+#: ../view.main.js:507
+msgid "Stop"
+msgstr ""
+
+#: ../view.main.js:509
+msgid "Select all"
+msgstr ""
+
+#: ../view.main.js:510
+msgid "Deselect all"
+msgstr ""
+
+#: ../view.main.js:511
+msgid "Invert selection"
+msgstr ""
+
+#: ../view.main.js:515
+msgid "View"
+msgstr ""
+
+#: ../view.main.js:533
+msgid "All"
+msgstr ""
+
+#: ../view.main.js:535
+msgid "In progress"
+msgstr ""
+
+#: ../view.main.js:536
+msgid "Errors"
+msgstr ""
+
+#: ../view.main.js:540
+msgid "Sort"
+msgstr ""
+
+#: ../view.main.js:555
+msgid "By name"
+msgstr ""
+
+#: ../view.main.js:556
+msgid "By time"
+msgstr ""
+
+#: ../view.main.js:557
+msgid "By state"
+msgstr ""
+
+#: ../view.main.js:558
+msgid "By duration"
+msgstr ""
+
+#: ../view.main.js:699
+msgid "Hide<br>info panel"
+msgstr ""

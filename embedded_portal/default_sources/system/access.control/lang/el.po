@@ -1,0 +1,2003 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Service menu\n"
+"POT-Creation-Date: 2015-10-20 11:37+0200\n"
+"PO-Revision-Date: 2015-10-20 11:37+0200\n"
+"Last-Translator: Harry <harry@aaa.aa>\n"
+"Language-Team: Greek Blog Infomir <http://mag250-greece.blogspot.gr/>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-KeywordsList: _;gettext.data\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../main.js:15
+#, fuzzy
+msgid "Password"
+msgstr "Κωδικός πρόσβασης "
+
+#: ../main.js:45
+msgid "Unlock"
+msgstr ""
+
+#: ../main.js:45 ../main.js:94
+msgid "Cancel"
+msgstr "Ακύρωση"
+
+#: ../main.js:65
+msgid "Ok"
+msgstr "Ok"
+
+#: ../main.js:89
+msgid "Lock device or exit portal?"
+msgstr ""
+
+#: ../main.js:91
+msgid "Lock device?"
+msgstr ""
+
+#: ../main.js:94
+msgid "Confirm"
+msgstr "Επιβεβαίωση"
+
+#: ../main.js:105
+msgid "Lock"
+msgstr ""
+
+#: ../main.js:112
+#, fuzzy
+msgid "Exit portal"
+msgstr "Exit portal"
+
+#, fuzzy
+#~ msgid "Login"
+#~ msgstr "Είσοδος:"
+
+#, fuzzy
+#~ msgid "Do you want to logout or exit portal?"
+#~ msgstr "Είστε βέβαιοι ότι θέλετε να βγείτε από το portal;"
+
+#, fuzzy
+#~ msgid "Are you sure you want to logout?"
+#~ msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε;"
+
+#, fuzzy
+#~ msgid "Logout"
+#~ msgstr "Logout"
+
+#~ msgid "January"
+#~ msgstr "Ιανουάριος"
+
+#~ msgid "February"
+#~ msgstr "Φεβρουάριος"
+
+#~ msgid "March"
+#~ msgstr "Μάρτιος"
+
+#~ msgid "April"
+#~ msgstr "Απρίλιος"
+
+#~ msgid "May"
+#~ msgstr "Μάιος"
+
+#~ msgid "June"
+#~ msgstr "Ιούνιος"
+
+#~ msgid "July"
+#~ msgstr "Ιούλιος"
+
+#~ msgid "August"
+#~ msgstr "Αύγουστος"
+
+#~ msgid "September"
+#~ msgstr "Σεπτέμβριος"
+
+#~ msgid "October"
+#~ msgstr "Οκτώβριος"
+
+#~ msgid "November"
+#~ msgstr "Νοέμβριος"
+
+#~ msgid "December"
+#~ msgstr "Δεκέμβριος"
+
+#~ msgid "Sunday "
+#~ msgstr "Κυριακή"
+
+#~ msgid "Monday "
+#~ msgstr "Δευτέρα"
+
+#~ msgid "Tuesday "
+#~ msgstr "Τρίτη"
+
+#~ msgid "Wednesday "
+#~ msgstr "Τετάρτη"
+
+#~ msgid "Thursday "
+#~ msgstr "Πέμπτη"
+
+#~ msgid "Friday "
+#~ msgstr "Παρασκευή"
+
+#~ msgid "Saturday "
+#~ msgstr "Σάββατο"
+
+#~ msgid "Clear/Sunny"
+#~ msgstr "Καθαρός / Ηλιόλουστος"
+
+#~ msgid "Partly Cloudy"
+#~ msgstr "Μερικώς νεφελώδης"
+
+#~ msgid "Cloudy"
+#~ msgstr "Νεφελώδης"
+
+#~ msgid "Overcast"
+#~ msgstr "Πυκνή συννεφιά"
+
+#~ msgid "Mist"
+#~ msgstr "Ελαφριά ομίχλη"
+
+#~ msgid "Patchy rain nearby"
+#~ msgstr "Κατά τόπους βροχή"
+
+#~ msgid "Patchy snow nearby"
+#~ msgstr "Κατά τόπους χιόνι"
+
+#~ msgid "Patchy sleet nearby"
+#~ msgstr "Κατά τόπους χιονόνερο"
+
+#~ msgid "Patchy freezing drizzle nearby"
+#~ msgstr "Κατά τόπους ψιλόβροχο, παγετός"
+
+#~ msgid "Thundery outbreaks in nearby"
+#~ msgstr "Ξεσπάσματα καταιγίδας"
+
+#~ msgid "Blowing snow"
+#~ msgstr "Φυσώντας χιόνι"
+
+#~ msgid "Blizzard"
+#~ msgstr "Χιονοθύελλα"
+
+#~ msgid "Fog"
+#~ msgstr "Ομίχλη"
+
+#~ msgid "Freezing fog"
+#~ msgstr "Παγετός-ομίχλη"
+
+#~ msgid "Patchy light drizzle"
+#~ msgstr "Κατά τόπους ελαφρά ψιχαλίζει"
+
+#~ msgid "Light drizzle"
+#~ msgstr "ψιχαλίζει"
+
+#~ msgid "Freezing drizzle"
+#~ msgstr "Παγετός ψιλόβροχο"
+
+#~ msgid "Heavy freezing drizzle"
+#~ msgstr "πυκνή ομίχλη παγετός"
+
+#~ msgid "Patchy light rain"
+#~ msgstr "Κατά τόπους ασθενής βροχή"
+
+#~ msgid "Light rain"
+#~ msgstr "Ασθενής βροχή"
+
+#~ msgid "Moderate rain at times"
+#~ msgstr "Μέτρια βροχή κατά περιόδους"
+
+#~ msgid "Moderate rain"
+#~ msgstr "μέτρια βροχή"
+
+#~ msgid "Heavy rain at times"
+#~ msgstr "Δυνατή βροχή κατά περιόδους"
+
+#~ msgid "Heavy rain"
+#~ msgstr "Δυνατή βροχή"
+
+#~ msgid "Light freezing rain"
+#~ msgstr "Ασθενής βροχή Παγετός"
+
+#~ msgid "Moderate or Heavy freezing rain"
+#~ msgstr "Μέτρια ή δυνατή βροχή Παγετός"
+
+#~ msgid "Light sleet"
+#~ msgstr "Ελαφρά χιονόπτωση"
+
+#~ msgid "Moderate or heavy sleet"
+#~ msgstr "Μέτρια ή ισχυρή χιονόπτωση"
+
+#~ msgid "Patchy light snow"
+#~ msgstr "Κατά τόπους ελαφρά χιονόπτωση"
+
+#~ msgid "Light snow"
+#~ msgstr "Ασθενής χιονόπτωση"
+
+#~ msgid "Patchy moderate snow"
+#~ msgstr "Κατά τόπους ελαφρά χιονόπτωση"
+
+#~ msgid "Moderate snow"
+#~ msgstr "μέτρια χιονόπτωση"
+
+#~ msgid "Patchy heavy snow"
+#~ msgstr "Κατά τόπους ισχυρή χιονόπτωση"
+
+#~ msgid "Heavy snow"
+#~ msgstr "Ισχυρή χιονόπτωση"
+
+#~ msgid "Ice pellets"
+#~ msgstr "Χαλάζι"
+
+#~ msgid "Light rain shower"
+#~ msgstr "σύντομη νεροποντή"
+
+#~ msgid "Moderate or heavy rain shower"
+#~ msgstr "δυνατή βροχή"
+
+#~ msgid "Torrential rain shower"
+#~ msgstr "Έντονες βροχοπτώσεις"
+
+#~ msgid "Light sleet showers"
+#~ msgstr "Χιονόνερο"
+
+#~ msgid "Moderate or heavy sleet showers"
+#~ msgstr "Μέτρια ή βροχή χιονόνερο"
+
+#~ msgid "Light snow showers"
+#~ msgstr "Ελαφρά χιονόπτωση"
+
+#~ msgid "Moderate or heavy snow showers"
+#~ msgstr "Μέτρια ή βαριά χιονόπτωση"
+
+#~ msgid "Light showers of ice pellets"
+#~ msgstr "Κατά τόπους ελαφρύ χιονόνερο"
+
+#~ msgid "Moderate or heavy showers of ice pellets"
+#~ msgstr "Μέτριο ή δυνατό χιονόνερο"
+
+#~ msgid "Patchy light rain in area with thunder"
+#~ msgstr "Κατά τόπους ελαφρά βροχή - βροντή"
+
+#~ msgid "Moderate or heavy rain in area with thunder"
+#~ msgstr "Μερικές φορές δυνατή βροχή με βροντές"
+
+#~ msgid "Patchy light snow in area with thunder"
+#~ msgstr "Κατά τόπους ελαφρά χιονόπτωση - βροντή"
+
+#~ msgid "Moderate or heavy snow in area with thunder"
+#~ msgstr "Μερικές φορές πυκνό χιόνι με βροντές"
+
+#~ msgid "Today"
+#~ msgstr "Σήμερα"
+
+#~ msgid "Home Media"
+#~ msgstr "Αναπαραγωγή Πολυμέσων"
+
+#~ msgid "IPTV channels"
+#~ msgstr "IPTV-κανάλια"
+
+#~ msgid "DVB channels"
+#~ msgstr "DVB-κανάλια"
+
+#~ msgid "Favourites"
+#~ msgstr "Αγαπημένα"
+
+#~ msgid "Internet Browser"
+#~ msgstr "Internet Browser"
+
+#~ msgid "Internet bookmarks"
+#~ msgstr "Internet bookmarks"
+
+#~ msgid "YouTube"
+#~ msgstr "YouTube"
+
+#~ msgid "Picasa"
+#~ msgstr "Picasa"
+
+#~ msgid "Lines"
+#~ msgstr "Lines παιχνίδι"
+
+#~ msgid "Sudoku"
+#~ msgstr "Sudoku παιχνίδι"
+
+#~ msgid "Memory"
+#~ msgstr "Memory παιχνίδι"
+
+#~ msgid "Settings"
+#~ msgstr "Ρυθμίσεις"
+
+#~ msgid "Download manager"
+#~ msgstr "Διαχείριση λήψεων"
+
+#~ msgid "Internet services"
+#~ msgstr "Υπηρεσίες Διαδικτύου"
+
+#~ msgid "Online Media"
+#~ msgstr "Πολυμέσα από το διαδίκτυο"
+
+#, fuzzy
+#~ msgid "Apps"
+#~ msgstr "Apps"
+
+#~ msgid "Infomir Stalker"
+#~ msgstr "Infomir Stalker"
+
+#~ msgid "Menu Guide"
+#~ msgstr "Οδηγός Μενού"
+
+#~ msgid "Record manager"
+#~ msgstr "Διαχείριση Εγγραφών"
+
+#~ msgid "Weather"
+#~ msgstr "Καιρός"
+
+#~ msgid "Weather in"
+#~ msgstr "Καιρός "
+
+#~ msgid "The service is not available at the moment.<br /> Please try again later."
+#~ msgstr "Η υπηρεσία δεν είναι διαθέσιμη αυτή τη στιγμή.<br />Παρακαλώ δοκιμάστε ξανά αργότερα."
+
+#~ msgid "Setup Wizard"
+#~ msgstr "Οδηγός εγκατάστασης"
+
+#~ msgid "Select city"
+#~ msgstr "Επιλέξτε πόλη"
+
+#~ msgid "Weather is not found, select another city"
+#~ msgstr "Ο καιρός δεν έχει βρεθεί, επιλέξτε μια άλλη πόλη"
+
+#~ msgid "<br>Do you want to save location?"
+#~ msgstr "<br>Θέλετε να αποθηκεύσετε την τοποθεσία;"
+
+#~ msgid "Loading service..."
+#~ msgstr "Φόρτωση Υπηρεσίας ..."
+
+#~ msgid "Service unavailable"
+#~ msgstr "Η υπηρεσία δεν είναι διαθέσιμη"
+
+#~ msgid "Humidity"
+#~ msgstr "Υγρασία"
+
+#~ msgid "Wind"
+#~ msgstr "Άνεμος"
+
+#~ msgid "N"
+#~ msgstr "Β"
+
+#~ msgid "NE"
+#~ msgstr "Β/Α"
+
+#~ msgid "E"
+#~ msgstr "Α"
+
+#~ msgid "SE"
+#~ msgstr "Ν/Α"
+
+#~ msgid "S"
+#~ msgstr "Ν"
+
+#~ msgid "SW"
+#~ msgstr "Ν/Δ"
+
+#~ msgid "W"
+#~ msgstr "Δ"
+
+#~ msgid "NW"
+#~ msgstr "Β/Δ"
+
+#~ msgid "m/s"
+#~ msgstr "μίλια / δευτερόλεπτο"
+
+#~ msgid "miles/h"
+#~ msgstr "μίλια/ώρα"
+
+#~ msgid "Loading data. It may take some time."
+#~ msgstr "Φόρτωση δεδομένων. Μπορεί να πάρει κάποιο χρόνο."
+
+#~ msgid "English"
+#~ msgstr "Αγγλικά"
+
+#~ msgid "Russian"
+#~ msgstr "Ρωσική"
+
+#~ msgid "Ukrainian"
+#~ msgstr "Ουκρανικά"
+
+#~ msgid "Belarusian"
+#~ msgstr "Λευκορωσίας"
+
+#~ msgid "French"
+#~ msgstr "Γαλλικά"
+
+#~ msgid "German"
+#~ msgstr "Γερμανικά"
+
+#~ msgid "Italian"
+#~ msgstr "Ιταλικά"
+
+#~ msgid "Spanish"
+#~ msgstr "Ισπανικά"
+
+#~ msgid "Portuguese"
+#~ msgstr "Πορτογαλικά"
+
+#~ msgid "Swedish"
+#~ msgstr "Σουηδικά"
+
+#~ msgid "Norwegian"
+#~ msgstr "Νορβηγικά"
+
+#~ msgid "Dutch"
+#~ msgstr "Ολλανδικά"
+
+#~ msgid "Serbian"
+#~ msgstr "Σερβική"
+
+#~ msgid "Slovenian"
+#~ msgstr "Σλοβενίας"
+
+#~ msgid "Croatian"
+#~ msgstr "Κροατικά"
+
+#~ msgid "Albanian"
+#~ msgstr "Αλβανική"
+
+#~ msgid "Japanese"
+#~ msgstr "Ιαπωνικά"
+
+#~ msgid "Chinese"
+#~ msgstr "Кινέζικα"
+
+#~ msgid "Korean"
+#~ msgstr "Κορέας"
+
+#~ msgid "Vietnamese"
+#~ msgstr "Βιετνάμ"
+
+#~ msgid "Latvian"
+#~ msgstr "Λετονίας"
+
+#~ msgid "Lithuanian"
+#~ msgstr "Λιθουανικά"
+
+#~ msgid "Estonian"
+#~ msgstr "Εσθονίας"
+
+#~ msgid "Finnish"
+#~ msgstr "Φινλανδικά"
+
+#~ msgid "Hungarian"
+#~ msgstr "Ουγγρικά"
+
+#~ msgid "Czech"
+#~ msgstr "Τσεχία"
+
+#~ msgid "Slovak"
+#~ msgstr "Σλοβακίας"
+
+#~ msgid "Bulgarian"
+#~ msgstr "Βουλγαρικά"
+
+#~ msgid "Polish"
+#~ msgstr "Πολωνικά"
+
+#~ msgid "Romanian"
+#~ msgstr "Ρουμανικά"
+
+#~ msgid "Greek"
+#~ msgstr "Ελληνικά"
+
+#~ msgid "Hebrew"
+#~ msgstr "Εβραϊκά"
+
+#~ msgid "Turkish"
+#~ msgstr "Τουρκικά"
+
+#~ msgid "Danish"
+#~ msgstr "Δανίας"
+
+#~ msgid "Icelandic"
+#~ msgstr "Іσλανδική"
+
+#~ msgid "Hindi"
+#~ msgstr "Ινδικά"
+
+#~ msgid "Bengali"
+#~ msgstr "Βεγγαλικά"
+
+#~ msgid "Arabic"
+#~ msgstr "Αραβικά"
+
+#~ msgid "Armenian"
+#~ msgstr "Αρμενικά"
+
+#~ msgid "Georgian"
+#~ msgstr "Γεωργίας"
+
+#~ msgid "Azerbaijani"
+#~ msgstr "Αζερμπαϊτζάν"
+
+#~ msgid "Bashkir"
+#~ msgstr "Μπασκίρ"
+
+#~ msgid "Basque"
+#~ msgstr "Βάσκων"
+
+#~ msgid "Bosnian"
+#~ msgstr "Βοσνιακά"
+
+#~ msgid "Buriat"
+#~ msgstr "Μπουργιάτες"
+
+#~ msgid "Burmese"
+#~ msgstr "Βιρμανίας"
+
+#~ msgid "Chechen"
+#~ msgstr "Τσετσενίας"
+
+#~ msgid "Welsh"
+#~ msgstr "Ουαλία;"
+
+#~ msgid "Dzongkha"
+#~ msgstr "Ρωμαϊκή Dzongkha"
+
+#~ msgid "Esperanto"
+#~ msgstr "Εσπεράντο"
+
+#~ msgid "Persian"
+#~ msgstr "Пερσικά"
+
+#~ msgid "Irish"
+#~ msgstr "Іρλανδική"
+
+#~ msgid "Gujarati"
+#~ msgstr "Γκουτζαράτ"
+
+#~ msgid "Indonesian"
+#~ msgstr "Ινδονησίας"
+
+#~ msgid "Iranian"
+#~ msgstr "Ιράν"
+
+#~ msgid "Kashmiri"
+#~ msgstr "Κασμίρ"
+
+#~ msgid "Kazakh"
+#~ msgstr "Καζακστάν"
+
+#~ msgid "Kabardian"
+#~ msgstr "Καμπαρντίνο"
+
+#~ msgid "Komi"
+#~ msgstr "Κώμη"
+
+#~ msgid "Karelian"
+#~ msgstr "Καρελίας"
+
+#~ msgid "Kurdish"
+#~ msgstr "Кουρδική"
+
+#~ msgid "Marathi"
+#~ msgstr "Μαράθι"
+
+#~ msgid "Macedonian"
+#~ msgstr "ΠΓΔΜ"
+
+#~ msgid "Nepali"
+#~ msgstr "Νεπάλ"
+
+#~ msgid "Ossetian"
+#~ msgstr "Оσετίας"
+
+#~ msgid "Yakut"
+#~ msgstr "Γιακουτίας"
+
+#~ msgid "Somali"
+#~ msgstr "Σομαλίας"
+
+#~ msgid "Tamil"
+#~ msgstr "Ταμίλ"
+
+#~ msgid "Tatar"
+#~ msgstr "Тατάρ"
+
+#~ msgid "Telugu"
+#~ msgstr "Τελούγκου"
+
+#~ msgid "Tajik"
+#~ msgstr "Τατζικιστάν"
+
+#~ msgid "Thai"
+#~ msgstr "Ταϊλάνδης"
+
+#~ msgid "Turkmen"
+#~ msgstr "Τουρκμενιστάν"
+
+#~ msgid "Udmurt"
+#~ msgstr "Ουραλική"
+
+#~ msgid "Urdu"
+#~ msgstr "Ουρντού"
+
+#~ msgid "Uzbek"
+#~ msgstr "Ουζμπεκιστάν"
+
+#~ msgid "Kalmyk"
+#~ msgstr "Καλμίκ"
+
+#~ msgid "Tibetan"
+#~ msgstr "Θιβέτ"
+
+#~ msgid "Yiddish"
+#~ msgstr "Γίντις"
+
+#~ msgid "Enter your location..."
+#~ msgstr "Εισάγετε την τοποθεσία σας ..."
+
+#~ msgid "Exit"
+#~ msgstr "Έξοδος"
+
+#~ msgid "Receiving<br>weather<br>data"
+#~ msgstr "Λήψη<br>καιρού<br>δεδομένων"
+
+#~ msgid "No<br>weather<br>settings"
+#~ msgstr "Καιρού<br>δεν υπάρχουν<br>ρυθμίσεις"
+
+#~ msgid "Error"
+#~ msgstr "Σφάλμα"
+
+#~ msgid "Close"
+#~ msgstr "Κλείσιμο"
+
+#~ msgid "USB storage is connected"
+#~ msgstr "Το USB-αποθήκευσης είναι συνδεδεμένο"
+
+#~ msgid "Update manually"
+#~ msgstr "Ενημέρωση με μη αυτόματο τρόπο"
+
+#~ msgid "Save"
+#~ msgstr "Αποθήκευση"
+
+#~ msgid "Playback"
+#~ msgstr "Αναπαραγωγή"
+
+#~ msgid "Interface"
+#~ msgstr "Εμφάνιση"
+
+#~ msgid "Auto update software"
+#~ msgstr "Αυτόματη ενημέρωση λογισμικού"
+
+#~ msgid "TimeShift"
+#~ msgstr "TimeShift"
+
+#~ msgid "System settings"
+#~ msgstr "Ρυθμίσεις συστήματος"
+
+#~ msgid "DVB"
+#~ msgstr "DVB"
+
+#, fuzzy
+#~ msgid "Network Diagnostics"
+#~ msgstr "ID δικτύου:"
+
+#~ msgid "Speed test"
+#~ msgstr "Τest ταχύτητας"
+
+#~ msgid "None"
+#~ msgstr "Κανένας"
+
+#~ msgid "Some settings have been changed"
+#~ msgstr "Ορισμένες ρυθμίσεις έχουν αλλάξει"
+
+#~ msgid "Disabled"
+#~ msgstr "Απενεργοποίηση"
+
+#~ msgid "Primary audio track language"
+#~ msgstr "Κύρια γλώσσα ήχου"
+
+#~ msgid "Primary subtitle language"
+#~ msgstr "Κύρια γλώσσα υποτίτλων"
+
+#~ msgid "Main menu"
+#~ msgstr "Κύριο μενού"
+
+#~ msgid "1 minute"
+#~ msgstr "1 λεπτό"
+
+#~ msgid "3 minutes"
+#~ msgstr "3 λεπτά"
+
+#~ msgid "5 minutes"
+#~ msgstr "5 λεπτά"
+
+#~ msgid "10 minutes"
+#~ msgstr "10 λεπτά"
+
+#~ msgid "30 minutes"
+#~ msgstr "30 λεπτά"
+
+#~ msgid "Start page"
+#~ msgstr "Αρχική σελίδα"
+
+# имеется ввиду метрическая или английская система измерения скорости
+#~ msgid "Weather system format"
+#~ msgstr "Μορφή συστήματος καιρού"
+
+#~ msgid "Metric (Celsius, meters per second)"
+#~ msgstr "Μετρικό (Κελσίου, μέτρα/δευτερόλεπτο)"
+
+#~ msgid "English (Fahrenheit, miles per hour)"
+#~ msgstr "Αγγλικό (Φαρενάιτ, μίλια/ώρα)"
+
+#~ msgid "HDMI event reaction:"
+#~ msgstr "Αντίδραση με HDMI-συμβάν"
+
+#~ msgid "Enabled"
+#~ msgstr "Ενεργοποιήθηκε"
+
+#~ msgid "5 minutes delay"
+#~ msgstr "5 λεπτά καθυστέρηση"
+
+#~ msgid "10 minutes delay"
+#~ msgstr "10 λεπτά καθυστέρηση"
+
+#~ msgid "Screensaver interval"
+#~ msgstr "Διάστημα προφύλαξης οθόνης"
+
+#~ msgid "Screensaver"
+#~ msgstr "Προφύλαξη οθόνης"
+
+#, fuzzy
+#~ msgid "Clock during playing"
+#~ msgstr "Clock during playing"
+
+#~ msgid "LED brightness:"
+#~ msgstr "LED φωτεινότητα:"
+
+#~ msgid "LED brightness (standby):"
+#~ msgstr "LED φωτεινότητα (σε κατάσταση αναμονής):"
+
+#~ msgid "Auto update"
+#~ msgstr "Αυτόματη ενημέρωση"
+
+#~ msgid "With confirmation"
+#~ msgstr "Με επιβεβαίωση"
+
+#~ msgid "Update to beta versions"
+#~ msgstr "Ενημέρωση με beta (δοκιμάστηκες) εκδόσεις"
+
+#~ msgid "Use TimeShift"
+#~ msgstr "Χρήση TimeShift"
+
+#~ msgid "Icon enable"
+#~ msgstr "Ενεργοποίηση εικονίδιου"
+
+#~ msgid "File location"
+#~ msgstr "Θέση αρχείου"
+
+#~ msgid "Length"
+#~ msgstr "Μήκος"
+
+#~ msgid "minutes"
+#~ msgstr "λεπτά"
+
+#~ msgid "hour"
+#~ msgstr "ώρα"
+
+#~ msgid "2 hours"
+#~ msgstr "2 ώρες"
+
+#~ msgid "3 hours"
+#~ msgstr "3 ώρες"
+
+#~ msgid "5 hours"
+#~ msgstr "5 ώρες"
+
+#~ msgid "10 hours"
+#~ msgstr "10 ώρες"
+
+#~ msgid "20 hours"
+#~ msgstr "20 ώρες"
+
+#~ msgid "24 hours"
+#~ msgstr "24 ώρες"
+
+#~ msgid "Using buffer mode"
+#~ msgstr "Καθημερινή χρήση του ρυθμιστικού διαλύματος"
+
+#~ msgid "Cyclic record mode"
+#~ msgstr "Κυκλικές ξαναγράψιμο"
+
+#~ msgid "Stop when out of space"
+#~ msgstr "Σταματήσε μετά από το ορισμένο διάστημα"
+
+#~ msgid "On exit"
+#~ msgstr "Κατά την έξοδο"
+
+#~ msgid "Do not save buffer"
+#~ msgstr "Απορρίψε το ρυθμιστικό"
+
+#~ msgid "Save buffer"
+#~ msgstr "Κρατήσε το ρυθμιστικό"
+
+#~ msgid "Request to save"
+#~ msgstr "Ζητήσε αποθηκεύση"
+
+#~ msgid "Delay"
+#~ msgstr "Καθυστέρηση"
+
+#~ msgid "By pressing Pause button"
+#~ msgstr "Πατώντας το πλήκτρο \"Pause\""
+
+#~ msgid "sec."
+#~ msgstr "sec."
+
+#~ msgid "Available"
+#~ msgstr "Διαθέσιμο"
+
+#~ msgid "Not available"
+#~ msgstr "Δεν είναι διαθέσιμο"
+
+#~ msgid "Speed:"
+#~ msgstr "Ταχύτητα:"
+
+#~ msgid "Waiting"
+#~ msgstr "Αναμονή"
+
+#~ msgid "Testing"
+#~ msgstr "Δοκιμή"
+
+#~ msgid "Start"
+#~ msgstr "Έναρξη"
+
+#, fuzzy
+#~ msgid "IP Address"
+#~ msgstr "Διεύθυνση:"
+
+#, fuzzy
+#~ msgid "Attention"
+#~ msgstr "Προσοχή:"
+
+#, fuzzy
+#~ msgid "Run the test"
+#~ msgstr "Εκτελέστε τον Οδηγό εγκατάστασης"
+
+#~ msgid "Antenna with such signal type can't be powered up."
+#~ msgstr "Η κεραία με τέτοιο τύπο σήματος δεν μπορεί να τροφοδοτείται με ρεύμα."
+
+#~ msgid "Signal type"
+#~ msgstr "Τύπος σήματος"
+
+#~ msgid "Antenna power supply"
+#~ msgstr "Τροφοδοσία κεραίας"
+
+#~ msgid "Sorry, no firmware image at the moment"
+#~ msgstr "Λυπούμαστε, αλλά δεν υπάρχει εικόνα λογισμικού (firmware) αυτή τη στιγμή"
+
+#~ msgid "Software update"
+#~ msgstr "Ενημέρωση του λογισμικού"
+
+#~ msgid "Successfully saved"
+#~ msgstr "Αποθηκεύτηκαν με επιτυχία"
+
+#~ msgid "Device reboot is required to apply changes. Reboot now?"
+#~ msgstr "Οι αλλαγές θα τεθούν σε ισχύ μετά την επανεκκίνηση της συσκευής. Επανεκκίνηση τώρα;"
+
+#~ msgid "Welcome"
+#~ msgstr "Καλώς ήρθατε"
+
+#~ msgid "Select language"
+#~ msgstr "Επιλέξτε τη γλώσσα"
+
+#~ msgid "Use Up and Down, Left and Right buttons for selecting. Press OK button to confirm."
+#~ msgstr "Χρησιμοποιήστε τα πάνω, κάτω, αριστερά και δεξιά κουμπιά για την επιλογή σας. Πατήστε το κουμπί OK για επιβεβαίωση."
+
+#~ msgid "AuraHD Setup Wizard"
+#~ msgstr "AuraHD Οδηγός εγκατάστασης"
+
+#~ msgid "Use the SetUp Wizard to edit Internet access settings, select display options and set your time zone"
+#~ msgstr "Χρησιμοποιήσετε τον οδηγό ρυθμίσεων για να επεξεργαστείτε τις ρυθμίσεις πρόσβασης στο Internet, επιλέξτε τις επιλογές εμφάνισης και ορίστε τη ζώνη ώρας σας."
+
+#~ msgid "Run the Setup Wizard"
+#~ msgstr "Εκτελέστε τον Οδηγό εγκατάστασης"
+
+#~ msgid "Set up manually later"
+#~ msgstr "Ρυθμίστε με το χειροκίνητα αργότερα"
+
+#~ msgid "Step 1: Connecting to your TV"
+#~ msgstr "Βήμα 1: Σύνδεση με την τηλεόραση σας"
+
+#~ msgid "For optimal display settings, specify your TV model and AuraHD connection type. Please, read the TV user guide before you do it."
+#~ msgstr "Για βέλτιστες ρυθμίσεις της οθόνης, καθορίστε το μοντέλο της τηλεόρασής σας και AuraHD τύπο σύνδεσης. Παρακαλούμε, διαβάστε το εγχειρίδιο χρήσης της τηλεόρασής σας πριν το κάνετε."
+
+#~ msgid "RCA cable"
+#~ msgstr "RCA καλώδιο"
+
+#~ msgid "HDMI cable"
+#~ msgstr "HDMI καλώδιο"
+
+#~ msgid "Attention:"
+#~ msgstr "Προσοχή:"
+
+#~ msgid "For TVs with the HDMI interface, we recommend to use an HDMI cable for connecting AuraHD to maximize image quality (HD or Full HD)."
+#~ msgstr "Για τηλεοράσεις με διεπαφή HDMI, σας συνιστούμε να χρησιμοποιήσετε ένα καλώδιο HDMI για σύνδεση AuraHD για μεγιστοποίηση της ποιότητας εικόνας (HD ή Full HD)."
+
+#~ msgid "Step 2: Connecting AuraHD to LAN and/or to the Internet"
+#~ msgstr "Βήμα 2: Σύνδεση AuraHD σε δίκτυο ή / και στο Διαδίκτυο"
+
+#~ msgid "Active AuraHD Internet connection gives you access to web resources from your TV and also makes it possible to view media files located on your computer or local network. Select the connection type:"
+#~ msgstr "Ενεργή AuraHD σύνδεση στο Internet σας δίνει πρόσβαση στους δικτυακούς πόρους από την τηλεόρασή σας και επίσης καθιστά δυνατό να δείτε τα αρχεία πολυμέσων που βρίσκονται στον υπολογιστή σας ή στο τοπικό σας δίκτυο. Επιλέξτε τον τύπο σύνδεσης:"
+
+#~ msgid "Wired"
+#~ msgstr "Ενσύρματο"
+
+#~ msgid "Wireless"
+#~ msgstr "Ασύρματο"
+
+#~ msgid "Skip"
+#~ msgstr "Παράκαμψη"
+
+#~ msgid "Step 2.3: Checking wireless network and Internet connection"
+#~ msgstr "Βήμα 2.3: Έλεγχος ασύρματου δίκτυου και σύνδεση στο Internet"
+
+#~ msgid "Step 2.1: Checking local network and Internet connection"
+#~ msgstr "Βήμα 2.1: Έλεγχος τοπικού δικτύου και σύνδεση στο Internet"
+
+#~ msgid "Checking wireless network"
+#~ msgstr "Έλεγχος ασύρματου δικτύου"
+
+#~ msgid "Checking local network connection"
+#~ msgstr "Έλεγχος τοπικής σύνδεσης δικτύου"
+
+#~ msgid "Checking Internet connection"
+#~ msgstr "Έλεγχος σύνδεσης στο Internet"
+
+#~ msgid "Information"
+#~ msgstr "Πληροφορίες"
+
+#~ msgid "Refresh"
+#~ msgstr "Ανανέωση"
+
+#~ msgid "To access additional/advanced settings in the Main Menu, press the SET/SETUP button on the remote control."
+#~ msgstr "Για να αποκτήσετε πρόσβαση σε πρόσθετες / προηγμένες ρυθμίσεις στο Κύριο μενού, πατήστε το πλήκτρο SET / SETUP στο τηλεχειριστήριο."
+
+#~ msgid "Step 2.1: Connecting to the Wireless LAN"
+#~ msgstr "Βήμα 2.1: Σύνδεση στο ασύρματο LAN (Δίκτυο)"
+
+#~ msgid "Select LAN"
+#~ msgstr "Επιλέξτε LAN (Δίκτυο)"
+
+#~ msgid "Select preferred wireless LAN or set it up manually"
+#~ msgstr "Επιλέξτε το προτιμώμενο ασύρματο LAN ή φτιάξτε το με το χέρι"
+
+#~ msgid "Manual settings"
+#~ msgstr "Χειροκίνητες ρυθμίσεις"
+
+#~ msgid "Step 2.2: Password"
+#~ msgstr "Βήμα 2.2: Κωδικός πρόσβασης"
+
+#~ msgid "Next"
+#~ msgstr "Επόμενο"
+
+#~ msgid "Keyboard"
+#~ msgstr "Πληκτρολόγιο"
+
+#~ msgid "Step 2.2: Advanced settings"
+#~ msgstr "Βήμα 2.2: Ρυθμίσεις για προχωρημένους"
+
+#~ msgid "Authentication:"
+#~ msgstr "Έλεγχος ταυτότητας:"
+
+# menu item
+#~ msgid "Open"
+#~ msgstr "Ανοιχτό"
+
+#~ msgid "Shared key"
+#~ msgstr "Κοινόχρηστο κλειδί"
+
+#~ msgid "Auto Open/Shared key"
+#~ msgstr "Αυτόματο Ανοιχτό/Κοινόχρηστο κλειδί"
+
+#~ msgid "Encryption:"
+#~ msgstr "Κρυπτογράφηση:"
+
+#~ msgid "SSID (network):"
+#~ msgstr "SSID (δίκτυο):"
+
+#~ msgid "Select/Next"
+#~ msgstr "Επιλέξτε / Επόμενο"
+
+#~ msgid "Step 3: Weather forecast"
+#~ msgstr "Βήμα 3: Πρόγνωση καιρού"
+
+#~ msgid "Weather forecast"
+#~ msgstr "Πρόγνωση καιρού"
+
+#~ msgid "Select your city and press OK"
+#~ msgstr "Επιλέξτε την πόλη σας και πατήστε OK"
+
+#~ msgid "Step 4: Time zone"
+#~ msgstr "Βήμα 4: Ζώνη ώρας"
+
+#~ msgid "Select your time zone"
+#~ msgstr "Επιλέξτε τη ζώνη ώρας σας"
+
+#~ msgid "Setup completed"
+#~ msgstr "Η ρύθμιση ολοκληρώθηκε"
+
+#~ msgid "Thank you!"
+#~ msgstr "Σας ευχαριστούμε!"
+
+#~ msgid "The Setup Wizard is complete. All selected settings will be stored in the device’s memory. To edit the system settings any time, press SET or SETUP on your remote control and open the Main Menu."
+#~ msgstr "Ο οδηγός εγκατάστασης έχει ολοκληρωθεί. Όλες οι επιλεγμένες ρυθμίσεις θα αποθηκευτούν στη μνήμη της συσκευής. Για να επεξεργαστείτε τις ρυθμίσεις του συστήματος οποιαδήποτε στιγμή, πατήστε το πλήκτρο SET ή SETUP στο τηλεχειριστήριο σας για να ανοίξετε το Κύριο μενού."
+
+#~ msgid "Terms of use"
+#~ msgstr "Όροι χρήσης"
+
+#~ msgid "&nbsp;&nbsp;Dear user, please read the terms and conditions for services integrated into AuraHD  device.<br />&nbsp;&nbsp;The AuraHD network media player is directly intended for digital content playback from the Internet (media files including streaming video), LANs and removable media including flash memory connected via USB port. The manufacturer is not responsible for quality and stability of the web services integrated into the device's software. The manufacturer also reserves the right to make occasional changes to the device's software and interface without prior notice in order to modify or improve its function.<br />&nbsp;&nbsp;Services by third parties offered in the AuraHD’s menu (Online Cinema, web services) are provided \"as is\" without warranty of any kind. The manufacturer cannot guarantee accuracy, timeliness, validity, completeness, compliance with any standards and laws or supplier's declaration of the service characteristics. The services are transferred by third parties via networks and data transfer means beyond the control of the device’s manufacturer.<br />&nbsp;&nbsp;If you do not agree to these terms and conditions for services integrated into the AuraHD device, please stop using it and return the device to the store where it was purchased within 14 days of purchase."
+#~ msgstr "&nbsp;&nbsp;Αγαπητέ χρήστη, παρακαλούμε να διαβάσετε τους όρους και τις προϋποθέσεις για τις υπηρεσίες που ενσωματώνονται στη συσκευή AuraHD.<br />&nbsp;&nbsp;Το δίκτυο AuraHD media player προορίζεται άμεσα για την αναπαραγωγή ψηφιακού περιεχομένου από το Internet (αρχεία πολυμέσων, συμπεριλαμβανομένων βίντεο συνεχούς ροής), τοπικά δίκτυα και τα μετακινούμενα μέσα συμπεριλαμβανομένης της μνήμης flash που συνδέεται μέσω θύρας USB. Ο κατασκευαστής δεν είναι υπεύθυνος για την ποιότητα και τη σταθερότητα των υπηρεσιών web που ενσωματώνονται στο λογισμικό της συσκευής. Ο κατασκευαστής διατηρεί επίσης το δικαίωμα να κάνει περιστασιακές αλλαγές στο λογισμικό της συσκευής και διασύνδεσης, χωρίς προηγούμενη ειδοποίηση, προκειμένου να τροποποιήσουν ή να βελτιώσουν τη λειτουργία της.<br />&nbsp;&nbsp;Οι υπηρεσίες από τρίτους που προσφέρονται στο μενού του AuraHD (Online Cinema, υπηρεσίες web) παρέχεται όπως είναι χωρίς κανενός είδους εγγύηση. Ο κατασκευαστής δεν μπορεί να εγγυηθεί την ακρίβεια, την επικαιρότητα, την εγκυρότητα, την πληρότητα, τη συμμόρφωση με όλα τα πρότυπα και τους νόμους ή δήλωση του προμηθευτή από τα χαρακτηριστικά των υπηρεσιών. Οι υπηρεσίες που μεταβιβάζονται από τρίτους μέσω δικτύων και η μεταφορά δεδομένων σημαίνει πέρα από τον έλεγχο του κατασκευαστή της συσκευής. <br />&nbsp;&nbsp;Εάν δεν συμφωνείτε με αυτούς τους όρους και τις προϋποθέσεις για την παροχή υπηρεσιών που είναι ενσωματωμένα στη συσκευή AuraHD, παρακαλούμε σταματήστε τη χρήση του και να επιστρέψετε τη συσκευή στο κατάστημα από όπου το αγοράσατε εντός 14 ημερών από την αγορά."
+
+#~ msgid "Continue"
+#~ msgstr "Συνέχεια"
+
+#~ msgid "Unfortunately, the Setup Wizard was unable to connect your device to LAN and Internet.<br />Please, check general connection terms:<br /> - the Ethernet cable connected to the appropriate slot of the device;<br /> - Wi-Fi status.<br />Try to connect again."
+#~ msgstr "Δυστυχώς, ο οδηγός εγκατάστασης δεν ήταν σε θέση να συνδέσει τη συσκευή σας σε δίκτυο LAN και στο Internet.<br />Παρακαλούμε, ελέγξτε όρους σύνδεσης:<br /> - το καλώδιο Ethernet είναι συνδεδεμένο στην κατάλληλη υποδοχή της συσκευής;<br /> - Wi-Fi κατάσταση.<br />Προσπαθήστε να συνδεθείτε ξανά."
+
+#~ msgid "Network connection successful. No Internet connection.<br />Possibly, no access to external services.<br />Check your Internet connection status."
+#~ msgstr "Επιτυχημένη σύνδεση στο δίκτυο. Αλλά δεν υπάρχει σύνδεση στο Internet.<br />Ενδεχομένως, δεν έχετε πρόσβαση σε εξωτερικές υπηρεσίες.<br />Ελέγξτε την κατάσταση της σύνδεσής σας στο Internet."
+
+#~ msgid "Wireless network connection successful. Internet connection available."
+#~ msgstr "Επιτυχημένη σύνδεση ασύρματου δικτύου. Η σύνδεση στο Διαδίκτυο είναι διαθέσιμη."
+
+#~ msgid "Network connection successful. Internet connection available."
+#~ msgstr "Επιτυχημένη σύνδεση δικτύου. Σύνδεση στο Διαδίκτυο."
+
+#~ msgid "Notice"
+#~ msgstr "Ειδοποίηση"
+
+#~ msgid "Wi-Fi adapter not connected"
+#~ msgstr "Ο Wi-Fi προσαρμογέας δεν είναι συνδεδεμένος"
+
+#~ msgid "Now"
+#~ msgstr "Τώρα"
+
+#~ msgid "Frequency"
+#~ msgstr "Συχνότητα"
+
+#~ msgid "Contains the list of items which are corresponding to the given filter request"
+#~ msgstr "Περιέχει τον κατάλογο των αντικειμένων που αντιστοιχούν στον συγκεκριμένο αίτημα του φίλτρου"
+
+#~ msgid "Unknown type of selected item"
+#~ msgstr "Άγνωστος τύπος του επιλεγμένου στοιχείου"
+
+#~ msgid "Total found"
+#~ msgstr "Συνολικά βρέθηκαν"
+
+#~ msgid "Last found"
+#~ msgstr "Τελευταία βρέθηκαν"
+
+#~ msgid "Operations"
+#~ msgstr "Λειτουργίες"
+
+#~ msgid "Confirm deletion"
+#~ msgstr "Επιβεβαιώστε τη διαγραφή"
+
+#~ msgid "all entries selected?"
+#~ msgstr "επιλέγονται όλες οι εγγραφές;"
+
+#~ msgid "current entry?"
+#~ msgstr "στην τρέχουσα καταχώρηση;"
+
+#~ msgid "Yes"
+#~ msgstr "Ναι"
+
+# menu item
+#~ msgid "Select all"
+#~ msgstr "Επιλογή όλων"
+
+# menu item
+#~ msgid "Deselect all"
+#~ msgstr "Αποεπιλογή όλων"
+
+# menu item
+#~ msgid "Invert selection"
+#~ msgstr "Αντιστροφή της επιλογής"
+
+# menu item
+#~ msgid "Delete"
+#~ msgstr "Διαγραφή"
+
+#~ msgid "DVB menu"
+#~ msgstr "DVB-μενού"
+
+#~ msgid "all entries?"
+#~ msgstr "όλες οι θέσεις;"
+
+#~ msgid "EPG"
+#~ msgstr "EPG"
+
+#~ msgid "EPG grid "
+#~ msgstr "Πλέγμα EPG"
+
+#~ msgid "Auto scan"
+#~ msgstr "Αυτόματη σάρωση"
+
+#~ msgid "Manual scan"
+#~ msgstr "Χειροκίνητη σάρωση"
+
+#~ msgid "Clear list"
+#~ msgstr "Εκκαθάριση λίστας"
+
+#~ msgid "Enter name..."
+#~ msgstr "Πληκτρολογήστε το όνομα ..."
+
+#~ msgid "Menu"
+#~ msgstr "Μενού"
+
+# menu item
+#~ msgid "Select"
+#~ msgstr "Επιλογή"
+
+#~ msgid "Add to<br>favourites"
+#~ msgstr "Προσθήκη στα<br>αγαπημένα"
+
+#~ msgid "Remove from<br>favourites"
+#~ msgstr "Αφαιρέση από τα<br>αγαπημένα"
+
+#~ msgid "No DVB channels"
+#~ msgstr "Δεν βρέθηκαν κανάλια DVB"
+
+#~ msgid "Start auto scan?"
+#~ msgstr "Έναρξη αυτόματης σάρωσης;"
+
+#~ msgid "Scanning"
+#~ msgstr "Σάρωση"
+
+#~ msgid "Stop scanning?"
+#~ msgstr "Διακοπή σάρωσης;"
+
+#~ msgid "Stop"
+#~ msgstr "Διακοπή"
+
+#~ msgid "DVB channel list was changed"
+#~ msgstr "Η λίστα καναλιών DVB άλλαξε"
+
+#~ msgid "Save updated DVB channel list?"
+#~ msgstr "Αποθήκευση της ενημερωμένης λίστας καναλιών DVB;"
+
+#~ msgid "Exit without saving"
+#~ msgstr "Έξοδος χωρίς αποθήκευση"
+
+#~ msgid "The list of favourite records has changed"
+#~ msgstr "Η λίστα των αγαπημένων εγγραφών έχει αλλάξει"
+
+#~ msgid "Save updated list of favourite records?"
+#~ msgstr "Αποθήκευση του ενημερωμένου καταλόγου των αγαπημένων εγγραφών;"
+
+#~ msgid "Recording channel"
+#~ msgstr "Εγγραφή καναλιού"
+
+#~ msgid "Group name"
+#~ msgstr "Όνομα ομάδας"
+
+#~ msgid "EPG is missing"
+#~ msgstr "Ο EPG λείπει"
+
+#~ msgid "Duration:"
+#~ msgstr "Διάρκεια:"
+
+# menu item
+#~ msgid "Open selected"
+#~ msgstr "Άνοιγμα επιλεγμένου"
+
+# menu item
+#~ msgid "Mount"
+#~ msgstr "Προσάρτηση"
+
+# menu item
+#~ msgid "Mount share"
+#~ msgstr "Ενεργοποίηση του πόρου"
+
+# menu item
+#~ msgid "Unmount share"
+#~ msgstr "Απενεργοποίηση του πόρου"
+
+# menu item
+#~ msgid "Edit share"
+#~ msgstr "Επεξεργασία πόρου"
+
+# menu item
+#~ msgid "Add to favourites"
+#~ msgstr "Προσθήκη στα αγαπημένα"
+
+# menu item
+#~ msgid "Remove from favourites"
+#~ msgstr "Αφαίρεση από τα αγαπημένα"
+
+# menu item
+#~ msgid "Cut"
+#~ msgstr "Αποκοπή"
+
+# menu item
+#~ msgid "Copy"
+#~ msgstr "Αντιγραφή"
+
+# menu item
+#~ msgid "Paste"
+#~ msgstr "Επικόληση"
+
+#~ msgid "View"
+#~ msgstr "Προβολή"
+
+# menu item
+#~ msgid "All"
+#~ msgstr "Όλα"
+
+# menu item
+#~ msgid "Folders"
+#~ msgstr "Φάκελοι"
+
+# menu item
+#~ msgid "Audio"
+#~ msgstr "Ήχος"
+
+#~ msgid "Video"
+#~ msgstr "Βίντεο"
+
+#~ msgid "Images"
+#~ msgstr "Εικόνες"
+
+# menu item
+#~ msgid "Playlists"
+#~ msgstr "Λίστες αναπαραγωγής"
+
+#~ msgid "ISO"
+#~ msgstr "ISO"
+
+#~ msgid "Subtitles"
+#~ msgstr "Υπότιτλοι"
+
+#~ msgid "Streams"
+#~ msgstr "Ροές (Streams)"
+
+#~ msgid "Sort"
+#~ msgstr "Ταξινόμηση"
+
+# menu item
+#~ msgid "By name"
+#~ msgstr "Με βάση το όνομα"
+
+# menu item
+#~ msgid "By size"
+#~ msgstr "Με βάση το μέγεθος"
+
+# menu item
+#~ msgid "By type"
+#~ msgstr "Με βάση τον τύπο"
+
+# menu item
+#~ msgid "By extension"
+#~ msgstr "Με βάση την επέκταση"
+
+#~ msgid "Tools"
+#~ msgstr "Εργαλεία"
+
+#~ msgid "Connect NFS/SMB"
+#~ msgstr "Σύνδεση NFS/SMB"
+
+#~ msgid "Disconnect NFS/SMB"
+#~ msgstr "Αποσύνδεση NFS/SMB"
+
+# menu item
+#~ msgid "Disk formatting"
+#~ msgstr "Μορφοποίηση δίσκου"
+
+#~ msgid "Enter path or file name..."
+#~ msgstr "Εισάγετε τη διαδρομή ή το όνομα αρχείου ..."
+
+#~ msgid "Show<br>info panel"
+#~ msgstr "Εμφάνιση<br />πληροφοριών"
+
+#~ msgid "Items:"
+#~ msgstr "Είδη:"
+
+#~ msgid "Selected:"
+#~ msgstr "Επιλεγμένα:"
+
+#~ msgid "Hide<br>info panel"
+#~ msgstr "Απόκρυψη<br />πληροφοριών"
+
+#~ msgid "Warning!"
+#~ msgstr "Προσοχή!"
+
+#~ msgid "\"Storage read only access mode\" is enabled in System Settings"
+#~ msgstr "Η λειτουργία αποθήκευσης μόνο για ανάγνωση\"είναι ενεργοποιημένη στις ρυθμίσεις συστήματος"
+
+#~ msgid "Deletion error"
+#~ msgstr "Σφάλμα διαγραφής"
+
+#~ msgid "Unable to remove all selected items"
+#~ msgstr "Δεν είναι δυνατή η αφαίρεση όλων των επιλεγμένων στοιχείων"
+
+#~ msgid "Contains a list of items corresponding to the given filter request"
+#~ msgstr "Περιέχει μια λίστα των αντικειμένων που αντιστοιχούν στο συγκεκριμένο αίτημα του φίλτρου"
+
+#~ msgid "LAN supports SMB/CIFS protocol, contains available working groups"
+#~ msgstr "Το LAN υποστηρίζει το πρωτόκολλο SMB / CIFS, περιέχει τις διαθέσιμες ενεργές ομάδες"
+
+#~ msgid "List of working group computers"
+#~ msgstr "Λίστα των ενεργών υπολογιστών ομάδας"
+
+#~ msgid "List of available folders for every computer"
+#~ msgstr "Λίστα με τους διαθέσιμους φακέλους για κάθε υπολογιστή"
+
+#~ msgid "Access to folders and files of selected network folder"
+#~ msgstr "Πρόσβαση σε φακέλους και αρχεία του επιλεγμένου φακέλου δικτύου"
+
+#~ msgid "Folder:"
+#~ msgstr "Φάκελος:"
+
+#~ msgid "Address:"
+#~ msgstr "Διεύθυνση:"
+
+#~ msgid "Type:"
+#~ msgstr "Τύπος:"
+
+#~ msgid "Plug&Play, a set of protocols for seamless connection of network devices, home and corporate. Easy and user-friendly access to media files in LAN."
+#~ msgstr "Universal Plug and Play - αυτόματη διαμόρφωση των συσκευών του δικτύου, τόσο στο εσωτερικό όσο και στο εταιρικό περιβάλλον. Παρέχει εύκολη και άνετη πρόσβαση σε αρχεία πολυμέσων στο τοπικό δίκτυο."
+
+#~ msgid "Access to list of Timeshift and PVR records collected from all available at the moment storages. All records are grouped by the channel names."
+#~ msgstr "Πρόσβαση στη λίστα Timeshift και στις PVR εγγραφές που συλλέγονται από όλα τα διαθέσιμα στις αποθηκευτικά μέσα. Όλες οι εγγραφές ομαδοποιούνται από τα ονόματα των καναλιών."
+
+#~ msgid "Opens a list of Timeshift and PVR records sorted by record date"
+#~ msgstr "Ανοίγει μια λίστα με τα αρχεία Timeshift και τις PVR εγγραφές ταξινομημένες κατά ημερομηνία εγγραφής"
+
+#~ msgid "Access to list of Timeshift and PVR records sorted by record time"
+#~ msgstr "Πρόσβαση στη λίστα Timeshift και τις PVR εγγραφές ταξινομημένες κατά χρόνο εγγραφής"
+
+#~ msgid "Opens a full editable list of favourite records"
+#~ msgstr "Ανοίγει μια πλήρως επεξεργάσιμη λίστα με τις αγαπημένες εγγραφές"
+
+#~ msgid "Saved items:"
+#~ msgstr "Αποθηκευμένα στοιχεία:"
+
+#~ msgid "Unsaved changes:"
+#~ msgstr "Μη αποθηκευμένες αλλαγές:"
+
+#~ msgid "yes"
+#~ msgstr "ναι"
+
+#~ msgid "no"
+#~ msgstr "όχι"
+
+#~ msgid "Access to folders and files"
+#~ msgstr "Πρόσβαση σε φακέλους και αρχεία"
+
+#~ msgid "Name:"
+#~ msgstr "Όνομα:"
+
+#~ msgid "Size:"
+#~ msgstr "Μέγεθος:"
+
+#~ msgid "Performer:"
+#~ msgstr "Ερμηνευτής:"
+
+#~ msgid "File:"
+#~ msgstr "Αρχείο:"
+
+#~ msgid "List of files or network streams to play"
+#~ msgstr "Κατάλογος των αρχείων ή ροώνδικτύου (streams) για αναπαραγωγή"
+
+#~ msgid "Text file with media subtitles or other data"
+#~ msgstr "Αρχείο κειμένου με πολυμέσα, υπότιτλους ή άλλα δεδομένα"
+
+#~ msgid "List of album files with additional info"
+#~ msgstr "Λίστα αρχείων άλμπουμ με περισσότερες πληροφορίες"
+
+#~ msgid "Song by:"
+#~ msgstr "Τραγούδι από:"
+
+#~ msgid "Genre:"
+#~ msgstr "Είδος:"
+
+#~ msgid "Date:"
+#~ msgstr "Ημερομηνία:"
+
+#~ msgid "Place:"
+#~ msgstr "Τόπος:"
+
+#~ msgid "Comment:"
+#~ msgstr "Σχόλιο:"
+
+#~ msgid "Files:"
+#~ msgstr "Αρχεία:"
+
+#~ msgid "from"
+#~ msgstr "από"
+
+#~ msgid "Read only:"
+#~ msgstr "Μόνο για ανάγνωση"
+
+#, fuzzy
+#~ msgid "Record status"
+#~ msgstr "Εγγραφές"
+
+# menu item
+#~ msgid "Make group"
+#~ msgstr "Κάνετε ομάδα"
+
+# menu item
+#~ msgid "Create group"
+#~ msgstr "Δημιουργία ομάδας"
+
+#~ msgid "Edit"
+#~ msgstr "Επεξεργασία"
+
+# menu item
+#~ msgid "Save changes"
+#~ msgstr "Αποθήκευση τις αλλαγών"
+
+#~ msgid "Add to group"
+#~ msgstr "Προσθήκη σε ομάδα"
+
+# menu item
+#~ msgid "Add operator's IPTV list"
+#~ msgstr "Προσθήκη σε λίστα IPTV ενός operator"
+
+# menu item
+#~ msgid "Add IPTV list"
+#~ msgstr "Προσθήκη λίστας IPTV"
+
+# menu item
+#~ msgid "Add IPTV channel"
+#~ msgstr "Προσθήκη καναλιού IPTV"
+
+#~ msgid "Enter channel or group name..."
+#~ msgstr "Πληκτρολογήστε το κανάλι ή το όνομα της ομάδας ..."
+
+#~ msgid "Record"
+#~ msgstr "Εγγραφή"
+
+#~ msgid "No IPTV channels"
+#~ msgstr "Δεν υπάρχουν κανάλια IPTV"
+
+#~ msgid "IPTV channel list was changed"
+#~ msgstr "Η λίστα καναλιών IPTV άλλαξε"
+
+#~ msgid "Save updated IPTV channel list?"
+#~ msgstr "Αποθήκευση της ενημερωμένης λίστας καναλιών IPTV;"
+
+#~ msgid "Confirmation"
+#~ msgstr "Επιβεβαίωση"
+
+#~ msgid "Server address:"
+#~ msgstr "Διεύθυνση διακομιστή (Server):"
+
+#~ msgid "Server folder:"
+#~ msgstr "Φάκελος διακομιστή (Server):"
+
+#~ msgid "Local folder:"
+#~ msgstr "Τοπικός φάκελος:"
+
+#~ msgid "Connection type:"
+#~ msgstr "Τύπος σύνδεσης:"
+
+#~ msgid "Connect"
+#~ msgstr "Σύνδεση"
+
+#~ msgid "Wrong connection parameters"
+#~ msgstr "Λάθος παράμετροι σύνδεσης"
+
+#~ msgid "Local folder with this name already exists"
+#~ msgstr "Ο τοπικός φάκελος με αυτό το όνομα υπάρχει ήδη"
+
+#~ msgid "Network folder successfully mounted"
+#~ msgstr "Ο φάκελος δικτύου ολοκληρώθηκε με επιτυχία"
+
+#~ msgid "Resource already connected"
+#~ msgstr "Ο πόρος έχει ήδη συνδεθεί"
+
+#~ msgid "Unable to connect to the resource<br>with the given parameters"
+#~ msgstr "Αποτυχία σύνδεσης<br>με τις δεδομένες παραμέτρους"
+
+#~ msgid "Edit network folder"
+#~ msgstr "Επεξεργασία φακέλου δικτύου"
+
+#~ msgid "Connect network folder"
+#~ msgstr "Συνδέστε το φάκελο δικτύου"
+
+#~ msgid "Disconnect"
+#~ msgstr "Αποσύνδεση"
+
+#~ msgid "Network folder successfully unmounted"
+#~ msgstr "Ο φάκελος δικτύου έχει αποπροσαρτηθεί με επιτυχία"
+
+#~ msgid "Disconnect network folder"
+#~ msgstr "Αποσύνδεση του φακέλου δικτύου"
+
+#~ msgid "File system:"
+#~ msgstr "Σύστημα αρχείων:"
+
+#~ msgid "Partition:"
+#~ msgstr "Partition:"
+
+#~ msgid "Formatting"
+#~ msgstr "Μορφοποίηση"
+
+#~ msgid "Formatting completed"
+#~ msgstr "Η μορφοποίηση ολοκληρώθηκε"
+
+#~ msgid "Formatting error"
+#~ msgstr "Σφάλμα μορφοποίησης"
+
+#~ msgid "Formatting impossible.<br>Make sure the device is not used in:<br>\"Download manager\", \"Record manager\"<br>or content playback."
+#~ msgstr "Δεν μπορεί να γίνει διαμόρφωση.<br>Βεβαιωθείτε ότι η συσκευή δεν χρησιμοποιείται σε:<br>\"Διαχειριστη ληψεων \", \"Διαχειριστή εγγραφών \"<br>ή στην αναπαραγωγή περιεχομένου."
+
+#~ msgid "Formatting impossible"
+#~ msgstr "Δεν μπορεί να γίνει διαμόρφωση"
+
+#~ msgid "Start formatting"
+#~ msgstr "Έναρξη μορφοποίησης"
+
+#~ msgid "Selected file system supports disks up to 320GB"
+#~ msgstr "Το επιλεγμένο σύστημα αρχείων υποστηρίζει δίσκους μέχρι 320GB"
+
+#, fuzzy
+#~ msgid "<b style=\"color:red\">Warning: </b>after formatting all data in the<br> selected section will be deleted."
+#~ msgstr "<b style='color:red'>Προειδοποίηση: </b>μετά τη μορφοποίηση όλα τα δεδομένα στο<br> επιλεγμένο μέσο θα διαγραφούν."
+
+#~ msgid "See playlist content"
+#~ msgstr "Δείτε το περιεχόμενο της λίστας αναπαραγωγής"
+
+#~ msgid "Start playing all records"
+#~ msgstr "Ξεκινήστε να παίζετε όλες τις εγγραφές "
+
+#~ msgid "Add all records to IPTV channels"
+#~ msgstr "Προσθέστε όλες τις εγγραφές στα κανάλια IPTV"
+
+#~ msgid "File encoding:"
+#~ msgstr "Κωδικοποίηση αρχείου:"
+
+#~ msgid "Open playlist"
+#~ msgstr "Άνοιγμα της λίστας αναπαραγωγής"
+
+#~ msgid "Encoding:"
+#~ msgstr "Κωδικοποίηση:"
+
+#~ msgid "Accessing subtitle file"
+#~ msgstr "Πρόσβαση στο αρχείο υποτίτλων"
+
+#~ msgid "Connection"
+#~ msgstr "Σύνδεση"
+
+#~ msgid "Group:"
+#~ msgstr "Ομάδα:"
+
+#~ msgid "or create and use a new group:"
+#~ msgstr "ή δημιουργήστε και  χρησιμοποιήστε μια νέα ομάδα:"
+
+#~ msgid "Move"
+#~ msgstr "Μετακίνηση"
+
+#~ msgid "No storage device"
+#~ msgstr "Δεν βρέθηκε καμία συσκευή αποθήκευσης"
+
+#~ msgid "No channels"
+#~ msgstr "Δεν υπάρχουν κανάλια"
+
+#~ msgid "Start recording:"
+#~ msgstr "Έναρξη εγγραφής:"
+
+#~ msgid "End recording:"
+#~ msgstr "Ολοκλήρωση της εγγραφής:"
+
+#~ msgid "Record length:"
+#~ msgstr "Μήκος Εγγραφής:"
+
+#~ msgid "Channel:"
+#~ msgstr "Κανάλι:"
+
+#~ msgid "Record name:"
+#~ msgstr "Όνομα εγγραφής:"
+
+#~ msgid "Record in:"
+#~ msgstr "Εγγραφή σε:"
+
+#~ msgid "Free space:"
+#~ msgstr "Ελεύθερος χώρος:"
+
+#~ msgid "GB"
+#~ msgstr "GB"
+
+#~ msgid "of"
+#~ msgstr "από"
+
+#~ msgid "Channel list is empty"
+#~ msgstr "Η λίστα καναλιών είναι άδεια"
+
+#~ msgid "Error. Too many active records."
+#~ msgstr "Σφάλμα. Πάρα πολλές ενεργές εγγραφές."
+
+#~ msgid "Not enough disk space"
+#~ msgstr "Δεν υπάρχει αρκετός χώρος στο δίσκο"
+
+#~ msgid "Incorrect time"
+#~ msgstr "Λάθος ώρα"
+
+#~ msgid "Wrong name or path"
+#~ msgstr "Λάθος όνομα ή διαδρομή"
+
+#~ msgid "Duplicated file"
+#~ msgstr "Διπλασιασμός του αρχείου"
+
+#~ msgid "Wrong URL"
+#~ msgstr "Λάθος URL"
+
+#~ msgid "Too many active records processed"
+#~ msgstr "Πάρα πολλές ενεργές εγγραφές σε επεξεργασία"
+
+#~ msgid "Error..."
+#~ msgstr "Σφάλμα..."
+
+#~ msgid "Start recording"
+#~ msgstr "Έναρξη εγγραφής"
+
+#~ msgid "Name :"
+#~ msgstr "Όνομα:"
+
+#~ msgid "URL :"
+#~ msgstr "URL:"
+
+#~ msgid "Wrong field data"
+#~ msgstr "Λάθος δεδομένα πεδίου"
+
+#~ msgid "Bad playlist file"
+#~ msgstr "Σφάλμα κατά το άνοιγμα της λίστας αναπαραγωγής"
+
+#~ msgid "Select country..."
+#~ msgstr "Επιλέξτε χώρα ..."
+
+#~ msgid "Select operator..."
+#~ msgstr "Επιλέξτε πάροχο ..."
+
+#~ msgid "Select city..."
+#~ msgstr "Επιλέξτε πόλη ..."
+
+#~ msgid "Country:"
+#~ msgstr "Χώρα:"
+
+#~ msgid "City:"
+#~ msgstr "Πόλη:"
+
+#~ msgid "Operator:"
+#~ msgstr "Πάροχος:"
+
+#~ msgid "Loading operator playlist"
+#~ msgstr "Λήψη λίστας IPTV από τον πάροχο"
+
+#~ msgid "DVB type:"
+#~ msgstr "DVB-τύπος:"
+
+#~ msgid "Symbol rate:"
+#~ msgstr "Symbol rate:"
+
+#~ msgid "Modulation:"
+#~ msgstr "Διαμόρφωση:"
+
+#~ msgid "Scan"
+#~ msgstr "Σάρωση"
+
+#~ msgid "Start scanning"
+#~ msgstr "Ξεκινήστε τη σάρωση"
+
+#~ msgid "Frequency (KHz):"
+#~ msgstr "Συχνότητα(KHz):"
+
+#~ msgid "Bandwidth (MHz):"
+#~ msgstr "Εύρος ζώνης (MHz):"
+
+#~ msgid "Auto"
+#~ msgstr "Αυτόματο"
+
+#~ msgid "Network"
+#~ msgstr "Δίκτυο"
+
+#~ msgid "Full"
+#~ msgstr "Πλήρης"
+
+#~ msgid "Fast"
+#~ msgstr "Γρήγορο"
+
+#~ msgid "Network ID:"
+#~ msgstr "ID δικτύου:"
+
+#~ msgid "EPG not available"
+#~ msgstr "Ο EPG δεν είναι διαθέσιμος"
+
+#~ msgid "The program for:"
+#~ msgstr "Το πρόγραμμα για το:"
+
+#~ msgid "Fit on"
+#~ msgstr "Προσαρμογή"
+
+#~ msgid "Zoom"
+#~ msgstr "Zoom (μεγέθυνση)"
+
+#~ msgid "Optimal"
+#~ msgstr "Βέλτιστη"
+
+#~ msgid "Stretch"
+#~ msgstr "Τέντωμα"
+
+#~ msgid "Show<br />playlist"
+#~ msgstr "Εμφάνιση<br />λίστα αναπαραγωγής"
+
+#~ msgid "Hide<br />player"
+#~ msgstr "Απόκρυψη<br />player"
+
+#~ msgid "Previous<br />media"
+#~ msgstr "Προηγούμενο<br />αρχείο media"
+
+#~ msgid "Next<br />media"
+#~ msgstr "Επόμενο<br />αρχείο media"
+
+#~ msgid "Audio tracks"
+#~ msgstr "Η ταινία (Audio tracks)"
+
+#~ msgid "No storage device selected as the \"File location\" in TimeShift settings. Disable TimeShift?"
+#~ msgstr "Καμία συσκευή αποθήκευσης που επιλέγεται ως \"θέση αρχείου\" στις ρυθμίσεις TimeShift. Απενεργοποίηση TimeShift;"
+
+#~ msgid "No"
+#~ msgstr "Οχι"
+
+#~ msgid "TimeShift buffer"
+#~ msgstr "ρυθμιστικό TimeShift"
+
+#~ msgid "Cyclic recording mode"
+#~ msgstr "Κυκλική λειτουργία εγγραφής"
+
+#~ msgid "3D mode"
+#~ msgstr "3D-λειτουργία"
+
+#~ msgid "Mode"
+#~ msgstr "Λειτουργία"
+
+#~ msgid "Slide-show"
+#~ msgstr "Παρουσίαση"
+
+#~ msgid "Play"
+#~ msgstr "Αναπαραγωγή"
+
+#~ msgid "One file once"
+#~ msgstr "Ένα αρχείο μία φορά"
+
+#~ msgid "Each file once"
+#~ msgstr "Κάθε αρχείο μία φορά"
+
+#~ msgid "Repeat file"
+#~ msgstr "Επαναλάβετε το αρχείο"
+
+#~ msgid "Repeat everything"
+#~ msgstr "Επαναλάβετε τα πάντα"
+
+#~ msgid "Playlist shuffle"
+#~ msgstr "Αναπαραγωγή με τυχαία σειρά"
+
+#~ msgid "Hide<br />playlist"
+#~ msgstr "Απόκρυψη<br />λίστα αναπαραγωγής"
+
+#~ msgid "Selected subtitle file is not available"
+#~ msgstr "Το επιλεγμένο αρχείο υποτίτλων δεν είναι διαθέσιμο"
+
+#~ msgid "Playing error"
+#~ msgstr "Σφάλμα Αναπαραγωγής"
+
+#~ msgid "Antenna power supply disabled"
+#~ msgstr "Η τροφοδοσία της κεραίας έχει απενεργοποιηθεί"
+
+#~ msgid "Buffer is full"
+#~ msgstr "Η προσωρινής αποθήκευση (Buffer) είναι πλήρης"
+
+#~ msgid "Writing error"
+#~ msgstr "Σφάλμα εγγραφής"
+
+#~ msgid "Check storage device.<br />Disable TimeShift?"
+#~ msgstr "Ελέγξτε τη συσκευή αποθήκευσης.<br />ΑπενεργοποίησηTimeShift?"
+
+#~ msgid "Start TimeShift error"
+#~ msgstr "Σφάλμα εκκίνησης TimeShift"
+
+#~ msgid "Save TimeShift buffer?"
+#~ msgstr "Αποθήκευση της ρύθμισης TimeShift;"
+
+#~ msgid "Saving error"
+#~ msgstr "Σφάλμα αποθήκευσης"
+
+#~ msgid "Save to:"
+#~ msgstr "Αποθήκευση σε:"
+
+#~ msgid "unknown"
+#~ msgstr "άγνωστο"
+
+#~ msgid "External subtitles:"
+#~ msgstr "Εξωτερικοί υπότιτλοι:"
+
+#~ msgid "Title"
+#~ msgstr "Τίτλος"
+
+#~ msgid "Chapter"
+#~ msgstr "Κεφάλαιο-Ενότητα"
+
+#~ msgid "Contains the list of items corresponding to the given filter request"
+#~ msgstr "Περιέχει τον κατάλογο των αντικειμένων που αντιστοιχούν στο συγκεκριμένο αίτημα του φίλτρου"
+
+#~ msgid "Copying error"
+#~ msgstr "Σφάλμα αντιγραφής"
+
+#~ msgid "Records"
+#~ msgstr "Εγγραφές"
+
+#~ msgid "Unable to get working group list"
+#~ msgstr "Ανικανότητα λήψης ενεργής λίστας"
+
+#~ msgid "Unable to get working group servers"
+#~ msgstr "Ανικανότητα λήψης ενεργών servers"
+
+#~ msgid "Unable to get server shares"
+#~ msgstr "Αποτυχία λήψης του καταλόγου που παρέχετε από τον server"
+
+#~ msgid "Multimedia content"
+#~ msgstr "Περιεχόμενο πολυμέσων"
+
+#, fuzzy
+#~ msgid "The directory contains DVD or Blu-ray structure.<br>Begin playing?"
+#~ msgstr "Ο κατάλογος περιέχει DVD ή δομή BlueRay.<br>Έναρξη αναπαραγωγής;"
+
+#~ msgid "Network connection"
+#~ msgstr "σύνδεση δικτύου"
+
+#~ msgid "Unable to mount the folder.<br>Authorization may be necessary.<br>Specify login and password?"
+#~ msgstr "Δεν είναι δυνατή η προσάρτηση του φακέλου.<br>Η άδεια μπορεί να είναι απαραίτητη.<br>Καθορισμός του ονόματος χρήστη και του κωδικού πρόσβασης;"
+
+#~ msgid "Authorization"
+#~ msgstr "Εξουσιοδότηση"
+
+#~ msgid "Selected subtitle will appear<br>during next player launch"
+#~ msgstr "Επιλέξτε υπότιτλο για εμφάνιση<br>κατά την επόμενη εκκίνηση της αναπαραγωγής"
+
+#~ msgid "No records in this playlist"
+#~ msgstr "Δεν υπάρχουν εγγραφές σε αυτή τη λίστα"
+
+#~ msgid "Add to IPTV channels"
+#~ msgstr "Προσθήκη στα IPTV κανάλια"
+
+#~ msgid "Unable to add the selected records"
+#~ msgstr "Δεν μπορείτε να προσθέσετε τις επιλεγμένες εγγραφές"
+
+#~ msgid "No new channels for selected records"
+#~ msgstr "Δεν υπάρχουν νέα κανάλια για τις επιλεγμένες εγγραφές"
+
+#~ msgid "Channels added successfully:"
+#~ msgstr "Τα κανάλια προστέθηκαν επιτυχώς:"
+
+#~ msgid "Go to IPTV channels"
+#~ msgstr "Πηγαίνετε στα IPTV κανάλια"
+
+#, fuzzy
+#~ msgid "Unable to get dlna group servers"
+#~ msgstr "Ανικανότητα λήψης ενεργών servers"
+
+#~ msgid "Loading..."
+#~ msgstr "Φορτώνει..."
+
+#, fuzzy
+#~ msgid "Unable to get dlna content"
+#~ msgstr "Ανικανότητα λήψης ενεργής λίστας"
+
+#~ msgid "Update software now"
+#~ msgstr "Оновити ПЗ зараз"
+
+#~ msgid "Formatting in progress..."
+#~ msgstr "Форматування в процесі..."
+
+# menu item
+#~ msgid "Move selected"
+#~ msgstr "Перемістити виділене"
+
+# menu item
+#~ msgid "Copy selected"
+#~ msgstr "Копіювати виділене"
+
+#, fuzzy
+#~ msgid "To perform this operation, you must to turn off \"Storage read only access\" in system settings"
+#~ msgstr "Щоб виконати цю операцію, необхідно відключити \"Storage read only access\" в системних налаштуваннях"
+
+#~ msgid "Selected"
+#~ msgstr "Виділене"
+
+#~ msgid "Text"
+#~ msgstr "Текст"
+
+#~ msgid "Groups"
+#~ msgstr "Групи"
+
+#~ msgid "No sorting"
+#~ msgstr "Без сортування"
+
+# menu item
+#~ msgid "Mount NFS/SMB"
+#~ msgstr "Підключити NFS/SMB"
+
+# menu item
+#~ msgid "Unmount NFS/SMB"
+#~ msgstr "Відключити NFS/SMB"
+
+#~ msgid "Back"
+#~ msgstr "Назад"
+
+#~ msgid "Operation"
+#~ msgstr "Операція"
+
+#~ msgid "Connect via Ethernet"
+#~ msgstr "Підключитися через Ethernet"
+
+#~ msgid "Connect via WiFi"
+#~ msgstr "Підключитися по WiFi"
+
+#~ msgid "Checking LAN connection"
+#~ msgstr "Перевірка підключення до локальної мережі"
+
+#~ msgid "To play this file press F1,<br>to save it press F2"
+#~ msgstr "Щоб відтворити файл, натисніть F1,<br>щоб зберегти, натисніть F2"
+
+#, fuzzy
+#~ msgid "To save this file press F2"
+#~ msgstr "Для збереження файлу натиcнiть F2"
+
+#~ msgid "Select action"
+#~ msgstr "Виберіть дію"
+
+#~ msgid "Download"
+#~ msgstr "Завантажити"
+
+#~ msgid "Retry"
+#~ msgstr "Повторити"
+
+#~ msgid "Show log"
+#~ msgstr "Показати звіт"
+
+#~ msgid "Hide log"
+#~ msgstr "Сховати звіт"
+
+#~ msgid "Update"
+#~ msgstr "Оновити"
+
+#~ msgid "Status"
+#~ msgstr "Статус"
+
+#~ msgid "Check image"
+#~ msgstr "Перевірка образа"
+
+#~ msgid "Current version"
+#~ msgstr "Поточна версія"
+
+#~ msgid "New version"
+#~ msgstr "Доступна версія"
+
+#~ msgid "Description"
+#~ msgstr "Опис"
+
+#~ msgid "Change log"
+#~ msgstr "Список змін"
+
+#~ msgid "Updating to version"
+#~ msgstr "Оновлення до версії"
+
+#~ msgid "Update status"
+#~ msgstr "Статус оновлення"
+
+#~ msgid "<span class='alert'>Warning!</span> Automatic device reboot after updating"
+#~ msgstr "<span class='alert'>Увага!</span> Після оновлення пристрій буде перезавантажений!"

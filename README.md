@@ -4,11 +4,18 @@
 ![GitHub repo size in bytes](https://img.shields.io/github/repo-size/Nepose/MAG_Software_Portal.svg)
 ## Improved STB SDK for making firmware
 
-This is a toolchain to compile images for Infomir IPTV STBs - MAG and Aura HD. It is improved version of SDK done by Infomir corporation, manufacturer of set-top-boxes.
+This is a portable toolchain to compile images for Infomir IPTV STBs - MAG and Aura HD. It is improved version of SDK done by Infomir corporation, manufacturer of set-top-boxes.
 
 The toolchain is a part of **MAG Software Portal** project, which also includes ready-made custom firmware and wiki for Operators. This SDK comes with already set dependencies and some documentation from Infomir to better work with.
 
-To install toolchain, just clone this Git repo or download source code from releases card.
+## Installation
+
+There are two methods to prepare STB SDK on your PC:
+
+* Just clone or download GitHub repository. The simplest one if you know what is Git.
+* Use dedicated installer. This program works as a recovery disk for SDK with embedded functions of fixing broken files, its upgrading and of course installing.
+
+I don't favour any of those methods. If you want to set all dependencies automatically and make toolchain usable for first time, use installer.
 
 ## Functions of toolchain
 * Compile / prepare following parts of firmware:
@@ -33,6 +40,7 @@ The toolchain doesn't support MAG 424/425 STBs. The toolchain is available **onl
 * `embedded_portal` -> SDK for embedded portal, refer to *Build embedded portal* section.
 * `includes` -> directory with some libraries used by SDK, you don't have to do anything there ;)
 * `multicast_dhcp` -> directory with utilities to connect to STB with multicast or DHCP protocol.
+* `stbapi` -> libraries to build STB API for Qt.
 * `stm` -> utilities to build imageupdate for STM STBs.
 
 <cite>According to official Infomir wiki page about STB SDK:</cite>
@@ -148,6 +156,8 @@ cd includes/
 ```
 
 Nothing more to explain, it will just check and download latest version if you want. Of course you can also update by `git pull` :)
+
+The second method is to use installer, choose correct option from main menu, specify path to your SDK installation and that's all.
 
 ## Contribution
 

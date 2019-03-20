@@ -23,6 +23,10 @@ export MAG200_OP_KEY=STB_PUBLIC
 #    File name for compiled imageupdate (image output)
 export IMAGE_OUTPUT=./imageupdate_infomir
 
+#    Number of Update API version
+#    Don't use unless really required!
+#export VER_UPDATE_API="2"
+
 #By default XXX_FS_TYPE is jffs2
 #Can be jffs2,ubi,raw(for kernel only),ext4
 export KERNEL_FS_TYPE=ubi

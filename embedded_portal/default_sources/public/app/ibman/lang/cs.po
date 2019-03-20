@@ -1,0 +1,328 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Internet Bookmarks Manager\n"
+"POT-Creation-Date: 2017-05-12 12:03+0300\n"
+"PO-Revision-Date: 2017-05-12 12:03+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-KeywordsList: _;gettext.data\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../app.js:51
+msgid "Search in Google"
+msgstr ""
+
+#: ../app.js:52
+msgid "Open link"
+msgstr ""
+
+#: ../cblist.js:490 ../view.main.js:104
+msgid "Error"
+msgstr ""
+
+#: ../cblist.js:490
+msgid "Unknown type of selected item"
+msgstr ""
+
+#: ../cblist.js:490 ../modals.js:136 ../modals.js:164 ../view.main.js:104
+#: ../view.main.js:197
+msgid "Close"
+msgstr ""
+
+#: ../modals.js:21 ../modals.js:197 ../view.main.js:556 ../view.main.js:572
+msgid "Name:"
+msgstr ""
+
+#: ../modals.js:25
+msgid "URL:"
+msgstr ""
+
+#: ../modals.js:29
+msgid "Folder:"
+msgstr ""
+
+#: ../modals.js:34
+msgid "or create and use a new folder:"
+msgstr ""
+
+#: ../modals.js:43 ../view.main.js:505 ../view.main.js:1019
+msgid "Internet bookmarks"
+msgstr ""
+
+#: ../modals.js:77
+msgid "Modify bookmark"
+msgstr ""
+
+#: ../modals.js:77
+msgid "Create bookmark"
+msgstr ""
+
+#: ../modals.js:77 ../modals.js:216 ../view.main.js:245 ../view.main.js:1420
+msgid "Cancel"
+msgstr ""
+
+#: ../modals.js:118 ../modals.js:222
+msgid "Apply"
+msgstr ""
+
+#: ../modals.js:118 ../modals.js:222
+msgid "Create"
+msgstr ""
+
+#: ../modals.js:136 ../modals.js:216
+msgid "Create folder"
+msgstr ""
+
+#: ../modals.js:136
+msgid "Folder with this name already exists"
+msgstr ""
+
+#: ../modals.js:161 ../view.main.js:80 ../view.main.js:1140
+msgid "Remove<br>bookmark"
+msgstr ""
+
+#: ../modals.js:164
+msgid "Wrong data"
+msgstr ""
+
+#: ../modals.js:164
+msgid "Provided url name or address is invalid"
+msgstr ""
+
+#: ../modals.js:216
+msgid "Modify folder"
+msgstr ""
+
+#: ../view.main.js:52
+msgid "USB storage is connected"
+msgstr ""
+
+#: ../view.main.js:83 ../view.main.js:636 ../view.main.js:1119
+#: ../view.main.js:1140 ../view.main.js:1431
+msgid "Add<br>bookmark"
+msgstr ""
+
+#: ../view.main.js:104
+msgid "This webpage is not available"
+msgstr ""
+
+#: ../view.main.js:187
+msgid "Play"
+msgstr ""
+
+#: ../view.main.js:195
+msgid "Download"
+msgstr ""
+
+#: ../view.main.js:197
+msgid "Warning!"
+msgstr ""
+
+#: ../view.main.js:197
+msgid "\"Storage read only access mode\" is enabled in System Settings"
+msgstr ""
+
+#: ../view.main.js:243
+msgid "Select action"
+msgstr ""
+
+#: ../view.main.js:244
+msgid "To play this file press F1, to save it press F2"
+msgstr ""
+
+#: ../view.main.js:244
+msgid "To save this file press F2"
+msgstr ""
+
+#: ../view.main.js:365
+msgid "Enter url address or title to filter..."
+msgstr ""
+
+#: ../view.main.js:447
+msgid "Enter url address or text to search..."
+msgstr ""
+
+#: ../view.main.js:523
+msgid "Items:"
+msgstr ""
+
+#: ../view.main.js:524
+msgid "Selected:"
+msgstr ""
+
+#: ../view.main.js:542
+msgid "Contains a list of items corresponding to the given filter request"
+msgstr ""
+
+#: ../view.main.js:554
+msgid "Gives access to url links organized in groups"
+msgstr ""
+
+#: ../view.main.js:557
+msgid "Bookmarks:"
+msgstr ""
+
+#: ../view.main.js:558 ../view.main.js:574
+msgid "Time:"
+msgstr ""
+
+#: ../view.main.js:573
+msgid "Address:"
+msgstr ""
+
+#: ../view.main.js:612
+msgid "Exit"
+msgstr ""
+
+#: ../view.main.js:627
+msgid "Menu"
+msgstr ""
+
+#: ../view.main.js:630 ../view.main.js:983 ../view.main.js:1142
+msgid "Fullscreen"
+msgstr ""
+
+#: ../view.main.js:633 ../view.main.js:1122 ../view.main.js:1310
+msgid "Show<br>info panel"
+msgstr ""
+
+#: ../view.main.js:639 ../view.main.js:844
+msgid "Select"
+msgstr ""
+
+#: ../view.main.js:738 ../view.main.js:924
+msgid "Operations"
+msgstr ""
+
+#: ../view.main.js:840
+msgid "Open"
+msgstr ""
+
+#: ../view.main.js:841 ../view.main.js:955
+msgid "Add bookmark"
+msgstr ""
+
+#: ../view.main.js:842
+msgid "Add folder"
+msgstr ""
+
+#: ../view.main.js:843
+msgid "Edit"
+msgstr ""
+
+#: ../view.main.js:845
+msgid "Select all"
+msgstr ""
+
+#: ../view.main.js:846
+msgid "Deselect all"
+msgstr ""
+
+#: ../view.main.js:847
+msgid "Invert selection"
+msgstr ""
+
+#: ../view.main.js:848 ../view.main.js:1426
+msgid "Delete"
+msgstr ""
+
+#: ../view.main.js:851
+msgid "Sort"
+msgstr ""
+
+#: ../view.main.js:868
+msgid "By name"
+msgstr ""
+
+#: ../view.main.js:869
+msgid "By time"
+msgstr ""
+
+#: ../view.main.js:951
+msgid "Back"
+msgstr ""
+
+#: ../view.main.js:952
+msgid "Forward"
+msgstr ""
+
+#: ../view.main.js:953
+msgid "Stop"
+msgstr ""
+
+#: ../view.main.js:954
+msgid "Reload"
+msgstr ""
+
+#: ../view.main.js:956
+msgid "Remove bookmark"
+msgstr ""
+
+#: ../view.main.js:959
+msgid "View"
+msgstr ""
+
+#: ../view.main.js:984
+msgid "Zoom 50%"
+msgstr ""
+
+#: ../view.main.js:985
+msgid "Zoom 75%"
+msgstr ""
+
+#: ../view.main.js:986
+msgid "Zoom 100%"
+msgstr ""
+
+#: ../view.main.js:987
+msgid "Zoom 150%"
+msgstr ""
+
+#: ../view.main.js:988
+msgid "Zoom 200%"
+msgstr ""
+
+#: ../view.main.js:989
+msgid "Zoom 300%"
+msgstr ""
+
+#: ../view.main.js:992
+msgid "Tools"
+msgstr ""
+
+#: ../view.main.js:1018
+msgid "Download manager"
+msgstr ""
+
+#: ../view.main.js:1020
+msgid "Virtual mouse"
+msgstr ""
+
+#: ../view.main.js:1122 ../view.main.js:1310
+msgid "Hide<br>info panel"
+msgstr ""
+
+#: ../view.main.js:1418
+msgid "Confirm deletion"
+msgstr ""
+
+#: ../view.main.js:1419
+msgid "Are you sure you want to delete"
+msgstr ""
+
+#: ../view.main.js:1419
+msgid "all entries selected?"
+msgstr ""
+
+#: ../view.main.js:1419
+msgid "current entry?"
+msgstr ""

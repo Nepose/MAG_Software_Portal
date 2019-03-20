@@ -1,0 +1,353 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Internet Bookmarks Manager\n"
+"POT-Creation-Date: 2014-07-22 16:26+0300\n"
+"PO-Revision-Date: 2014-07-22 16:26+0300\n"
+"Last-Translator: B_A_S <1990bas@gmail.com>\n"
+"Language-Team: \n"
+"Language: Ukrainian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext.data\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../cdlist.js:322
+msgid "Unsupported format"
+msgstr "Формат не підтримується"
+
+#: ../cdlist.js:325
+msgid "File not found"
+msgstr "Файл не знайдено"
+
+#: ../view.main.js:82
+msgid "Download manager"
+msgstr "Завантаження"
+
+#: ../view.main.js:96
+msgid "Enter part of download name..."
+msgstr "Введіть частину імені завантаження..."
+
+#: ../view.main.js:165
+msgid "USB storage is connected"
+msgstr "Підключено USB накопичувач"
+
+#: ../view.main.js:185
+msgid "Exit"
+msgstr "Вихід"
+
+#: ../view.main.js:198
+msgid "Menu"
+msgstr "Меню"
+
+#: ../view.main.js:201 ../view.main.js:678
+msgid "Show<br>info panel"
+msgstr "Показати<br />інфо-блок"
+
+#: ../view.main.js:204
+msgid "Add<br>download"
+msgstr "Додати<br>завантаження"
+
+#: ../view.main.js:206 ../view.main.js:468
+msgid "Warning!"
+msgstr "Увага!"
+
+#: ../view.main.js:206 ../view.main.js:468
+msgid "\"Storage read only access mode\" is enabled in System Settings"
+msgstr ""
+"Включений режим \"тільки читання \" для накопичувача в Системних "
+"налаштуваннях"
+
+#: ../view.main.js:206 ../view.main.js:468 ../modals.js:123 ../modals.js:126
+#: ../modals.js:142 ../modals.js:184
+msgid "Close"
+msgstr "Закрити"
+
+# menu item
+#: ../view.main.js:211 ../view.main.js:499
+msgid "Select"
+msgstr "Виділити"
+
+#: ../view.main.js:239
+msgid "Paused "
+msgstr "Зупинена"
+
+#: ../view.main.js:240 ../view.main.js:523
+msgid "Waiting"
+msgstr "В черзі на завантаження"
+
+#: ../view.main.js:241
+msgid "Downloading"
+msgstr "Закачується"
+
+#: ../view.main.js:242
+msgid "Completed"
+msgstr "Завершена"
+
+#: ../view.main.js:243 ../view.main.js:244 ../modals.js:158
+msgid "Error"
+msgstr "Помилка"
+
+#: ../view.main.js:253
+msgid "Downloads:"
+msgstr "Завантажень:"
+
+#: ../view.main.js:254
+msgid "Selected:"
+msgstr "Вибрано:"
+
+#: ../view.main.js:265 ../modals.js:55
+msgid "File name:"
+msgstr "Ім'я файлу:"
+
+#: ../view.main.js:266 ../modals.js:51
+msgid "URL:"
+msgstr "URL:"
+
+#: ../view.main.js:267
+msgid "Storage device:"
+msgstr "Накопичувач:"
+
+#: ../view.main.js:268
+msgid "State:"
+msgstr "Стан:"
+
+# menu item
+#: ../view.main.js:269
+msgid "Priority:"
+msgstr "Пріоритет:"
+
+#: ../view.main.js:270
+msgid "Size:"
+msgstr "Розмір:"
+
+#: ../view.main.js:304
+msgid "Contains a list of items corresponding to the given filter request"
+msgstr "Містить список записів, що відповідають вказаному запиту"
+
+#: ../view.main.js:310
+msgid "Detailed info on selected download"
+msgstr "Детальна інформація про виділене завантаження"
+
+#: ../view.main.js:334 ../app.js:82 ../modals.js:30 ../modals.js:31
+#: ../modals.js:41 ../modals.js:42 ../modals.js:64 ../modals.js:66
+msgid "GB"
+msgstr "Гб"
+
+#: ../view.main.js:336 ../app.js:83
+msgid "MB"
+msgstr "Мб"
+
+#: ../view.main.js:338 ../app.js:84
+msgid "KB"
+msgstr "Кб"
+
+#: ../view.main.js:339 ../app.js:86
+msgid "B"
+msgstr "байт"
+
+#: ../view.main.js:429
+msgid "Operations"
+msgstr "Операції"
+
+#: ../view.main.js:484
+msgid "Temporary files cleaning..."
+msgstr "Видалення тимчасових файлів"
+
+# menu item
+#: ../view.main.js:493
+msgid "Open"
+msgstr "Відкрити"
+
+#: ../view.main.js:494
+msgid "Resume"
+msgstr "Відновити"
+
+#: ../view.main.js:495
+msgid "Stop"
+msgstr "Зупинити"
+
+#: ../view.main.js:496 ../modals.js:80
+msgid "Add download"
+msgstr "Додати завантаження"
+
+# menu item
+#: ../view.main.js:497
+msgid "Increase priority"
+msgstr "Підвищити пріоритет"
+
+# menu item
+#: ../view.main.js:498
+msgid "Decrease priority"
+msgstr "Зменшити пріоритет"
+
+# menu item
+#: ../view.main.js:500
+msgid "Select all"
+msgstr "Виділити всi"
+
+# menu item
+#: ../view.main.js:501
+msgid "Deselect all"
+msgstr "Прибрати всi виділення"
+
+# menu item
+#: ../view.main.js:502
+msgid "Invert selection"
+msgstr "Інвертувати видiлення"
+
+# menu item
+#: ../view.main.js:503
+msgid "Delete"
+msgstr "Видалити"
+
+#: ../view.main.js:504
+msgid "Clean temporary files"
+msgstr "Видалити тимчасові файли "
+
+#: ../view.main.js:506
+msgid "View"
+msgstr "Вид"
+
+# menu item
+#: ../view.main.js:521
+msgid "All"
+msgstr "Усi"
+
+#: ../view.main.js:522
+msgid "Done"
+msgstr "Завершені"
+
+#: ../view.main.js:524
+msgid "Paused"
+msgstr "Зупинені"
+
+#: ../view.main.js:525
+msgid "Errors"
+msgstr "Помилки"
+
+#: ../view.main.js:528
+msgid "Sorting"
+msgstr "Сортування"
+
+# menu item
+#: ../view.main.js:544
+msgid "By state"
+msgstr "За станом"
+
+# menu item
+#: ../view.main.js:545
+msgid "By name"
+msgstr "За іменем"
+
+# menu item
+#: ../view.main.js:546
+msgid "By size"
+msgstr "За розміром"
+
+# menu item
+#: ../view.main.js:547
+msgid "By priority"
+msgstr "За пріоритетом"
+
+#: ../view.main.js:678
+msgid "Hide<br>info panel"
+msgstr "Сховати<br />інфо-блок"
+
+#: ../modals.js:24 ../modals.js:39
+msgid "No storage device"
+msgstr "Немає пристрою"
+
+#: ../modals.js:59
+msgid "Download in:"
+msgstr "Викачати в:"
+
+#: ../modals.js:64
+msgid "Free space:"
+msgstr "Вільне місце:"
+
+#: ../modals.js:65
+msgid "of"
+msgstr "із"
+
+#: ../modals.js:80 ../modals.js:158 ../modals.js:225
+msgid "Cancel"
+msgstr "Відміна"
+
+#: ../modals.js:113
+msgid "Create"
+msgstr "Створити"
+
+#: ../modals.js:123
+msgid "Not enough disk space"
+msgstr "Недостатньо місця для збереження"
+
+#: ../modals.js:123
+msgid "File size: "
+msgstr "Рoзмiр файлу:"
+
+#: ../modals.js:126
+msgid "Create download"
+msgstr "Створення завантаження"
+
+#: ../modals.js:126
+msgid "File name or URL already used"
+msgstr "Ім'я або посилання вже використовуються"
+
+#: ../modals.js:142 ../modals.js:184
+msgid "Wrong data"
+msgstr "Неправильні дані"
+
+#: ../modals.js:142
+msgid "Provided name is invalid"
+msgstr "Введене ім'я неправильне"
+
+#: ../modals.js:144
+msgid "No storage device found"
+msgstr "Немає пристроїв для збереження"
+
+#: ../modals.js:154
+msgid "Unsupported file extension"
+msgstr "Непідтримуване розширення файлу"
+
+#: ../modals.js:158
+msgid "File with this name already exist. Do you want rewrite it?"
+msgstr "Файл з даними ім'ям вже існує. Перезаписати його?"
+
+#: ../modals.js:160
+msgid "Ok"
+msgstr "Так"
+
+#: ../modals.js:175
+msgid "Some error. Please rename the file."
+msgstr "Сталася помилка. Будь ласка, перейменуйте файл."
+
+#: ../modals.js:184
+msgid "Provided url is invalid"
+msgstr "Введене посилання неправильне"
+
+#: ../modals.js:213
+msgid "Delete the related file"
+msgstr "Видалити зв'язаний файл"
+
+#: ../modals.js:225
+msgid "Delete download"
+msgstr "Видалити завантаження"
+
+#: ../modals.js:247
+msgid "Apply"
+msgstr "Застосувати"
+
+#, fuzzy
+#~ msgid ""
+#~ "To perform this operation, you must to turn off \"Storage read only access"
+#~ "\" in system settings"
+#~ msgstr ""
+#~ "Увага! Включений режим \"тільки читання\" для накопичувача в Системних "
+#~ "налаштуваннях"
+
+#~ msgid "Downloaded:"
+#~ msgstr "Викачано:"

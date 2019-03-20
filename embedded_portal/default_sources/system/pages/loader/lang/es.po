@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Service menu\n"
+"POT-Creation-Date: 2016-10-20 16:34+0300\n"
+"PO-Revision-Date: 2016-10-20 16:34+0300\n"
+"Last-Translator: Boris Aleynikov <aleynikov.boris@gmail.com>\n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-KeywordsList: _;gettext.data\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../view.js:117
+msgid "Portal"
+msgstr "Portal"
+
+#: ../view.js:195
+msgid "Loading portal..."
+msgstr "Cargando portal..."
+
+#: ../view.js:196
+msgid "Press MENU to load portal selection screen"
+msgstr "Presione el MENÚ para cargar la pantalla de selección portal"
+
+#: ../view.js:259
+msgid "Select a portal for loading"
+msgstr "Seleccione un portal para cargar"
+
+#: ../view.js:275
+msgid "Page loading error"
+msgstr "Error de carga de la página"
+
+#: ../view.js:283
+msgid "Internet: "
+msgstr "Internet: "
+
+#: ../view.js:284 ../view.js:295 ../view.js:314 ../view.js:446 ../view.js:485
+#: ../view.js:496
+msgid "Enabled"
+msgstr "Encendido"
+
+#: ../view.js:295 ../view.js:314 ../view.js:485
+#, fuzzy
+msgid "Not connected"
+msgstr "Apagado"
+
+#: ../view.js:300
+msgid "Ethernet: "
+msgstr "Ethernet: "
+
+#: ../view.js:303 ../view.js:322
+msgid "IP: "
+msgstr "IP: "
+
+#: ../view.js:303 ../view.js:304 ../view.js:322 ../view.js:323 ../view.js:446
+#: ../view.js:489 ../view.js:500 ../view.js:512 ../view.js:514
+#, fuzzy
+msgid "Not available"
+msgstr "No disponible"
+
+#: ../view.js:304 ../view.js:323
+msgid "MAC: "
+msgstr "MAC: "
+
+#: ../view.js:319
+msgid "Wi-Fi: "
+msgstr "Wi-Fi: "
+
+#: ../view.js:332
+msgid "Model: "
+msgstr "Modelo: "
+
+#: ../view.js:333
+msgid "Version: "
+msgstr "Versión: "
+
+#: ../view.js:344
+msgid "Please check the connection and the page URL"
+msgstr "Por favor, Compruebe la conexión y la URL de la página"
+
+#: ../view.js:364 ../view.js:397
+msgid "Try again"
+msgstr "Inténtelo de nuevo"
+
+#: ../view.js:369
+#, fuzzy
+msgid "Embedded portal"
+msgstr "Portal interno"
+
+#: ../view.js:376
+msgid "System settings"
+msgstr "Configuración del sistema"
+
+#: ../view.js:496 ../view.js:510
+msgid "Disabled"
+msgstr "Apagado"

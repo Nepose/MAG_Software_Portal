@@ -1,0 +1,380 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Internet bookmarks Manager\n"
+"POT-Creation-Date: 2017-05-12 12:05+0300\n"
+"PO-Revision-Date: 2017-05-12 12:05+0300\n"
+"Last-Translator: Сергей <ssa@infomir.eu>\n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-KeywordsList: _;gettext.data\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../cblist.js:460
+msgid "File not found"
+msgstr "Файл не найден"
+
+#: ../cblist.js:480
+msgid "Error"
+msgstr "Ошибка"
+
+#: ../cblist.js:480
+msgid "Unknown type of selected item"
+msgstr "Тип выбранного элемента неизвестен"
+
+#: ../cblist.js:480 ../view.main.js:222 ../view.main.js:441
+msgid "Close"
+msgstr "Закрыть"
+
+#: ../modals.js:130 ../modals.js:635
+msgid "End recording:"
+msgstr "Завершить запись:"
+
+#: ../modals.js:147 ../modals.js:652
+msgid "Record length:"
+msgstr "Длина записи:"
+
+#: ../modals.js:234 ../modals.js:344 ../modals.js:854
+msgid "Cancel"
+msgstr "Отменить"
+
+#: ../modals.js:237 ../view.main.js:506
+msgid "Edit"
+msgstr "Редактировать"
+
+#: ../modals.js:332
+msgid "Delete related file"
+msgstr "Удалить связанный файл"
+
+#: ../modals.js:344
+msgid "Delete record"
+msgstr "Удалить запись"
+
+# menu item
+#: ../modals.js:366 ../view.main.js:512
+msgid "Delete"
+msgstr "Удалить"
+
+#: ../modals.js:563
+msgid "IPTV"
+msgstr "IPTV"
+
+#: ../modals.js:590 ../modals.js:785 ../view.main.js:176
+msgid "No storage device"
+msgstr "Отсутствует устройство хранения"
+
+#: ../modals.js:602
+msgid "No channels"
+msgstr "Список каналов пуст"
+
+#: ../modals.js:618
+msgid "Start recording:"
+msgstr "Начать запись:"
+
+#: ../modals.js:662
+msgid "Path:"
+msgstr "Расположение:"
+
+#: ../modals.js:667 ../view.main.js:287
+msgid "Channel:"
+msgstr "Канал:"
+
+#: ../modals.js:671
+msgid "Record name:"
+msgstr "Имя записи:"
+
+#: ../modals.js:677
+msgid "Record in:"
+msgstr "Запись в:"
+
+#: ../modals.js:683
+msgid "Free space:"
+msgstr "Свободное место:"
+
+#: ../modals.js:683 ../modals.js:684
+msgid "GB"
+msgstr "Гб"
+
+#: ../modals.js:683
+msgid "of"
+msgstr "из"
+
+#: ../modals.js:766
+msgid "Channel list is empty"
+msgstr "Список каналов пуст"
+
+#: ../modals.js:780
+msgid "Error. Too many active records."
+msgstr "Ошибка. Слишком много активных записей."
+
+#: ../modals.js:790 ../modals.js:821 ../modals.js:839 ../model.main.js:60
+#: ../model.main.js:78
+msgid "Not enough disk space"
+msgstr "Недостаточно места для сохранения"
+
+#: ../modals.js:824 ../model.main.js:63
+msgid "Incorrect time"
+msgstr "Неправильное время"
+
+#: ../modals.js:827 ../model.main.js:66
+msgid "Wrong name or path"
+msgstr "Неправильное имя или путь"
+
+#: ../modals.js:830 ../model.main.js:69
+msgid "Duplicated file"
+msgstr "Файл уже существует"
+
+#: ../modals.js:833 ../model.main.js:72
+msgid "Wrong URL"
+msgstr "Неправильный URL "
+
+#: ../modals.js:836 ../model.main.js:75
+msgid "Too many active records processed"
+msgstr "Ошибка: слишком много активных записей"
+
+#: ../modals.js:842
+msgid "Error..."
+msgstr "Ошибка..."
+
+#: ../modals.js:857
+msgid "Start recording"
+msgstr "Начать запись"
+
+#: ../model.main.js:39 ../view.main.js:534
+msgid "Scheduled"
+msgstr "Запланировано"
+
+#: ../model.main.js:43
+msgid "Recording"
+msgstr "Идет запись"
+
+#: ../model.main.js:47 ../model.main.js:81
+msgid "Recording error"
+msgstr "Ошибка записи"
+
+#: ../model.main.js:51 ../view.main.js:537
+msgid "Completed"
+msgstr "Завершено"
+
+#: ../view.main.js:92
+msgid "Record manager"
+msgstr "Менеджер записей"
+
+#: ../view.main.js:102
+msgid "Enter record name..."
+msgstr "Введите имя записи..."
+
+#: ../view.main.js:190
+msgid "USB storage is connected"
+msgstr "Подключен USB накопитель"
+
+#: ../view.main.js:204
+msgid "Exit"
+msgstr "Выход"
+
+#: ../view.main.js:214
+msgid "Menu"
+msgstr "Меню"
+
+#: ../view.main.js:217 ../view.main.js:699
+msgid "Show<br>info panel"
+msgstr "Показать<br />инфо-блок"
+
+#: ../view.main.js:220
+msgid "Add<br>record"
+msgstr "Добавить<br>запись"
+
+#: ../view.main.js:222 ../view.main.js:441
+msgid "Warning!"
+msgstr "Внимание!"
+
+#: ../view.main.js:222 ../view.main.js:441
+msgid "\"Storage read only access mode\" is enabled in System Settings"
+msgstr "Включен режим \"только чтение\" для накопителя в Системных настройках"
+
+# menu item
+#: ../view.main.js:227 ../view.main.js:508
+msgid "Select"
+msgstr "Выделить"
+
+#: ../view.main.js:247
+msgid "Items:"
+msgstr "Записей:"
+
+#: ../view.main.js:248
+msgid "Selected:"
+msgstr "Выбрано:"
+
+#: ../view.main.js:259
+msgid "Contains a list of items corresponding to the given filter request"
+msgstr "Содержит список записей, соответствующих указанному запросу"
+
+#: ../view.main.js:279
+msgid "Detailed information about the selected record"
+msgstr "Подробная информация о выбранной записи"
+
+#: ../view.main.js:282
+msgid "Name:"
+msgstr "Имя:"
+
+#: ../view.main.js:283
+msgid "Status:"
+msgstr "Статус:"
+
+#: ../view.main.js:284
+msgid "Start:"
+msgstr "Старт:"
+
+#: ../view.main.js:285
+msgid "End:"
+msgstr "Завершение:"
+
+# menu item
+#: ../view.main.js:286
+msgid "Duration:"
+msgstr "Длительность:"
+
+# часов
+#: ../view.main.js:286
+msgid "h."
+msgstr "ч."
+
+# минут
+#: ../view.main.js:286
+msgid "m."
+msgstr "мин."
+
+#: ../view.main.js:323
+msgid "Jan"
+msgstr "Янв"
+
+#: ../view.main.js:323
+msgid "Feb"
+msgstr "Февр"
+
+#: ../view.main.js:323
+msgid "Mar"
+msgstr "Март"
+
+#: ../view.main.js:323
+msgid "Apr"
+msgstr "Апр"
+
+#: ../view.main.js:323
+msgid "May"
+msgstr "Май"
+
+#: ../view.main.js:323
+msgid "Jun"
+msgstr "Июнь"
+
+#: ../view.main.js:323
+msgid "Jul"
+msgstr "Июль"
+
+#: ../view.main.js:323
+msgid "Aug"
+msgstr "Авг"
+
+#: ../view.main.js:323
+msgid "Sep"
+msgstr "Сент"
+
+#: ../view.main.js:323
+msgid "Oct"
+msgstr "Окт"
+
+#: ../view.main.js:323
+msgid "Nov"
+msgstr "Нояб"
+
+#: ../view.main.js:323
+msgid "Dec"
+msgstr "Дек"
+
+#: ../view.main.js:429
+msgid "Operations"
+msgstr "Операции"
+
+#: ../view.main.js:443 ../view.main.js:505 ../view.main.js:710
+msgid "Add record"
+msgstr "Добавить запись"
+
+#: ../view.main.js:448
+msgid "Edit record"
+msgstr "Редактировать запись"
+
+# menu item
+#: ../view.main.js:504
+msgid "Open"
+msgstr "Открыть"
+
+#: ../view.main.js:507
+msgid "Stop"
+msgstr "Стоп"
+
+# menu item
+#: ../view.main.js:509
+msgid "Select all"
+msgstr "Выделить все"
+
+# menu item
+#: ../view.main.js:510
+msgid "Deselect all"
+msgstr "Снять все выделения"
+
+# menu item
+#: ../view.main.js:511
+msgid "Invert selection"
+msgstr "Инвертировать"
+
+#: ../view.main.js:515
+msgid "View"
+msgstr "Показать"
+
+# menu item
+#: ../view.main.js:533
+msgid "All"
+msgstr "Все"
+
+# menu item
+#: ../view.main.js:535
+msgid "In progress"
+msgstr "В процессе"
+
+#: ../view.main.js:536
+msgid "Errors"
+msgstr "Ошибки"
+
+#: ../view.main.js:540
+msgid "Sort"
+msgstr "Сортировка"
+
+# menu item
+#: ../view.main.js:555
+msgid "By name"
+msgstr "По имени"
+
+# menu item
+#: ../view.main.js:556
+msgid "By time"
+msgstr "По времени"
+
+# menu item
+#: ../view.main.js:557
+msgid "By state"
+msgstr "По состоянию"
+
+# menu item
+#: ../view.main.js:558
+msgid "By duration"
+msgstr "По длительности"
+
+#: ../view.main.js:699
+msgid "Hide<br>info panel"
+msgstr "Скрыть<br />инфо-блок"

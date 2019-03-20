@@ -1,0 +1,3073 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Service menu\n"
+"POT-Creation-Date: 2017-03-17 16:05+0200\n"
+"PO-Revision-Date: 2017-03-17 16:05+0200\n"
+"Last-Translator: Igor <deadbyelpy@gmail.com>\n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-KeywordsList: _;gettext.data\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../lang.js:9
+msgid "January"
+msgstr "Enero"
+
+#: ../lang.js:9
+msgid "February"
+msgstr "Febrero"
+
+#: ../lang.js:9
+msgid "March"
+msgstr "Marzo"
+
+#: ../lang.js:9
+msgid "April"
+msgstr "Abril "
+
+#: ../lang.js:9
+msgid "May"
+msgstr "Mayo"
+
+#: ../lang.js:9
+msgid "June"
+msgstr "Junio"
+
+#: ../lang.js:9
+msgid "July"
+msgstr "Julio"
+
+#: ../lang.js:9
+msgid "August"
+msgstr "Agosto"
+
+#: ../lang.js:9
+msgid "September"
+msgstr "Setiembre "
+
+#: ../lang.js:9
+msgid "October"
+msgstr "Octubre "
+
+#: ../lang.js:9
+msgid "November"
+msgstr "Noviembre"
+
+#: ../lang.js:9
+msgid "December"
+msgstr "Diciembre"
+
+#: ../lang.js:10
+msgid "Sunday "
+msgstr "Domingo"
+
+#: ../lang.js:10
+msgid "Monday "
+msgstr "Lunes"
+
+#: ../lang.js:10
+msgid "Tuesday "
+msgstr "Martes"
+
+#: ../lang.js:10
+msgid "Wednesday "
+msgstr "Miércoles"
+
+#: ../lang.js:10
+msgid "Thursday "
+msgstr "Jueves"
+
+#: ../lang.js:10
+msgid "Friday "
+msgstr "Viernes"
+
+#: ../lang.js:10
+msgid "Saturday "
+msgstr "Sabado"
+
+#: ../lang.js:13
+msgid "Clear/Sunny"
+msgstr "Claro y soleado"
+
+#: ../lang.js:14
+msgid "Partly Cloudy"
+msgstr "Parcialmente nublado"
+
+#: ../lang.js:15
+msgid "Cloudy"
+msgstr "Nuboso"
+
+#: ../lang.js:16
+msgid "Overcast"
+msgstr "Nublado"
+
+#: ../lang.js:17
+msgid "Mist"
+msgstr "Niebla"
+
+#: ../lang.js:18
+msgid "Patchy rain nearby"
+msgstr "Lluvia moderada"
+
+#: ../lang.js:19
+msgid "Patchy snow nearby"
+msgstr "Nubes y nieve en las inmediaciones"
+
+#: ../lang.js:20
+msgid "Patchy sleet nearby"
+msgstr "Lluvia cerca"
+
+#: ../lang.js:21
+msgid "Patchy freezing drizzle nearby"
+msgstr "Llovizna congelación Nubes cercano"
+
+#: ../lang.js:22
+msgid "Thundery outbreaks in nearby"
+msgstr "Brotes Lluvia moderada"
+
+#: ../lang.js:23
+msgid "Blowing snow"
+msgstr "Chubascos de nieve"
+
+#: ../lang.js:24
+msgid "Blizzard"
+msgstr "Chubascos de nieve"
+
+#: ../lang.js:25
+msgid "Fog"
+msgstr "Niebla"
+
+#: ../lang.js:26
+msgid "Freezing fog"
+msgstr "Neblina"
+
+#: ../lang.js:27
+msgid "Patchy light drizzle"
+msgstr "Ligera lluvia"
+
+#: ../lang.js:28
+msgid "Light drizzle"
+msgstr "Leve llovizna"
+
+#: ../lang.js:29
+msgid "Freezing drizzle"
+msgstr "Llovizna helada"
+
+#: ../lang.js:30
+msgid "Heavy freezing drizzle"
+msgstr "Pesada llovizna helada"
+
+#: ../lang.js:31
+msgid "Patchy light rain"
+msgstr "Lluvia irregular"
+
+#: ../lang.js:32
+msgid "Light rain"
+msgstr "Lluvia ligera"
+
+#: ../lang.js:33
+msgid "Moderate rain at times"
+msgstr "Lluvia moderada a veces"
+
+#: ../lang.js:34
+msgid "Moderate rain"
+msgstr "Lluvia Moderada"
+
+#: ../lang.js:35
+msgid "Heavy rain at times"
+msgstr "Lluvias torrenciales a veces"
+
+#: ../lang.js:36
+msgid "Heavy rain"
+msgstr "Lluvias torrenciales"
+
+#: ../lang.js:37
+msgid "Light freezing rain"
+msgstr "Lluvias heladas ligeras"
+
+#: ../lang.js:38
+msgid "Moderate or Heavy freezing rain"
+msgstr "Lluvias heladas ligeras"
+
+#: ../lang.js:39
+msgid "Light sleet"
+msgstr "Aguanieve ligera"
+
+#: ../lang.js:40
+msgid "Moderate or heavy sleet"
+msgstr "Moderada o pesada aguanieve"
+
+#: ../lang.js:41
+msgid "Patchy light snow"
+msgstr "Nieve ligera desigual"
+
+#: ../lang.js:42
+msgid "Light snow"
+msgstr "Nieve ligera"
+
+#: ../lang.js:43
+msgid "Patchy moderate snow"
+msgstr "Parches nieve moderada"
+
+#: ../lang.js:44
+msgid "Moderate snow"
+msgstr "Nieve moderada"
+
+#: ../lang.js:45
+msgid "Patchy heavy snow"
+msgstr "Parches nevadas"
+
+#: ../lang.js:46
+msgid "Heavy snow"
+msgstr "Nieve"
+
+#: ../lang.js:47
+msgid "Ice pellets"
+msgstr "Pelotillas de hielo"
+
+#: ../lang.js:48
+msgid "Light rain shower"
+msgstr "Ducha de lluvia ligera"
+
+#: ../lang.js:49
+msgid "Moderate or heavy rain shower"
+msgstr "Moderada o fuerte lluvia"
+
+#: ../lang.js:50
+msgid "Torrential rain shower"
+msgstr "Lluvia torrencial"
+
+#: ../lang.js:51
+msgid "Light sleet showers"
+msgstr "Aguanieve ligera"
+
+#: ../lang.js:52
+msgid "Moderate or heavy sleet showers"
+msgstr "Moderados o fuertes precipitaciones de aguanieve"
+
+#: ../lang.js:53
+msgid "Light snow showers"
+msgstr "Nieve ligera"
+
+#: ../lang.js:54
+msgid "Moderate or heavy snow showers"
+msgstr "Fuertes chubascos de nieve"
+
+#: ../lang.js:55
+msgid "Light showers of ice pellets"
+msgstr "Lluvia de bolitas de hielo"
+
+#: ../lang.js:56
+msgid "Moderate or heavy showers of ice pellets"
+msgstr "Moderados o fuertes aguaceros de bolitas de hielo"
+
+#: ../lang.js:57
+msgid "Patchy light rain in area with thunder"
+msgstr "Lluvia irregular en la zona con truenos"
+
+#: ../lang.js:58
+msgid "Moderate or heavy rain in area with thunder"
+msgstr "Moderados o fuertes lluvias con truenos"
+
+#: ../lang.js:59
+msgid "Patchy light snow in area with thunder"
+msgstr "Nieve ligera irregular con truenos"
+
+#: ../lang.js:60
+msgid "Moderate or heavy snow in area with thunder"
+msgstr "Nieve moderada o pesada con trueno"
+
+#: ../lang.js:64
+msgid "Today"
+msgstr "Hoy"
+
+#: ../lang.js:65 ../media/exlporer.js:529 ../services.js:1504
+msgid "Home Media"
+msgstr "Home Media"
+
+#: ../lang.js:66 ../media/dvbepg.js:94 ../media/iptv.js:294
+#: ../media/modals.js:1088 ../services.js:1503
+msgid "IPTV channels"
+msgstr "Canales IPTV"
+
+#: ../lang.js:67 ../media/dvbepg.js:90 ../media/dvbtv.js:258
+#: ../services.js:1511
+msgid "DVB channels"
+msgstr "Canales DVB"
+
+#: ../lang.js:68 ../media/browsers/file.js:167
+#, fuzzy
+msgid "Favorites"
+msgstr "Favoritos"
+
+#: ../lang.js:69
+msgid "Internet Browser"
+msgstr "Navegador de Internet"
+
+#: ../lang.js:70
+msgid "Internet bookmarks"
+msgstr "Favoritos de Internet"
+
+#: ../lang.js:71 ../media/player.js:160 ../services.js:907
+msgid "Settings"
+msgstr "Configuración"
+
+#: ../lang.js:72
+msgid "Download manager"
+msgstr "Administrador de descargas"
+
+#: ../lang.js:73
+msgid "Internet services"
+msgstr "Servicios de Internet"
+
+#: ../lang.js:75
+#, fuzzy
+msgid "Apps"
+msgstr "Apps"
+
+#: ../lang.js:76
+msgid "Infomir Stalker"
+msgstr "Infomir Stalker"
+
+#: ../lang.js:77
+msgid "Menu Guide"
+msgstr "Guía del menú"
+
+#: ../lang.js:78
+msgid "Record manager"
+msgstr "Administrador de grabaciones"
+
+#: ../lang.js:79 ../menu.js:544
+msgid "Weather"
+msgstr "Tiempo"
+
+#: ../lang.js:80
+msgid "Weather in"
+msgstr "Tiempo en"
+
+#: ../lang.js:81
+msgid ""
+"The service is not available at the moment.<br /> Please try again later."
+msgstr ""
+"El servicio no está disponible por el momento.<br /> Inténtalo de nuevo más "
+"tarde."
+
+#: ../lang.js:82 ../services.js:944
+msgid "Setup Wizard"
+msgstr "Asistente de configuración"
+
+#: ../lang.js:83
+msgid "Select city"
+msgstr "Seleccione la ciudad"
+
+#: ../lang.js:84
+msgid "Weather is not found, select another city"
+msgstr "El tiempo no se encuentra, seleccione otra ciudad"
+
+#: ../lang.js:85
+msgid "<br>Do you want to save location?"
+msgstr "<br>Quieres guardar ubicación?"
+
+#: ../lang.js:86 ../media/player.js:791 ../services.js:2530
+msgid "Ok"
+msgstr "Ok"
+
+#: ../lang.js:87 ../master_settings/main.js:458 ../media/browsers/file.js:365
+#: ../media/browsers/file.js:411 ../media/browsers/file.js:420
+#: ../media/browsers/file.js:465 ../media/browsers/file.js:474
+#: ../media/dvbtv.js:113 ../media/dvbtv.js:169 ../media/dvbtv.js:400
+#: ../media/dvbtv.js:545 ../media/exlporer.js:1154 ../media/iptv.js:134
+#: ../media/iptv.js:957 ../media/modals.js:225 ../media/modals.js:532
+#: ../media/modals.js:745 ../media/modals.js:760 ../media/modals.js:903
+#: ../media/modals.js:986 ../media/modals.js:1107 ../media/modals.js:1618
+#: ../media/modals.js:1766 ../media/modals.js:1909 ../media/modals.js:2055
+#: ../media/modals.js:2261 ../media/modals.js:2464 ../media/modals.js:2738
+#: ../media/modals.js:3257 ../media/modals.js:3366 ../menu.js:124
+#: ../services.js:1405 ../services.js:1868 ../services.js:2529
+#: ../services.js:2534
+msgid "Cancel"
+msgstr "İptal"
+
+#: ../lang.js:88
+msgid "Loading service..."
+msgstr "Servicio de carga..."
+
+#: ../lang.js:89
+msgid "Service unavailable"
+msgstr "Servicio no disponible"
+
+#: ../lang.js:91
+msgid "Humidity"
+msgstr "Humedad"
+
+#: ../lang.js:92
+msgid "Wind"
+msgstr "Viento"
+
+#: ../lang.js:93
+msgid "N"
+msgstr "N"
+
+#: ../lang.js:94
+msgid "NE"
+msgstr "NE"
+
+#: ../lang.js:95
+msgid "E"
+msgstr "E"
+
+#: ../lang.js:96
+msgid "SE"
+msgstr "SE"
+
+#: ../lang.js:97
+msgid "S"
+msgstr "S"
+
+#: ../lang.js:98
+msgid "SW"
+msgstr "SO"
+
+#: ../lang.js:99
+msgid "W"
+msgstr "O"
+
+#: ../lang.js:100
+msgid "NW"
+msgstr "NO"
+
+#: ../lang.js:101
+msgid "m/s"
+msgstr "m/s"
+
+#: ../lang.js:102
+msgid "miles/h"
+msgstr "millas/h"
+
+#: ../lang.js:103
+msgid "Loading data. It may take some time."
+msgstr "Carga de datos. Puede tomar algún tiempo."
+
+#: ../lang.js:110
+msgid "English"
+msgstr "Inglés"
+
+#: ../lang.js:114
+msgid "Russian"
+msgstr "Ruso"
+
+#: ../lang.js:118
+msgid "Ukrainian"
+msgstr "Ucraniano"
+
+#: ../lang.js:122
+msgid "Belarusian"
+msgstr "Bielorruso"
+
+#: ../lang.js:126
+msgid "French"
+msgstr "Francés"
+
+#: ../lang.js:130
+msgid "German"
+msgstr "Alemán"
+
+#: ../lang.js:134
+msgid "Italian"
+msgstr "Italiano"
+
+#: ../lang.js:138
+msgid "Spanish"
+msgstr "Español"
+
+#: ../lang.js:142
+msgid "Portuguese"
+msgstr "Portugués"
+
+#: ../lang.js:146
+msgid "Swedish"
+msgstr "Sueco"
+
+#: ../lang.js:150
+msgid "Norwegian"
+msgstr "Noruego"
+
+#: ../lang.js:154
+msgid "Dutch"
+msgstr "Holandés"
+
+#: ../lang.js:158
+msgid "Serbian"
+msgstr "Serbio"
+
+#: ../lang.js:162
+msgid "Slovenian"
+msgstr "Esloveno"
+
+#: ../lang.js:166
+msgid "Croatian"
+msgstr "Croata"
+
+#: ../lang.js:170
+msgid "Albanian"
+msgstr "Albanés"
+
+#: ../lang.js:174
+msgid "Japanese"
+msgstr "Japonés"
+
+#: ../lang.js:178
+msgid "Chinese"
+msgstr "Chino"
+
+#: ../lang.js:182
+msgid "Korean"
+msgstr "Coreano"
+
+#: ../lang.js:186
+msgid "Vietnamese"
+msgstr "Vietnamita"
+
+#: ../lang.js:190
+msgid "Latvian"
+msgstr "Letón"
+
+#: ../lang.js:194
+msgid "Lithuanian"
+msgstr "Lituano"
+
+#: ../lang.js:198
+msgid "Estonian"
+msgstr "Estonia"
+
+#: ../lang.js:202
+msgid "Finnish"
+msgstr "Finlandés"
+
+#: ../lang.js:206
+msgid "Hungarian"
+msgstr "Húngaro"
+
+#: ../lang.js:210
+msgid "Czech"
+msgstr "Checo"
+
+#: ../lang.js:214
+msgid "Slovak"
+msgstr "Eslovaco"
+
+#: ../lang.js:218
+msgid "Bulgarian"
+msgstr "Búlgaro"
+
+#: ../lang.js:222
+msgid "Polish"
+msgstr "Polaco"
+
+#: ../lang.js:226
+msgid "Romanian"
+msgstr "Rumano"
+
+#: ../lang.js:230
+msgid "Greek"
+msgstr "Griego"
+
+#: ../lang.js:234
+msgid "Hebrew"
+msgstr "Hebreo"
+
+#: ../lang.js:238
+msgid "Turkish"
+msgstr "Turco"
+
+#: ../lang.js:242
+msgid "Danish"
+msgstr "Danés"
+
+#: ../lang.js:246
+msgid "Icelandic"
+msgstr "Islandés"
+
+#: ../lang.js:250
+msgid "Hindi"
+msgstr "Hindi"
+
+#: ../lang.js:254
+msgid "Bengali"
+msgstr "Bengalí"
+
+#: ../lang.js:258
+msgid "Arabic"
+msgstr "Árabe"
+
+#: ../lang.js:262
+msgid "Armenian"
+msgstr "Armenio"
+
+#: ../lang.js:266
+msgid "Georgian"
+msgstr "Georgiano"
+
+#: ../lang.js:270
+msgid "Azerbaijani"
+msgstr "Azerbaiyán"
+
+#: ../lang.js:274
+msgid "Bashkir"
+msgstr "Bashkir"
+
+#: ../lang.js:278
+msgid "Basque"
+msgstr "Vasco"
+
+#: ../lang.js:282
+msgid "Bosnian"
+msgstr "Bosnio"
+
+#: ../lang.js:286
+msgid "Buriat"
+msgstr "Buriat"
+
+#: ../lang.js:290
+msgid "Burmese"
+msgstr "Birmano"
+
+#: ../lang.js:294
+msgid "Chechen"
+msgstr "Chechenia"
+
+#: ../lang.js:298
+msgid "Welsh"
+msgstr "Galés"
+
+#: ../lang.js:302
+msgid "Dzongkha"
+msgstr "Dzongkha"
+
+#: ../lang.js:306
+msgid "Esperanto"
+msgstr "Esperanto"
+
+#: ../lang.js:310
+msgid "Persian"
+msgstr "Persa"
+
+#: ../lang.js:314
+msgid "Irish"
+msgstr "Irlandés"
+
+#: ../lang.js:318
+msgid "Gujarati"
+msgstr "Gujarati"
+
+#: ../lang.js:322
+msgid "Indonesian"
+msgstr "Indones"
+
+#: ../lang.js:326
+msgid "Iranian"
+msgstr "Iraní"
+
+#: ../lang.js:330
+msgid "Kashmiri"
+msgstr "Kashmiri"
+
+#: ../lang.js:334
+msgid "Kazakh"
+msgstr "Kazakh"
+
+#: ../lang.js:338
+msgid "Kabardian"
+msgstr "Kabardiano"
+
+#: ../lang.js:342
+msgid "Komi"
+msgstr "Komi"
+
+#: ../lang.js:346
+msgid "Karelian"
+msgstr "Carelio"
+
+#: ../lang.js:350
+msgid "Kurdish"
+msgstr "Kurdo"
+
+#: ../lang.js:354
+msgid "Marathi"
+msgstr "Marathi"
+
+#: ../lang.js:358
+msgid "Macedonian"
+msgstr "Macedonio"
+
+#: ../lang.js:362
+msgid "Nepali"
+msgstr "Nepali"
+
+#: ../lang.js:366
+msgid "Ossetian"
+msgstr "Oseto"
+
+#: ../lang.js:370
+msgid "Yakut"
+msgstr "Yakut"
+
+#: ../lang.js:374
+msgid "Somali"
+msgstr "Somalí"
+
+#: ../lang.js:378
+msgid "Tamil"
+msgstr "Tamil"
+
+#: ../lang.js:382
+msgid "Tatar"
+msgstr "Tártaro"
+
+#: ../lang.js:386
+msgid "Telugu"
+msgstr "Telugu"
+
+#: ../lang.js:390
+msgid "Tajik"
+msgstr "Tajik"
+
+#: ../lang.js:394
+msgid "Thai"
+msgstr "Tailandés"
+
+#: ../lang.js:398
+msgid "Turkmen"
+msgstr "Turkomano"
+
+#: ../lang.js:402
+msgid "Udmurt"
+msgstr "Udmurto"
+
+#: ../lang.js:406
+msgid "Urdu"
+msgstr "Urdu"
+
+#: ../lang.js:410
+msgid "Uzbek"
+msgstr "Uzbeco"
+
+#: ../lang.js:414
+msgid "Kalmyk"
+msgstr "Calmuco"
+
+#: ../lang.js:418
+msgid "Tibetan"
+msgstr "Tibetano"
+
+#: ../lang.js:422
+msgid "Yiddish"
+msgstr "Yídish"
+
+#: ../master_settings/main.js:344
+msgid "Welcome"
+msgstr "Bienvenido"
+
+#: ../master_settings/main.js:345
+msgid "Select language"
+msgstr "Seleccionar idioma"
+
+#: ../master_settings/main.js:349 ../master_settings/main.js:351
+#: ../master_settings/main.js:391
+msgid ""
+"Use Up and Down, Left and Right buttons for selecting. Press OK button to "
+"confirm."
+msgstr ""
+"Utilice las teclas Arriba y Abajo, Izquierda y Derecha para seleccionar "
+"botones."
+
+#: ../master_settings/main.js:357 ../master_settings/main.js:395
+#: ../master_settings/main.js:416 ../master_settings/main.js:438
+#: ../master_settings/main.js:462 ../master_settings/main.js:495
+#: ../master_settings/main.js:514 ../master_settings/main.js:548
+#: ../master_settings/main.js:578 ../master_settings/main.js:601
+#: ../master_settings/main.js:645 ../master_settings/main.js:678
+#: ../master_settings/main.js:696 ../media/dvbepg.js:40 ../media/dvbtv.js:329
+#: ../media/exlporer.js:604 ../media/iptv.js:369 ../media/player.js:156
+#: ../menu.js:126 ../menu.js:549 ../services.js:992
+msgid "Exit"
+msgstr "Çıkış"
+
+#: ../master_settings/main.js:389
+msgid "AuraHD Setup Wizard"
+msgstr "Asistente de configuración AuraHD"
+
+#: ../master_settings/main.js:390
+msgid ""
+"Use the SetUp Wizard to edit Internet access settings, select display "
+"options and set your time zone"
+msgstr ""
+"Utilice el asistente de configuración para editar la configuración de acceso "
+"a Internet, seleccione las opciones de visualización y configurar su zona "
+"horaria"
+
+#: ../master_settings/main.js:390
+msgid "Run the Setup Wizard"
+msgstr "Ejecute el Asistente de configuración"
+
+#: ../master_settings/main.js:390
+msgid "Set up manually later"
+msgstr "Configurar manualmente más tarde"
+
+#: ../master_settings/main.js:410
+msgid "Step 1: Connecting to your TV"
+msgstr "Paso 1: Conexión al televisor"
+
+#: ../master_settings/main.js:411
+msgid ""
+"For optimal display settings, specify your TV model and AuraHD connection "
+"type. Please, read the TV user guide before you do it."
+msgstr ""
+"Para la configuración óptima de visualización, especifique su modelo e TV y "
+"AuraHD tipo de conexión. Por favor, lea la guía de usuario del televisor "
+"antes de hacerlo."
+
+#: ../master_settings/main.js:411
+msgid "RCA cable"
+msgstr "Calbe RCA"
+
+#: ../master_settings/main.js:411
+msgid "HDMI cable"
+msgstr "Cable HDMI"
+
+#: ../master_settings/main.js:411
+msgid "Attention:"
+msgstr "Atención:"
+
+#: ../master_settings/main.js:411
+msgid ""
+"For TVs with the HDMI interface, we recommend to use an HDMI cable for "
+"connecting AuraHD to maximize image quality (HD or Full HD)."
+msgstr ""
+"Para televisores con el interfaz de HDMI, le recomendamos que utilice un "
+"cable HDMI para conectar AuraHD para maximizar la calidad de imagen (HD o "
+"Full HD)."
+
+#: ../master_settings/main.js:432
+msgid "Step 2: Connecting AuraHD to LAN and/or to the Internet"
+msgstr "Paso 2: Conexión AuraHD de LAN o Internet"
+
+#: ../master_settings/main.js:433
+msgid ""
+"Active AuraHD Internet connection gives you access to web resources from "
+"your TV and also makes it possible to view media files located on your "
+"computer or local network. Select the connection type:"
+msgstr ""
+"Conexión a Internet AuraHD activo le da acceso a los recursos web de su "
+"televisor y también hace que sea posible ver los archivos multimedia "
+"ubicados en su ordenador o red local. Seleccione el tipo de conexión:"
+
+#: ../master_settings/main.js:433
+msgid "Wired"
+msgstr "Acelerado"
+
+#: ../master_settings/main.js:433
+msgid "Wireless"
+msgstr "Wireless"
+
+#: ../master_settings/main.js:433 ../master_settings/main.js:597
+msgid "Skip"
+msgstr "Omitir"
+
+#: ../master_settings/main.js:453
+msgid "Step 2.3: Checking wireless network and Internet connection"
+msgstr "Paso 2.3: Comprobación de la red y conexión a Internet inalámbrica"
+
+#: ../master_settings/main.js:453
+msgid "Step 2.1: Checking local network and Internet connection"
+msgstr "Paso 2.1: Comprobación de la red y de Internet conexión local"
+
+#: ../master_settings/main.js:455
+msgid "Checking wireless network"
+msgstr "Comprobación de la red inalámbrica"
+
+#: ../master_settings/main.js:455
+msgid "Checking local network connection"
+msgstr "Comprobación de la conexión de red local"
+
+#: ../master_settings/main.js:455 ../master_settings/main.js:456
+#: ../master_settings/main.js:777 ../master_settings/main.js:791
+#: ../master_settings/main.js:813 ../master_settings/main.js:825
+#: ../master_settings/main.js:884 ../media/player.js:566 ../media/player.js:567
+#: ../media/player.js:571 ../media/player.js:572 ../media/player.js:573
+#: ../services.js:1645
+msgid "sec."
+msgstr "seg."
+
+#: ../master_settings/main.js:456
+msgid "Checking Internet connection"
+msgstr "Comprobación de conexión a Internet"
+
+#: ../master_settings/main.js:458 ../master_settings/main.js:489
+#: ../master_settings/main.js:490
+msgid "Information"
+msgstr "Información"
+
+#: ../master_settings/main.js:458
+msgid "Refresh"
+msgstr "Actualizar"
+
+#: ../master_settings/main.js:490
+msgid ""
+"To access additional/advanced settings in the Main Menu, press the SET/SETUP "
+"button on the remote control."
+msgstr ""
+"Para acceder a la configuración adicional / avanzados en el menú principal, "
+"pulse el botón SET / SETUP en el control remoto."
+
+#: ../master_settings/main.js:491 ../master_settings/main.js:674
+#: ../master_settings/main.js:1089 ../media/browsers/file.js:50
+#: ../media/browsers/file.js:258 ../media/browsers/file.js:289
+#: ../media/browsers/file.js:320 ../media/browsers/file.js:788
+#: ../media/browsers/file.js:799 ../media/browsers/file.js:843
+#: ../media/browsers/file.js:845 ../media/browsers/file.js:847
+#: ../media/browsers/upnp.js:19 ../media/browsers/upnp.js:172
+#: ../media/dvblist.js:486 ../media/exlporer.js:1148 ../media/exlporer.js:1194
+#: ../media/iptv.js:385 ../media/modals.js:710 ../media/modals.js:724
+#: ../media/modals.js:729 ../media/modals.js:733 ../media/modals.js:756
+#: ../media/modals.js:785 ../media/player.js:445 ../media/player.js:788
+#: ../media/player.js:1458 ../media/player.js:2055 ../media/player.js:2255
+#: ../media/player.js:2859 ../media/player.js:2928 ../media/player.js:2942
+#: ../media/player.js:2982 ../media/tvlist.js:528 ../menu.js:1035
+#: ../menu.js:1045 ../menu.js:1130
+msgid "Close"
+msgstr "Cerrar"
+
+#: ../master_settings/main.js:508
+msgid "Step 2.1: Connecting to the Wireless LAN"
+msgstr "Paso 2.1: Conexión a la LAN inalámbrica"
+
+#: ../master_settings/main.js:509
+msgid "Select LAN"
+msgstr "Seleccione LAN"
+
+#: ../master_settings/main.js:509
+msgid "Select preferred wireless LAN or set it up manually"
+msgstr "Seleccione LAN inalámbrica preferida o configurarlo manualmente"
+
+#: ../master_settings/main.js:525
+msgid "Manual settings"
+msgstr "Ajustes manuales"
+
+#: ../master_settings/main.js:542
+msgid "Step 2.2: Password"
+msgstr "Paso 2.2: Contraseña"
+
+#: ../master_settings/main.js:543 ../master_settings/main.js:573
+#: ../media/browsers/file.js:419 ../media/browsers/file.js:473
+#: ../media/modals.js:158 ../services.js:2039
+#, fuzzy
+msgid "Password"
+msgstr "Contraseña:"
+
+#: ../master_settings/main.js:544 ../master_settings/main.js:597
+#: ../master_settings/main.js:913 ../master_settings/main.js:919
+msgid "Next"
+msgstr "Siguiente"
+
+#: ../master_settings/main.js:544 ../master_settings/main.js:574
+#: ../master_settings/main.js:597
+msgid "Keyboard"
+msgstr "Teclado"
+
+#: ../master_settings/main.js:572
+msgid "Step 2.2: Advanced settings"
+msgstr "Paso 2.2: Configuración avanzada"
+
+#: ../master_settings/main.js:573
+msgid "Authentication:"
+msgstr "Autenticación:"
+
+# menu item
+#: ../master_settings/main.js:573 ../media/dvbtv.js:145
+#: ../media/exlporer.js:385 ../media/iptv.js:245
+msgid "Open"
+msgstr "Abrir"
+
+#: ../master_settings/main.js:573
+msgid "Shared key"
+msgstr "Clave compartida"
+
+#: ../master_settings/main.js:573
+msgid "Auto Open/Shared key"
+msgstr "Apertura automática clave compartida"
+
+#: ../master_settings/main.js:573
+msgid "Encryption:"
+msgstr "Codificación:"
+
+#: ../master_settings/main.js:573 ../media/player.js:471 ../media/player.js:565
+#: ../media/player.js:3552 ../media/player.js:3583 ../media/player.js:3645
+#: ../services.js:1457 ../services.js:1538 ../services.js:1552
+#: ../services.js:1563 ../services.js:1607 ../services.js:2099
+msgid "Disabled"
+msgstr "Desabilitar"
+
+#: ../master_settings/main.js:573
+msgid "SSID (network):"
+msgstr "(Red) SSID:"
+
+#: ../master_settings/main.js:574
+msgid "Select/Next"
+msgstr "Seleccione / Siguiente"
+
+#: ../master_settings/main.js:595
+msgid "Step 3: Weather forecast"
+msgstr "Paso 3: Pronóstico del tiempo"
+
+#: ../master_settings/main.js:596
+msgid "Weather forecast"
+msgstr "Pronóstico del tiempo"
+
+#: ../master_settings/main.js:596
+msgid "Select your city and press OK"
+msgstr "Seleccione su ciudad y presione OK"
+
+#: ../master_settings/main.js:639
+msgid "Step 4: Time zone"
+msgstr "Paso 4: La zona horaria"
+
+#: ../master_settings/main.js:640
+msgid "Select your time zone"
+msgstr "Seleccione su zona horaria"
+
+#: ../master_settings/main.js:672
+msgid "Setup completed"
+msgstr "Instalación completa"
+
+#: ../master_settings/main.js:673
+msgid "Thank you!"
+msgstr "¡Gracias!"
+
+#: ../master_settings/main.js:673
+msgid ""
+"The Setup Wizard is complete. All selected settings will be stored in the "
+"device’s memory. To edit the system settings any time, press SET or SETUP on "
+"your remote control and open the Main Menu."
+msgstr ""
+"El asistente de configuración se ha completado. Todos los ajustes "
+"seleccionados se almacenan en la memoria del dispositibo. Para editar  la "
+"configuración del sistema en cualquier momento, pulse SET o SETUP del mando "
+"a distancia y abrir el menú principal."
+
+#: ../master_settings/main.js:690
+msgid "Terms of use"
+msgstr "Condiciones de uso"
+
+#: ../master_settings/main.js:691
+msgid ""
+"&nbsp;&nbsp;Dear user, please read the terms and conditions for services "
+"integrated into AuraHD  device.<br />&nbsp;&nbsp;The AuraHD network media "
+"player is directly intended for digital content playback from the Internet "
+"(media files including streaming video), LANs and removable media including "
+"flash memory connected via USB port. The manufacturer is not responsible for "
+"quality and stability of the web services integrated into the device's "
+"software. The manufacturer also reserves the right to make occasional "
+"changes to the device's software and interface without prior notice in order "
+"to modify or improve its function.<br />&nbsp;&nbsp;Services by third "
+"parties offered in the AuraHD’s menu (Online Cinema, web services) are "
+"provided \"as is\" without warranty of any kind. The manufacturer cannot "
+"guarantee accuracy, timeliness, validity, completeness, compliance with any "
+"standards and laws or supplier's declaration of the service characteristics. "
+"The services are transferred by third parties via networks and data transfer "
+"means beyond the control of the device’s manufacturer.<br />&nbsp;&nbsp;If "
+"you do not agree to these terms and conditions for services integrated into "
+"the AuraHD device, please stop using it and return the device to the store "
+"where it was purchased within 14 days of purchase."
+msgstr ""
+"&nbsp;&nbsp;Estimado usuario, por favor lea los términos y condiciones "
+"deservicios integrados en el dispositivo AuraHD. <br />&nbsp;&nbsp; La red "
+"AuraHD media media player directamente está destinado a reproducción de "
+"contenido digital de Internet (archivos multimedia incluyendo video "
+"streaming), LANs y extraíbles, incluyendo conectado mediante un puerto USB "
+"de memoria flash. El fabricante no es responsable por la calidad y "
+"estabilidad de los servicios web integrados en el software del dispositivo. "
+"<br />&nbsp;&nbsp;Interfaz sin previo aviso con el fin de modificar o "
+"mejorar su función por parte de terceros ofrecidos en el menú AuraHDs (cine "
+"Online, servicios web) se proporciona sin garantía de ningún tipo y el "
+"fabricante reserva el derecho a realizar cambios ocasionales al software del "
+"dispositivo. \"as is\" El fabricante no puede garantizar la la puntualidad, "
+"validez, exactitud, exhaustividad, conformidad con las normas y leyes o "
+"declaración de las características de servicio del proveedor. br />&nbsp;"
+"&nbsp; Los servicios son transferidos por terceros mediante redes y datos "
+"transferencia significa más allá del control de los fabricantes de "
+"dispositivos que no acepta estos términos y condiciones de servicios "
+"integrados en el dispositivo de AuraHD, por favor deja de usarlo y devuelva "
+"el aparato a la tienda donde lo compró dentro de 14 días de la compra."
+
+#: ../master_settings/main.js:692
+msgid "Continue"
+msgstr "Continuar"
+
+#: ../master_settings/main.js:905
+msgid ""
+"Unfortunately, the Setup Wizard was unable to connect your device to LAN and "
+"Internet.<br />Please, check general connection terms:<br /> - the Ethernet "
+"cable connected to the appropriate slot of the device;<br /> - Wi-Fi status."
+"<br />Try to connect again."
+msgstr ""
+"Desafortunadamente, el asistente de configuración no puede conectar el "
+"dispositivo a la red LAN e Internet.<br />Por favor, compruebe la conexión "
+"términos generales:<br /> - El cable Ethernet conectado a la ranura "
+"correspondiente del dispositivo;<br /> - El estado de Wi-Fi."
+
+#: ../master_settings/main.js:911
+msgid ""
+"Network connection successful. No Internet connection.<br />Possibly, no "
+"access to external services.<br />Check your Internet connection status."
+msgstr ""
+"Conexión a la red con éxito. No hay conexión a internet.<br />Posiblemente, "
+"sin acceso a servicios externos.<br />Compruebe el estado de conexión a "
+"Internet."
+
+#: ../master_settings/main.js:917
+msgid "Wireless network connection successful. Internet connection available."
+msgstr "Conexión de red inalámbrica con éxito. Conexión a Internet disponible"
+
+#: ../master_settings/main.js:917
+msgid "Network connection successful. Internet connection available."
+msgstr "Conexión de red exitosa. Conexión a Internet disponible."
+
+#: ../master_settings/main.js:1089
+msgid "Notice"
+msgstr "Aviso"
+
+#: ../master_settings/main.js:1089
+msgid "Wi-Fi adapter not connected"
+msgstr "Adaptador Wi-Fi no conectado"
+
+#: ../media/browsers/file.js:50 ../media/browsers/file.js:257
+#: ../media/browsers/file.js:288 ../media/browsers/file.js:319
+#: ../media/browsers/file.js:799 ../media/browsers/upnp.js:19
+#: ../media/browsers/upnp.js:171 ../media/dvblist.js:486 ../media/player.js:447
+#: ../media/player.js:2057 ../media/player.js:2257 ../media/player.js:2859
+#: ../media/player.js:2928 ../media/player.js:2944 ../media/player.js:2984
+#: ../media/tvlist.js:528 ../media/tvlist.js:689 ../media/tvlist.js:729
+#: ../menu.js:1035 ../menu.js:1130 ../services.js:1670 ../services.js:1687
+#: ../services.js:1701 ../services.js:1719
+msgid "Error"
+msgstr "Error"
+
+#: ../media/browsers/file.js:50 ../media/browsers/upnp.js:19
+#: ../media/dvblist.js:486 ../media/tvlist.js:528
+msgid "Unknown type of selected item"
+msgstr "Elemento selecionado desconocido"
+
+#: ../media/browsers/file.js:146 ../media/modals.js:2684
+msgid "Network"
+msgstr "Red"
+
+#: ../media/browsers/file.js:164
+msgid "Records"
+msgstr "Archivos"
+
+#: ../media/browsers/file.js:203 ../media/dvbtv.js:595 ../media/exlporer.js:936
+#: ../media/iptv.js:861
+msgid "The list of favourite records has changed"
+msgstr "La lista de los discos favoritos ha cambiado"
+
+#: ../media/browsers/file.js:204 ../media/dvbtv.js:596 ../media/exlporer.js:937
+#: ../media/iptv.js:862
+msgid "Save updated list of favourite records?"
+msgstr "Guardar lista actualizada de los discos favoritos?"
+
+#: ../media/browsers/file.js:205 ../media/dvbtv.js:569 ../media/dvbtv.js:597
+#: ../media/exlporer.js:938 ../media/iptv.js:829 ../media/iptv.js:863
+msgid "Exit without saving"
+msgstr "Çıkış sin guardar"
+
+#: ../media/browsers/file.js:210 ../media/dvbtv.js:579 ../media/dvbtv.js:604
+#: ../media/exlporer.js:945 ../media/iptv.js:845 ../media/iptv.js:870
+#: ../media/modals.js:229 ../media/modals.js:1112 ../media/modals.js:1769
+#: ../media/modals.js:1912 ../media/modals.js:2059 ../media/modals.js:2265
+#: ../media/modals.js:3261 ../services.js:1003 ../services.js:1408
+msgid "Save"
+msgstr "Guardar"
+
+#: ../media/browsers/file.js:257
+msgid "Unable to get working group list"
+msgstr "No se puede obtener la lista de grupos de trabajo"
+
+#: ../media/browsers/file.js:288
+msgid "Unable to get working group servers"
+msgstr "No se puede obtener servidores de grupos de trabajo"
+
+#: ../media/browsers/file.js:319
+msgid "Unable to get server shares"
+msgstr "No es posible obtener recursos compartidos del servidor"
+
+#: ../media/browsers/file.js:363
+msgid "Multimedia content"
+msgstr "Contenido Multimedia"
+
+#: ../media/browsers/file.js:364
+msgid "The directory contains DVD or Blu-ray structure.<br>Begin playing?"
+msgstr ""
+"El directorio contiene estructura DVD o Blu-ray.<br>Comenzar a reproducir"
+
+#: ../media/browsers/file.js:367 ../media/browsers/file.js:413
+#: ../media/browsers/file.js:467 ../media/dvbtv.js:115 ../media/dvbtv.js:171
+#: ../media/exlporer.js:1156 ../media/iptv.js:136 ../media/iptv.js:959
+#: ../media/player.js:449 ../media/player.js:2059 ../media/player.js:2259
+#: ../media/player.js:2676 ../media/player.js:2903 ../media/player.js:2946
+#: ../media/player.js:2986 ../services.js:2534
+msgid "Yes"
+msgstr "Si"
+
+#: ../media/browsers/file.js:409 ../media/browsers/file.js:463
+msgid "Network connection"
+msgstr "Conexión de red exitosa. "
+
+#: ../media/browsers/file.js:410 ../media/browsers/file.js:464
+msgid ""
+"Unable to mount the folder.<br>Authorization may be necessary.<br>Specify "
+"login and password?"
+msgstr ""
+"Desafortunadamente, el asistente de configuración no puede conectar el "
+"dispositivo a la red LAN e Internet.<br />Por favor, compruebe la conexión "
+"términos generales:<br /> - El cable Ethernet conectado a la ranura "
+"correspondiente del dispositivo;<br /> - El estado de Wi-Fi."
+
+#: ../media/browsers/file.js:417 ../media/browsers/file.js:471
+msgid "Authorization"
+msgstr "Autorización"
+
+#: ../media/browsers/file.js:418 ../media/browsers/file.js:472
+#: ../media/modals.js:154
+msgid "Login:"
+msgstr "Iniciar sesión:"
+
+#: ../media/browsers/file.js:422 ../media/browsers/file.js:476
+#: ../media/modals.js:1006
+msgid "Connection"
+msgstr "Conexión"
+
+#: ../media/browsers/file.js:429 ../media/browsers/file.js:483
+#: ../media/browsers/upnp.js:73 ../media/modals.js:330 ../media/modals.js:398
+msgid "Unable to connect to the resource<br>with the given parameters"
+msgstr "No se puede conectar al recurso <br>con los parámetros dados"
+
+#: ../media/browsers/file.js:682 ../media/browsers/file.js:688
+#, fuzzy
+msgid "Selected subtitle will appear<br>during next player launch"
+msgstr "Selected subtitle will appear<br>during next player launch"
+
+#: ../media/browsers/file.js:787
+msgid "New settings"
+msgstr ""
+
+#: ../media/browsers/file.js:787
+msgid "New settings were found. Please reboot the device for activation."
+msgstr ""
+
+#: ../media/browsers/file.js:799
+msgid "No records in this playlist"
+msgstr "No hay registros en esta lista de reproducción"
+
+#: ../media/browsers/file.js:843 ../media/browsers/file.js:845
+#: ../media/browsers/file.js:847
+msgid "Add to IPTV channels"
+msgstr "Añadir a los canales de IPTV"
+
+#: ../media/browsers/file.js:843
+msgid "Unable to add the selected records"
+msgstr "No se puede agregar los registros seleccionados"
+
+#: ../media/browsers/file.js:845
+msgid "No new channels for selected records"
+msgstr "No hay nuevos canales para los registros seleccionados"
+
+#: ../media/browsers/file.js:847
+msgid "Channels added successfully:"
+msgstr "Canales agregados con éxito:"
+
+#: ../media/browsers/file.js:848
+msgid "Go to IPTV channels"
+msgstr "Ir a los canales de IPTV"
+
+#: ../media/browsers/upnp.js:171
+#, fuzzy
+msgid "Unable to get dlna group servers"
+msgstr "No se puede obtener servidores de grupos de trabajo"
+
+#: ../media/browsers/upnp.js:185 ../media/browsers/upnp.js:187
+#: ../media/browsers/upnp.js:203 ../media/browsers/upnp.js:205
+msgid "Loading..."
+msgstr "Cargando..."
+
+#: ../media/dvbepg.js:56 ../media/iptv.js:383
+msgid "Record"
+msgstr "Grabar"
+
+#: ../media/dvbepg.js:61
+msgid "Now"
+msgstr "Ahora"
+
+#: ../media/dvbepg.js:183 ../media/dvbtv.js:677 ../media/iptv.js:991
+#: ../media/player.js:1463
+msgid "Recording channel"
+msgstr "Grabación de canal"
+
+#: ../media/dvblist.js:110 ../media/dvblist.js:332 ../media/dvbtv.js:61
+msgid "Frequency"
+msgstr "Frecuencia"
+
+#: ../media/dvblist.js:327
+msgid ""
+"Contains the list of items which are corresponding to the given filter "
+"request"
+msgstr ""
+"Contiene la lista de elementos correspondientes a la solicitud del filtro "
+"dado"
+
+#: ../media/dvbtv.js:62
+msgid "Total found"
+msgstr "Total encontrado"
+
+#: ../media/dvbtv.js:63
+msgid "Last found"
+msgstr "Último encontrado"
+
+#: ../media/dvbtv.js:84 ../media/exlporer.js:249 ../media/iptv.js:98
+msgid "Operations"
+msgstr "Operaciones"
+
+#: ../media/dvbtv.js:111 ../media/dvbtv.js:167 ../media/exlporer.js:1152
+#: ../media/iptv.js:132
+msgid "Confirm deletion"
+msgstr "Confirmar eliminación"
+
+#: ../media/dvbtv.js:112 ../media/dvbtv.js:168 ../media/exlporer.js:1153
+#: ../media/iptv.js:133 ../media/iptv.js:956
+msgid "Are you sure you want to delete"
+msgstr "Está seguro que desea eliminar"
+
+#: ../media/dvbtv.js:112 ../media/exlporer.js:1153 ../media/iptv.js:133
+#: ../media/iptv.js:956
+msgid "all entries selected?"
+msgstr "Todas las entradas seleccionadas?"
+
+#: ../media/dvbtv.js:112 ../media/exlporer.js:1153 ../media/iptv.js:133
+#: ../media/iptv.js:956
+msgid "current entry?"
+msgstr "Entrada actual?"
+
+# menu item
+#: ../media/dvbtv.js:146 ../media/exlporer.js:392 ../media/iptv.js:247
+msgid "Select all"
+msgstr "Selecionar todo"
+
+# menu item
+#: ../media/dvbtv.js:147 ../media/exlporer.js:397 ../media/iptv.js:248
+msgid "Deselect all"
+msgstr "Desmarcar todo"
+
+# menu item
+#: ../media/dvbtv.js:148 ../media/exlporer.js:398 ../media/iptv.js:249
+msgid "Invert selection"
+msgstr "Invertir selección"
+
+# menu item
+#: ../media/dvbtv.js:149 ../media/exlporer.js:402 ../media/iptv.js:253
+msgid "Delete"
+msgstr "Eliminar"
+
+#: ../media/dvbtv.js:152
+msgid "DVB menu"
+msgstr "Menú DVB"
+
+#: ../media/dvbtv.js:168
+msgid "all entries?"
+msgstr "Todas las entradas seleccionadas?"
+
+#: ../media/dvbtv.js:199 ../media/iptv.js:268 ../media/iptv.js:282
+#: ../media/player.js:496 ../media/player.js:514
+msgid "EPG"
+msgstr "EPG"
+
+#: ../media/dvbtv.js:200 ../media/iptv.js:283 ../media/player.js:515
+#, fuzzy
+msgid "EPG grid "
+msgstr "EPG grid "
+
+#: ../media/dvbtv.js:201
+msgid "Auto scan"
+msgstr "Escaneo automático"
+
+#: ../media/dvbtv.js:202
+msgid "Manual scan"
+msgstr "Escaneo manual"
+
+#: ../media/dvbtv.js:203
+msgid "Clear list"
+msgstr "Limpiar lista"
+
+#: ../media/dvbtv.js:205 ../services.js:1974
+#, fuzzy
+msgid "Antenna type"
+msgstr "Fuente de alimentación antena"
+
+#: ../media/dvbtv.js:228 ../services.js:1582 ../services.js:1974
+#, fuzzy
+msgid "Active"
+msgstr "Activo"
+
+#: ../media/dvbtv.js:229 ../services.js:1974
+msgid "Passive"
+msgstr ""
+
+#: ../media/dvbtv.js:262
+msgid "Enter name..."
+msgstr "Introdusca nombre..."
+
+#: ../media/dvbtv.js:340 ../media/exlporer.js:611 ../media/iptv.js:379
+#, fuzzy
+msgid "Menu"
+msgstr "Menu"
+
+# menu item
+#: ../media/dvbtv.js:343 ../media/exlporer.js:391 ../media/exlporer.js:613
+#: ../media/iptv.js:246 ../media/iptv.js:391
+msgid "Select"
+msgstr "Selecionar"
+
+#: ../media/dvbtv.js:346 ../media/exlporer.js:614 ../media/iptv.js:394
+#: ../media/player.js:162 ../media/player.js:341 ../media/player.js:1667
+#: ../media/player.js:1956
+#, fuzzy
+msgid "Add to<br>favorites"
+msgstr "Agregar<br>a favoritos"
+
+#: ../media/dvbtv.js:349 ../media/exlporer.js:615 ../media/iptv.js:397
+#: ../media/player.js:339 ../media/player.js:1654 ../media/player.js:1954
+#, fuzzy
+msgid "Remove from<br>favorites"
+msgstr "Quitar<br>de favoritos"
+
+#: ../media/dvbtv.js:398
+msgid "No DVB channels"
+msgstr "No hay canales DVB"
+
+#: ../media/dvbtv.js:399
+msgid "Start auto scan?"
+msgstr "Iniciar escaneo automático?"
+
+#: ../media/dvbtv.js:401 ../services.js:1807
+msgid "Start"
+msgstr "Comenzar"
+
+#: ../media/dvbtv.js:544
+msgid "Scanning"
+msgstr "Explorar"
+
+#: ../media/dvbtv.js:544
+msgid "Stop scanning?"
+msgstr "Detener la exploración?"
+
+#: ../media/dvbtv.js:546
+msgid "Stop"
+msgstr "Detener"
+
+#: ../media/dvbtv.js:567
+msgid "DVB channel list was changed"
+msgstr "Lista de canales DVB fue cambiada"
+
+#: ../media/dvbtv.js:568
+msgid "Save updated DVB channel list?"
+msgstr "Guardar la lista actualizada de canales DVB?"
+
+#: ../media/dvbtv.js:677 ../media/player.js:1463
+msgid "Group name"
+msgstr "Nombre del grupo"
+
+#: ../media/epggrid.js:473
+#, fuzzy
+msgid "EPG is missing"
+msgstr "EPG is missing"
+
+#: ../media/exlporer.js:57
+msgid "Duration:"
+msgstr "Duración:"
+
+# menu item
+#: ../media/exlporer.js:386
+msgid "Open selected"
+msgstr "Abrir seleccionado"
+
+# menu item
+#: ../media/exlporer.js:387
+msgid "Mount"
+msgstr "Montar"
+
+# menu item
+#: ../media/exlporer.js:388
+msgid "Mount share"
+msgstr "Montar recursos compartidos"
+
+# menu item
+#: ../media/exlporer.js:389
+msgid "Unmount share"
+msgstr "Desmontar recursos compartidos"
+
+# menu item
+#: ../media/exlporer.js:390
+msgid "Edit share"
+msgstr "Editar acciones"
+
+# menu item
+#: ../media/exlporer.js:394
+#, fuzzy
+msgid "Add to favorites"
+msgstr "Agregar a favoritos"
+
+# menu item
+#: ../media/exlporer.js:395
+#, fuzzy
+msgid "Remove from favorites"
+msgstr "Eliminar de favoritos"
+
+# menu item
+#: ../media/exlporer.js:399 ../media/iptv.js:250
+msgid "Cut"
+msgstr "Cortar"
+
+# menu item
+#: ../media/exlporer.js:400 ../media/iptv.js:251 ../media/modals.js:1120
+msgid "Copy"
+msgstr "Copiar"
+
+# menu item
+#: ../media/exlporer.js:401 ../media/iptv.js:252
+msgid "Paste"
+msgstr "Pegar"
+
+#: ../media/exlporer.js:408
+msgid "View"
+msgstr "Vista"
+
+# menu item
+#: ../media/exlporer.js:440
+msgid "All"
+msgstr "Todo"
+
+# menu item
+#: ../media/exlporer.js:441
+msgid "Folders"
+msgstr "Carpetas"
+
+# menu item
+#: ../media/exlporer.js:442
+msgid "Audio"
+msgstr "Audio"
+
+#: ../media/exlporer.js:443
+msgid "Video"
+msgstr "Video"
+
+#: ../media/exlporer.js:444
+msgid "Images"
+msgstr "Imágenes"
+
+# menu item
+#: ../media/exlporer.js:445
+msgid "Playlists"
+msgstr "Lista de reprodución"
+
+#: ../media/exlporer.js:446
+msgid "ISO"
+msgstr "ISO"
+
+#: ../media/exlporer.js:447 ../media/player.js:396
+msgid "Subtitles"
+msgstr "Subtítulos"
+
+#: ../media/exlporer.js:448
+msgid "Streams"
+msgstr "Streams"
+
+#: ../media/exlporer.js:451
+msgid "Sort"
+msgstr "Ordenar"
+
+# menu item
+#: ../media/exlporer.js:470
+msgid "By name"
+msgstr "por nombre"
+
+# menu item
+#: ../media/exlporer.js:471
+msgid "By size"
+msgstr "Por tamaño"
+
+# menu item
+#: ../media/exlporer.js:472
+msgid "By type"
+msgstr "Por tipo"
+
+# menu item
+#: ../media/exlporer.js:473
+msgid "By extension"
+msgstr "Por extensión"
+
+#: ../media/exlporer.js:476
+msgid "Tools"
+msgstr "Herramientas"
+
+#: ../media/exlporer.js:497
+msgid "Connect NFS/SMB"
+msgstr "Conectar NFS/SMB"
+
+#: ../media/exlporer.js:498
+msgid "Disconnect NFS/SMB"
+msgstr "Desconectar NFS/SMB"
+
+# menu item
+#: ../media/exlporer.js:500
+msgid "Disk formatting"
+msgstr "Formatear disco"
+
+#: ../media/exlporer.js:503
+msgid "Options"
+msgstr ""
+
+#: ../media/exlporer.js:517
+msgid "Play program"
+msgstr ""
+
+#: ../media/exlporer.js:537
+msgid "Enter path or file name..."
+msgstr "Nombre de archivo o ruta de acceso..."
+
+#: ../media/exlporer.js:612 ../media/exlporer.js:1107
+msgid "Show<br>info panel"
+msgstr "Mostrar<br />panel de información"
+
+#: ../media/exlporer.js:642
+msgid "Items:"
+msgstr "Artículos:"
+
+#: ../media/exlporer.js:643
+msgid "Selected:"
+msgstr "Seleccionado:"
+
+#: ../media/exlporer.js:1107
+msgid "Hide<br>info panel"
+msgstr "Ocultar<br />panel de información"
+
+#: ../media/exlporer.js:1148 ../media/iptv.js:385 ../media/player.js:445
+#: ../media/player.js:1458 ../media/player.js:2055 ../media/player.js:2255
+#: ../media/player.js:2942 ../media/player.js:2982
+#, fuzzy
+msgid "Warning!"
+msgstr "Warning!"
+
+#: ../media/exlporer.js:1148 ../media/iptv.js:385 ../media/player.js:445
+#: ../media/player.js:1458 ../media/player.js:2055 ../media/player.js:2255
+#: ../media/player.js:2942 ../media/player.js:2982
+#, fuzzy
+msgid "\"Storage read only access mode\" is enabled in System Settings"
+msgstr "\"Storage read only access mode\" is enabled in System Settings"
+
+#: ../media/exlporer.js:1194
+msgid "Deletion error"
+msgstr "Error de eliminación"
+
+#: ../media/exlporer.js:1194
+msgid "Unable to remove all selected items"
+msgstr "No es posible eliminar todos los elementos seleccionados"
+
+#: ../media/exlporer.js:1487
+msgid "Contains a list of items corresponding to the given filter request"
+msgstr ""
+"Contiene una lista de los elementos correspondientes a petición de filtro"
+
+#: ../media/exlporer.js:1502
+msgid "LAN supports SMB/CIFS protocol, contains available working groups"
+msgstr ""
+"LAN soporta el protocolo SMB/CIFS, contiene grupos de trabajo disponibles"
+
+#: ../media/exlporer.js:1514
+msgid "List of working group computers"
+msgstr "Lista del grupo de trabajo ordenadores"
+
+#: ../media/exlporer.js:1526
+msgid "List of available folders for every computer"
+msgstr "Lista de carpetas disponibles para cada equipo"
+
+#: ../media/exlporer.js:1538 ../media/exlporer.js:1554
+msgid "Access to folders and files of selected network folder"
+msgstr "Acceso a las carpetas y archivos de carpeta de red"
+
+#: ../media/exlporer.js:1540 ../media/exlporer.js:1556
+msgid "Folder:"
+msgstr "Folder:"
+
+#: ../media/exlporer.js:1541 ../media/exlporer.js:1557
+#: ../media/exlporer.js:1759
+msgid "Address:"
+msgstr "Dirección:"
+
+#: ../media/exlporer.js:1542 ../media/exlporer.js:1558
+#: ../media/exlporer.js:1805
+msgid "Type:"
+msgstr "Tipo:"
+
+#: ../media/exlporer.js:1570
+msgid ""
+"Plug&Play, a set of protocols for seamless connection of network devices, "
+"home and corporate. Easy and user-friendly access to media files in LAN."
+msgstr ""
+"Universal Plug and Play - un conjunto de protocolos para la perfecta "
+"conexión de dispositivos de red, hogar y corporativos. Fácil de usar y fácil "
+"acceso a archivos multimedia en LAN."
+
+#: ../media/exlporer.js:1582
+msgid ""
+"Access to list of Timeshift and PVR records collected from all available at "
+"the moment storages. All records are grouped by the channel names."
+msgstr ""
+"Acceso a la lista de registros de Timeshift y PVR colectaron todos "
+"disponibles en los almacenes de momento. Todos los registros se agrupan "
+"bajo  bajo el nombre de canal."
+
+#: ../media/exlporer.js:1594
+msgid "Opens a list of Timeshift and PVR records sorted by record date"
+msgstr ""
+"Se abre una lista de Timeshift y PVR registros ordenados por fecha de "
+"registro"
+
+#: ../media/exlporer.js:1606
+msgid "Access to list of Timeshift and PVR records sorted by record time"
+msgstr ""
+"Acceso a lista de Timeshift y PVR registros ordenados por un tiempo récord"
+
+#: ../media/exlporer.js:1624
+msgid "Opens a full editable list of favourite records"
+msgstr "Se abre una lista completa editable de registros favoritos"
+
+#: ../media/exlporer.js:1626
+msgid "Saved items:"
+msgstr "Artículos guardados:"
+
+#: ../media/exlporer.js:1627
+msgid "Unsaved changes:"
+msgstr "Guardar los cambios:"
+
+#: ../media/exlporer.js:1627 ../media/exlporer.js:1804
+msgid "yes"
+msgstr "si"
+
+#: ../media/exlporer.js:1627 ../media/exlporer.js:1804
+msgid "no"
+msgstr "no"
+
+#: ../media/exlporer.js:1639
+msgid "Access to folders and files"
+msgstr "Acceso a archivos y carpetas"
+
+#: ../media/exlporer.js:1663 ../media/exlporer.js:1758
+#: ../media/exlporer.js:1777
+msgid "Name:"
+msgstr "Nombre:"
+
+#: ../media/exlporer.js:1669 ../media/exlporer.js:1711
+#: ../media/exlporer.js:1725
+msgid "Size:"
+msgstr "Tamaño:"
+
+#: ../media/exlporer.js:1677 ../media/exlporer.js:1778
+msgid "Performer:"
+msgstr "Artista:"
+
+#: ../media/exlporer.js:1685 ../media/exlporer.js:1785 ../media/modals.js:970
+msgid "File:"
+msgstr "Archivo:"
+
+#: ../media/exlporer.js:1709
+msgid "List of files or network streams to play"
+msgstr "Lista de archivos o secuencias de red para reproducir"
+
+#: ../media/exlporer.js:1723
+msgid "Text file with media subtitles or other data"
+msgstr "Archivo de texto con subtítulos de medios u otros datos"
+
+#: ../media/exlporer.js:1774
+msgid "List of album files with additional info"
+msgstr "Lista de archivos de disco con información adicional"
+
+#: ../media/exlporer.js:1779
+msgid "Song by:"
+msgstr "Canción de:"
+
+#: ../media/exlporer.js:1780
+msgid "Genre:"
+msgstr "Genero:"
+
+#: ../media/exlporer.js:1781
+msgid "Date:"
+msgstr "Fecha:"
+
+#: ../media/exlporer.js:1782
+msgid "Place:"
+msgstr "Lugar:"
+
+#: ../media/exlporer.js:1783
+msgid "Comment:"
+msgstr "Comentario:"
+
+#: ../media/exlporer.js:1787
+msgid "Files:"
+msgstr "Archivos:"
+
+#: ../media/exlporer.js:1803 ../services.js:1675 ../services.js:1676
+#: ../services.js:1725 ../services.js:1726
+msgid "Available"
+msgstr "Disponible"
+
+#: ../media/exlporer.js:1803
+msgid "from"
+msgstr "desde"
+
+#: ../media/exlporer.js:1804
+msgid "Read only:"
+msgstr "Solo lectura:"
+
+#: ../media/iptv.js:46
+#, fuzzy
+msgid "Record status"
+msgstr "Archivos"
+
+# menu item
+#: ../media/iptv.js:211
+msgid "Make group"
+msgstr "Marcar grupo"
+
+# menu item
+#: ../media/iptv.js:215 ../media/iptv.js:257
+msgid "Create group"
+msgstr "Crear grupo"
+
+#: ../media/iptv.js:254 ../media/modals.js:1803
+msgid "Edit"
+msgstr "Editar"
+
+# menu item
+#: ../media/iptv.js:255
+msgid "Save changes"
+msgstr "Guardar cambios"
+
+#: ../media/iptv.js:256
+msgid "Add to group"
+msgstr "Agregar a grupo"
+
+# menu item
+#: ../media/iptv.js:259
+msgid "Add operator's IPTV list"
+msgstr "Agregar lista de IPTV del operador"
+
+# menu item
+#: ../media/iptv.js:260 ../media/modals.js:2102
+msgid "Add IPTV list"
+msgstr "Agregar lista de IPTV"
+
+# menu item
+#: ../media/iptv.js:261 ../media/modals.js:2102
+msgid "Add IPTV channel"
+msgstr "Añadir canal de IPTV"
+
+#: ../media/iptv.js:262 ../media/modals.js:1937
+#, fuzzy
+msgid "Export channels"
+msgstr "No hay canales"
+
+#: ../media/iptv.js:302
+msgid "Enter channel or group name..."
+msgstr "Introduzca el nombre de canal o grupo..."
+
+#: ../media/iptv.js:560
+msgid "No IPTV channels"
+msgstr "No hay canales IPTV"
+
+#: ../media/iptv.js:827
+msgid "IPTV channel list was changed"
+msgstr "Lista de canales de IPTV fue cambiada"
+
+#: ../media/iptv.js:828
+msgid "Save updated IPTV channel list?"
+msgstr "Guardar nueva lista de canales IPTV?"
+
+#: ../media/iptv.js:955
+msgid "Confirmation"
+msgstr "Confirmar"
+
+#: ../media/modals.js:138
+msgid "Server address:"
+msgstr "Dirección del servidor:"
+
+#: ../media/modals.js:142
+msgid "Server folder:"
+msgstr "Carpeta del servidor:"
+
+#: ../media/modals.js:146 ../media/modals.js:518
+msgid "Local folder:"
+msgstr "Carpeta local:"
+
+#: ../media/modals.js:150
+msgid "Connection type:"
+msgstr "Tipo de conexión:"
+
+#: ../media/modals.js:229
+msgid "Connect"
+msgstr "Conectar"
+
+#: ../media/modals.js:239
+msgid "Wrong connection parameters"
+msgstr "Parámetros de conexión incorrecta"
+
+#: ../media/modals.js:257
+msgid "Local folder with this name already exists"
+msgstr "Carpeta local con este nombre ya existe"
+
+#: ../media/modals.js:325 ../media/modals.js:393
+msgid "Network folder successfully mounted"
+msgstr "Carpeta de red montada con éxito"
+
+#: ../media/modals.js:327 ../media/modals.js:395
+msgid "Resource already connected"
+msgstr "Recurso ya conectado"
+
+#: ../media/modals.js:406
+msgid "Edit network folder"
+msgstr "Editar carpeta de red"
+
+#: ../media/modals.js:406
+msgid "Connect network folder"
+msgstr "Conectar a carpeta de red"
+
+#: ../media/modals.js:536
+msgid "Disconnect"
+msgstr "Desconectar"
+
+#: ../media/modals.js:560
+msgid "Network folder successfully unmounted"
+msgstr "Carpeta de red sin montar con éxito"
+
+#: ../media/modals.js:564
+msgid "Disconnect network folder"
+msgstr "Desconecte la carpeta de red"
+
+#: ../media/modals.js:659
+msgid "File system:"
+msgstr "Sistema de archivos:"
+
+#: ../media/modals.js:663
+msgid "Partition:"
+msgstr "Partición:"
+
+#: ../media/modals.js:710 ../media/modals.js:733 ../media/modals.js:759
+#: ../media/modals.js:790
+msgid "Formatting"
+msgstr "Formateando"
+
+#: ../media/modals.js:710
+msgid "Formatting completed"
+msgstr "Formato Completo"
+
+#: ../media/modals.js:724 ../media/modals.js:729 ../media/modals.js:733
+#: ../media/modals.js:756 ../media/modals.js:785
+msgid "Formatting error"
+msgstr "Error de Formato"
+
+#: ../media/modals.js:724
+msgid ""
+"Formatting impossible.<br>Make sure the device is not used in:<br>\"Download "
+"manager\", \"Record manager\"<br>or content playback."
+msgstr ""
+"Formato imposible.<br>Asegúrese de que el dispositivo no este en uso:<br>"
+"\"Descargando archivos\", \"Grabando archivos\"<br>o reproducción de "
+"contenido."
+
+#: ../media/modals.js:729 ../media/modals.js:785
+msgid "Formatting impossible"
+msgstr "Formato imposible"
+
+#: ../media/modals.js:750 ../media/modals.js:761
+msgid "Start formatting"
+msgstr "Comenzar formato"
+
+#: ../media/modals.js:756
+msgid "Selected file system supports disks up to 320GB"
+msgstr "Archivo seleccionado sistema soporta discos de hasta 320GB"
+
+#: ../media/modals.js:759
+#, fuzzy
+msgid ""
+"<b style=\"color:red\">Warning: </b>after formatting all data in the<br> "
+"selected section will be deleted."
+msgstr ""
+"<b style='color:red'>Advertencia: </b>después de formatear todos los<br> "
+"datos seran eliminados."
+
+#: ../media/modals.js:897
+msgid "See playlist content"
+msgstr "Ver contenido reproducción"
+
+#: ../media/modals.js:898
+msgid "Start playing all records"
+msgstr "Comenzar a reproducir todos los registros"
+
+#: ../media/modals.js:899
+msgid "Add all records to IPTV channels"
+msgstr "Agregar todos los registros de canales IPTV"
+
+#: ../media/modals.js:913 ../media/modals.js:2033
+#, fuzzy
+msgid "File encoding:"
+msgstr "Codificación UTF?"
+
+#: ../media/modals.js:918
+msgid "Open playlist"
+msgstr "Abrir lista de reproducción"
+
+#: ../media/modals.js:974
+msgid "Encoding:"
+msgstr "Codificación:"
+
+#: ../media/modals.js:986
+msgid "Accessing subtitle file"
+msgstr "Acceso al archivo de subtítulos"
+
+#: ../media/modals.js:1070 ../media/modals.js:1095
+msgid "Group:"
+msgstr "Grupo:"
+
+#: ../media/modals.js:1075
+msgid "or create and use a new group:"
+msgstr "o crear y utilizar un nuevo grupo:"
+
+#: ../media/modals.js:1119
+msgid "Move"
+msgstr "Mover"
+
+#: ../media/modals.js:1337 ../media/modals.js:1647
+msgid "No storage device"
+msgstr "Ningún dispositivo de almacenamiento"
+
+#: ../media/modals.js:1349
+msgid "No channels"
+msgstr "No hay canales"
+
+#: ../media/modals.js:1368
+msgid "Start recording:"
+msgstr "Iniciar la grabación:"
+
+#: ../media/modals.js:1385
+msgid "End recording:"
+msgstr "Finalizar la grabación:"
+
+#: ../media/modals.js:1402
+msgid "Record length:"
+msgstr "Longitud de registro:"
+
+#: ../media/modals.js:1411
+msgid "Channel:"
+msgstr "Canal:"
+
+#: ../media/modals.js:1415
+msgid "Record name:"
+msgstr "Nombre de grabación:"
+
+#: ../media/modals.js:1421
+msgid "Record in:"
+msgstr "Grabar en:"
+
+#: ../media/modals.js:1426
+msgid "Free space:"
+msgstr "Espacio libre:"
+
+#: ../media/modals.js:1426 ../media/modals.js:1427
+msgid "GB"
+msgstr "GB"
+
+#: ../media/modals.js:1426
+msgid "of"
+msgstr "de"
+
+#: ../media/modals.js:1533
+msgid "Channel list is empty"
+msgstr "Lista de canales está vacía"
+
+#: ../media/modals.js:1547
+msgid "Error. Too many active records."
+msgstr "Error. Demasiados registros activos."
+
+#: ../media/modals.js:1552 ../media/modals.js:1583 ../media/modals.js:1601
+msgid "Not enough disk space"
+msgstr "No hay espacio suficiente en el disco"
+
+#: ../media/modals.js:1586
+msgid "Incorrect time"
+msgstr "Hora incorrecta"
+
+#: ../media/modals.js:1589
+msgid "Wrong name or path"
+msgstr "Nombre o ruta de acceso incorrecto"
+
+#: ../media/modals.js:1592
+msgid "Duplicated file"
+msgstr "Archivos duplicados"
+
+#: ../media/modals.js:1595
+msgid "Wrong URL"
+msgstr "URL incorrecta"
+
+#: ../media/modals.js:1598
+msgid "Too many active records processed"
+msgstr "Demasiados registros activos procesados"
+
+#: ../media/modals.js:1604
+msgid "Error..."
+msgstr "Error..."
+
+#: ../media/modals.js:1621
+msgid "Start recording"
+msgstr "Iniciar la grabación"
+
+#: ../media/modals.js:1744 ../media/modals.js:1751 ../media/modals.js:2040
+msgid "Name :"
+msgstr "Nombre:"
+
+#: ../media/modals.js:1755 ../media/modals.js:2047
+msgid "URL :"
+msgstr "URL:"
+
+#: ../media/modals.js:1776 ../media/modals.js:1915 ../media/modals.js:2065
+#: ../media/modals.js:2269 ../media/modals.js:2471 ../media/modals.js:2750
+msgid "Wrong field data"
+msgstr "Datos incorrectos"
+
+#: ../media/modals.js:1875 ../services.js:1064 ../services.js:1067
+#: ../services.js:1633 ../services.js:1636
+msgid "None"
+msgstr "Ninguno"
+
+#: ../media/modals.js:1890
+#, fuzzy
+msgid "File location:"
+msgstr "Ubicación del archivo"
+
+#: ../media/modals.js:1894
+#, fuzzy
+msgid "File name:"
+msgstr "Archivo:"
+
+# menu item
+#: ../media/modals.js:1898
+#, fuzzy
+msgid "Save from groups:"
+msgstr "Guardar cambios"
+
+#: ../media/modals.js:1929
+#, fuzzy
+msgid "Successfully exported"
+msgstr "Guardado correctamente"
+
+#: ../media/modals.js:1931
+#, fuzzy
+msgid "Save error"
+msgstr "Error de almacenamiento "
+
+#: ../media/modals.js:2185 ../media/modals.js:2238
+msgid "Select country..."
+msgstr "Seleccione país..."
+
+#: ../media/modals.js:2192 ../media/modals.js:2193 ../media/modals.js:2215
+#: ../media/modals.js:2253
+msgid "Select operator..."
+msgstr "Seleccione el operador..."
+
+#: ../media/modals.js:2195 ../media/modals.js:2196 ../media/modals.js:2203
+#: ../media/modals.js:2245
+msgid "Select city..."
+msgstr "Seleccione la ciudad..."
+
+#: ../media/modals.js:2221
+msgid "Country:"
+msgstr "País:"
+
+#: ../media/modals.js:2225
+msgid "City:"
+msgstr "Ciudad:"
+
+#: ../media/modals.js:2229
+msgid "Operator:"
+msgstr "Operador:"
+
+#: ../media/modals.js:2281
+msgid "Bad playlist file"
+msgstr "Mal archivo de lista de reproducción"
+
+#: ../media/modals.js:2288
+msgid "Loading operator playlist"
+msgstr "Cargando lista de reproducción IPTV"
+
+#: ../media/modals.js:2436 ../media/modals.js:2452 ../media/modals.js:2628
+#: ../media/modals.js:2713 ../media/modals.js:3234 ../media/modals.js:3246
+msgid "DVB type:"
+msgstr "Tipo DVB:"
+
+#: ../media/modals.js:2440 ../media/modals.js:2717
+msgid "Symbol rate:"
+msgstr ""
+
+#: ../media/modals.js:2444 ../media/modals.js:2721
+#, fuzzy
+msgid "Modulation:"
+msgstr "Duración:"
+
+#: ../media/modals.js:2468 ../media/modals.js:2742 ../media/modals.js:3370
+msgid "Scan"
+msgstr "Escanear"
+
+#: ../media/modals.js:2497 ../media/modals.js:2780
+msgid "Start scanning"
+msgstr "Iniciar la exploración"
+
+#: ../media/modals.js:2620
+msgid "Frequency start (KHz):"
+msgstr ""
+
+#: ../media/modals.js:2624
+msgid "Frequency end (KHz):"
+msgstr ""
+
+#: ../media/modals.js:2632
+#, fuzzy
+msgid "Bandwidth (MHz):"
+msgstr "Bandwidth (MHz):"
+
+#: ../media/modals.js:2651 ../media/player.js:850 ../services.js:2100
+#, fuzzy
+msgid "Auto"
+msgstr "Escaneo automático"
+
+#: ../media/modals.js:2688
+msgid "Full"
+msgstr ""
+
+#: ../media/modals.js:2692
+msgid "Fast"
+msgstr ""
+
+#: ../media/modals.js:2705
+msgid "Frequency (KHz):"
+msgstr "Frecuencia"
+
+#: ../media/modals.js:2725
+#, fuzzy
+msgid "Network ID:"
+msgstr "Red"
+
+#: ../media/modals.js:2850 ../media/modals.js:2861
+msgid "EPG not available"
+msgstr "EPG no disponible"
+
+#: ../media/modals.js:2953
+msgid "The program for:"
+msgstr "El programa para:"
+
+#: ../media/modals.js:3238
+msgid "Antenna power supply"
+msgstr "Fuente de alimentación antena"
+
+#: ../media/modals.js:3309
+msgid "Antenna"
+msgstr ""
+
+#: ../media/modals.js:3355
+msgid "Program number:"
+msgstr ""
+
+#: ../media/modals.js:3378
+msgid "Select program"
+msgstr ""
+
+#: ../media/player.js:95 ../services.js:1452
+msgid "Fit on"
+msgstr "Colocar el"
+
+#: ../media/player.js:100 ../services.js:1453
+msgid "Zoom"
+msgstr "Enfocar"
+
+#: ../media/player.js:105 ../services.js:1454
+msgid "Optimal"
+msgstr "Óptimo"
+
+#: ../media/player.js:110 ../services.js:1455
+msgid "Stretch"
+msgstr "Expandir"
+
+#: ../media/player.js:159 ../media/player.js:1616 ../media/player.js:1887
+#: ../media/player.js:3092 ../media/playlist.js:90
+msgid "Show<br />playlist"
+msgstr "Mostrar<br />lista de reproducción"
+
+#: ../media/player.js:161
+msgid "Hide<br />player"
+msgstr "Ocultar<br />lista de reproducción"
+
+#: ../media/player.js:163
+msgid "Previous<br />media"
+msgstr "Reproducciones<br />anteriores"
+
+#: ../media/player.js:164
+msgid "Next<br />media"
+msgstr "Siguiente<br />reproducción"
+
+#: ../media/player.js:376
+msgid "Audio tracks"
+msgstr "Pistas de audio"
+
+#: ../media/player.js:432 ../services.js:942 ../services.js:1617
+msgid "TimeShift"
+msgstr "TimeShift"
+
+#: ../media/player.js:447 ../media/player.js:2057 ../media/player.js:2257
+#: ../media/player.js:2944 ../media/player.js:2984
+msgid ""
+"No storage device selected as the \"File location\" in TimeShift settings. "
+"Disable TimeShift?"
+msgstr ""
+"Ningún dispositivo de almacenamiento como la ubicación del archivo de "
+"configuración TimeShift. Desactivar la función?"
+
+#: ../media/player.js:448 ../media/player.js:2058 ../media/player.js:2258
+#: ../media/player.js:2675 ../media/player.js:2900 ../media/player.js:2945
+#: ../media/player.js:2985 ../media/player.js:3521
+msgid "No"
+msgstr "No"
+
+#: ../media/player.js:470 ../services.js:1564 ../services.js:1607
+#, fuzzy
+msgid "Enabled"
+msgstr "Desabilitar"
+
+#: ../media/player.js:473
+msgid "TimeShift buffer"
+msgstr "Cargando TimeShift"
+
+#: ../media/player.js:493
+msgid "Cyclic recording mode"
+msgstr "Modo de grabación Cíclica"
+
+#: ../media/player.js:494 ../services.js:1643
+msgid "Stop when out of space"
+msgstr "Detener cuando no hay espacio"
+
+#: ../media/player.js:517
+msgid "3D mode"
+msgstr "Modo 3D"
+
+#: ../media/player.js:529 ../media/player.js:530 ../media/player.js:531
+#: ../media/player.js:532
+msgid "Mode"
+msgstr "Modo"
+
+#: ../media/player.js:534
+msgid "Slide-show"
+msgstr "Presentación de diapositivas"
+
+#: ../media/player.js:575
+msgid "Rotate"
+msgstr ""
+
+#: ../media/player.js:587
+msgid "Left"
+msgstr ""
+
+#: ../media/player.js:588
+msgid "Right"
+msgstr ""
+
+#: ../media/player.js:590
+msgid "Play"
+msgstr "Reproducir"
+
+#: ../media/player.js:634
+msgid "One file once"
+msgstr "un archivo una vez"
+
+#: ../media/player.js:635
+msgid "Each file once"
+msgstr "cada archivo solo una vez"
+
+#: ../media/player.js:636
+msgid "Repeat file"
+msgstr "Repetir archivo"
+
+#: ../media/player.js:637
+msgid "Repeat everything"
+msgstr "Repetir todo"
+
+#: ../media/player.js:638
+msgid "Playlist shuffle"
+msgstr "Reproducción aleatoria"
+
+# menu item
+#: ../media/player.js:677 ../services.js:947 ../services.js:2086
+#, fuzzy
+msgid "Teletext"
+msgstr "Teletext"
+
+#: ../media/player.js:785
+msgid "Current channel teletext settings"
+msgstr ""
+
+#: ../media/player.js:848 ../services.js:2097
+msgid "Force charset"
+msgstr ""
+
+#: ../media/player.js:892 ../services.js:1481 ../services.js:2143
+msgid "Aspect Ratio"
+msgstr ""
+
+#: ../media/player.js:901 ../services.js:2153
+msgid "Opacity level"
+msgstr ""
+
+#: ../media/player.js:1620
+msgid "Hide<br />playlist"
+msgstr "Ocultar<br />lista de reproducción"
+
+#: ../media/player.js:1717 ../media/player.js:1723
+msgid "Selected subtitle file is not available"
+msgstr "Archivo de subtítulos seleccionado no está disponible"
+
+#: ../media/player.js:2519 ../media/player.js:2530
+msgid "Playing error"
+msgstr "Error de reproducción"
+
+#: ../media/player.js:2650
+msgid "Buffer is full"
+msgstr "búfer relleno"
+
+#: ../media/player.js:2674
+msgid "Writing error"
+msgstr "Error de escritura"
+
+#: ../media/player.js:2674
+msgid "Check storage device.<br />Disable TimeShift?"
+msgstr ""
+"Compruebe el dispositivo de almacenamiento.<br />Deshabilitar TimeShift?"
+
+#: ../media/player.js:2774
+msgid "Detected passive antenna type"
+msgstr ""
+
+#: ../media/player.js:2859
+msgid "Start TimeShift error"
+msgstr "Error al iniciar TimeShift"
+
+#: ../media/player.js:2899 ../services.js:1644
+msgid "Request to save"
+msgstr "Solicitud para guardar"
+
+#: ../media/player.js:2899
+msgid "Save TimeShift buffer?"
+msgstr "Guardar búfer temporal?"
+
+#: ../media/player.js:2928
+msgid "Saving error"
+msgstr "Error de almacenamiento "
+
+#: ../media/player.js:2936
+msgid "Save to:"
+msgstr "Guardar en:"
+
+#: ../media/player.js:3501 ../media/player.js:3564 ../media/player.js:3640
+msgid "unknown"
+msgstr "desconocido"
+
+#: ../media/player.js:3594
+msgid "External subtitles:"
+msgstr "Subtítulos externos:"
+
+#: ../media/player.js:3682
+msgid "Title"
+msgstr "Título"
+
+#: ../media/player.js:3688
+msgid "Chapter"
+msgstr "Capítulo"
+
+#: ../media/tvlist.js:370
+msgid "Contains the list of items corresponding to the given filter request"
+msgstr ""
+"Contiene la lista de elementos correspondientes a la solicitud de filtro dado"
+
+#: ../media/tvlist.js:689 ../media/tvlist.js:729
+msgid "Copying error"
+msgstr "Error de copiado"
+
+#: ../menu.js:39
+msgid "Enter your location..."
+msgstr "Introduzca la ubicación..."
+
+#: ../menu.js:122 ../menu.js:557 ../services.js:1405 ../services.js:2534
+msgid "Confirm"
+msgstr "Confirmar"
+
+#: ../menu.js:123
+msgid "Are you sure you want to exit portal?"
+msgstr "Está seguro de que desea Çıkış?"
+
+#: ../menu.js:519
+msgid "Receiving<br>weather<br>data"
+msgstr "Recepción<br>de datos<br>meteorológicos"
+
+#: ../menu.js:521
+msgid "No<br>weather<br>settings"
+msgstr "No<br>hay ningún ajuste de<br>tiempo"
+
+#: ../services.js:380
+msgid "USB storage is connected"
+msgstr "Almacenamiento USB está conectado"
+
+#: ../services.js:939 ../services.js:1423
+msgid "Playback"
+msgstr "Reproducción"
+
+#: ../services.js:940 ../services.js:1492
+msgid "Interface"
+msgstr "Interfaz"
+
+#: ../services.js:941 ../services.js:1603 ../services.js:2210
+#, fuzzy
+msgid "Software autoupdate"
+msgstr "Güncelle de software"
+
+#: ../services.js:943 ../services.js:2040
+msgid "System settings"
+msgstr "Configuración del sistema"
+
+#: ../services.js:945 ../services.js:1933
+msgid "DVB"
+msgstr "DVB"
+
+#: ../services.js:946 ../services.js:1989 ../services.js:2038
+msgid "Access control"
+msgstr ""
+
+#: ../services.js:951 ../services.js:957 ../services.js:1659
+#, fuzzy
+msgid "Network Diagnostics"
+msgstr "Network Diagnostics"
+
+#: ../services.js:954 ../services.js:1665 ../services.js:1672
+msgid "Speed test"
+msgstr "Prueba de velocidad"
+
+#: ../services.js:999
+msgid "Advanced"
+msgstr ""
+
+#: ../services.js:1000
+msgid "Update manually"
+msgstr "Comprobar y actualizar"
+
+#: ../services.js:1405
+msgid "Some settings have been changed"
+msgstr "Algunos ajustes se han modificado"
+
+#: ../services.js:1429
+msgid "Small"
+msgstr ""
+
+#: ../services.js:1430
+msgid "Normal"
+msgstr ""
+
+#: ../services.js:1431
+msgid "Large"
+msgstr ""
+
+#: ../services.js:1432
+msgid "Huge"
+msgstr ""
+
+#: ../services.js:1435
+msgid "White"
+msgstr ""
+
+#: ../services.js:1436
+msgid "Black"
+msgstr ""
+
+#: ../services.js:1437
+msgid "Red"
+msgstr ""
+
+#: ../services.js:1438
+msgid "Blue"
+msgstr ""
+
+#: ../services.js:1439
+msgid "Green"
+msgstr ""
+
+#: ../services.js:1440
+msgid "Yellow"
+msgstr ""
+
+#: ../services.js:1441
+msgid "Cyan"
+msgstr ""
+
+#: ../services.js:1442
+msgid "Magenta"
+msgstr ""
+
+#: ../services.js:1443
+msgid "Silver"
+msgstr ""
+
+#: ../services.js:1444
+msgid "Gray"
+msgstr ""
+
+#: ../services.js:1445
+msgid "Maroon"
+msgstr ""
+
+#: ../services.js:1446
+msgid "Olive"
+msgstr ""
+
+#: ../services.js:1447
+msgid "Purple"
+msgstr ""
+
+#: ../services.js:1448
+msgid "Teal"
+msgstr ""
+
+#: ../services.js:1449
+msgid "Navy"
+msgstr ""
+
+#: ../services.js:1461
+msgid "Primary audio track language"
+msgstr "Idioma de la pista de audio principal"
+
+#: ../services.js:1466
+msgid "Primary subtitle language"
+msgstr "Idioma de subtítulo primario"
+
+#: ../services.js:1471
+msgid "Subtitle size"
+msgstr ""
+
+#: ../services.js:1476
+msgid "Subtitle color"
+msgstr ""
+
+#: ../services.js:1502 ../services.js:2042
+#, fuzzy
+msgid "Main menu"
+msgstr "Main menu"
+
+#: ../services.js:1539
+msgid "1 minute"
+msgstr "1 minuto"
+
+#: ../services.js:1540
+msgid "3 minutes"
+msgstr "3 minutos"
+
+#: ../services.js:1541
+msgid "5 minutes"
+msgstr "5 minutos"
+
+#: ../services.js:1542
+msgid "10 minutes"
+msgstr "10 minutos"
+
+#: ../services.js:1543
+msgid "30 minutes"
+msgstr "30 minutos"
+
+#: ../services.js:1557
+#, fuzzy
+msgid "Start page"
+msgstr "Iniciar la exploración"
+
+# имеется ввиду метрическая или английская система измерения скорости
+#: ../services.js:1558
+msgid "Weather system format"
+msgstr "Formato de sistema de clima"
+
+#: ../services.js:1559
+msgid "Metric (Celsius, meters per second)"
+msgstr "Sistema métrico ( °c, metros por segundo)"
+
+#: ../services.js:1560
+msgid "English (Fahrenheit, miles per hour)"
+msgstr "Inglés (Fahrenheit, millas por hora)"
+
+# menu item
+#: ../services.js:1562
+#, fuzzy
+msgid "HDMI event reaction:"
+msgstr "Invertir selección"
+
+#: ../services.js:1565
+#, fuzzy
+msgid "5 minutes delay"
+msgstr "5 minutos"
+
+#: ../services.js:1566
+#, fuzzy
+msgid "10 minutes delay"
+msgstr "10 minutos"
+
+#: ../services.js:1568
+msgid "Screensaver interval"
+msgstr "Intervalo de protector de pantalla"
+
+#: ../services.js:1569
+msgid "Screensaver"
+msgstr "Protector de pantalla"
+
+#: ../services.js:1570
+msgid "Clock during playing"
+msgstr ""
+
+#: ../services.js:1571
+#, fuzzy
+msgid "LED brightness:"
+msgstr "LED brightness:"
+
+#: ../services.js:1572
+#, fuzzy
+msgid "LED brightness (standby):"
+msgstr "LED brightness (standby):"
+
+#: ../services.js:1573
+msgid "RC model"
+msgstr ""
+
+#: ../services.js:1582
+#, fuzzy
+msgid "Deep"
+msgstr "Profundo"
+
+#: ../services.js:1586
+#, fuzzy
+msgid "Stand by mode:"
+msgstr "Modo de espera:"
+
+#: ../services.js:1588
+msgid "Auto power down:"
+msgstr ""
+
+#: ../services.js:1589
+msgid "Off"
+msgstr ""
+
+#: ../services.js:1590 ../services.js:1642
+msgid "minutes"
+msgstr "minutos"
+
+#: ../services.js:1591
+msgid "1 hour"
+msgstr ""
+
+#: ../services.js:1592 ../services.js:1642
+msgid "2 hours"
+msgstr "2 horas"
+
+#: ../services.js:1593
+msgid "4 hours"
+msgstr ""
+
+#: ../services.js:1594
+msgid "8 hours"
+msgstr ""
+
+#: ../services.js:1607
+#, fuzzy
+msgid "Autoupdate"
+msgstr "Güncelle automática"
+
+#: ../services.js:1607
+msgid "With confirmation"
+msgstr "Con confirmación"
+
+#: ../services.js:1608
+msgid "Update to beta versions"
+msgstr "Güncelle de versiones beta"
+
+#: ../services.js:1639
+msgid "Use TimeShift"
+msgstr "Utilice TimeShift"
+
+#: ../services.js:1640
+msgid "Icon enable"
+msgstr "Habilitar Icono"
+
+#: ../services.js:1641
+msgid "File location"
+msgstr "Ubicación del archivo"
+
+#: ../services.js:1642
+msgid "Length"
+msgstr "Duración"
+
+#: ../services.js:1642
+msgid "hour"
+msgstr "hora"
+
+#: ../services.js:1642
+msgid "3 hours"
+msgstr "3 horas"
+
+#: ../services.js:1642
+msgid "5 hours"
+msgstr "5 horas"
+
+#: ../services.js:1642
+msgid "10 hours"
+msgstr "10 horas"
+
+#: ../services.js:1642
+msgid "20 hours"
+msgstr "20 horas"
+
+#: ../services.js:1642
+msgid "24 hours"
+msgstr "24 horas"
+
+#: ../services.js:1643
+msgid "Using buffer mode"
+msgstr "Uso del modo de memoria intermedia"
+
+#: ../services.js:1643
+msgid "Cyclic record mode"
+msgstr "Modo de grabación cíclico"
+
+#: ../services.js:1644
+msgid "On exit"
+msgstr "A la salida"
+
+#: ../services.js:1644
+msgid "Do not save buffer"
+msgstr "No guardar búfer"
+
+#: ../services.js:1644
+msgid "Save buffer"
+msgstr "Guardar búfer"
+
+#: ../services.js:1645
+msgid "Delay"
+msgstr "Retrasar"
+
+#: ../services.js:1645
+msgid "By pressing Pause button"
+msgstr "Al pulsar el botón de Pause"
+
+#: ../services.js:1666
+msgid "Extended diagnostics"
+msgstr ""
+
+#: ../services.js:1675 ../services.js:1676 ../services.js:1725
+#: ../services.js:1726
+msgid "Not available"
+msgstr "No disponible"
+
+#: ../services.js:1677 ../services.js:1727
+msgid "Speed:"
+msgstr "Velocidad:"
+
+#: ../services.js:1677 ../services.js:1689 ../services.js:1699
+#: ../services.js:1721
+msgid "Waiting"
+msgstr "Esperando"
+
+#: ../services.js:1685 ../services.js:1717
+msgid "Testing"
+msgstr "Prueba"
+
+#: ../services.js:1724
+msgid "Test results"
+msgstr ""
+
+#: ../services.js:1802
+msgid "Test result"
+msgstr ""
+
+#: ../services.js:1806
+msgid "Perform diagnostics"
+msgstr ""
+
+#: ../services.js:1808
+msgid "Estimated time of completion"
+msgstr ""
+
+#: ../services.js:1821
+#, fuzzy
+msgid "IP Address"
+msgstr "Dirección:"
+
+#: ../services.js:1822
+msgid "Loss"
+msgstr ""
+
+#: ../services.js:1823
+msgid "Ping"
+msgstr ""
+
+#: ../services.js:1866 ../services.js:2493
+#, fuzzy
+msgid "Attention"
+msgstr "Atención:"
+
+#: ../services.js:1867
+msgid ""
+"Estimated time to complete the test - 10 minutes.<br> You can not interrupt "
+"the test before it is completed"
+msgstr ""
+
+#: ../services.js:1869
+#, fuzzy
+msgid "Run the test"
+msgstr "Ejecute el Asistente de configuración"
+
+#: ../services.js:1973
+msgid "Signal type"
+msgstr "Tipo de señal"
+
+#: ../services.js:2039
+msgid "Digits only"
+msgstr ""
+
+#: ../services.js:2041
+msgid "Portals loader"
+msgstr ""
+
+#: ../services.js:2093
+msgid "Use Teletext"
+msgstr ""
+
+#: ../services.js:2204
+msgid "Sorry, no firmware image at the moment"
+msgstr "Lo sentimos, pero no hay imagen del firmware en el momento"
+
+#: ../services.js:2212
+msgid "Software update"
+msgstr "Güncelle de software"
+
+#: ../services.js:2493
+msgid ""
+"Incorrect password. Use digits only. Space doesn't allow. Maximum length is "
+"10 symbols."
+msgstr ""
+
+#: ../services.js:2528 ../services.js:2548
+msgid "Successfully saved"
+msgstr "Guardado correctamente"
+
+#: ../services.js:2528
+msgid "Device reboot is required to apply changes. Reboot now?"
+msgstr ""
+"Reinicio del dispositivo es necesaria para aplicar los cambios. ¿Reiniciar "
+"ahora?"
+
+#: ../services.js:2534
+msgid "Restart portal?"
+msgstr ""
+
+#~ msgid "YouTube"
+#~ msgstr "YouTube"
+
+#~ msgid "Picasa"
+#~ msgstr "Picasa"
+
+#~ msgid "Lines"
+#~ msgstr "Lines"
+
+#~ msgid "Sudoku"
+#~ msgstr "Sudoku"
+
+#~ msgid "Memory"
+#~ msgstr "Memory"
+
+#~ msgid "Antenna with such signal type can't be powered up."
+#~ msgstr "Antena con ese tipo de señal no puede ser encendido."
+
+#~ msgid "Online Media"
+#~ msgstr "Medios en línea"
+
+#~ msgid "Password:"
+#~ msgstr "Contraseña:"
+
+# menu item
+#, fuzzy
+#~ msgid "Select a portal"
+#~ msgstr "Selecionar todo"
+
+#~ msgid "Auto update software"
+#~ msgstr "AGüncelle automática de Software"
+
+#~ msgid "Antenna power supply disabled"
+#~ msgstr "Fuente de alimentación de antena desactivada"
+
+#, fuzzy
+#~ msgid "Unable to get dlna content"
+#~ msgstr "No se puede obtener la lista de grupos de trabajo"
+
+#~ msgid "Update software now"
+#~ msgstr "Güncelle de software ahora"
+
+#~ msgid "Formatting in progress..."
+#~ msgstr "Formato en progreso..."
+
+# menu item
+#~ msgid "Move selected"
+#~ msgstr "Mover seleccionados"
+
+# menu item
+#~ msgid "Copy selected"
+#~ msgstr "Copiar seleccionados"
+
+#, fuzzy
+#~ msgid ""
+#~ "To perform this operation, you must to turn off \"Storage read only access"
+#~ "\" in system settings"
+#~ msgstr ""
+#~ "To perform this operation, you must to turn off \"Storage read only access"
+#~ "\" in system settings"
+
+#~ msgid "Selected"
+#~ msgstr "Seleccionado"
+
+#~ msgid "Text"
+#~ msgstr "Texto"
+
+#~ msgid "Groups"
+#~ msgstr "Grupos"
+
+#~ msgid "No sorting"
+#~ msgstr "Ninguna clasificación"
