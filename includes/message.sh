@@ -22,19 +22,23 @@ then
 	case "$install" in
 		"n"|"N"|"nO"|"No"|"NO")
 			kill -s TERM $TOP_PID
+			;;
 		"y"|"Y"|"yes"|"Yes"|"yES"|"yEs"|"YeS"|"YES"|"YEs"|"yeS")
 			sudo apt-get update
 			sudo apt-get install "$1"
+			;;
 		*)
 			echo "[ ${OutputRed}ERR${OutputWhite} ] Invalid input. Aborting."
 			kill -s TERM $TOP_PID
+			;;
+	esac
 fi
 
 }
 
 . /etc/lsb-release
 case "$DISTRIB_RELEASE" in
-	"18.04"|"18.10")
+	"16.10"|"17"|"17.04"|"17.10"|"18"|"18.04"|"18.10"|"19"|"19.04")
 		echo "[ ${OutputRed}ERR${OutputWhite} ] You are using system which bases on Ubuntu ${DISTRIB_RELEASE}. This version is unfortunately not supported now. The supported systems are Ubuntu 12.04 to 16.04 based."
 		exit 1
 		;;

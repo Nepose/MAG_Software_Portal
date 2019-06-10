@@ -13,7 +13,7 @@ The toolchain is a part of **MAG Software Portal** project, which also includes 
 There are two methods to prepare STB SDK on your PC:
 
 * Just clone or download GitHub repository. The simplest one if you know what is Git.
-* Use dedicated installer. This program works as a recovery disk for SDK with embedded functions of fixing broken files, its upgrading and of course installing.
+* Use dedicated installer.
 
 I don't favour any of those methods. If you want to set all dependencies automatically and make toolchain usable for first time, use installer.
 
@@ -151,13 +151,10 @@ On the `docs/` folder you can find some guides taken from Infomir website [soft.
 The toolchain is going to be constantly improved so I've added a script to check for updates. To run it, when being at root directory of toolchain:
 
 ```shell
-cd includes/
-./checkForUpdates.sh
+./includes/checkForUpdates.sh
 ```
 
 Nothing more to explain, it will just check and download latest version if you want. Of course you can also update by `git pull` :)
-
-The second method is to use installer, choose correct option from main menu, specify path to your SDK installation and that's all.
 
 ## Contribution
 
